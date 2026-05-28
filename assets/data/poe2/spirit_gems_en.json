@@ -1,0 +1,1787 @@
+[
+  {
+    "slug": "Alchemists_Boon",
+    "id": "Alchemists_Boon",
+    "name_en": "Alchemist's Boon",
+    "name_cn": "炼金师的恩典",
+    "name_tw": "煉金師恩惠",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AlchemistsBoonSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Aura"
+    ],
+    "detail_url": "https://poe2db.tw/us/Alchemists_Boon",
+    "icon_local": "images/poe2/skills/spirit/Alchemists_Boon.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, grants you Flask charges passively and causes Life and Mana recovery from your Flasks to also apply to Allies in your Presence .",
+    "explicitMod": [
+      "(15 — 34) % of recovery from your Flasks is also granted to Allies in your Presence",
+      "Grants you (0.17 — 0.23) Flask charges per second"
+    ],
+    "qualityMod": [
+      "Grants you (0 — 0.03) Flask charges per second"
+    ],
+    "newItemPopup": "Alchemist's Boon\nBuff\nPersistent\n,\nAura\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nWhile active, grants you\nFlask\ncharges passively and causes Life and Mana recovery from your\nFlasks\nto also apply to\nAllies\nin your\nPresence\n.\n(15\n—\n34)\n% of recovery from your\nFlasks\nis also\ngranted to\nAllies\nin your\nPresence\nGrants you\n(0.17\n—\n0.23)\nFlask\ncharges per second\nAdditional Effects From Quality:\nGrants you\n(0\n—\n0.03)\nFlask\ncharges per second\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex"
+  },
+  {
+    "slug": "Archmage",
+    "id": "Archmage",
+    "name_en": "Archmage",
+    "name_cn": "大法师",
+    "name_tw": "大法師",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ArchmageSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Lightning"
+    ],
+    "detail_url": "https://poe2db.tw/us/Archmage",
+    "icon_local": "images/poe2/skills/spirit/Archmage.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "While active, causes your Non- Channelling Spells to cost additional mana and deal extra Lightning damage, both based on your maximum Mana.",
+    "explicitMod": [
+      "Non-Channelling Spells Gain 4 % of Damage as extra Lightning damage for each 100 maximum Mana you have",
+      "Non-Channelling Spells cost an additional (6.1 — 8) % of your maximum Mana"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Archmage\nBuff\nPersistent\n,\nLightning\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, causes your Non-\nChannelling\nSpells\nto cost additional mana and deal extra\nLightning\ndamage, both based on your maximum Mana.\nNon-Channelling\nSpells\nGain\n4\n% of Damage as extra\nLightning\ndamage for each 100 maximum Mana you have\nNon-Channelling\nSpells\ncost an additional\n(6.1\n—\n8)\n% of your maximum Mana\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Arctic_Armour",
+    "id": "Arctic_Armour",
+    "name_en": "Arctic Armour",
+    "name_cn": "极地装甲",
+    "name_tw": "極地裝甲",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Spell",
+      "Persistent",
+      "Sustained",
+      "Cold",
+      "Staged"
+    ],
+    "detail_url": "https://poe2db.tw/us/Arctic_Armour",
+    "icon_local": "images/poe2/skills/spirit/Arctic_Armour.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "cooldown_time": "0.25 s",
+    "cast_time": "Instant",
+    "critical_hit_chance": "11.00%",
+    "secDescrText": "While active, conjures an icy barrier that gains stages over time. While the barrier has stages, Melee Attacks that hit you will remove a stage to cause a burst of ice that deals Cold Spell damage to the attacker.",
+    "explicitMod": [
+      "Deals (3 — 101) to (5 — 152) Cold Damage per Stage",
+      "100 % more Magnitude of Chill inflicted",
+      "100 % more Freeze Buildup",
+      "Gains a Stage every (0.73 — 1.25) seconds, up to a maximum of (2 — 5) Stages"
+    ],
+    "qualityMod": [
+      "Gains a Stage every  seconds, up to a maximum of (0 — 1) Stages"
+    ],
+    "newItemPopup": "Arctic Armour\nBuff\nSpell\n,\nPersistent\n,\nSustained\n,\nCold\n,\nStaged\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nCooldown Time:\n0.25 s\nCast Time:\nInstant\nCritical Hit\nChance:\n11.00%\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, conjures an icy barrier that gains stages over time. While the barrier has stages,\nMelee\nAttacks\nthat hit you will remove a stage to cause a burst of ice that deals\nCold\nSpell\ndamage to the attacker.\nDeals\n(3\n—\n101)\nto\n(5\n—\n152)\nCold\nDamage per Stage\n100\n% more\nMagnitude\nof\nChill\ninflicted\n100\n% more\nFreeze\nBuildup\nGains a Stage every\n(0.73\n—\n1.25)\nseconds, up to a maximum of\n(2\n—\n5)\nStages\nAdditional Effects From Quality:\nGains a Stage every  seconds, up to a maximum of\n(0\n—\n1)\nStages\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Attrition",
+    "id": "Attrition",
+    "name_en": "Attrition",
+    "name_cn": "持久鏖战",
+    "name_tw": "損耗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AttritionSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Attrition",
+    "icon_local": "images/poe2/skills/spirit/Attrition.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, causes you to deal more Hit damage to Rare and Unique enemies the longer you've been fighting them, and gain Culling Strike against them once you've been fighting them for long enough.",
+    "explicitMod": [
+      "You have Culling Strike against Rare and Unique enemies that have been in your Presence for a total of at least (31 — 40) seconds",
+      "You deal 1 % more Hit damage to Rare and Unique enemies for every 2 seconds they have ever been in your Presence , up to (40 — 59) %"
+    ],
+    "qualityMod": [
+      "You have Culling Strike against Rare and Unique enemies that have been in your Presence for a total of at least (-5 — 0) seconds"
+    ],
+    "newItemPopup": "Attrition\nBuff\nPersistent\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nWhile active, causes you to deal more\nHit\ndamage to\nRare\nand\nUnique\nenemies the longer you've been fighting them, and gain\nCulling Strike\nagainst them once you've been fighting them for long enough.\nYou have\nCulling Strike\nagainst\nRare\nand\nUnique\nenemies that have been in your\nPresence\nfor a total of at least\n(31\n—\n40)\nseconds\nYou deal\n1\n% more\nHit\ndamage to\nRare\nand\nUnique\nenemies for every 2 seconds they have ever been in your\nPresence\n, up to\n(40\n—\n59)\n%\nAdditional Effects From Quality:\nYou have\nCulling Strike\nagainst\nRare\nand\nUnique\nenemies that have been in your\nPresence\nfor a total of at least\n(-5\n—\n0)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex"
+  },
+  {
+    "slug": "Barkskin",
+    "id": "Barkskin",
+    "name_en": "Barkskin",
+    "name_cn": "树肤术",
+    "name_tw": "木質外膚",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBarkSkin.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Barkskin",
+    "icon_local": "images/poe2/skills/spirit/Barkskin.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, taking Hit damage from enemies to your Energy Shield causes you to gain Armour for a short duration. Armour gained from multiple Hits can stack. The total Armour gained from this Skill cannot exceed the Item Armour on your Equipped Armour Items .",
+    "explicitMod": [
+      "When Hit by an enemy, gain Armour equal to (25 — 44) % of Energy Shield lost",
+      "Buff duration is 6 seconds"
+    ],
+    "qualityMod": [
+      "When Hit by an enemy, gain Armour equal to (0 — 5) % of Energy Shield lost"
+    ],
+    "newItemPopup": "Barkskin\nBuff\nPersistent\n,\nDuration\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Int\nWhile active, taking\nHit\ndamage from enemies to your\nEnergy Shield\ncauses you to gain\nArmour\nfor a short duration.\nArmour\ngained from multiple\nHits\ncan stack. The total\nArmour\ngained from this Skill cannot exceed the\nItem Armour\non your\nEquipped Armour Items\n.\nWhen\nHit\nby an enemy, gain\nArmour\nequal to\n(25\n—\n44)\n% of\nEnergy Shield\nlost\nBuff\nduration is\n6\nseconds\nAdditional Effects From Quality:\nWhen\nHit\nby an enemy, gain\nArmour\nequal to\n(0\n—\n5)\n% of\nEnergy Shield\nlost\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Int"
+  },
+  {
+    "slug": "Barrier_Invocation",
+    "id": "Barrier_Invocation",
+    "name_en": "Barrier Invocation",
+    "name_cn": "屏障咒言",
+    "name_tw": "屏障祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBarrierInvocation.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Invocation",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Barrier_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Barrier_Invocation.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "cooldown_time": "0.20 s",
+    "secDescrText": "While active, gains Energy when your Energy Shield is damaged by Enemy Hits . Using the Invocation once sufficient Energy is gathered will consume the Energy to trigger socketed Spells , and can trigger them multiple times if it has enough Energy .",
+    "explicitMod": [
+      "When Hit by an Enemy, gain 1 Energy for each 10 Energy Shield lost to damage taken",
+      "(0 — 57) % increased Energy gained",
+      "Maximum Energy is 500",
+      "Socketed Spells consume 10 Energy per 0.1 seconds of base cast time when Triggered"
+    ],
+    "qualityMod": [
+      "(0 — 15) % increased Energy gained"
+    ],
+    "newItemPopup": "Barrier Invocation\nBuff\nPersistent\n,\nTrigger\n,\nInvocation\n,\nMeta\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nCooldown Time:\n0.20 s\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, gains\nEnergy\nwhen your\nEnergy Shield\nis damaged by Enemy\nHits\n. Using the Invocation once sufficient\nEnergy\nis gathered will consume the\nEnergy\nto trigger socketed\nSpells\n, and can trigger them multiple times if it has enough\nEnergy\n.\nBarrier Invocation\nWhen\nHit\nby an Enemy, gain 1\nEnergy\nfor each\n10\nEnergy Shield\nlost to damage taken\n(0\n—\n57)\n% increased\nEnergy\ngained\nMaximum\nEnergy\nis\n500\nAdditional Effects From Quality:\n(0\n—\n15)\n% increased\nEnergy\ngained\nSupport\nSocketed\nSpells\nconsume 10 Energy per\n0.1\nseconds of base cast time when Triggered\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Berserk",
+    "id": "Berserk",
+    "name_en": "Berserk",
+    "name_cn": "盛怒",
+    "name_tw": "狂戰",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BeserkSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Berserk",
+    "icon_local": "images/poe2/skills/spirit/Berserk.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, strengthens your Rage , but causes you to lose Life while not losing Rage .",
+    "explicitMod": [
+      "Lose 0.1 % of maximum Life per Rage per second while not losing Rage",
+      "Grants (40 — 59) % increased Rage effect"
+    ],
+    "qualityMod": [
+      "Grants (0 — 10) % increased Rage effect"
+    ],
+    "newItemPopup": "Berserk\nBuff\nPersistent\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nWhile active, strengthens your\nRage\n, but causes you to lose Life while not losing\nRage\n.\nLose\n0.1\n% of maximum Life per\nRage\nper second while not losing\nRage\nGrants\n(40\n—\n59)\n% increased\nRage\neffect\nAdditional Effects From Quality:\nGrants\n(0\n—\n10)\n% increased\nRage\neffect\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str"
+  },
+  {
+    "slug": "Blasphemy",
+    "id": "Blasphemy",
+    "name_en": "Blasphemy",
+    "name_cn": "诅咒光环",
+    "name_tw": "瀆神",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Aura",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Blasphemy",
+    "icon_local": "images/poe2/skills/spirit/Blasphemy.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "secDescrText": "Turn socketed Curse skills into vile Auras , applying their effects to all nearby enemies.",
+    "explicitMod": [
+      "Socketed Curse Skills apply in an Aura around you",
+      "Reserves 60 Spirit per socketed Curse",
+      "Supported Curses have (41 — 50) % less Magnitudes",
+      "Socketed Skills have +1 metres to base radius"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Blasphemy\nBuff\nPersistent\n,\nAoE\n,\nAura\n,\nMeta\nTier:\n8\nLevel:\n(1\n—\n20)\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nTurn socketed\nCurse\nskills into vile\nAuras\n, applying their effects to all nearby enemies.\nBuff\nSocketed\nCurse\nSkills apply in an\nAura\naround you\nReserves\n60\nSpirit\nper socketed\nCurse\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nCurses\nSupported\nCurses\nhave\n(41\n—\n50)\n% less\nMagnitudes\nSocketed Skills have\n+1\nmetres to base radius\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Blink",
+    "id": "Blink",
+    "name_en": "Blink",
+    "name_cn": "闪现",
+    "name_tw": "閃現",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlinkReservation.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Spell",
+      "Persistent",
+      "Travel"
+    ],
+    "detail_url": "https://poe2db.tw/us/Blink",
+    "icon_local": "images/poe2/skills/spirit/Blink.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "secDescrText": "While active, replaces your dodge roll with a short-cooldown Spell that allows you to tunnel through space, instantly reappearing a medium distance away.",
+    "explicitMod": [
+      "Must be active in both Weapon Sets",
+      "Teleports (4 — 4.9) metres"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Cooldown Recovery Rate"
+    ],
+    "newItemPopup": "Blink\nBuff\nSpell\n,\nPersistent\n,\nTravel\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, replaces your dodge roll with a short-cooldown\nSpell\nthat allows you to tunnel through space, instantly reappearing a medium distance away.\nBlink\nMust be active in both\nWeapon Sets\nBlink\nCooldown Time:\n(4.50\n—\n3.50) s\nCast Time:\n0.70 sec\nWhile active, replaces your dodge roll with a short-cooldown\nSpell\nthat allows you to tunnel through space, instantly reappearing a medium distance away.\nTeleports\n(4\n—\n4.9)\nmetres\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nCooldown Recovery Rate\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Briarpatch",
+    "id": "Briarpatch",
+    "name_en": "Briarpatch",
+    "name_cn": "荆刺之缚",
+    "name_tw": "荊棘叢",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBriarpatch.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Spell",
+      "Persistent",
+      "AoE",
+      "Sustained",
+      "Physical",
+      "Duration",
+      "Plant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Briarpatch",
+    "icon_local": "images/poe2/skills/spirit/Briarpatch.webp",
+    "secDescrText": "",
+    "explicitMod": [
+      "(10 — 20) % increased Movement Speed",
+      "+(40 — 60) to maximum Life",
+      "+(60 — 80) to Stun Threshold",
+      "+25 % to Thorns Critical Hit Chance",
+      "(10 — 15) to (20 — 25) Physical Thorns damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Briarpatch\nLaced Boots\nBoots\nEvasion Rating\n:\n38\nRequires:\nLevel 11\n,\n17 Dex\n(10\n—\n20)\n% increased Movement Speed\n+(40\n—\n60)\nto maximum Life\n+(60\n—\n80)\nto\nStun Threshold\n+25\n% to Thorns\nCritical Hit\nChance\n(10\n—\n15)\nto\n(20\n—\n25)\nPhysical\nThorns\ndamage\nThe druids walk the Grelwood without fear.",
+    "requirements": "Requires: Level 11 , 17 Dex"
+  },
+  {
+    "slug": "Cast_on_Critical",
+    "id": "Cast_on_Critical",
+    "name_en": "Cast on Critical",
+    "name_cn": "暴击时施放",
+    "name_tw": "暴擊時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnCritSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Cast_on_Critical",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Critical.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "While active, gains Energy when you Critically Hit enemies and triggers socketed Spells on reaching maximum Energy .",
+    "explicitMod": [
+      "Gains 1 Energy per Power of enemies you Critically Hit with Skills, modified by the percentage of the enemy's Ailment Threshold the Critical Hit will deal",
+      "(0 — 57) % increased Energy gained",
+      "Triggers all Socketed Spells and loses all Energy on reaching maximum Energy",
+      "Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells",
+      "Socketed Skills deal 20 % less Damage"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Cast on Critical\nBuff\nPersistent\n,\nTrigger\n,\nMeta\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, gains\nEnergy\nwhen you\nCritically Hit\nenemies and triggers socketed\nSpells\non reaching maximum\nEnergy\n.\nCast on Critical\nGains\n1\nEnergy\nper\nPower\nof enemies you\nCritically Hit\nwith Skills, modified by the percentage of the enemy's\nAilment Threshold\nthe Critical Hit will deal\n(0\n—\n57)\n% increased\nEnergy\ngained\nTriggers all Socketed\nSpells\nand loses all\nEnergy\non reaching maximum\nEnergy\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nSupport\nHas 10 maximum Energy per\n0.1\nseconds of base cast time of Socketed\nSpells\nSocketed Skills deal\n20\n% less Damage\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Cast_on_Dodge",
+    "id": "Cast_on_Dodge",
+    "name_en": "Cast on Dodge",
+    "name_cn": "躲闪时施放",
+    "name_tw": "閃避時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Cast_on_Dodge",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Dodge.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "While active, gains Energy when you dodge roll and triggers socketed spells on reaching maximum Energy .",
+    "explicitMod": [
+      "Gain 2 Energy per metre travelled while dodge rolling",
+      "(0 — 57) % increased Energy gained",
+      "Triggers all Socketed Spells and loses all Energy on reaching maximum Energy",
+      "Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Cast on Dodge\nBuff\nPersistent\n,\nTrigger\n,\nMeta\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, gains\nEnergy\nwhen you dodge roll and triggers socketed spells on reaching maximum\nEnergy\n.\nCast on Dodge\nGain\n2\nEnergy\nper metre travelled while dodge rolling\n(0\n—\n57)\n% increased\nEnergy\ngained\nTriggers all Socketed\nSpells\nand loses all\nEnergy\non reaching maximum\nEnergy\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nSupport\nHas 10 maximum Energy per\n0.1\nseconds of base cast time of Socketed\nSpells\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Cast_on_Elemental_Ailment",
+    "id": "Cast_on_Elemental_Ailment",
+    "name_en": "Cast on Elemental Ailment",
+    "name_cn": "元素异常状态时施放",
+    "name_tw": "元素異常狀態時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastonFreezeShockIgnite.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Cast_on_Elemental_Ailment",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Elemental_Ailment.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "While active, gains Energy when you Freeze , Shock , or Ignite enemies, and triggers socketed spells on reaching maximum Energy .",
+    "explicitMod": [
+      "Gains 10 Energy per Power of enemies you Freeze with Hits from Skills",
+      "Gains 1 Energy per Power of enemies you Ignite with Hits from Skills, modified by the percentage of the enemy's Ailment Threshold the Ignite will deal",
+      "Gains 1 Energy per Power of enemies you Shock with Hits from Skills",
+      "(0 — 57) % increased Energy gained",
+      "Triggers all Socketed Spells and loses all Energy on reaching maximum Energy",
+      "Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells"
+    ],
+    "qualityMod": [
+      "(0 — 15) % increased Energy gained"
+    ],
+    "newItemPopup": "Cast on Elemental Ailment\nBuff\nPersistent\n,\nTrigger\n,\nLightning\n,\nCold\n,\nFire\n,\nMeta\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, gains\nEnergy\nwhen you\nFreeze\n,\nShock\n, or\nIgnite\nenemies, and triggers socketed spells on reaching maximum\nEnergy\n.\nCast on Elemental Ailment\nGains\n10\nEnergy\nper\nPower\nof enemies you\nFreeze\nwith\nHits\nfrom Skills\nGains\n1\nEnergy\nper\nPower\nof enemies you\nIgnite\nwith\nHits\nfrom Skills, modified by the percentage of the enemy's\nAilment Threshold\nthe\nIgnite\nwill deal\nGains\n1\nEnergy\nper\nPower\nof enemies you\nShock\nwith\nHits\nfrom Skills\n(0\n—\n57)\n% increased\nEnergy\ngained\nTriggers all Socketed\nSpells\nand loses all\nEnergy\non reaching maximum\nEnergy\nAdditional Effects From Quality:\n(0\n—\n15)\n% increased\nEnergy\ngained\nSupport\nHas 10 maximum Energy per\n0.1\nseconds of base cast time of Socketed\nSpells\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Cast_on_Minion_Death",
+    "id": "Cast_on_Minion_Death",
+    "name_en": "Cast on Minion Death",
+    "name_cn": "召唤生物死亡时施放",
+    "name_tw": "召喚物死亡時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnMinionDeath.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Minion",
+      "Persistent",
+      "Trigger",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Cast_on_Minion_Death",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Minion_Death.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, gains Energy when one of your Persistent Minions is Killed , and triggers socketed Spells upon reaching maximum Energy . Very underlevelled Minions will incur an Energy generation penalty. Cannot socket Spells which create Minions .",
+    "explicitMod": [
+      "Gains 50 base Energy when a Minion is killed , modified by the Minion's Power",
+      "(0 — 57) % increased Energy gained",
+      "Triggers all Socketed Spells and loses all Energy on reaching maximum Energy",
+      "Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells"
+    ],
+    "qualityMod": [
+      "(0 — 20) % increased Energy gained"
+    ],
+    "newItemPopup": "Cast on Minion Death\nBuff\nMinion\n,\nPersistent\n,\nTrigger\n,\nMeta\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, gains\nEnergy\nwhen one of your\nPersistent\nMinions\nis\nKilled\n, and triggers socketed\nSpells\nupon reaching maximum\nEnergy\n. Very underlevelled\nMinions\nwill incur an\nEnergy\ngeneration penalty. Cannot socket\nSpells\nwhich create\nMinions\n.\nCast on Minion Death\nGains 50 base\nEnergy\nwhen a\nMinion\nis\nkilled\n, modified by the\nMinion's\nPower\n(0\n—\n57)\n% increased\nEnergy\ngained\nTriggers all Socketed\nSpells\nand loses all\nEnergy\non reaching maximum\nEnergy\nAdditional Effects From Quality:\n(0\n—\n20)\n% increased\nEnergy\ngained\nSupport\nHas 10 maximum Energy per\n0.1\nseconds of base cast time of Socketed\nSpells\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Charge_Regulation",
+    "id": "Charge_Regulation",
+    "name_en": "Charge Regulation",
+    "name_cn": "能量球调节",
+    "name_tw": "充能調節",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Charge_Regulation",
+    "icon_local": "images/poe2/skills/spirit/Charge_Regulation.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, you gain powerful Buffs based on your active Charges . However, maintaining the Buff Consumes Charges every few seconds.",
+    "explicitMod": [
+      "(20 — 26) % more Critical Hit Chance while you have a Power Charge",
+      "(15 — 20) % more Defences while you have an Endurance Charge",
+      "(20 — 25) % increased Skill Speed while you have a Frenzy Charge",
+      "Consumes one of each Charge every 10 seconds"
+    ],
+    "qualityMod": [
+      "Consumes one of each Charge every (0 — 2.4) seconds"
+    ],
+    "newItemPopup": "Charge Regulation\nBuff\nPersistent\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, you gain powerful\nBuffs\nbased on your active\nCharges\n. However, maintaining the\nBuff\nConsumes\nCharges\nevery few seconds.\n(20\n—\n26)\n% more\nCritical Hit\nChance while\nyou have a\nPower Charge\n(15\n—\n20)\n% more\nDefences\nwhile you have an\nEndurance Charge\n(20\n—\n25)\n% increased\nSkill Speed\nwhile you have a\nFrenzy Charge\nConsumes one of each\nCharge\nevery\n10\nseconds\nAdditional Effects From Quality:\nConsumes one of each\nCharge\nevery\n(0\n—\n2.4)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Combat_Frenzy",
+    "id": "Combat_Frenzy",
+    "name_en": "Combat Frenzy",
+    "name_cn": "战斗狂怒",
+    "name_tw": "戰鬥狂怒",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerCombatFrenzySkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Combat_Frenzy",
+    "icon_local": "images/poe2/skills/spirit/Combat_Frenzy.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, grants you a Frenzy Charge when you Freeze , Electrocute or Pin an enemy. This can only occur once every few seconds.",
+    "explicitMod": [
+      "Gain a Frenzy Charge when you Freeze , Electrocute or Pin an enemy, no more than once every (6.1 — 8) seconds"
+    ],
+    "qualityMod": [
+      "(0 — 10) % chance when you gain a Charge to gain an additional Charge"
+    ],
+    "newItemPopup": "Combat Frenzy\nBuff\nPersistent\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nWhile active, grants you a\nFrenzy Charge\nwhen you\nFreeze\n,\nElectrocute\nor\nPin\nan enemy. This can only occur once every few seconds.\nGain a\nFrenzy Charge\nwhen you\nFreeze\n,\nElectrocute\nor\nPin\nan enemy, no more than once every\n(6.1\n—\n8)\nseconds\nAdditional Effects From Quality:\n(0\n—\n10)\n% chance when you gain a\nCharge\nto gain an additional\nCharge\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex"
+  },
+  {
+    "slug": "Convalescence",
+    "id": "Convalescence",
+    "name_en": "Convalescence",
+    "name_cn": "康复",
+    "name_tw": "恢復期",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ConvalescenceSkillIcon.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Spell",
+      "Buff",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Convalescence",
+    "icon_local": "images/poe2/skills/spirit/Convalescence.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, grants a skill that you can use to instantly begin Recharging Energy Shield and gain a Buff for a duration that prevents that Recharge being interrupted. The Buff is removed at maximum Energy Shield and the skill cannot be used while Energy Shield is full.",
+    "explicitMod": [
+      "Must be active in both Weapon Sets",
+      "Cooldown does not recover during Buff effect",
+      "Cooldown is 30 seconds",
+      "Buff duration is (3 — 3.95) seconds"
+    ],
+    "qualityMod": [
+      "+(0 — 0.5) seconds to Buff duration"
+    ],
+    "newItemPopup": "Convalescence\nSpell\nBuff\n,\nPersistent\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, grants a skill that you can use to instantly begin\nRecharging\nEnergy Shield\nand gain a\nBuff\nfor a duration that prevents that\nRecharge\nbeing interrupted. The\nBuff\nis removed at maximum\nEnergy Shield\nand the skill cannot be used while\nEnergy Shield\nis full.\nConvalescence\nMust be active in both\nWeapon Sets\nConvalescence\nCost:\n20 Mana\nCooldown Time:\n30.00 s\nCast Time:\n0.50 sec\nCooldown does not recover during Buff effect\nCooldown is\n30\nseconds\nBuff\nduration is\n(3\n—\n3.95)\nseconds\nAdditional Effects From Quality:\n+(0\n—\n0.5)\nseconds to\nBuff\nduration\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Defiance_Banner",
+    "id": "Defiance_Banner",
+    "name_en": "Defiance Banner",
+    "name_cn": "抗争之旗",
+    "name_tw": "反抗之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DefianceBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Banner",
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Aura",
+      "Duration",
+      "Conditional"
+    ],
+    "detail_url": "https://poe2db.tw/us/Defiance_Banner",
+    "icon_local": "images/poe2/skills/spirit/Defiance_Banner.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Attacking enemies builds Glory . When you have maximum Glory , you can place an inspiring Banner for a duration with an Aura that grants you and nearby Allies Armour , Evasion and movement speed.",
+    "explicitMod": [
+      "Generates 100 % of Monster Power as Glory for this Skill on Hitting with an Attack",
+      "Requires 200 Glory to use",
+      "Banner Aura radius is 4.5 metres",
+      "Aura grants 30 % more Armour and Evasion Rating",
+      "Aura grants 30 % increased movement speed",
+      "Banner duration is (6 — 9.8) seconds"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Defiance Banner\nBanner\nBuff\n,\nPersistent\n,\nAoE\n,\nAura\n,\nDuration\n,\nConditional\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nWhile active,\nAttacking\nenemies builds\nGlory\n. When you have maximum\nGlory\n, you can place an inspiring\nBanner\nfor a duration with an\nAura\nthat grants you and nearby\nAllies\nArmour\n,\nEvasion\nand movement speed.\nDefiance Banner\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nDefiance Banner\nGenerates\n100\n% of\nMonster Power\nas\nGlory\nfor this Skill on\nHitting\nwith an\nAttack\nRequires\n200\nGlory\nto use\nBanner\nAura\nradius is\n4.5\nmetres\nAura grants\n30\n% more\nArmour\nand\nEvasion Rating\nAura grants\n30\n% increased movement speed\nBanner duration is\n(6\n—\n9.8)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex"
+  },
+  {
+    "slug": "Dread_Banner",
+    "id": "Dread_Banner",
+    "name_en": "Dread Banner",
+    "name_cn": "恐怖之旗",
+    "name_tw": "恐懼之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DreadBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Banner",
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Aura",
+      "Duration",
+      "Conditional"
+    ],
+    "detail_url": "https://poe2db.tw/us/Dread_Banner",
+    "icon_local": "images/poe2/skills/spirit/Dread_Banner.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Attacking enemies builds Glory . When you have maximum Glory , you can place an inspiring Banner for a duration with an Aura that grants you and nearby Allies Elemental Ailment Threshold , Maximum Elemental Resistances and Flask charges.",
+    "explicitMod": [
+      "Generates 100 % of Monster Power as Glory for this Skill on Hitting with an Attack",
+      "Requires 200 Glory to use",
+      "Banner Aura radius is 4.5 metres",
+      "Aura grants +4 % to all Maximum Elemental Resistances",
+      "Aura grants 60 % more Elemental Ailment Threshold",
+      "Aura grants 0.5 Flask charges per second",
+      "Banner duration is (6 — 9.8) seconds"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Dread Banner\nBanner\nBuff\n,\nPersistent\n,\nAoE\n,\nAura\n,\nDuration\n,\nConditional\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nWhile active,\nAttacking\nenemies builds\nGlory\n. When you have maximum\nGlory\n, you can place an inspiring\nBanner\nfor a duration with an\nAura\nthat grants you and nearby\nAllies\nElemental Ailment Threshold\n,\nMaximum Elemental Resistances\nand\nFlask\ncharges.\nDread Banner\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nDread Banner\nGenerates\n100\n% of\nMonster Power\nas\nGlory\nfor this Skill on\nHitting\nwith an\nAttack\nRequires\n200\nGlory\nto use\nBanner\nAura\nradius is\n4.5\nmetres\nAura grants\n+4\n% to all\nMaximum Elemental Resistances\nAura grants\n60\n% more\nElemental Ailment Threshold\nAura grants\n0.5\nFlask\ncharges per second\nBanner duration is\n(6\n—\n9.8)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex"
+  },
+  {
+    "slug": "Elemental_Conflux",
+    "id": "Elemental_Conflux",
+    "name_en": "Elemental Conflux",
+    "name_cn": "元素汇流",
+    "name_tw": "元素匯流",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalConfluxSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Elemental_Conflux",
+    "icon_local": "images/poe2/skills/spirit/Elemental_Conflux.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "secDescrText": "Tap into a current of raw and unpredictable Elemental power, causing you to deal greatly more damage of a randomly chosen Element . The Element affected changes frequently, though the same Element can be affected multiple times in succession.",
+    "explicitMod": [
+      "8 second duration between Element randomisations",
+      "Buff grants (40 — 59) % more damage with the affected Element"
+    ],
+    "qualityMod": [
+      "Buff grants (0 — 10) % more damage with the affected Element"
+    ],
+    "newItemPopup": "Elemental Conflux\nBuff\nPersistent\n,\nLightning\n,\nCold\n,\nFire\n,\nDuration\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nTap into a current of raw and unpredictable\nElemental\npower, causing you to deal greatly more damage of a randomly chosen\nElement\n. The\nElement\naffected changes frequently, though the same\nElement\ncan be affected multiple times in succession.\n8\nsecond duration between\nElement\nrandomisations\nBuff\ngrants\n(40\n—\n59)\n% more damage with the affected\nElement\nAdditional Effects From Quality:\nBuff\ngrants\n(0\n—\n10)\n% more damage with the affected\nElement\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Elemental_Invocation",
+    "id": "Elemental_Invocation",
+    "name_en": "Elemental Invocation",
+    "name_cn": "元素祈求",
+    "name_tw": "元素祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalInvocationSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Invocation",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Elemental_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Elemental_Invocation.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "cooldown_time": "0.20 s",
+    "secDescrText": "While active, gains Energy when you Freeze , Shock or Ignite an enemy. Using the Invocation once sufficient Energy is gathered will consume the Energy to trigger socketed Spells , and can trigger them multiple times if it has enough Energy .",
+    "explicitMod": [
+      "Gains 10 Energy per Power of enemies you Freeze with Hits from Skills",
+      "Gains 1 Energy per Power of enemies you Ignite with Hits from Skills, modified by the percentage of the enemy's Ailment Threshold the Ignite will deal",
+      "Gains 1 Energy per Power of enemies you Shock with Hits from Skills",
+      "(0 — 68) % increased Energy gained",
+      "Maximum Energy is 500",
+      "Socketed Spells consume 10 Energy per 0.1 seconds of base cast time when Triggered"
+    ],
+    "qualityMod": [
+      "Maximum Energy is (0 — 100)"
+    ],
+    "newItemPopup": "Elemental Invocation\nBuff\nPersistent\n,\nTrigger\n,\nLightning\n,\nCold\n,\nFire\n,\nInvocation\n,\nMeta\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nCooldown Time:\n0.20 s\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, gains\nEnergy\nwhen you\nFreeze\n,\nShock\nor\nIgnite\nan enemy. Using the Invocation once sufficient\nEnergy\nis gathered will consume the\nEnergy\nto trigger socketed\nSpells\n, and can trigger them multiple times if it has enough\nEnergy\n.\nElemental Invocation\nGains\n10\nEnergy\nper\nPower\nof enemies you\nFreeze\nwith\nHits\nfrom Skills\nGains\n1\nEnergy\nper\nPower\nof enemies you\nIgnite\nwith\nHits\nfrom Skills, modified by the percentage of the enemy's\nAilment Threshold\nthe\nIgnite\nwill deal\nGains\n1\nEnergy\nper\nPower\nof enemies you\nShock\nwith\nHits\nfrom Skills\n(0\n—\n68)\n% increased\nEnergy\ngained\nMaximum\nEnergy\nis\n500\nAdditional Effects From Quality:\nMaximum\nEnergy\nis\n(0\n—\n100)\nSupport\nSocketed\nSpells\nconsume 10 Energy per\n0.1\nseconds of base cast time when Triggered\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Eternal_Rage",
+    "id": "Eternal_Rage",
+    "name_en": "Eternal Rage",
+    "name_cn": "永恒狂怒",
+    "name_tw": "無盡怒火",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CeaselessRageSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Eternal_Rage",
+    "icon_local": "images/poe2/skills/spirit/Eternal_Rage.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "While active, you constantly regenerate Rage .",
+    "explicitMod": [
+      "Regenerate (0.25 — 5) Rage per second"
+    ],
+    "qualityMod": [
+      "Regenerate (0 — 0.5) Rage per second"
+    ],
+    "newItemPopup": "Eternal Rage\nBuff\nPersistent\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nWhile active, you constantly regenerate\nRage\n.\nRegenerate\n(0.25\n—\n5)\nRage\nper second\nAdditional Effects From Quality:\nRegenerate\n(0\n—\n0.5)\nRage\nper second\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str"
+  },
+  {
+    "slug": "Feral_Invocation",
+    "id": "Feral_Invocation",
+    "name_en": "Feral Invocation",
+    "name_cn": "野性召唤",
+    "name_tw": "野性祈求",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFeralInvocation.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Invocation",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Feral_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Feral_Invocation.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "cooldown_time": "0.20 s",
+    "secDescrText": "While active, gains Energy when you spend Mana. Using the Invocation once sufficient Energy is gathered will consume the Energy to create visages which attack once with a socketed Shapeshifting Attack , creating multiple visages if it has enough Energy .",
+    "explicitMod": [
+      "(0 — 57) % increased Energy gained",
+      "Gains 1 Energy per 20 Mana spent",
+      "Maximum Energy is 500",
+      "Socketed Attacks consume 10 Energy per 0.1 seconds of Base Skill Attack Time to create a visage"
+    ],
+    "qualityMod": [
+      "(0 — 20) % increased Energy gained"
+    ],
+    "newItemPopup": "Feral Invocation\nBuff\nPersistent\n,\nInvocation\n,\nMeta\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nCooldown Time:\n0.20 s\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Int\nRequires:\nTalismans\nWhile active, gains\nEnergy\nwhen you spend Mana. Using the Invocation once sufficient\nEnergy\nis gathered will consume the\nEnergy\nto create visages which attack once with a socketed\nShapeshifting\nAttack\n, creating multiple visages if it has enough\nEnergy\n.\nFeral Invocation\n(0\n—\n57)\n% increased\nEnergy\ngained\nGains 1\nEnergy\nper\n20\nMana spent\nMaximum\nEnergy\nis\n500\nAdditional Effects From Quality:\n(0\n—\n20)\n% increased\nEnergy\ngained\nSupport\nSocketed\nAttacks\nconsume 10 Energy per\n0.1\nseconds of\nBase Skill Attack Time\nto create a visage\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Int | Requires: Talismans"
+  },
+  {
+    "slug": "Ghost_Dance",
+    "id": "Ghost_Dance",
+    "name_en": "Ghost Dance",
+    "name_cn": "幽灵舞步",
+    "name_tw": "鬼魂之舞",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGhostDance.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ghost_Dance",
+    "icon_local": "images/poe2/skills/spirit/Ghost_Dance.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, causes you to periodically gain Ghost Shrouds. If you are Hit while you have a Ghost Shroud, it is immediately consumed to recover Energy Shield based on your Evasion .",
+    "explicitMod": [
+      "(6.1 — 8) second duration between gaining Ghost Shrouds",
+      "Maximum 3 Ghost Shrouds",
+      "When Hit , Consume a Ghost Shroud to recover Energy Shield equal to 5 % of your Evasion"
+    ],
+    "qualityMod": [
+      "(0 — 20) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Ghost Dance\nBuff\nPersistent\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, causes you to periodically gain Ghost Shrouds. If you are\nHit\nwhile you have a Ghost Shroud, it is immediately consumed to recover\nEnergy Shield\nbased on your\nEvasion\n.\n(6.1\n—\n8)\nsecond duration between gaining Ghost Shrouds\nMaximum\n3\nGhost Shrouds\nWhen\nHit\n,\nConsume\na Ghost Shroud to\nrecover\nEnergy Shield\nequal to\n5\n% of your\nEvasion\nAdditional Effects From Quality:\n(0\n—\n20)\n% increased\nReservation\nEfficiency\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Grim_Feast",
+    "id": "Grim_Feast",
+    "name_en": "Grim Feast",
+    "name_cn": "饕餮飨宴",
+    "name_tw": "冷酷之宴",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchGrimFeast.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Spell",
+      "Minion",
+      "Persistent",
+      "Remnant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Grim_Feast",
+    "icon_local": "images/poe2/skills/spirit/Grim_Feast.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "secDescrText": "While active, your Reviving Minions store a percentage of their maximum Life in a collectible Grim Remnant on death. Using Grim Resurrection Consumes the Life you've collected to Revive up to that much total Life of dead Minions .",
+    "explicitMod": [
+      "Remnants last for 8 seconds",
+      "Remnants store 35 % of Minion maximum Life",
+      "You can store up to (47 — 66124) collected Minion Life"
+    ],
+    "qualityMod": [
+      "Remnants store (0 — 5) % of Minion maximum Life"
+    ],
+    "newItemPopup": "Grim Feast\nBuff\nSpell\n,\nMinion\n,\nPersistent\n,\nRemnant\nTier:\n4\nLevel:\n(1\n—\n20)\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, your\nReviving\nMinions\nstore a percentage of their maximum Life in a collectible Grim\nRemnant\non death. Using Grim Resurrection Consumes the Life you've collected to\nRevive\nup to that much total Life of dead\nMinions\n.\nGrim Feast\nRemnants\nlast for\n8\nseconds\nRemnants\nstore\n35\n% of\nMinion\nmaximum Life\nYou can store up to\n(47\n—\n66124)\ncollected\nMinion\nLife\nAdditional Effects From Quality:\nRemnants\nstore\n(0\n—\n5)\n% of\nMinion\nmaximum Life\nGrim Resurrection\nCast Time:\n0.40 sec\nConsumes stored\nMinion\nLife to\nRevive\nyour\nMinions\n.\nRevives\nas many\nMinions\nas possible with total Life equal to or less than the Life stored by Grim Feast, prioritising those with higher maximum Life.\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Herald_of_Ash",
+    "id": "Herald_of_Ash",
+    "name_en": "Herald of Ash",
+    "name_cn": "灰烬之捷",
+    "name_tw": "灰燼之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Fire",
+      "Duration",
+      "Herald"
+    ],
+    "detail_url": "https://poe2db.tw/us/Herald_of_Ash",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Ash.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, enemies you sufficiently Overkill with non- Herald Attacks will cause an explosion that Ignites nearby enemies based on the Overkill damage dealt.",
+    "explicitMod": [
+      "Ignite surrounding enemies if Overkill damage is at least 20 % of enemy's maximum Life",
+      "Explosion radius is 1.2 metres",
+      "Ignite duration is 3 seconds",
+      "An additional +(16.67 — 23) % of Overkill damage contributes to base Ignite damage"
+    ],
+    "qualityMod": [
+      "An additional +(0 — 5) % of Overkill damage contributes to base Ignite damage"
+    ],
+    "newItemPopup": "Herald of Ash\nBuff\nPersistent\n,\nAoE\n,\nFire\n,\nDuration\n,\nHerald\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nRequires:\nAny\nMartial Weapon\nWhile active, enemies you sufficiently\nOverkill\nwith non-\nHerald\nAttacks\nwill cause an explosion that\nIgnites\nnearby enemies based on the\nOverkill\ndamage dealt.\nBuff\nIgnite\nsurrounding enemies if Overkill damage is at least\n20\n% of enemy's maximum Life\nExplosion\nExplosion radius is\n1.2\nmetres\nIgnite\nduration is\n3\nseconds\nAn additional\n+(16.67\n—\n23)\n% of\nOverkill\ndamage contributes to base\nIgnite\ndamage\nAdditional Effects From Quality:\nAn additional\n+(0\n—\n5)\n% of\nOverkill\ndamage contributes to base\nIgnite\ndamage\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Herald_of_Blood",
+    "id": "Herald_of_Blood",
+    "name_en": "Herald of Blood",
+    "name_cn": "赤血之捷",
+    "name_tw": "鮮血之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfBloodSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Attack",
+      "Persistent",
+      "AoE",
+      "Physical",
+      "Herald",
+      "Payoff"
+    ],
+    "detail_url": "https://poe2db.tw/us/Herald_of_Blood",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Blood.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, killing an enemy with Blood Loss will cause a bloody explosion that deals Physical Attack damage to surrounding enemies based off the life of the exploded enemy, destroying their Corpse if the enemy was Normal or Magic . The explosion also has a chance to Aggravate Bleeding .",
+    "explicitMod": [
+      "Enemies with Blood Loss you kill explode",
+      "Can't be Evaded",
+      "Cannot cause Bleeding",
+      "Explosion radius is 1.5 metres",
+      "(4 — 107) to (6 — 160) base Physical Damage",
+      "Deals +15 % of exploded enemy's Blood Loss as unscalable Physical Attack Damage",
+      "(40 — 59) % chance to Aggravate Bleeding on Hit"
+    ],
+    "qualityMod": [
+      "Deals +(0 — 4) % of exploded enemy's Blood Loss as unscalable Physical Attack Damage"
+    ],
+    "newItemPopup": "Herald of Blood\nBuff\nAttack\n,\nPersistent\n,\nAoE\n,\nPhysical\n,\nHerald\n,\nPayoff\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nRequires:\nAny\nMartial Weapon\nWhile active, killing an enemy with\nBlood Loss\nwill cause a bloody explosion that deals\nPhysical\nAttack\ndamage to surrounding enemies based off the life of the exploded enemy, destroying their\nCorpse\nif the enemy was\nNormal or Magic\n. The explosion also has a chance to\nAggravate\nBleeding\n.\nBuff\nEnemies with\nBlood Loss\nyou kill explode\nExplosion\nCan't be\nEvaded\nCannot cause\nBleeding\nExplosion radius is\n1.5\nmetres\n(4\n—\n107)\nto\n(6\n—\n160)\nbase\nPhysical\nDamage\nDeals\n+15\n% of exploded enemy's\nBlood Loss\nas unscalable\nPhysical\nAttack\nDamage\n(40\n—\n59)\n% chance to\nAggravate\nBleeding\non\nHit\nAdditional Effects From Quality:\nDeals\n+(0\n—\n4)\n% of exploded enemy's\nBlood Loss\nas unscalable\nPhysical\nAttack\nDamage\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Herald_of_Ice",
+    "id": "Herald_of_Ice",
+    "name_en": "Herald of Ice",
+    "name_cn": "寒冰之捷",
+    "name_tw": "冰霜之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfIceSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Attack",
+      "Persistent",
+      "AoE",
+      "Cold",
+      "Herald",
+      "Payoff"
+    ],
+    "detail_url": "https://poe2db.tw/us/Herald_of_Ice",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Ice.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Shattering an enemy with a non- Herald Attack Hit will cause an icy explosion that deals Attack damage to surrounding enemies.",
+    "explicitMod": [
+      "Enemies you Shatter explode",
+      "Can't be Evaded",
+      "Cannot Freeze",
+      "Explosion radius is 1.6 metres",
+      "100 % of Explosion Physical Damage Converted to Cold Damage"
+    ],
+    "qualityMod": [
+      "Explosion radius is (0 — 0.4) metres"
+    ],
+    "newItemPopup": "Herald of Ice\nBuff\nAttack\n,\nPersistent\n,\nAoE\n,\nCold\n,\nHerald\n,\nPayoff\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nRequires:\nAny\nMartial Weapon\nWhile active,\nShattering\nan enemy with a non-\nHerald\nAttack\nHit\nwill cause an icy explosion that deals\nAttack\ndamage to surrounding enemies.\nBuff\nEnemies you\nShatter\nexplode\nExplosion\nAttack Damage:\n(70\n—\n286)%\nCan't be\nEvaded\nCannot\nFreeze\nExplosion radius is\n1.6\nmetres\n100\n% of Explosion\nPhysical\nDamage\nConverted\nto\nCold\nDamage\nAdditional Effects From Quality:\nExplosion radius is\n(0\n—\n0.4)\nmetres\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Herald_of_Plague",
+    "id": "Herald_of_Plague",
+    "name_en": "Herald of Plague",
+    "name_cn": "荒芜之捷",
+    "name_tw": "瘟疫之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAgonySkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Chaos",
+      "Herald"
+    ],
+    "detail_url": "https://poe2db.tw/us/Herald_of_Plague",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Plague.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, killing a Poisoned enemy spreads its Poison to other nearby enemies, and has a chance to also Hinder them.",
+    "explicitMod": [
+      "Spreads the most Damaging Poison on enemies you kill in a (1.5 — 1.8) metre radius",
+      "(10 — 29) % chance to Hinder enemies on spreading Poison to them"
+    ],
+    "qualityMod": [
+      "(0 — 20) % chance to Hinder enemies on spreading Poison to them"
+    ],
+    "newItemPopup": "Herald of Plague\nBuff\nPersistent\n,\nChaos\n,\nHerald\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nRequires:\nAny\nMartial Weapon\nWhile active, killing a\nPoisoned\nenemy spreads its\nPoison\nto other nearby enemies, and has a chance to also\nHinder\nthem.\nSpreads\nthe most Damaging\nPoison\non enemies you kill in a\n(1.5\n—\n1.8)\nmetre radius\n(10\n—\n29)\n% chance to\nHinder\nenemies on spreading\nPoison\nto them\nAdditional Effects From Quality:\n(0\n—\n20)\n% chance to\nHinder\nenemies on spreading\nPoison\nto them\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Herald_of_Thunder",
+    "id": "Herald_of_Thunder",
+    "name_en": "Herald of Thunder",
+    "name_cn": "闪电之捷",
+    "name_tw": "閃電之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfThunderSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Attack",
+      "Persistent",
+      "AoE",
+      "Lightning",
+      "Herald",
+      "Payoff"
+    ],
+    "detail_url": "https://poe2db.tw/us/Herald_of_Thunder",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Thunder.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, killing Shocked enemies with a non- Herald Attack Hit will cause subsequent Attack Hits to release lightning bolts which deals Attack damage to all surrounding enemies.",
+    "explicitMod": [
+      "Lightning Bolts strike the targets of your next (2 — 3) Attack Hits after killing a Shocked enemy with Attack damage",
+      "Can't be Evaded",
+      "Cannot Shock",
+      "Bolt impact radius is 1 metre",
+      "100 % of Bolt Physical Damage Converted to Lightning Damage"
+    ],
+    "qualityMod": [
+      "Lightning Bolts strike the targets of your next (0 — 2) Attack Hits after killing a Shocked enemy with Attack damage"
+    ],
+    "newItemPopup": "Herald of Thunder\nBuff\nAttack\n,\nPersistent\n,\nAoE\n,\nLightning\n,\nHerald\n,\nPayoff\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nRequires:\nAny\nMartial Weapon\nWhile active, killing\nShocked\nenemies with a non-\nHerald\nAttack\nHit\nwill cause subsequent\nAttack\nHits\nto release lightning bolts which deals\nAttack\ndamage to all surrounding enemies.\nBuff\nLightning Bolts strike the targets of your next\n(2\n—\n3)\nAttack\nHits\nafter killing a\nShocked\nenemy with\nAttack\ndamage\nAdditional Effects From Quality:\nLightning Bolts strike the targets of your next\n(0\n—\n2)\nAttack\nHits\nafter killing a\nShocked\nenemy with\nAttack\ndamage\nBolt\nAttack Damage:\n(30\n—\n122)%\nCan't be\nEvaded\nCannot\nShock\nBolt impact radius is\n1\nmetre\n100\n% of Bolt\nPhysical\nDamage\nConverted\nto\nLightning\nDamage\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Iron_Ward",
+    "id": "Iron_Ward",
+    "name_en": "Iron Ward",
+    "name_cn": "钢铁看守",
+    "name_tw": "鋼鐵守護",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WardingSteel.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Physical",
+      "Nova"
+    ],
+    "detail_url": "https://poe2db.tw/us/Iron_Ward",
+    "icon_local": "images/poe2/skills/spirit/Iron_Ward.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, stores a percentage of the Physical damage that is prevented by your Armour or other sources of damage reduction. Using this Skill releases the stored damage as a nova of spikes.",
+    "explicitMod": [
+      "Stores (100 — 480) % of mitigated Physical damage, up to (65 — 22886)",
+      "200 % more Stun buildup",
+      "Nova radius is 6 metres",
+      "Stored damage grants up to 200 % more Area of Effect"
+    ],
+    "qualityMod": [
+      "(0 — 50) % more Stun buildup"
+    ],
+    "newItemPopup": "Iron Ward\nBuff\nPersistent\n,\nAoE\n,\nPhysical\n,\nNova\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nWhile active, stores a percentage of the\nPhysical\ndamage that is prevented by your\nArmour\nor other sources of damage reduction. Using this Skill releases the stored damage as a nova of spikes.\nIron Ward\nStores\n(100\n—\n480)\n% of mitigated\nPhysical\ndamage, up to\n(65\n—\n22886)\nIron Ward\n200\n% more\nStun\nbuildup\nNova radius is\n6\nmetres\nStored damage grants up to\n200\n% more Area of Effect\nAdditional Effects From Quality:\n(0\n—\n50)\n% more\nStun\nbuildup\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str"
+  },
+  {
+    "slug": "Lingering_Illusion",
+    "id": "Lingering_Illusion",
+    "name_en": "Lingering Illusion",
+    "name_cn": "徘徊幻影",
+    "name_tw": "殘留幻象",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkLingeringIllusion.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Duration",
+      "Remnant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Lingering_Illusion",
+    "icon_local": "images/poe2/skills/spirit/Lingering_Illusion.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, creates a short-lived illusory copy of yourself whenever you dodge roll. The copy can be damaged by enemies, and copies that are destroyed by an enemy will drop a Remnant that grants you a Power Charge on pickup.",
+    "explicitMod": [
+      "Illusions have 1 % of your maximum Life",
+      "Remnants last for 5 seconds",
+      "Illusion duration is 3 seconds",
+      "(0 — 76) % chance to create an additional Remnant"
+    ],
+    "qualityMod": [
+      "(0 — 20) % chance to create an additional Remnant"
+    ],
+    "newItemPopup": "Lingering Illusion\nBuff\nPersistent\n,\nDuration\n,\nRemnant\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, creates a short-lived illusory copy of yourself whenever you dodge roll. The copy can be damaged by enemies, and copies that are destroyed by an enemy will drop a\nRemnant\nthat grants you a\nPower Charge\non pickup.\nBuff\nIllusion\nCost:\n10 Mana\nIllusions have\n1\n% of your maximum Life\nRemnants\nlast for\n5\nseconds\nIllusion duration is\n3\nseconds\n(0\n—\n76)\n% chance to create an additional\nRemnant\nAdditional Effects From Quality:\n(0\n—\n20)\n% chance to create an additional\nRemnant\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Magma_Barrier",
+    "id": "Magma_Barrier",
+    "name_en": "Magma Barrier",
+    "name_cn": "岩浆屏障",
+    "name_tw": "熔岩屏障",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteMagmaBarrier.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Attack",
+      "Persistent",
+      "AoE",
+      "Melee",
+      "Trigger",
+      "Fire"
+    ],
+    "detail_url": "https://poe2db.tw/us/Magma_Barrier",
+    "icon_local": "images/poe2/skills/spirit/Magma_Barrier.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, increases your Block Chance passively and imbues your Shield with lava over time. When fully imbued, your next Block with your Shield raised will expend the lava to create an explosion, granting you an Endurance Charge .",
+    "explicitMod": [
+      "Fully imbues Shield in 8 seconds",
+      "Grants 25 % increased Block chance",
+      "6 to 8 Added Fire damage per 15 Armour on Shield",
+      "6 to 8 Added Fire damage per 15 Evasion on Shield",
+      "(4 — 103) to (6 — 155) Base Off Hand Fire Damage",
+      "Magma Spray radius is 2.8 metres"
+    ],
+    "qualityMod": [
+      "Grants (0 — 5) % increased Block chance"
+    ],
+    "newItemPopup": "Magma Barrier\nBuff\nAttack\n,\nPersistent\n,\nAoE\n,\nMelee\n,\nTrigger\n,\nFire\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nRequires:\nShields\n,\nBucklers\nWhile active, increases your\nBlock Chance\npassively and imbues your\nShield\nwith lava over time. When fully imbued, your next\nBlock\nwith your\nShield\nraised will expend the lava to create an explosion, granting you an\nEndurance Charge\n.\nBuff\nFully imbues\nShield\nin\n8\nseconds\nGrants\n25\n% increased\nBlock\nchance\nAdditional Effects From Quality:\nGrants\n(0\n—\n5)\n% increased\nBlock\nchance\nMagma Spray\nCritical Hit\nChance:\n5.00%\nAttack Damage:\n(170\n—\n694)% of base\n6\nto\n8\nAdded\nFire\ndamage per 15\nArmour\non\nShield\n6\nto\n8\nAdded\nFire\ndamage per 15\nEvasion\non\nShield\n(4\n—\n103)\nto\n(6\n—\n155)\nBase Off Hand\nFire\nDamage\nMagma Spray radius is\n2.8\nmetres\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str | Requires: Shields , Bucklers"
+  },
+  {
+    "slug": "Mana_Remnants",
+    "id": "Mana_Remnants",
+    "name_en": "Mana Remnants",
+    "name_cn": "魔力残片",
+    "name_tw": "魔力痕跡",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Remnant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Mana_Remnants",
+    "icon_local": "images/poe2/skills/spirit/Mana_Remnants.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "Conjure surging arcane energy to restore your Mana. While active, enemies you kill affected by Elemental Ailments have a chance to spawn a Mana Remnant , and Critically Hitting a target with Elemental Ailments spawns a Mana Remnant every few seconds. Picking up a Mana Remnant grants you Mana which can Overflow maximum Mana.",
+    "explicitMod": [
+      "Remnants last for 8 seconds",
+      "25 % chance to spawn a Remnant on killing an enemy affected by an Elemental Ailment",
+      "Spawn a Remnant on Critically Hitting a target affected by an Elemental Ailment , no more than once every 2 seconds",
+      "Each Remnant grants (28 — 281) Mana"
+    ],
+    "qualityMod": [
+      "Each Remnant grants (0 — 40) Mana"
+    ],
+    "newItemPopup": "Mana Remnants\nBuff\nPersistent\n,\nRemnant\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nConjure surging arcane energy to restore your Mana. While active, enemies you kill affected by\nElemental Ailments\nhave a chance to spawn a Mana\nRemnant\n, and\nCritically Hitting\na target with\nElemental Ailments\nspawns a Mana\nRemnant\nevery few seconds. Picking up a Mana\nRemnant\ngrants you Mana which can\nOverflow\nmaximum Mana.\nRemnants\nlast for\n8\nseconds\n25\n% chance to spawn a\nRemnant\non killing an enemy affected by an\nElemental Ailment\nSpawn a\nRemnant\non\nCritically Hitting\na target affected by an\nElemental Ailment\n, no more than once every\n2\nseconds\nEach\nRemnant\ngrants\n(28\n—\n281)\nMana\nAdditional Effects From Quality:\nEach\nRemnant\ngrants\n(0\n—\n40)\nMana\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Mirage_Archer",
+    "id": "Mirage_Archer",
+    "name_en": "Mirage Archer",
+    "name_cn": "幻影射手",
+    "name_tw": "幻影射手",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LingeringMirageSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Duration",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Mirage_Archer",
+    "icon_local": "images/poe2/skills/spirit/Mirage_Archer.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "secDescrText": "While active, dodge rolling will create a Mirage that uses socketed ranged Attacks for a short duration, then vanish.",
+    "explicitMod": [
+      "Supported Skills cannot consume Charges",
+      "Mirages deal 30 % less Damage",
+      "Mirage duration is (5.05 — 6) seconds"
+    ],
+    "qualityMod": [
+      "Mirage duration is (0 — 1) second"
+    ],
+    "newItemPopup": "Mirage Archer\nBuff\nPersistent\n,\nTrigger\n,\nDuration\n,\nMeta\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nRequires:\nBows\n,\nSpears\n,\nCrossbows\nWhile active, dodge rolling will create a Mirage that uses socketed ranged\nAttacks\nfor a short duration, then vanish.\nMirage Archer\nSupport\nSupported Skills cannot consume\nCharges\nMirages deal\n30\n% less Damage\nMirage\nCooldown Time:\n10.00 s\nMirage duration is\n(5.05\n—\n6)\nseconds\nAdditional Effects From Quality:\nMirage duration is\n(0\n—\n1)\nsecond\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex | Requires: Bows , Spears , Crossbows"
+  },
+  {
+    "slug": "Overwhelming_Presence",
+    "id": "Overwhelming_Presence",
+    "name_en": "Overwhelming Presence",
+    "name_cn": "压迫气场",
+    "name_tw": "壓倒性的存在",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OverwhelmingPressureSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Aura"
+    ],
+    "detail_url": "https://poe2db.tw/us/Overwhelming_Presence",
+    "icon_local": "images/poe2/skills/spirit/Overwhelming_Presence.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, emits an Aura that makes enemies in your Presence easier to Stun and inflict Elemental Ailments upon.",
+    "explicitMod": [
+      "Enemies in your Presence have (15 — 24) % reduced Elemental Ailment Threshold",
+      "Enemies in your Presence have (15 — 25) % reduced Stun Threshold"
+    ],
+    "qualityMod": [
+      "(0 — 15) % increased Aura Magnitudes"
+    ],
+    "newItemPopup": "Overwhelming Presence\nBuff\nPersistent\n,\nAura\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nWhile active, emits an\nAura\nthat makes enemies in your\nPresence\neasier to\nStun\nand inflict\nElemental Ailments\nupon.\nEnemies in your\nPresence\nhave\n(15\n—\n24)\n% reduced\nElemental Ailment Threshold\nEnemies in your\nPresence\nhave\n(15\n—\n25)\n% reduced\nStun Threshold\nAdditional Effects From Quality:\n(0\n—\n15)\n% increased\nAura\nMagnitudes\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str"
+  },
+  {
+    "slug": "Plague_Bearer",
+    "id": "Plague_Bearer",
+    "name_en": "Plague Bearer",
+    "name_cn": "灾难使徒",
+    "name_tw": "病疫之難",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPlagueBearerSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Physical",
+      "Chaos",
+      "Nova"
+    ],
+    "detail_url": "https://poe2db.tw/us/Plague_Bearer",
+    "icon_local": "images/poe2/skills/spirit/Plague_Bearer.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, stores a portion of the Poison Damage you deal. Using this Skill unleashes the stored Poison to damage and Poison enemies around you.",
+    "explicitMod": [
+      "Stores 4 % of Expected Poison damage, up to (43 — 15257) Deals Physical damage equal to the stored Poison",
+      "Always Poisons on Hit",
+      "80 % less Stun buildup",
+      "Nova radius is 1.8 metres",
+      "Stored Poison grants up to 600 % more Area of Effect"
+    ],
+    "qualityMod": [
+      "Stores (0 — 2) % of Expected Poison damage, up to Deals Physical damage equal to the stored Poison"
+    ],
+    "newItemPopup": "Plague Bearer\nBuff\nPersistent\n,\nAoE\n,\nPhysical\n,\nChaos\n,\nNova\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nWhile active, stores a portion of the\nPoison\nDamage you deal. Using this Skill unleashes the stored\nPoison\nto damage and\nPoison\nenemies around you.\nPlague Bearer\nStores\n4\n% of Expected\nPoison\ndamage, up to\n(43\n—\n15257)\nDeals\nPhysical\ndamage equal to the stored\nPoison\nAdditional Effects From Quality:\nStores\n(0\n—\n2)\n% of Expected\nPoison\ndamage, up to\nDeals\nPhysical\ndamage equal to the stored\nPoison\nPlague Bearer\nAlways\nPoisons\non\nHit\n80\n% less\nStun\nbuildup\nNova radius is\n1.8\nmetres\nStored\nPoison\ngrants up to\n600\n% more Area of Effect\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex"
+  },
+  {
+    "slug": "Raging_Spirits",
+    "id": "Raging_Spirits",
+    "name_en": "Raging Spirits",
+    "name_cn": "愤怒狂灵",
+    "name_tw": "憤怒狂靈",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchReservationRaginSpirits.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Minion",
+      "Persistent",
+      "Fire",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Raging_Spirits",
+    "icon_local": "images/poe2/skills/spirit/Raging_Spirits.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Fire Spells you use yourself will also summon Raging Spirits, which are short-lived flaming skulls that rush at nearby enemies and rapidly Attack them, ignoring commands. Enemies will not directly engage these Minions , and can pass through them.",
+    "explicitMod": [
+      "Minions from this skill convert 70 % of Physical Damage to Fire Damage",
+      "Limit 10 Summoned Raging Spirits",
+      "Fire Area Spells summon a Spirit per 1.5 metres of radius Projectiles from Fire Spells summon a Spirit on hit",
+      "Maximum 2 Spirits summoned per Spell cast",
+      "Spirit duration is 5 seconds"
+    ],
+    "qualityMod": [
+      "Limit (0 — 1) Summoned Raging Spirit"
+    ],
+    "newItemPopup": "Raging Spirits\nBuff\nMinion\n,\nPersistent\n,\nFire\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active,\nFire\nSpells\nyou use yourself will also summon Raging Spirits, which are short-lived flaming skulls that rush at nearby enemies and rapidly\nAttack\nthem, ignoring commands. Enemies will not directly engage these\nMinions\n, and can pass through them.\nMinions from this skill convert\n70\n% of\nPhysical\nDamage to\nFire\nDamage\nLimit\n10\nSummoned Raging Spirits\nFire\nArea\nSpells\nsummon a Spirit per\n1.5\nmetres of radius\nProjectiles\nfrom\nFire\nSpells\nsummon a Spirit on hit\nMaximum\n2\nSpirits summoned per\nSpell\ncast\nSpirit duration is\n5\nseconds\nAdditional Effects From Quality:\nLimit\n(0\n—\n1)\nSummoned Raging Spirit\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Ravenous_Swarm",
+    "id": "Ravenous_Swarm",
+    "name_en": "Ravenous Swarm",
+    "name_cn": "饕餮虫群",
+    "name_tw": "貪婪蟲群",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchRavenousSwarm.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Minion",
+      "Persistent",
+      "Physical",
+      "Chaos",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ravenous_Swarm",
+    "icon_local": "images/poe2/skills/spirit/Ravenous_Swarm.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active and enemies are present, swarms of insects emerge from your body to pursue nearby enemies. The swarms are untargetable Minions that Attack and Poison enemies.",
+    "explicitMod": [
+      "Swarms Attack enemies within 4 metre radius of you",
+      "Swarm duration is (6 — 9.8) seconds",
+      "Spawn a new Swarm once every 6 seconds"
+    ],
+    "qualityMod": [
+      "Swarms Attack enemies within (0 — 1) metre radius of you"
+    ],
+    "newItemPopup": "Ravenous Swarm\nBuff\nMinion\n,\nPersistent\n,\nPhysical\n,\nChaos\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active and enemies are present, swarms of insects emerge from your body to pursue nearby enemies. The swarms are untargetable\nMinions\nthat\nAttack\nand\nPoison\nenemies.\nSwarms\nAttack\nenemies within\n4\nmetre radius of you\nSwarm duration is\n(6\n—\n9.8)\nseconds\nSpawn a new Swarm once every\n6\nseconds\nAdditional Effects From Quality:\nSwarms\nAttack\nenemies within\n(0\n—\n1)\nmetre radius of you\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Reapers_Invocation",
+    "id": "Reapers_Invocation",
+    "name_en": "Reaper's Invocation",
+    "name_cn": "收割祈求",
+    "name_tw": "收割者的祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MeleeInvocationSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Trigger",
+      "Invocation",
+      "Meta"
+    ],
+    "detail_url": "https://poe2db.tw/us/Reapers_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Reapers_Invocation.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "cooldown_time": "0.20 s",
+    "secDescrText": "While active, gains Energy when you kill an enemy with a Melee Attack . Using the Invocation once sufficient Energy is gathered will consume the Energy to trigger socketed Spells , and can trigger them multiple times if it has enough Energy .",
+    "explicitMod": [
+      "(0 — 57) % increased Energy gained",
+      "Maximum Energy is 500",
+      "Gains 30 Energy per Power of enemies you kill with Melee Attacks",
+      "Socketed Spells consume 10 Energy per 0.1 seconds of base cast time when Triggered"
+    ],
+    "qualityMod": [
+      "(0 — 20) % increased Energy gained"
+    ],
+    "newItemPopup": "Reaper's Invocation\nBuff\nPersistent\n,\nTrigger\n,\nInvocation\n,\nMeta\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nCooldown Time:\n0.20 s\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nWhile active, gains\nEnergy\nwhen you kill an enemy with a\nMelee\nAttack\n. Using the Invocation once sufficient\nEnergy\nis gathered will consume the\nEnergy\nto trigger socketed\nSpells\n, and can trigger them multiple times if it has enough\nEnergy\n.\nReaper's Invocation\n(0\n—\n57)\n% increased\nEnergy\ngained\nMaximum\nEnergy\nis\n500\nGains\n30\nEnergy\nper\nPower\nof enemies you\nkill with\nMelee\nAttacks\nAdditional Effects From Quality:\n(0\n—\n20)\n% increased\nEnergy\ngained\nSupport\nSocketed\nSpells\nconsume 10 Energy per\n0.1\nseconds of base cast time when Triggered\nPlace one or more Skill Gems into this Meta Gem's sockets in the Skills Panel. The socketed Skills will be incorporated into the Meta Gem's effect.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "Rhoa_Mount",
+    "id": "Rhoa_Mount",
+    "name_en": "Rhoa Mount",
+    "name_cn": "恐喙鸟坐骑",
+    "name_tw": "恐喙鳥坐騎",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RhoaMountSkillIcon.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Minion",
+      "Buff",
+      "Companion",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Rhoa_Mount",
+    "icon_local": "images/poe2/skills/spirit/Rhoa_Mount.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "Harnesses a Companion Rhoa you can mount while you're wielding a Bow or Spear . While mounted you can use Bow , thrown Spear , and Mark Skills, and are much less slowed while using Skills, but being Hit will cause Heavy Stun buildup. While you aren't mounted, the Rhoa will attack your enemies alongside you with its beak, but can be damaged.",
+    "explicitMod": [
+      "100 % increased Minion Accuracy Rating",
+      "100 % reduced Movement Speed Penalty from using Skills while mounted"
+    ],
+    "qualityMod": [
+      "Minions have (0 — 20) % more Maximum Life"
+    ],
+    "newItemPopup": "Rhoa Mount\nMinion\nBuff\n,\nCompanion\n,\nPersistent\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nHarnesses a\nCompanion\nRhoa you can mount while you're wielding a\nBow\nor\nSpear\n. While mounted you can use\nBow\n, thrown\nSpear\n, and\nMark\nSkills, and are much less slowed while using Skills, but being\nHit\nwill cause\nHeavy Stun\nbuildup. While you aren't mounted, the Rhoa will attack your enemies alongside you with its beak, but can be damaged.\n100\n% increased\nMinion\nAccuracy\nRating\n100\n% reduced Movement Speed Penalty from\nusing Skills while mounted\nAdditional Effects From Quality:\nMinions have\n(0\n—\n20)\n% more Maximum Life\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex"
+  },
+  {
+    "slug": "Sacrifice",
+    "id": "Sacrifice",
+    "name_en": "Sacrifice",
+    "name_cn": "替代牺牲",
+    "name_tw": "獻祭",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HarvesterSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Minion",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Sacrifice",
+    "icon_local": "images/poe2/skills/spirit/Sacrifice.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "secDescrText": "While active, your undead Reviving Minions can be used in place of Corpses by your skills, but your Minions Revive more slowly.",
+    "explicitMod": [
+      "Must be active in both Weapon Sets",
+      "Skills can use your undead Reviving Minions in place of Corpses Minions Revive (40 — 59) % more slowly"
+    ],
+    "qualityMod": [
+      "Minions Revive +(0 — 5) % more quickly"
+    ],
+    "newItemPopup": "Sacrifice\nBuff\nMinion\n,\nPersistent\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, your undead\nReviving\nMinions\ncan be used in place of\nCorpses\nby your skills, but your\nMinions\nRevive\nmore slowly.\nMust be active in both\nWeapon Sets\nSkills can use your undead\nReviving\nMinions\nin\nplace of\nCorpses\nMinions\nRevive\n(40\n—\n59)\n% more slowly\nAdditional Effects From Quality:\nMinions\nRevive\n+(0\n—\n5)\n% more quickly\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Savage_Fury",
+    "id": "Savage_Fury",
+    "name_en": "Savage Fury",
+    "name_cn": "凶蛮怒火",
+    "name_tw": "殘猛狂怒",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWildBeast.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Savage_Fury",
+    "icon_local": "images/poe2/skills/spirit/Savage_Fury.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, your Fury builds from Attacking enemies. Using this Skill releases your Fury to send you into a bestial frenzy, gaining damage and Onslaught but constantly losing life and forcing you into animal form. The frenzy ends immediately if you return to human form. You cannot gain Fury while in a frenzy.",
+    "explicitMod": [
+      "Gain 1 Fury on Attack Hit , no more than once per Skill use",
+      "20 maximum Fury",
+      "Buff duration is 0.5 seconds per Fury",
+      "Buff grants Onslaught and (20 — 29) % more damage",
+      "Buff causes you to lose 3 % of maximum Life per second"
+    ],
+    "qualityMod": [
+      "Buff grants Onslaught and (0 — 5) % more damage"
+    ],
+    "newItemPopup": "Savage Fury\nBuff\nPersistent\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Int\nWhile active, your Fury builds from\nAttacking\nenemies. Using this Skill releases your Fury to send you into a bestial frenzy, gaining damage and\nOnslaught\nbut constantly losing life and forcing you into animal form. The frenzy ends immediately if you return to human form. You cannot gain Fury while in a frenzy.\nSavage Fury\nGain 1 Fury on\nAttack\nHit\n, no\nmore than once per Skill use\n20\nmaximum Fury\nSavage Fury\nBuff\nduration is\n0.5\nseconds per Fury\nBuff\ngrants\nOnslaught\nand\n(20\n—\n29)\n% more damage\nBuff\ncauses you to lose\n3\n% of maximum Life per second\nAdditional Effects From Quality:\nBuff\ngrants\nOnslaught\nand\n(0\n—\n5)\n% more damage\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Int"
+  },
+  {
+    "slug": "Scavenged_Plating",
+    "id": "Scavenged_Plating",
+    "name_en": "Scavenged Plating",
+    "name_cn": "装甲回收",
+    "name_tw": "拾荒者護板",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteScavengedPlating.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Physical",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Scavenged_Plating",
+    "icon_local": "images/poe2/skills/spirit/Scavenged_Plating.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, uses fragments of armour scavenged from enemies to bolster your own. Fully Breaking an enemy's Armour grants you stacks of Scavenged Plating for a duration based on the enemy's rarity, and you gain Armour and Thorns per stack. Normal enemies grant 1 stack, Magic enemies grant 2 stacks, Rare enemies grant 5 stacks and Unique enemies grant 10 stacks.",
+    "explicitMod": [
+      "Scavenged Plating duration is 8 seconds",
+      "4 % more Armour per Scavenged Plating",
+      "Maximum 10 Scavenged Plating",
+      "(2 — 43) to (2 — 64) Thorns per Scavenged Plating"
+    ],
+    "qualityMod": [
+      "Scavenged Plating duration is (0 — 2) seconds"
+    ],
+    "newItemPopup": "Scavenged Plating\nBuff\nPersistent\n,\nPhysical\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Str\nWhile active, uses fragments of armour scavenged from enemies to bolster your own.\nFully Breaking\nan enemy's\nArmour\ngrants you stacks of Scavenged Plating for a duration based on the enemy's rarity, and you gain\nArmour\nand\nThorns\nper stack. Normal enemies grant 1 stack, Magic enemies grant 2 stacks, Rare enemies grant 5 stacks and Unique enemies grant 10 stacks.\nScavenged Plating duration is\n8\nseconds\n4\n% more\nArmour\nper Scavenged Plating\nMaximum\n10\nScavenged Plating\n(2\n—\n43)\nto\n(2\n—\n64)\nThorns\nper Scavenged Plating\nAdditional Effects From Quality:\nScavenged Plating duration is\n(0\n—\n2)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Str"
+  },
+  {
+    "slug": "Shard_Scavenger",
+    "id": "Shard_Scavenger",
+    "name_en": "Shard Scavenger",
+    "name_cn": "碎片回收",
+    "name_tw": "碎片清除者",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercShardDespoiler.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Physical",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Shard_Scavenger",
+    "icon_local": "images/poe2/skills/spirit/Shard_Scavenger.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Consuming Freeze , Shock , Ignite , or Fully Broken Armour on an enemy reloads your Crossbow , restores one cooldown use for your Grenades and grants a Buff causing Crossbow Attacks to not consume bolts for a duration. This can only occur once every few seconds.",
+    "explicitMod": [
+      "Instantly reloads your Crossbow and restores one cooldown use for your Grenades upon Consuming Freeze , Shock , Ignite , or Fully Broken Armour Minimum duration between consumptions is (6.05 — 7) seconds",
+      "Buff duration is 3 seconds"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "Shard Scavenger\nBuff\nPersistent\n,\nPhysical\n,\nLightning\n,\nCold\n,\nFire\n,\nDuration\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nRequires:\nCrossbows\nWhile active,\nConsuming\nFreeze\n,\nShock\n,\nIgnite\n, or\nFully Broken Armour\non an enemy reloads your\nCrossbow\n, restores one cooldown use for your\nGrenades\nand grants a\nBuff\ncausing\nCrossbow\nAttacks\nto not consume bolts for a duration. This can only occur once every few seconds.\nInstantly reloads your\nCrossbow\nand restores one cooldown use for your\nGrenades\nupon\nConsuming\nFreeze\n,\nShock\n,\nIgnite\n, or\nFully Broken Armour\nMinimum duration between consumptions is\n(6.05\n—\n7)\nseconds\nBuff\nduration is\n3\nseconds\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex | Requires: Crossbows"
+  },
+  {
+    "slug": "Siphon_Elements",
+    "id": "Siphon_Elements",
+    "name_en": "Siphon Elements",
+    "name_cn": "汲取元素",
+    "name_tw": "虹吸元素",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiphonElements.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Remnant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Siphon_Elements",
+    "icon_local": "images/poe2/skills/spirit/Siphon_Elements.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, has a chance to create an Infusion Remnant when you Freeze , Shock or Ignite a target.",
+    "explicitMod": [
+      "Remnants created by Supported Skills can be collected from (0 — 38) % further away",
+      "5 % chance per Power to spawn a Cold Remnant on Freezing a target",
+      "5 % chance to spawn a Fire Remnant on Igniting a non-Ignited target",
+      "5 % chance to spawn a Lightning Remnant on Shocking a non-Shocked target"
+    ],
+    "qualityMod": [
+      "(0 — 2) % chance per Power to spawn a Cold Remnant on Freezing a target (0 — 2) % chance to spawn a Fire Remnant on Igniting a non-Ignited target (0 — 2) % chance to spawn a Lightning Remnant on Shocking a non-Shocked target"
+    ],
+    "newItemPopup": "Siphon Elements\nBuff\nPersistent\n,\nLightning\n,\nCold\n,\nFire\n,\nRemnant\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, has a chance to create an\nInfusion\nRemnant\nwhen you\nFreeze\n,\nShock\nor\nIgnite\na target.\nRemnants\ncreated by Supported Skills can be collected from\n(0\n—\n38)\n% further away\n5\n% chance per\nPower\nto spawn a\nCold\nRemnant\non\nFreezing\na target\n5\n% chance to spawn a\nFire\nRemnant\non\nIgniting\na non-Ignited target\n5\n% chance to spawn a\nLightning\nRemnant\non\nShocking\na non-Shocked target\nAdditional Effects From Quality:\n(0\n—\n2)\n% chance per\nPower\nto spawn a\nCold\nRemnant\non\nFreezing\na target\n(0\n—\n2)\n% chance to spawn a\nFire\nRemnant\non\nIgniting\na non-Ignited target\n(0\n—\n2)\n% chance to spawn a\nLightning\nRemnant\non\nShocking\na non-Shocked target\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Time_of_Need",
+    "id": "Time_of_Need",
+    "name_en": "Time of Need",
+    "name_cn": "紧急时刻",
+    "name_tw": "緊急時刻",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TimeOfNeedSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Time_of_Need",
+    "icon_local": "images/poe2/skills/spirit/Time_of_Need.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, periodically invokes divine blessings to heal you and remove Curses and Elemental Ailments from you.",
+    "explicitMod": [
+      "(10.1 — 12) second duration between Blessings",
+      "Blessing recovers (17 — 628) Life and removes Curses and Elemental Ailments"
+    ],
+    "qualityMod": [
+      "Blessing recovers (0 — 40) Life and removes Curses and Elemental Ailments"
+    ],
+    "newItemPopup": "Time of Need\nBuff\nPersistent\n,\nDuration\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n122) Str\n,\n(4\n—\n48) Int\nWhile active, periodically invokes divine blessings to heal you and remove\nCurses\nand\nElemental Ailments\nfrom you.\n(10.1\n—\n12)\nsecond duration between Blessings\nBlessing recovers\n(17\n—\n628)\nLife and removes\nCurses\nand\nElemental Ailments\nAdditional Effects From Quality:\nBlessing recovers\n(0\n—\n40)\nLife and removes\nCurses\nand\nElemental Ailments\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 122) Str , (4 — 48) Int"
+  },
+  {
+    "slug": "Trail_of_Caltrops",
+    "id": "Trail_of_Caltrops",
+    "name_en": "Trail of Caltrops",
+    "name_cn": "铁蒺藜之路",
+    "name_tw": "蒺藜之徑",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CaltropsOnDodgeSkillIcon.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Attack",
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Projectile",
+      "Trigger",
+      "Physical",
+      "Duration",
+      "Hazard"
+    ],
+    "detail_url": "https://poe2db.tw/us/Trail_of_Caltrops",
+    "icon_local": "images/poe2/skills/spirit/Trail_of_Caltrops.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, scatters caltrops in your wake when you dodge.",
+    "explicitMod": [
+      "Scatters 3 caltrops when you dodge",
+      "(6 — 159) to (9 — 238) base Physical Damage",
+      "Increases and reductions to Thorns Damage apply to Hit Damage with this skill",
+      "Maim on Hit",
+      "Triggered on reaching maximum Energy",
+      "Caltrop radius is 0.5 metres",
+      "Caltrops land within a 0.8 metre radius of Projectile impact",
+      "Creates 1 Caltrop",
+      "Caltrop duration is 8 seconds"
+    ],
+    "qualityMod": [
+      "+(0 — 5) to maximum number of Caltrops allowed"
+    ],
+    "newItemPopup": "Trail of Caltrops\nAttack\nBuff\n,\nPersistent\n,\nAoE\n,\nProjectile\n,\nTrigger\n,\nPhysical\n,\nDuration\n,\nHazard\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nWhile active, scatters caltrops in your wake when you dodge.\nTrail of Caltrops\nScatters\n3\ncaltrops when you dodge\nCaltrops\nCritical Hit\nChance:\n5.00%\nAttack Damage:\n(35\n—\n143)% of base\nProjectile Speed:\n4 metres per Second\nMaims\nand deals\nAttack\narea damage when triggered by an Enemy. Caltrops are destroyed when triggered, and a maximum of 20 Caltrops can be active at once.\n(6\n—\n159)\nto\n(9\n—\n238)\nbase\nPhysical\nDamage\nIncreases and reductions to\nThorns\nDamage apply to\nHit Damage\nwith this skill\nMaim\non\nHit\nTriggered on reaching maximum Energy\nCaltrop radius is\n0.5\nmetres\nCaltrops land within a\n0.8\nmetre radius of\nProjectile\nimpact\nCreates\n1\nCaltrop\nCaltrop duration is\n8\nseconds\nAdditional Effects From Quality:\n+(0\n—\n5)\nto maximum number of Caltrops allowed\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex"
+  },
+  {
+    "slug": "Trinity",
+    "id": "Trinity",
+    "name_en": "Trinity",
+    "name_cn": "三位一体",
+    "name_tw": "三相",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressTrinitySkillIcon.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Lightning",
+      "Cold",
+      "Fire"
+    ],
+    "detail_url": "https://poe2db.tw/us/Trinity",
+    "icon_local": "images/poe2/skills/spirit/Trinity.webp",
+    "tier": "14",
+    "level": "(1 — 20)",
+    "reservation": "100 Spirit",
+    "secDescrText": "Become attuned to all Elements building up Fire, Cold and Lightning Resonance based off the highest Elemental Damage type dealt by your Hits . Your Elemental Damage is enhanced the more Resonance of any type you have.",
+    "explicitMod": [
+      "(1 — 6) % more Elemental Damage per 30 Resonance of any type",
+      "On dealing Elemental Damage with a Hit , gain (5 — 13) Resonance of the highest Elemental Damage type and lose 3 Resonance of the other types"
+    ],
+    "qualityMod": [
+      "(0 — 15) % increased Skill Speed while total Resonance is over 250"
+    ],
+    "newItemPopup": "Trinity\nBuff\nPersistent\n,\nLightning\n,\nCold\n,\nFire\nTier:\n14\nLevel:\n(1\n—\n20)\nReservation:\n100 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Dex\n,\n(4\n—\n86) Int\nBecome attuned to all\nElements\nbuilding up Fire, Cold and Lightning\nResonance\nbased off the highest\nElemental Damage\ntype dealt by your\nHits\n. Your\nElemental Damage\nis enhanced the more\nResonance\nof any type you have.\n(1\n—\n6)\n% more\nElemental Damage\nper 30\nResonance\nof any type\nOn dealing\nElemental Damage\nwith a\nHit\n, gain\n(5\n—\n13)\nResonance\nof the highest\nElemental Damage\ntype and lose\n3\nResonance\nof the other types\nAdditional Effects From Quality:\n(0\n—\n15)\n% increased\nSkill Speed\nwhile total Resonance is over 250\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Dex , (4 — 86) Int"
+  },
+  {
+    "slug": "War_Banner",
+    "id": "War_Banner",
+    "name_en": "War Banner",
+    "name_cn": "战旗",
+    "name_tw": "戰爭之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Banner",
+      "Buff",
+      "Persistent",
+      "AoE",
+      "Aura",
+      "Duration",
+      "Conditional"
+    ],
+    "detail_url": "https://poe2db.tw/us/War_Banner",
+    "icon_local": "images/poe2/skills/spirit/War_Banner.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, Attacking enemies builds Glory . When you have maximum Glory , you can place an inspiring Banner for a duration with an Aura that grants you and nearby Allies Attack damage, Attack speed and Accuracy .",
+    "explicitMod": [
+      "Generates 100 % of Monster Power as Glory for this Skill on Hitting with an Attack",
+      "Requires 200 Glory to use",
+      "Banner Aura radius is 4.5 metres",
+      "Aura grants 25 % more Attack damage",
+      "Aura grants 50 % increased Accuracy Rating",
+      "Aura grants 25 % increased Attack Speed",
+      "Banner duration is (6 — 9.8) seconds"
+    ],
+    "qualityMod": [
+      "(0 — 10) % increased Reservation Efficiency"
+    ],
+    "newItemPopup": "War Banner\nBanner\nBuff\n,\nPersistent\n,\nAoE\n,\nAura\n,\nDuration\n,\nConditional\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Dex\nWhile active,\nAttacking\nenemies builds\nGlory\n. When you have maximum\nGlory\n, you can place an inspiring\nBanner\nfor a duration with an\nAura\nthat grants you and nearby\nAllies\nAttack\ndamage,\nAttack\nspeed and\nAccuracy\n.\nWar Banner\nAdditional Effects From Quality:\n(0\n—\n10)\n% increased\nReservation\nEfficiency\nWar Banner\nGenerates\n100\n% of\nMonster Power\nas\nGlory\nfor this Skill on\nHitting\nwith an\nAttack\nRequires\n200\nGlory\nto use\nBanner\nAura\nradius is\n4.5\nmetres\nAura grants\n25\n% more\nAttack\ndamage\nAura grants\n50\n% increased\nAccuracy Rating\nAura grants\n25\n% increased\nAttack\nSpeed\nBanner duration is\n(6\n—\n9.8)\nseconds\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Dex"
+  },
+  {
+    "slug": "Wind_Dancer",
+    "id": "Wind_Dancer",
+    "name_en": "Wind Dancer",
+    "name_cn": "风舞者",
+    "name_tw": "風魔舞者",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerWindDancerSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Attack",
+      "Persistent",
+      "AoE",
+      "Melee",
+      "Trigger",
+      "Staged"
+    ],
+    "detail_url": "https://poe2db.tw/us/Wind_Dancer",
+    "icon_local": "images/poe2/skills/spirit/Wind_Dancer.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, periodically grants stages of a buff that gives you more Evasion per stage. Being Hit by an Enemy while you have this buff consumes all stages to damage and Knock Back enemies around you.",
+    "explicitMod": [
+      "3 maximum stages",
+      "Gain a stage every (1.12 — 1.5) seconds",
+      "10 % more Evasion Rating per stage On being Hit by an Enemy, consume all stages to trigger Gale Force",
+      "Knocks Back Enemies",
+      "Explosion radius is 1.6 metres",
+      "100 % more area of effect per stage",
+      "50 % more damage per stage",
+      "25 % more Knockback distance per stage"
+    ],
+    "qualityMod": [
+      "+(0 — 0.4) metres to explosion radius"
+    ],
+    "newItemPopup": "Wind Dancer\nBuff\nAttack\n,\nPersistent\n,\nAoE\n,\nMelee\n,\nTrigger\n,\nStaged\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Dex\nRequires:\nAny\nMartial Weapon\nWhile active, periodically grants stages of a buff that gives you more\nEvasion\nper stage. Being\nHit\nby an Enemy while you have this buff consumes all stages to damage and\nKnock Back\nenemies around you.\nBuff\n3\nmaximum stages\nGain a stage every\n(1.12\n—\n1.5)\nseconds\n10\n% more\nEvasion\nRating per stage\nOn being\nHit\nby an Enemy, consume all\nstages to trigger Gale Force\nGale Force\nCooldown Time:\n0.25 s\nAttack Damage:\n(20\n—\n82)% of base\nKnocks Back\nEnemies\nExplosion radius is\n1.6\nmetres\n100\n% more area of effect per stage\n50\n% more damage per stage\n25\n% more\nKnockback\ndistance per stage\nAdditional Effects From Quality:\n+(0\n—\n0.4)\nmetres to explosion radius\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Dex | Requires: Any Martial Weapon"
+  },
+  {
+    "slug": "Withering_Presence",
+    "id": "Withering_Presence",
+    "name_en": "Withering Presence",
+    "name_cn": "凋零姿态",
+    "name_tw": "凋零光環",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Buff",
+      "Persistent",
+      "Aura",
+      "Chaos",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Withering_Presence",
+    "icon_local": "images/poe2/skills/spirit/Withering_Presence.webp",
+    "tier": "4",
+    "level": "(1 — 20)",
+    "reservation": "30 Spirit",
+    "secDescrText": "While active, emits an Aura that periodically Withers enemies in your Presence .",
+    "explicitMod": [
+      "Withered duration is 6 seconds",
+      "Withers enemies in your Presence every (1.42 — 1.8) seconds"
+    ],
+    "qualityMod": [
+      "Withered duration is (0 — 1) second"
+    ],
+    "newItemPopup": "Withering Presence\nBuff\nPersistent\n,\nAura\n,\nChaos\n,\nDuration\nTier:\n4\nLevel:\n(1\n—\n20)\nReservation:\n30 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n157) Int\nWhile active, emits an\nAura\nthat periodically\nWithers\nenemies in your\nPresence\n.\nWithered\nduration is\n6\nseconds\nWithers\nenemies in your\nPresence\nevery\n(1.42\n—\n1.8)\nseconds\nAdditional Effects From Quality:\nWithered\nduration is\n(0\n—\n1)\nsecond\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 157) Int"
+  },
+  {
+    "slug": "Wolf_Pack",
+    "id": "Wolf_Pack",
+    "name_en": "Wolf Pack",
+    "name_cn": "狼群",
+    "name_tw": "召喚惡狼",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidSummonWolf.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "Minion",
+      "Companion",
+      "Persistent",
+      "Physical"
+    ],
+    "detail_url": "https://poe2db.tw/us/Wolf_Pack",
+    "icon_local": "images/poe2/skills/spirit/Wolf_Pack.webp",
+    "tier": "8",
+    "level": "(1 — 20)",
+    "reservation": "60 Spirit",
+    "secDescrText": "Activate to summon a pack of Wolf Companions . The pack treated as a single Companion for effects that count or limit Companions , regardless of the number of Wolves in the pack.",
+    "explicitMod": [
+      "Summons (3 — 6) Wolves"
+    ],
+    "qualityMod": [
+      "Summons (0 — 1) Wolf"
+    ],
+    "newItemPopup": "Wolf Pack\nMinion\nCompanion\n,\nPersistent\n,\nPhysical\nTier:\n8\nLevel:\n(1\n—\n20)\nReservation:\n60 Spirit\nRequires:\nLevel (1\n—\n90)\n,\n(4\n—\n86) Str\n,\n(4\n—\n86) Int\nActivate to summon a pack of Wolf\nCompanions\n. The pack treated as a single\nCompanion\nfor effects that count or limit\nCompanions\n, regardless of the number of Wolves in the pack.\nSummons\n(3\n—\n6)\nWolves\nAdditional Effects From Quality:\nSummons\n(0\n—\n1)\nWolf\nSkills can be managed in the Skills Panel.",
+    "requirements": "Requires: Level (1 — 90) , (4 — 86) Str , (4 — 86) Int"
+  }
+]

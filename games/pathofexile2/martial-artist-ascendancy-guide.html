@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>武圣 — 0.5版本新升华完全解析 - 流放之路2</title>
+  <!-- @author 看云起云落 -->
+  <link rel="stylesheet" href="../../assets/css/base.css">
+  <link rel="stylesheet" href="../../assets/css/components.css">
+  <link rel="stylesheet" href="../../assets/css/theme-pathofexile2.css">
+  <link rel="stylesheet" href="../../assets/css/guide-sidebar.css">
+  <style>
+    :root {
+      --accent: #8B0000;
+      --accent-dim: #5D0000;
+      --accent-bright: #C00000;
+      --text-muted: #664444;
+      --text-dim: #A08080;
+      --gold: #D4AF37;
+      --gold-dim: #8B6B2F;
+      --gold-bright: #F0D060;
+      --border: #4A3020;
+      --border-gold: rgba(212,175,55,0.3);
+      --bg-deep: #120A08;
+      --bg-card: #221812;
+      --bg-item: #1A120C;
+      --green: #408040;
+      --blue: #446688;
+      --red: #8B0000;
+    }
+
+    body {
+      background: var(--bg-deep);
+      color: #D0C0B0;
+      font-size: 90%;
+    }
+
+    .guide-sidebar { background: rgba(18,10,8,0.97); border-right-color: rgba(139,0,0,0.3); }
+    .guide-sidebar-title { color: var(--gold); }
+    .guide-sidebar-nav a { color: #8A7068; }
+    .guide-sidebar-nav a:hover { color: var(--gold); background: rgba(212,175,55,0.04); }
+    .guide-sidebar-nav a.active { color: var(--gold); background: rgba(212,175,55,0.08); border-left-color: var(--gold); }
+    .guide-sidebar-nav .nav-step { background: rgba(139,0,0,0.2); color: #7A5A50; }
+    .guide-sidebar-footer a { color: #6A5048; }
+    .guide-sidebar-footer a:hover { color: var(--gold); }
+
+    /* ===== HERO ===== */
+    .hero {
+      position: relative; padding: 48px 30px 36px;
+      overflow: hidden; border-bottom: 1px solid var(--border-gold);
+    }
+    .hero::before {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 100% 200% at 60% 50%, rgba(139,0,0,0.18) 0%, transparent 60%),
+        radial-gradient(ellipse 50% 100% at 95% 50%, rgba(212,175,55,0.06) 0%, transparent 50%);
+      pointer-events: none;
+    }
+    .hero-eyebrow {
+      font-family: 'Cinzel', serif; font-size: 17px;
+      letter-spacing: 4px; color: var(--accent-dim);
+      margin-bottom: 12px; display: flex; align-items: center; gap: 12px;
+    }
+    .hero-eyebrow::after {
+      content: ''; flex: 1; height: 1px;
+      background: linear-gradient(to right, var(--accent-dim), transparent);
+      max-width: 200px;
+    }
+    .hero h1 {
+      font-family: 'Cinzel', serif;
+      font-size: clamp(23px, 2.8vw, 41px);
+      font-weight: 900; line-height: 1.2;
+      color: var(--gold-bright);
+      text-shadow: 0 0 40px rgba(212,175,55,0.3), 0 2px 20px rgba(0,0,0,0.9);
+      letter-spacing: 1px; margin-bottom: 6px;
+    }
+    .hero-sub {
+      font-size: clamp(14px, 1.5vw, 18px);
+      color: var(--gold); font-weight: 500;
+      letter-spacing: 2px; margin-bottom: 10px;
+    }
+    .hero-meta { display: flex; flex-wrap: wrap; gap: 12px 24px; font-size: 17px; color: var(--text-dim); margin-bottom: 12px; }
+    .hero-meta .author { color: var(--gold-bright); font-weight: 600; }
+    .tag { display: inline-flex; align-items: center; gap: 5px; padding: 3px 10px; border-radius: 3px; font-size: 17px; font-weight: 500; }
+    .tag-gold { background: rgba(212,175,55,0.12); border: 1px solid var(--gold-dim); color: var(--gold); }
+    .tag-red { background: rgba(139,0,0,0.12); border: 1px solid var(--accent-dim); color: var(--accent-bright); }
+    .hero-stats { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    /* ===== SECTION BASE ===== */
+    .section { padding: 36px 30px; border-bottom: 1px solid rgba(74,48,32,0.4); }
+    .section:last-child { border-bottom: none; }
+    .section-header { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; }
+    .section-icon { font-size: 32px; }
+    .section-title { font-family: 'Cinzel', serif; font-size: 24px; font-weight: 600; color: var(--gold-bright); letter-spacing: 0.5px; }
+    .section-title-line { flex: 1; height: 1px; background: linear-gradient(to right, rgba(139,0,0,0.5), transparent); }
+
+    /* ===== TEXT BLOCK ===== */
+    .text-block { background: var(--bg-item); border: 1px solid var(--border); border-radius: 6px; padding: 18px 22px; margin-bottom: 16px; }
+    .text-block p { margin-bottom: 10px; line-height: 1.7; }
+    .text-block p:last-child { margin-bottom: 0; }
+    .text-block h5 { font-family: 'Cinzel', serif; font-size: 18px; color: var(--gold); margin: 12px 0 6px; }
+    .text-block h5:first-child { margin-top: 0; }
+    .highlight { color: var(--gold); font-weight: 600; }
+    .hl-red { color: var(--accent-bright); font-weight: 600; }
+
+    /* ===== CALLOUT ===== */
+    .callout { display: flex; gap: 10px; padding: 14px 18px; border-radius: 6px; margin-bottom: 16px; border-left: 3px solid; }
+    .callout-tip { background: rgba(64,128,64,0.06); border-color: var(--green); }
+    .callout-warn { background: rgba(139,0,0,0.06); border-color: var(--accent-bright); }
+    .callout-info { background: rgba(68,102,136,0.06); border-color: var(--blue); }
+    .callout p { color: var(--text-dim); line-height: 1.6; }
+    .callout p strong { color: var(--gold-bright); }
+    .callout-icon { font-size: 18px; flex-shrink: 0; }
+
+    /* ===== GRID LAYOUTS ===== */
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 16px; }
+    .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin-bottom: 16px; }
+    .grid-card { background: var(--bg-item); border: 1px solid var(--border); border-radius: 6px; padding: 14px 16px; }
+    .grid-card h4 { font-family: 'Cinzel', serif; font-size: 18px; color: var(--gold-bright); margin-bottom: 6px; }
+    .grid-card p { color: var(--text-dim); line-height: 1.6; }
+    .grid-card ul { list-style: none; padding: 0; margin: 0; }
+    .grid-card ul li { color: var(--text-dim); line-height: 1.6; padding: 2px 0 2px 14px; position: relative; }
+    .grid-card ul li::before { content: '•'; position: absolute; left: 2px; color: var(--accent-dim); }
+
+    .priority-list { list-style: none; padding: 0; margin: 0 0 16px 0; }
+    .priority-list li { color: var(--text-dim); padding: 3px 0 3px 18px; position: relative; line-height: 1.5; font-size: 13.2px; }
+    .priority-list li::before { content: '▸'; position: absolute; left: 2px; color: var(--accent-dim); }
+
+    /* ===== ASCENDANCY NODE CARD ===== */
+    .ascend-card {
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 20px;
+      transition: border-color 0.2s;
+    }
+    .ascend-card:hover { border-color: var(--gold-dim); }
+    .ascend-card-header {
+      display: flex;
+      align-items: stretch;
+      border-bottom: 1px solid var(--border);
+    }
+    .ascend-card-rank {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 64px;
+      flex-shrink: 0;
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 1px;
+      color: var(--text-muted);
+      background: rgba(139,0,0,0.08);
+      border-right: 1px solid var(--border);
+    }
+    .ascend-card-rank .num {
+      font-size: 24px;
+      font-weight: 900;
+      color: var(--gold);
+      line-height: 1;
+    }
+    .ascend-card-body { padding: 16px 18px; flex: 1; }
+    .ascend-card-body h4 {
+      font-family: 'Cinzel', serif;
+      font-size: 20px;
+      color: var(--gold-bright);
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .ascend-card-body .en-name {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+      letter-spacing: 0.5px;
+    }
+    .ascend-card-body p {
+      color: var(--text-dim);
+      line-height: 1.7;
+      margin-bottom: 8px;
+    }
+    .ascend-card-body p:last-child { margin-bottom: 0; }
+    .ascend-mechanics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 6px;
+      border-top: 1px solid rgba(74,48,32,0.3);
+      padding-top: 8px;
+    }
+    .mech-tag {
+      font-size: 12.1px;
+      padding: 2px 9px;
+      border-radius: 3px;
+      background: rgba(139,0,0,0.08);
+      border: 1px solid rgba(139,0,0,0.2);
+      color: var(--gold);
+    }
+    .mech-tag.key { background: rgba(212,175,55,0.12); border-color: var(--gold-dim); color: var(--gold-bright); }
+
+    /* ===== MECHANISM FLOW ===== */
+    .flow-container {
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 24px 20px;
+      margin-bottom: 16px;
+      overflow-x: auto;
+    }
+    .flow-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .flow-row:last-child { margin-bottom: 0; }
+    .flow-node {
+      padding: 8px 14px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      text-align: center;
+      min-width: 80px;
+      border: 1px solid transparent;
+    }
+    .flow-node.start { background: rgba(68,102,136,0.15); border-color: var(--blue); color: #88AACC; }
+    .flow-node.action { background: rgba(139,0,0,0.1); border-color: var(--accent-dim); color: var(--accent-bright); }
+    .flow-node.result { background: rgba(212,175,55,0.1); border-color: var(--gold-dim); color: var(--gold-bright); }
+    .flow-node.conditional { background: rgba(64,128,64,0.1); border-color: var(--green); color: #66AA66; }
+    .flow-arrow {
+      color: var(--text-muted);
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+    .flow-arrow-wide { margin: 0 4px; }
+    .flow-step-label {
+      font-size: 12px;
+      color: var(--text-muted);
+      text-align: center;
+      font-family: 'Cinzel', serif;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+    .flow-phase {
+      background: rgba(18,10,8,0.5);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 10px 14px;
+      margin-bottom: 10px;
+    }
+    .flow-phase-title {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      color: var(--gold-dim);
+      margin-bottom: 6px;
+      letter-spacing: 1px;
+    }
+
+    /* ===== BUILD STYLE COMPARISON ===== */
+    .style-card {
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+    .style-card:hover { border-color: var(--gold-dim); }
+    .style-card-header {
+      padding: 12px 14px;
+      background: rgba(139,0,0,0.06);
+      border-bottom: 1px solid var(--border);
+      text-align: center;
+    }
+    .style-card-header h4 {
+      font-family: 'Cinzel', serif;
+      font-size: 18px;
+      color: var(--gold-bright);
+      margin-bottom: 2px;
+    }
+    .style-card-header .style-sub {
+      font-size: 13px;
+      color: var(--text-muted);
+      letter-spacing: 0.5px;
+    }
+    .style-card-body { padding: 12px 14px; }
+    .style-card-body .stat-line {
+      display: flex;
+      justify-content: space-between;
+      padding: 3px 0;
+      border-bottom: 1px solid rgba(74,48,32,0.15);
+      font-size: 13.2px;
+    }
+    .style-card-body .stat-line:last-child { border-bottom: none; }
+    .style-card-body .stat-label { color: var(--text-muted); }
+    .style-card-body .stat-value { color: var(--gold); font-weight: 600; }
+    .style-tag {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-size: 12.1px;
+      font-weight: 600;
+      margin: 2px;
+    }
+    .style-tag.clear { background: rgba(68,102,136,0.12); color: var(--blue); border: 1px solid rgba(68,102,136,0.3); }
+    .style-tag.boss { background: rgba(139,0,0,0.12); color: var(--accent-bright); border: 1px solid rgba(139,0,0,0.3); }
+    .style-tag.mobile { background: rgba(212,175,55,0.12); color: var(--gold); border: 1px solid var(--gold-dim); }
+
+    /* ===== COMPARISON TABLE ===== */
+    .cmp-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 16px;
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .cmp-table th {
+      font-family: 'Cinzel', serif;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--gold-bright);
+      background: rgba(139,0,0,0.08);
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    .cmp-table td {
+      padding: 10px 14px;
+      color: var(--text-dim);
+      border-bottom: 1px solid rgba(74,48,32,0.15);
+      font-size: 13.2px;
+      line-height: 1.6;
+    }
+    .cmp-table tr:last-child td { border-bottom: none; }
+    .cmp-table tr:hover td { background: rgba(212,175,55,0.02); }
+    .cmp-table td:first-child { font-weight: 600; color: var(--gold); }
+    .cmp-highlight td { color: var(--gold-bright) !important; }
+    .cmp-highlight td:first-child { color: var(--gold-bright) !important; }
+
+    /* ===== GEM SETUP COMPACT ===== */
+    .gem-setup {
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      margin-bottom: 12px;
+    }
+    .gem-setup-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 16px;
+      background: rgba(139,0,0,0.06);
+      border-bottom: 1px solid var(--border);
+    }
+    .gem-setup-header .gs-name {
+      font-family: 'Cinzel', serif;
+      font-size: 17px;
+      color: var(--gold-bright);
+      font-weight: 600;
+    }
+    .gem-setup-header .gs-tag {
+      font-size: 12.1px;
+      padding: 2px 7px;
+      border-radius: 3px;
+      font-weight: 600;
+    }
+    .gs-tag.core { background: rgba(139,0,0,0.12); color: var(--accent-bright); border: 1px solid rgba(139,0,0,0.3); }
+    .gs-tag.aura { background: rgba(68,102,136,0.12); color: var(--blue); border: 1px solid rgba(68,102,136,0.3); }
+    .gs-tag.buff { background: rgba(212,175,55,0.12); color: var(--gold); border: 1px solid var(--gold-dim); }
+    .gs-tag.curse { background: rgba(128,64,128,0.12); color: #AA77AA; border: 1px solid rgba(128,64,128,0.3); }
+    .gem-setup-body { padding: 10px 16px; }
+    .gem-support-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    .gem-support-row .sup {
+      font-size: 12.1px;
+      padding: 2px 8px;
+      background: rgba(139,0,0,0.06);
+      border: 1px solid rgba(139,0,0,0.15);
+      border-radius: 3px;
+      color: var(--gold);
+    }
+    .gem-support-row .sup.sup-key {
+      background: rgba(212,175,55,0.1);
+      border-color: var(--gold-dim);
+      color: var(--gold-bright);
+    }
+    .gem-arrow {
+      color: var(--accent-dim);
+      font-size: 14px;
+      margin: 0 2px;
+    }
+
+    /* ===== REFERENCE SECTION ===== */
+    .ref-card {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: var(--bg-item);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 16px 18px;
+      margin-bottom: 12px;
+      text-decoration: none;
+      transition: border-color 0.2s;
+    }
+    .ref-card:hover { border-color: var(--gold-dim); }
+    .ref-icon {
+      width: 48px; height: 48px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      flex-shrink: 0;
+      background: rgba(139,0,0,0.08);
+      border: 1px solid var(--accent-dim);
+    }
+    .ref-info h4 { font-family: 'Cinzel', serif; font-size: 17px; color: var(--gold-bright); margin-bottom: 2px; }
+    .ref-info p { color: var(--text-dim); font-size: 13.2px; }
+    .ref-link {
+      margin-left: auto;
+      color: var(--gold-dim);
+      font-size: 14px;
+      font-family: 'Cinzel', serif;
+      flex-shrink: 0;
+    }
+
+    /* ===== BACK TO TOP ===== */
+    .back-to-top {
+      position: fixed; bottom: 32px; right: 32px; z-index: 999;
+      width: 42px; height: 42px; border-radius: 50%;
+      background: rgba(139,0,0,0.15); border: 1px solid var(--accent-dim);
+      color: var(--gold); font-size: 26px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      opacity: 0; visibility: hidden; transition: all 0.3s;
+      backdrop-filter: blur(8px);
+    }
+    .back-to-top.show { opacity: 1; visibility: visible; }
+    .back-to-top:hover { background: rgba(139,0,0,0.3); border-color: var(--accent-bright); }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      .hero { padding: 32px 16px 24px; }
+      .section { padding: 28px 16px; }
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      .ascend-card-header { flex-direction: column; }
+      .ascend-card-rank { width: 100%; flex-direction: row; gap: 6px; padding: 6px 0; border-right: none; border-bottom: 1px solid var(--border); }
+      .ascend-card-rank .num { font-size: 18px; }
+      .flow-row { font-size: 12px; }
+      .flow-node { padding: 5px 10px; font-size: 12px; min-width: 60px; }
+    }
+    /* Lightbox */
+    .lightbox-overlay {
+      position: fixed; inset: 0; z-index: 3000;
+      background: rgba(0,0,0,0.95);
+      display: flex; align-items: center; justify-content: center;
+      opacity: 0; visibility: hidden; transition: all 0.3s; cursor: pointer;
+    }
+    .lightbox-overlay.open { opacity: 1; visibility: visible; }
+    .lightbox-overlay img {
+      max-width: 92vw; max-height: 92vh;
+      border-radius: 6px; box-shadow: 0 0 60px rgba(0,0,0,0.9);
+      object-fit: contain;
+    }
+    .lightbox-close {
+      position: fixed; top: 20px; right: 28px; z-index: 3001;
+      font-size: 36px; color: #fff; cursor: pointer;
+      opacity: 0.7; transition: opacity 0.2s; font-family: sans-serif; line-height: 1;
+    }
+    .lightbox-close:hover { opacity: 1; }
+
+    /* ── Gem tooltip trigger ── */
+    .p2tt {
+      cursor: help;
+      border-bottom: 1px dashed var(--gold-dim);
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .p2tt:hover {
+      color: var(--gold-bright) !important;
+      border-bottom-color: var(--gold-bright);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== TOP NAV ===== -->
+  <nav class="top-nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-back">&#x2190; 返回流放之路2</a>
+      <span class="nav-game-name">武圣升华解析</span>
+      <span class="nav-breadcrumb">首页 &gt; 流放之路2 &gt; 武圣升华</span>
+    </div>
+  </nav>
+
+  <!-- ===== SITE HEADER ===== -->
+  <section class="site-header-section" style="padding:5rem 0 1rem;">
+    <div class="container" style="display:flex;align-items:center;justify-content:center;gap:1.5rem;flex-wrap:wrap;">
+      <div style="display:flex;align-items:center;gap:0.85rem;">
+        <img src="../../mypic.jpg" alt="看云起云落" style="width:40px;height:40px;border-radius:50%;object-fit:cover;border:2px solid var(--gold);box-shadow:0 0 12px rgba(212,175,55,0.3);">
+        <div>
+          <div style="font-family:'Cinzel',serif;font-size:1.15rem;font-weight:700;color:var(--gold);">看云起云落</div>
+          <div style="font-size:0.83rem;color:var(--text-muted);margin-top:0.1rem;">一只上班狗，业余刷刷刷，随缘更新</div>
+        </div>
+      </div>
+      <img src="../../assets/images/my-bili-2pic.png" alt="B站二维码" style="width:48px;height:48px;border-radius:6px;cursor:pointer;transition:all 0.2s;" onclick="document.getElementById('qrPreview').classList.add('open')" title="扫码查看B站主页">
+      <a href="https://space.bilibili.com/443078910" target="_blank" style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.3rem 0.75rem;background:rgba(251,114,153,0.08);border:1px solid rgba(251,114,153,0.2);border-radius:100px;font-size:0.81rem;color:#fb7299;text-decoration:none;transition:all 0.2s;">
+        <svg viewBox="0 0 24 24" width="12" height="12" fill="#fb7299"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 3.84c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906L17.813 4.653zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773H5.333zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933.373z"/></svg>
+        space.bilibili.com/443078910
+      </a>
+    </div>
+  </section>
+
+  <!-- ===== SIDEBAR ===== -->
+  <aside class="guide-sidebar" id="guideSidebar">
+    <div class="guide-sidebar-title">目 录</div>
+    <ul class="guide-sidebar-nav">
+      <li><a href="#sec-overview" class="active"><span class="nav-icon">&#x1F4CB;</span><span class="nav-text">武圣总览</span><span class="nav-step">TOP</span></a></li>
+      <li><a href="#sec-mechanics"><span class="nav-icon">&#x2699;&#xFE0F;</span><span class="nav-text">核心机制</span><span class="nav-step">MECH</span></a></li>
+      <li><a href="#sec-nodes"><span class="nav-icon">&#x1F4D6;</span><span class="nav-text">节点速查</span><span class="nav-step">NODES</span></a></li>
+      <li><a href="#sec-mistakes"><span class="nav-icon">&#x26A0;&#xFE0F;</span><span class="nav-text">避坑指南</span><span class="nav-step">FIX</span></a></li>
+    </ul>
+    <div class="guide-sidebar-footer">
+      <a href="https://space.bilibili.com/443078910" target="_blank">B站 @看云起云落</a>
+    </div>
+  </aside>
+
+  <!-- ===== SIDEBAR TOGGLE ===== -->
+  <button class="guide-sidebar-toggle" id="sidebarToggle" aria-label="切换导航">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main class="guide-content">
+
+    <!-- ===== HERO ===== -->
+    <section class="hero" id="sec-overview">
+      <div class="hero-eyebrow">武僧 · 武圣 · v0.5</div>
+      <h1>武圣 — 0.5版本新升华完全解析</h1>
+      <div class="hero-sub">Monk · Martial Artist · Ascendancy Deep Dive</div>
+      <div class="hero-meta">
+        <span>作者: <span class="author">看云起云落</span></span>
+        <span>更新: 2026-05-28</span>
+        <span>来源: Mobalytics / PoE2DB / Reddit实测</span>
+      </div>
+      <div class="hero-stats">
+        <span class="tag tag-gold">武僧</span>
+        <span class="tag tag-gold">武圣</span>
+        <span class="tag tag-gold">0.5 RotA</span>
+        <span class="tag tag-red">升华指南</span>
+      </div>
+    </section>
+
+    <!-- ===== SECTION 1: 武圣总览 ===== -->
+    <section class="section" id="sec-overview-detail">
+      <div class="section-header">
+        <span class="section-icon">&#x1F4CB;</span>
+        <h2 class="section-title">武圣总览</h2>
+        <div class="section-title-line"></div>
+      </div>
+
+      <div style="margin-bottom:20px;border-radius:8px;overflow:hidden;border:1px solid var(--border-gold);background:var(--bg-card);padding:6px;">
+        <img src="../../assets/images/poe2/martial/%E6%AD%A6%E5%9C%A3-%E5%8D%87%E5%8D%8E%E5%A4%A9%E8%B5%8B%E5%85%A8%E6%99%AF.png"
+             alt="武圣升华天赋全景"
+             style="display:block;width:100%;height:auto;border-radius:4px;">
+      </div>
+
+      <div class="text-block">
+        <p><span class="highlight">武圣（Martial Artist）</span> 是 POE2 0.5 版本为武僧新增的升华，定位为<span class="hl-red">近战连击爆发</span>特化。相比 Invoker（防御+元素协同）和 Acolyte of Chayula（混沌+偷取），武圣的核心差异在于：手套质变、连击→充能球无限循环、分身炸钟联动、防具符文特权。0.5 版本增强了偏斜（Deflection）与闪避（Evasion）系统，武圣的终局生存面板可达 9K ES / 80% EV / 85% Deflect。</p>
+      </div>
+
+      <div class="text-block">
+        <h5>四大独特卖点</h5>
+        <div class="grid-2" style="margin-top:10px;">
+          <div class="grid-card" style="border-left:3px solid var(--gold);">
+            <h4>手套质变</h4>
+            <p>石拳之道将所有手套基底升级，防御翻倍（1100+ EV / 350+ ES），词缀池加入基础暴击率、额外伤害、暴击得球等稀有词缀。<br><span style="color:var(--gold);font-size:13px;">对暗金手套同样生效</span></p>
+          </div>
+          <div class="grid-card" style="border-left:3px solid var(--accent-bright);">
+            <h4>连击→充能球无限循环</h4>
+            <p>武术大师（全攻击叠连击）+ 武术专精（双倍连击速度）+ <span class="p2tt" data-type="support" data-key="Ailiths_Chimes">艾利丝钟琴（Ailith's Chimes）</span>（20层消耗得充能球），实现 24/7 全自动充能球永续。<br><span style="color:var(--gold);font-size:13px;">连击 = 充能球 = 增伤</span></p>
+          </div>
+          <div class="grid-card" style="border-left:3px solid var(--blue);">
+            <h4>分身炸钟联动</h4>
+            <p>虚空魅影提升分身攻击频率，分身击中钟时引爆震波。配合虚空钟灵自动生成钟 + <span class="p2tt" data-type="support" data-key="Ancestral_Call_II">Ancestral Call II</span> 一次三钟，爆发窗口内伤害翻倍。<br><span style="color:var(--gold);font-size:13px;">分身+钟=武圣独家</span></p>
+          </div>
+          <div class="grid-card" style="border-left:3px solid var(--green);">
+            <h4>防具符文特权</h4>
+            <p>符文经脉在防具上提供 +5 额外符文槽，可嵌入 Breath of Aldur（火电转冰→稳定冰捷）、Xopec's Core（增伤）等赛季符文。<br><span style="color:var(--gold);font-size:13px;">符文特权 = 高度定制</span></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="text-block">
+        <h5>Monk 三升华对比</h5>
+        <table class="cmp-table" style="margin-top:10px;">
+          <thead>
+            <tr>
+              <th>维度</th>
+              <th>Invoker</th>
+              <th>Acolyte of Chayula</th>
+              <th class="cmp-highlight">武圣</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>防御倾向</td><td>闪避+格挡</td><td>能量护盾偷取</td><td style="color:var(--gold-bright);font-weight:600;">闪避+ES+偏斜三重</td></tr>
+            <tr><td>资源机制</td><td>无特殊资源</td><td>混沌充能</td><td style="color:var(--gold-bright);font-weight:600;">连击→充能球</td></tr>
+            <tr><td>爆发模式</td><td>元素协同</td><td>混沌DOT</td><td style="color:var(--gold-bright);font-weight:600;">三钟+分身引爆</td></tr>
+            <tr><td>清图能力</td><td>A</td><td>B</td><td style="color:var(--gold-bright);font-weight:600;">S</td></tr>
+            <tr><td>单体爆发</td><td>A</td><td>A</td><td style="color:var(--gold-bright);font-weight:600;">S+</td></tr>
+            <tr><td>操作难度</td><td>低</td><td>中</td><td style="color:var(--gold-bright);font-weight:600;">中高</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="text-block">
+        <h5>升华节点一览</h5>
+        <div class="priority-list" style="margin-bottom:0;">
+          <li><span class="highlight">虚空钟灵（Hollow Focus）</span> — 自动生成必晕钟，<span class="p2tt" data-type="skill" data-key="Killing_Palm">Killing Palm</span>斩杀得充能球</li>
+          <li><span class="highlight">石拳之道（Way of the Stonefist）</span> — 手套基底升级，词缀池质变</li>
+          <li><span class="highlight">高山之道（Path of the High Mountain）</span> — 获得山之教诲：低伤减免约20%（推测）</li>
+          <li><span class="highlight">虚空和鸣（Hollow Resonance）</span> — 暴击触发，基于暴击率+充能球数量提供更多伤害</li>
+          <li><span class="highlight">符文经脉（Runic Meridians）</span> — 防具+5符文槽，赛季符文协同</li>
+          <li><span class="highlight">武术专精（Martial Adept）</span> — 双倍连击积攒，满连击立即开始ES充能</li>
+          <li><span class="highlight">武术大师（Martial Master）</span> — 所有攻击叠连击，最终拼图</li>
+          <li><span class="highlight">虚空魅影（Void Phantom）</span> — 形虚式：提升分身攻速，分身击钟引爆震波</li>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== SECTION 2: 核心机制深度拆解 ===== -->
+    <section class="section" id="sec-mechanics">
+      <div class="section-header">
+        <span class="section-icon">&#x2699;&#xFE0F;</span>
+        <h2 class="section-title">核心机制深度拆解</h2>
+        <div class="section-title-line"></div>
+      </div>
+
+      <!-- 2.1 石拳之道手套转化 -->
+      <div class="text-block">
+        <h5>一、石拳之道：手套质变</h5>
+        <p><span class="highlight">石拳之道（Way of the Stonefist）</span> 的效果是<span class="hl-red">升级</span>手套基底，而非简单改变。</p>
+        <p>装备手套后，基底自动提升为"石拳"等级，防御值翻倍：海外实测一双手套可达 <span class="highlight">1100+ 闪避值(EV) / 350+ 能量护盾(ES)</span>，接近半件胸甲。词缀池同时获得质变——手套上可以出现基础暴击率、获得额外伤害（Gain Extra Damage as X）、最大抗性等原本属于武器/胸甲的词缀。0.5 版本新增深淵词缀 Arcane Surge on Crit，经石拳之道转化为 <span class="highlight">Power Charge on Crit</span>，是中后期核心得球手段。</p>
+        <p><strong>关键注意：</strong>石拳之道对<span class="hl-red">所有手套生效</span>，包括暗金手套。智行之手、Shavronne's Satchel 等暗金手套同样获得基底升级和词缀池扩展。</p>
+        <div style="max-width:750px;margin:10px auto;">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+            <img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3-%E6%89%8B%E5%A5%97%E6%95%88%E6%9E%9C-%E6%99%BA%E8%A1%8C%E4%B9%8B%E6%89%8B-%E8%BD%AC%E5%8F%98%E5%89%8D.png" alt="智行之手-转变前" style="display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--border);cursor:pointer;" onclick="openLightbox(this.src)">
+            <img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3-%E6%89%8B%E5%A5%97%E6%95%88%E6%9E%9C-%E6%99%BA%E8%A1%8C%E4%B9%8B%E6%89%8B-%E8%BD%AC%E5%8F%98%E5%90%8E.png" alt="智行之手-转变后" style="display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--border);cursor:pointer;" onclick="openLightbox(this.src)">
+            <img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3-%E6%89%8B%E5%A5%97%E6%95%88%E6%9E%9C-%E9%BB%84%E8%A3%85-%E8%BD%AC%E5%8C%96%E5%89%8D.png" alt="黄装-转化前" style="display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--border);cursor:pointer;" onclick="openLightbox(this.src)">
+            <img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3-%E6%89%8B%E5%A5%97%E6%95%88%E6%9E%9C-%E9%BB%84%E8%A3%85-%E8%BD%AC%E5%8C%96%E5%90%8E.png" alt="黄装-转化后" style="display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--border);cursor:pointer;" onclick="openLightbox(this.src)">
+          </div>
+          <div style="max-width:360px;margin:8px auto 0;">
+            <img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3%E6%89%8B%E5%A5%97%E6%95%88%E6%9E%9C3.png" alt="石拳手套效果3" style="display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--border);cursor:pointer;" onclick="openLightbox(this.src)">
+          </div>
+        </div>
+      </div>
+
+      <!-- 2.2 连击→充能球循环 -->
+      <div class="text-block">
+        <h5>二、连击→充能球无限循环</h5>
+        <p>这是武圣的<span class="hl-red">核心引擎</span>，由三个组件构成闭环：</p>
+        <p><span class="highlight">武术大师（Martial Master）：</span> 所有攻击都能积攒连击——包括<span class="p2tt" data-type="spirit" data-key="Herald_of_Ice">冰捷（Herald of Ice）</span>的冰爆、<span class="p2tt" data-type="skill" data-key="Charged_Staff">充能长杖（Charged Staff）</span>的闪电附加伤害、乃至分身的攻击。不存在"不能叠连击的攻击"。</p>
+        <p><span class="highlight">武术专精（Martial Adept）：</span> 连击积攒速度翻倍；且每次消耗满 20 层连击后，能量护盾(ES)立即开始充能。后者是武圣的防续航核心，注意充能过程会被击中打断。</p>
+        <p><span class="p2tt" data-type="support" data-key="Ailiths_Chimes"><span class="highlight">艾利丝钟琴（Ailith's Chimes）</span></span>，血统辅助宝石，等级65，需求+5敏捷：辅助可以消耗连击的技能，每消耗一层连击有 <span class="hl-red">25% 溢出几率</span>获得充能球。消耗满 20 层连击时，理论上期望获得约 5 个充能球。配合武术大师的全攻击叠连击、武术专精的双倍速度，这个消耗永远跟得上积攒，实现 24/7 充能球自给自足。</p>
+        <p><span class="highlight">虚空和鸣（Hollow Resonance）</span> 将充能球数量转化为暴击增伤。<span class="p2tt" data-type="support" data-key="Culmination_II"><span class="highlight">登峰造极 II（Culmination II）</span></span> 是连击体系的核心辅助宝石（Tier 5，需求 +5 敏捷）：它辅助一个近战攻击技能，使用其他近战攻击命中敌人时会为该技能积攒连击层数，每次使用被辅助技能时重置连击。每层连击提供 <span class="hl-red">2% 更多伤害</span>，上限 20 层 = <span class="highlight">40% 更多伤害</span>，且连击衰减速度减慢 50%。三者叠加，等于是连击层数 × 充能球数量 × 暴击率的三重伤害乘区。</p>
+        <p><strong>一句话：</strong> 武圣不需要手动打充能球——连击就是电池，攻击就是充电器，伤害就是输出。</p>
+      </div>
+
+      <!-- 2.3 符文系统 -->
+      <div class="text-block">
+        <h5>三、符文经脉与防具符文特权</h5>
+        <p><span class="highlight">符文经脉（Runic Meridians）</span> 在<span class="hl-red">防具</span>上提供 +5 额外符文槽，不是珠宝孔。这是武圣独有的装备定制特权。0.5 赛季关键符文：</p>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;margin:10px 0;">
+          <div style="flex:1;min-width:300px;background:rgba(26,18,12,0.6);border:1px solid var(--border);border-radius:6px;padding:10px 14px;">
+            <img src="../../assets/images/poe2/martial/Breath%20of%20Aldur.png" alt="Breath of Aldur" style="display:block;width:405px;height:auto;margin:0 auto 6px;cursor:pointer;" onclick="openLightbox(this.src)">
+            <div style="font-size:14px;color:var(--gold);font-weight:600;margin-bottom:2px;text-align:center;">Breath of Aldur</div>
+            <div style="font-size:12px;color:var(--text-dim);text-align:center;">火/电伤害 → 冰伤害转化<br>纯冰伤 = 稳定触发冰捷</div>
+          </div>
+          <div style="flex:1;min-width:300px;background:rgba(26,18,12,0.6);border:1px solid var(--border);border-radius:6px;padding:10px 14px;">
+            <img src="../../assets/images/poe2/martial/Xopec%27s%20Soul%20Core%20of%20Power.png" alt="Xopec's Soul Core of Power" style="display:block;width:405px;height:auto;margin:0 auto 6px;cursor:pointer;" onclick="openLightbox(this.src)">
+            <div style="font-size:14px;color:var(--gold);font-weight:600;margin-bottom:2px;text-align:center;">Xopec's Soul Core of Power</div>
+            <div style="font-size:12px;color:var(--text-dim);text-align:center;">基础增伤符文<br>全流派通用</div>
+          </div>
+          <div style="flex:1;min-width:300px;background:rgba(26,18,12,0.6);border:1px solid var(--border);border-radius:6px;padding:10px 14px;">
+            <img src="../../assets/images/poe2/martial/Farrul%27s%20Rune%20of%20the%20Hunt.png" alt="Farrul's Rune of the Hunt" style="display:block;width:405px;height:auto;margin:0 auto 6px;cursor:pointer;" onclick="openLightbox(this.src)">
+            <div style="font-size:14px;color:var(--gold);font-weight:600;margin-bottom:2px;text-align:center;">Farrul's Rune of the Hunt</div>
+            <div style="font-size:12px;color:var(--text-dim);text-align:center;">狩猎系增伤<br>特定BD选择</div>
+          </div>
+          <div style="flex:1;min-width:300px;background:rgba(26,18,12,0.6);border:1px solid var(--border);border-radius:6px;padding:10px 14px;">
+            <img src="../../assets/images/poe2/martial/Warding%20Rune%20of%20Protection.png" alt="Warding Rune of Protection" style="display:block;width:405px;height:auto;margin:0 auto 6px;cursor:pointer;" onclick="openLightbox(this.src)">
+            <div style="font-size:14px;color:var(--gold);font-weight:600;margin-bottom:2px;text-align:center;">Warding Rune of Protection</div>
+            <div style="font-size:12px;color:var(--text-dim);text-align:center;">护盾符文<br>提供额外防护</div>
+          </div>
+          <div style="flex:1;min-width:300px;background:rgba(26,18,12,0.6);border:1px solid var(--border);border-radius:6px;padding:10px 14px;">
+            <img src="../../assets/images/poe2/martial/Warding%20Rune%20of%20Reinforcement.png" alt="Warding Rune of Reinforcement" style="display:block;width:405px;height:auto;margin:0 auto 6px;cursor:pointer;" onclick="openLightbox(this.src)">
+            <div style="font-size:14px;color:var(--gold);font-weight:600;margin-bottom:2px;text-align:center;">Warding Rune of Reinforcement</div>
+            <div style="font-size:12px;color:var(--text-dim);text-align:center;">强化护盾<br>增强防御能力</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2.4 分身炸钟 -->
+      <div class="text-block">
+        <h5>四、分身-钟联动体系</h5>
+        <p><span class="highlight">虚空钟灵（Hollow Focus Technique）：</span> 钟<span class="hl-red">周期性自动生成</span>在角色附近，始终处于"必晕（Primed for Stun）"状态，击打必定暴击。钟可被 <span class="p2tt" data-type="skill" data-key="Killing_Palm">Killing Palm</span> 斩杀获得充能球，是开荒期唯一稳定得球手段。</p>
+        <p><span class="highlight">虚空魅影（Void Phantom）：</span> 触发"形虚式（Formless Void）"状态后，分身攻击频率大幅提高。关键联动：<span class="hl-red">分身击中钟时会引爆钟的震波</span>，一次爆发可触发多次震波，伤害翻倍。配合 <span class="p2tt" data-type="support" data-key="Ancestral_Call_II">Ancestral Call II</span> 一次放下 3 个钟，分身集体引爆，是武圣独有的爆发核弹。</p>
+      </div>
+    </section>
+
+    <!-- ===== SECTION 3: 升华节点简明表 ===== -->
+    <section class="section" id="sec-nodes">
+      <div class="section-header">
+        <span class="section-icon">&#x1F4D6;</span>
+        <h2 class="section-title">升华节点速查表</h2>
+        <div class="section-title-line"></div>
+      </div>
+
+      <table class="cmp-table">
+        <thead>
+          <tr>
+            <th style="width:10%;">图示</th>
+            <th style="width:14%;">节点名</th>
+            <th style="width:46%;">核心效果</th>
+            <th style="width:30%;">一句话点评</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E8%99%9A%E7%A9%BA%E9%92%9F%E7%81%B5.png" alt="虚空钟灵" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>虚空钟灵</td>
+            <td>自动生成必晕钟；<span class="p2tt" data-type="skill" data-key="Killing_Palm">Killing Palm</span> 斩杀钟获得充能球</td>
+            <td>前期唯一得球手段，后期分身引爆源</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E7%9F%B3%E6%8B%B3%E4%B9%8B%E9%81%93-%E7%9F%B3%E6%8B%B3.png" alt="石拳之道" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>石拳之道</td>
+            <td>升级手套基底（1100+EV/350+ES）；词缀池加入基础暴击/额外伤害/暴击得球；对暗金生效</td>
+            <td>质变核心，武圣存在的理由</td>
+          </tr>
+          <tr>
+            <td><div style="display:flex;flex-direction:column;align-items:center;gap:4px;"><img src="../../assets/images/poe2/martial/%E9%AB%98%E5%B1%B1%E4%B9%8B%E9%81%93.png" alt="高山之道" style="display:block;width:176px;height:auto;border-radius:2px;cursor:pointer;" onclick="openLightbox(this.src)"><img src="../../assets/images/poe2/martial/%E5%B1%B1%E4%B9%8B%E6%95%99%E8%AF%B2.png" alt="山之教诲" style="display:block;width:176px;height:auto;border-radius:2px;cursor:pointer;" onclick="openLightbox(this.src)"></div></td>
+            <td>高山之道</td>
+            <td>山之教诲：被击中时若伤害低于最大生命30%，减免该次伤害约20%（推测）</td>
+            <td>防御补强，配合高ES面板更稳妥</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E8%99%9A%E7%A9%BA%E5%92%8C%E9%B8%A3.png" alt="虚空和鸣" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>虚空和鸣</td>
+            <td>基于暴击率和充能球数量提供更多伤害；暴击面板低于30%时收益较低</td>
+            <td>后期核心增伤，暴击率硬门槛</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E7%AC%A6%E6%96%87%E7%BB%8F%E8%84%89.png" alt="符文经脉" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>符文经脉</td>
+            <td>防具+5符文槽；可嵌入赛季强力符文</td>
+            <td>防具特权，高度定制化</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E6%AD%A6%E6%9C%AF%E4%B8%93%E7%B2%BE.png" alt="武术专精" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>武术专精</td>
+            <td>连击积攒速度翻倍；满20层连击后ES立即开始充能</td>
+            <td>双倍连击=双倍伤害，ES充能是质变防御</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E6%AD%A6%E6%9C%AF%E5%A4%A7%E5%B8%88.png" alt="武术大师" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>武术大师</td>
+            <td>所有攻击都能积攒连击（含光环、分身）</td>
+            <td>终极拼图，连击永不归零</td>
+          </tr>
+          <tr>
+            <td><img src="../../assets/images/poe2/martial/%E5%BD%A2%E8%99%9A%E5%BC%8F-%E8%99%9A%E7%A9%BA%E9%AD%85%E5%BD%B1.png" alt="虚空魅影" style="display:block;width:256px;height:auto;border-radius:2px;margin:auto;cursor:pointer;" onclick="openLightbox(this.src)"></td>
+            <td>虚空魅影</td>
+            <td>形虚式提升分身攻速；分身击中钟时引爆震波</td>
+            <td>炸钟核弹的唯一途径</td>
+          </tr>
+        </tbody>
+      </table>
+
+    <!-- ===== SECTION 5: 常见误区与避坑 ===== -->
+    <section class="section" id="sec-mistakes">
+      <div class="section-header">
+        <span class="section-icon">&#x26A0;&#xFE0F;</span>
+        <h2 class="section-title">常见误区与避坑指南</h2>
+        <div class="section-title-line"></div>
+      </div>
+
+      <div class="text-block">
+        <p><strong>&#x274C; 误区1：</strong> 武圣必须空手。<br><strong>&#x2705; 正解：</strong> 石拳之道是让手套武器化，但武圣仍然使用长杖（Quarterstaff）作为主武器，手套和长杖共存。</p>
+      </div>
+      <div class="text-block">
+        <p><strong>&#x274C; 误区2：</strong> 手套只看防御数值。<br><strong>&#x2705; 正解：</strong> 手套词缀类型比白值更重要，基础暴击率、获得额外伤害、暴击得球才是决定天花板的关键词缀。</p>
+      </div>
+      <div class="text-block">
+        <p><strong>&#x274C; 误区3：</strong> 连击可以无限叠加。<br><strong>&#x2705; 正解：</strong> 连击上限20层。需要<span class="p2tt" data-type="support" data-key="Ailiths_Chimes">Ailith's Chimes</span>等消耗手段将连击转化为充能球，才能持续产出价值。</p>
+      </div>
+      <div class="text-block">
+        <p><strong>&#x274C; 误区4：</strong> 虚空钟灵的钟只能自己打。<br><strong>&#x2705; 正解：</strong> 分身也会攻击钟并引发震波爆炸，虚空魅影节点正是围绕这个联动设计的。</p>
+      </div>
+      <div class="text-block">
+        <p><strong>&#x274C; 误区5：</strong> 符文经脉给珠宝孔。<br><strong>&#x2705; 正解：</strong> 给的是防具上的额外符文槽（Rune Socket），不是珠宝孔（Jewel Socket）。</p>
+      </div>
+      <div class="text-block" style="margin-bottom:0;">
+        <p><strong>&#x274C; 误区6：</strong> ES即时充能等于无敌。<br><strong>&#x2705; 正解：</strong> 武术专精的效果是满连击后ES立即<span class="hl-red">开始</span>充能，但充能过程被击中仍然会打断。</p>
+      </div>
+    </section>
+
+    <!-- ===== SECTION 6: REFERENCES (removed) ===== -->
+    <!-- ===== FOOTER ===== -->
+    <footer class="footer">
+      <div class="container">
+        <div style="display:flex;flex-direction:column;align-items:center;gap:0.6rem;">
+          <a href="https://space.bilibili.com/443078910" target="_blank" style="display:inline-flex;align-items:center;gap:0.4rem;padding:0.35rem 0.85rem;background:rgba(251,114,153,0.1);border:1px solid rgba(251,114,153,0.2);border-radius:100px;font-size:0.75rem;color:#fb7299;text-decoration:none;transition:all 0.2s;">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="#fb7299"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 3.84c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906L17.813 4.653zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773H5.333zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373z"/></svg>
+            B站: @看云起云落
+          </a>
+          <img src="../../assets/images/my-bili-2pic.png" alt="B站二维码" class="footer-qr" style="width:80px;height:80px;border-radius:6px;cursor:pointer;" onclick="document.getElementById('qrPreview').classList.add('open')">
+          <p style="font-size:0.65rem;color:var(--text-muted);">扫码查看B站主页</p>
+          <p style="font-size:0.72rem;color:var(--text-muted);margin-top:0.5rem;">&copy; 2026 看云起云落</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Image Lightbox -->
+    <div class="lightbox-overlay" id="imgLightbox" onclick="closeLightbox()">
+      <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+      <img id="lightboxImg" src="" alt="图片预览">
+    </div>
+
+    <!-- QR Preview -->
+    <div class="qr-preview-overlay" id="qrPreview" onclick="this.classList.remove('open')">
+      <img src="../../assets/images/my-bili-2pic.png" alt="B站二维码大图">
+    </div>
+
+  </main>
+
+  <!-- Back to Top -->
+  <button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="回到顶部">&#x2191;</button>
+
+  <script src="../../assets/js/guide-sidebar.js"></script>
+  <script src="../../assets/js/poe2-gem-tooltip.js"></script>
+  <script>
+    (function() {
+      // Back to top
+      var btn = document.getElementById('backToTop');
+      window.addEventListener('scroll', function() {
+        btn.classList.toggle('show', window.pageYOffset > 300);
+      }, { passive: true });
+    })();
+    function openLightbox(src) {
+      document.getElementById('lightboxImg').src = src;
+      document.getElementById('imgLightbox').classList.add('open');
+    }
+    function closeLightbox() {
+      document.getElementById('imgLightbox').classList.remove('open');
+    }
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeLightbox();
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,1521 @@
+[
+  {
+    "slug": "Ahns_Citadel",
+    "id": "Ahns_Citadel",
+    "name_en": "Ahn's Citadel",
+    "name_cn": "汉恩的城塞",
+    "name_tw": "漢恩的城塞",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wallfortresssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ahns_Citadel",
+    "secDescrText": "Supports skills that create walls in a line, causing them to instead be created along a fissure.",
+    "icon_local": "images/poe2/skills/lineage/Ahns_Citadel.webp",
+    "explicitMod": [
+      "Walls from Supported Skills are created along a Fissure instead"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Ahn's Citadel\nSupport\nLineage\nCategory\n:\nFortress\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports skills that create walls in a line, causing them to instead be created along a fissure.\nWalls from Supported Skills are created along a Fissure instead\nAs possessed golems ravaged the land, Aul - crowned Ahn\nby blood and tyranny - began the last ritual, causing azurite\ncrystals to rupture and grow throughout his doomed citadel.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Ailiths_Chimes",
+    "id": "Ailiths_Chimes",
+    "name_en": "Ailith's Chimes",
+    "name_cn": "艾利丝钟琴",
+    "name_tw": "艾里絲的管鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combofinishersupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ailiths_Chimes",
+    "secDescrText": "Supports Skills which can expend Combo . On expending Combo with Supported Skills, you have a chance to gain Power Charges based on the amount of Combo expended.",
+    "icon_local": "images/poe2/skills/lineage/Ailiths_Chimes.webp",
+    "explicitMod": [
+      "25 % Surpassing chance to gain a Power Charge when expending Combo with Supported Skills per Combo expended"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Ailith's Chimes\nSupport\nLineage\nCategory\n:\nAilith's Chimes\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills which can expend\nCombo\n. On expending\nCombo\nwith Supported Skills, you have a chance to gain\nPower Charges\nbased on the amount of\nCombo\nexpended.\n25\n%\nSurpassing\nchance to gain a\nPower Charge\nwhen expending\nCombo\nwith Supported Skills per\nCombo\nexpended\nAilith awoke to find her fire iridescent, and her mind alive\nwith visions. By morning, she began teaching what she'd\nseen... thus was born the Keepers of the Pale Vision.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Amanamus_Tithe",
+    "id": "Amanamus_Tithe",
+    "name_en": "Amanamu's Tithe",
+    "name_cn": "阿曼娜姆的奉纳",
+    "name_tw": "阿姆那姆的稅賦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Minion",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Amanamus_Tithe",
+    "secDescrText": "Supports Persistent Minion Skills, granting a chance when Supported Minions die for you to gain an Abyssal Monster Modifier.",
+    "icon_local": "images/poe2/skills/lineage/Amanamus_Tithe.webp",
+    "explicitMod": [
+      "50 % chance to gain an Abyssal Monster Modifier for 20 seconds when a Minion from Supported Skills dies Maximum 3 Abyssal Monster Modifiers gained this way"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Amanamu's Tithe\nSupport\nLineage\n,\nMinion\n,\nPersistent\nCategory\n:\nAmanamu's Tithe\nRequires:\nLevel 25\nSupport Requirements\n:\n+5 Str\nSupports\nPersistent\nMinion\nSkills, granting a chance when Supported\nMinions\ndie for you to gain an Abyssal Monster Modifier.\n50\n% chance to gain an Abyssal Monster Modifier for 20 seconds when a\nMinion\nfrom Supported Skills dies\nMaximum 3 Abyssal Monster Modifiers gained this way\nThose that serve the Liege of the Lightless are his, utterly.\nBlood, flesh, and soul are fodder to bend to his will.\nUnder a Lich Lord, not even death is an escape.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 25 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Arakaalis_Lust",
+    "id": "Arakaalis_Lust",
+    "name_en": "Arakaali's Lust",
+    "name_cn": "阿拉卡力的欲望",
+    "name_tw": "艾爾卡莉之慾",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Arakaalis_Lust",
+    "secDescrText": "Supports any Skill that Hits Enemies, causing it to deal increasingly higher damage the more Poisons are on the target.",
+    "icon_local": "images/poe2/skills/lineage/Arakaalis_Lust.webp",
+    "explicitMod": [
+      "Supported Skills deal 8 % more Damage with Hits for each Poison on the Enemy, up to 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Arakaali's Lust\nSupport\nLineage\nCategory\n:\nArakaali's Lust\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports any Skill that\nHits\nEnemies, causing it to deal increasingly higher damage the more\nPoisons\nare on the target.\nSupported Skills deal\n8\n% more Damage with\nHits\nfor each\nPoison\non the Enemy, up to\n40\n%\nShe flashed a smile full of wicked teeth. \"Sin, my darling.\nForget your Maraketh woes.\" She bit and tore and reveled;\nhe lay trapped in silk, wrought with despair and ecstasy.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Arbiters_Ignition",
+    "id": "Arbiters_Ignition",
+    "name_en": "Arbiter's Ignition",
+    "name_cn": "仲裁官的点燃",
+    "name_tw": "仲裁者的燃灼",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "Fire"
+    ],
+    "detail_url": "https://poe2db.tw/us/Arbiters_Ignition",
+    "secDescrText": "Supports Fire Spell Skills causing you to gain Elemental Archon when Igniting with them.",
+    "icon_local": "images/poe2/skills/lineage/Arbiters_Ignition.webp",
+    "explicitMod": [
+      "Gain Elemental Archon when you Ignite an Enemy"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Arbiter's Ignition\nSupport\nLineage\n,\nSpell\n,\nFire\nCategory\n:\nArbiter's Ignition\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nFire\nSpell\nSkills causing you to gain\nElemental Archon\nwhen\nIgniting\nwith them.\nGain\nElemental Archon\nwhen you\nIgnite\nan Enemy\n\"This carving seems to depict curled bodies floating in vats...\nthe next shows all but one of them dying. What were they\ntrying to do? It seems they kept trying... kept experimenting...\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Arjuns_Medal",
+    "id": "Arjuns_Medal",
+    "name_en": "Arjun's Medal",
+    "name_cn": "阿尔琼的勋章",
+    "name_tw": "亞瓊的獎章",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/chancetonotconsumeammosupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Ammunition",
+      "Projectile"
+    ],
+    "detail_url": "https://poe2db.tw/us/Arjuns_Medal",
+    "secDescrText": "Supports Crossbow Skills, causing them to load a bolt into all Crossbow Ammunition on kill.",
+    "icon_local": "images/poe2/skills/lineage/Arjuns_Medal.webp",
+    "explicitMod": [
+      "Load a bolt into all Crossbow skills on dealing a Killing Blow with Supported Skill"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Arjun's Medal\nSupport\nLineage\n,\nAmmunition\n,\nProjectile\nCategory\n:\nAmmo Conservation\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports\nCrossbow\nSkills, causing them to load a bolt into all\nCrossbow\nAmmunition\non kill.\nLoad a bolt into all\nCrossbow\nskills on dealing a\nKilling Blow\nwith Supported Skill\nConfident their enemy was defenseless, the Keitans brazenly\ncharged the walls - but Arjun's ammunition supply reports\nhad been... 'inaccurate'... just like everything else Bardiyan.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Ataluis_Bloodletting",
+    "id": "Ataluis_Bloodletting",
+    "name_en": "Atalui's Bloodletting",
+    "name_cn": "阿图鲁伊的放血术",
+    "name_tw": "阿特路伊的出血",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/bloodmagicsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Physical"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ataluis_Bloodletting",
+    "secDescrText": "Supports any Skill, turning a portion of its Mana cost into a Life cost. Does not support Skills which reserve Spirit . Supported Skills Gain a portion of their Life cost as extra Physical Damage.",
+    "icon_local": "images/poe2/skills/lineage/Ataluis_Bloodletting.webp",
+    "explicitMod": [
+      "Supported Skills have Mana Costs Converted to Life Costs",
+      "Supported Skills Gain 2 % of Damage as extra Physical Damage per 20 Life cost, up to 40%"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Atalui's Bloodletting\nSupport\nLineage\n,\nPhysical\nCategory\n:\nLifetap\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports any Skill, turning a portion of its Mana cost into a Life cost. Does not support Skills which reserve\nSpirit\n. Supported Skills\nGain\na portion of their Life cost as extra\nPhysical\nDamage.\nSupported Skills have Mana Costs\nConverted\nto Life Costs\nSupported Skills\nGain\n2\n% of Damage as extra\nPhysical\nDamage per 20 Life cost, up to 40%\nAtazek and Atalui rose, battered and dark, bleeding from a hundred\ndifferent wounds. She gave her brother a sinister grin. \"Shall we\nshow them what happens to those who challenge the Vaal?\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Atziris_Allure",
+    "id": "Atziris_Allure",
+    "name_en": "Atziri's Allure",
+    "name_cn": "阿兹里的魅惑",
+    "name_tw": "阿茲里的魅惑",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Curse"
+    ],
+    "detail_url": "https://poe2db.tw/us/Atziris_Allure",
+    "secDescrText": "Supports Curse Spells you cast yourself, causing those Curses to ignore the usual Curse Limit , but be reflected back to you when inflicted.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Allure.webp",
+    "explicitMod": [
+      "Curses inflicted by Supported Skills ignore Curse limit",
+      "Curses inflicted by Supported Skills are reflected back to you",
+      "Supported Skills have 20 % less Curse Effect"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Atziri's Allure\nSupport\nLineage\n,\nCurse\nCategory\n:\nAtziri's Allure\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nCurse\nSpells\nyou cast yourself, causing those\nCurses\nto ignore the usual\nCurse\nLimit\n, but be reflected back to you when inflicted.\nCurses\ninflicted by Supported Skills ignore\nCurse\nlimit\nCurses\ninflicted by Supported Skills are reflected back to you\nSupported Skills have\n20\n% less\nCurse Effect\nSuch was her seductive power, every noble in the court fell\nover themselves to do her bidding. Winning a single glance\naway from her mirror meant more than their lives.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Atziris_Call",
+    "id": "Atziris_Call",
+    "name_en": "Atziri's Call",
+    "name_cn": "阿兹里的召唤",
+    "name_tw": "阿茲里的呼喚",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "AoE",
+      "Trigger"
+    ],
+    "detail_url": "https://poe2db.tw/us/Atziris_Call",
+    "secDescrText": "[DNT] Supports Spells you use yourself which Hit enemies. On Critical Hit with supported Spells , Trigger Atziri's Storm at the location of the nearest enemy.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Call.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "Atziri's Call\nSupport\nLineage\n,\nSpell\n,\nAoE\n,\nTrigger\nCategory\n:\nAtziri's Call\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\n[DNT] Supports\nSpells\nyou use yourself which\nHit\nenemies. On\nCritical Hit\nwith supported\nSpells\n,\nTrigger\nAtziri's Storm at the location of the nearest enemy.\nSupport\nAtziri's Call\n[DNT] Fill me in\n[DNT] Coming soon!\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Atziris_Communion",
+    "id": "Atziris_Communion",
+    "name_en": "Atziri's Communion",
+    "name_cn": "阿兹里的圣礼",
+    "name_tw": "阿茲里的共融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/Atziris_Communion",
+    "secDescrText": "[DNT] Supports Buff skills which reserve Spirit . Spirit costs from Supported Skills are converted to reserve a percentage of your Life.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Communion.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "Atziri's Communion\nSupport\nLineage\n,\nBuff\n,\nPersistent\nCategory\n:\nAtziri's Communion\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\n[DNT] Supports\nBuff\nskills which reserve\nSpirit\n.\nSpirit\ncosts from Supported Skills are converted to reserve a percentage of your Life.\nThe Red Communion was meant to transcend the limits\nof the soul, to transfigure the flesh, to bestow immortality.\nIt accomplished all of these things... most horribly.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Atziris_Impatience",
+    "id": "Atziris_Impatience",
+    "name_en": "Atziri's Impatience",
+    "name_cn": "阿兹里的焦躁",
+    "name_tw": "阿茲里的不耐",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Atziris_Impatience",
+    "secDescrText": "Supports Skills with Cooldowns, dramatically increasing the rate at which those Cooldowns Recover , but causing you to lose Life, Mana, and Energy Shield when they are used. Cannot Support Meta Skills or modify the Skills of Minions .",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Impatience.webp",
+    "explicitMod": [
+      "Lose 25 % of maximum Life, Mana, and Energy Shield when you use Supported Skills",
+      "Supported Skills have 100 % increased cooldown recovery rate"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Atziri's Impatience\nSupport\nLineage\nCategory\n:\nCooldown Recovery\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills with Cooldowns, dramatically increasing the rate at which those\nCooldowns Recover\n, but causing you to lose Life, Mana, and Energy Shield when they are used. Cannot Support\nMeta\nSkills or modify the Skills of\nMinions\n.\nLose\n25\n% of maximum Life, Mana, and\nEnergy Shield\nwhen you use Supported Skills\nSupported Skills have\n100\n% increased cooldown recovery rate\n\"Those who bored the Queen suffered an excessive punishment:\neveryone they had ever known would be killed, effectively\nerasing their life. So, no matter the cost... none kept her waiting.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Bhatairs_Vengeance",
+    "id": "Bhatairs_Vengeance",
+    "name_en": "Bhatair's Vengeance",
+    "name_cn": "巴蒂尔的复仇",
+    "name_tw": "瓦特爾的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/icebitesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Attack",
+      "Warcry",
+      "Cold",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Bhatairs_Vengeance",
+    "secDescrText": "Supports Attacks and Warcries you use yourself. Freezing an enemy with Supported Skills infuses you and your allies with Cold damage for a short time.",
+    "icon_local": "images/poe2/skills/lineage/Bhatairs_Vengeance.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "When you Freeze a target with Supported Skills, for each 1 Rage you have, you and Allies in your Presence gain 1% of Damage as Cold Damage for 20 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Bhatair's Vengeance\nSupport\nAttack\n,\nWarcry\n,\nCold\n,\nDuration\nCategory\n:\nIce Bite\nCost Multiplier:\n110%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nAttacks\nand\nWarcries\nyou use yourself.\nFreezing\nan enemy with Supported Skills infuses you and your allies with\nCold\ndamage for a short time.\nWhen you\nFreeze\na target with Supported Skills, for each 1\nRage\nyou have, you and\nAllies\nin your\nPresence\ngain 1% of Damage as\nCold\nDamage for\n20\nseconds\nIt is said that the Steward of Tales roams Wraeclast still,\nlost in the form of a Wyvern, full of sorrow and fury at\nthe loss of his beloved pupils to the King in the Mists...\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Brutus_Brain",
+    "id": "Brutus_Brain",
+    "name_en": "Brutus' Brain",
+    "name_cn": "布鲁特斯之脑",
+    "name_tw": "布魯特斯的腦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/meatshield.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Minion"
+    ],
+    "detail_url": "https://poe2db.tw/us/Brutus_Brain",
+    "secDescrText": "Supports skills which create Minions , causing those Minions to be unable to deal or take Damage. Cannot support skills which create undamageable Minions .",
+    "icon_local": "images/poe2/skills/lineage/Brutus_Brain.webp",
+    "explicitMod": [
+      "Minions from Supported Skills cannot be Damaged",
+      "Minions from Supported Skills deal no Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Brutus' Brain\nSupport\nLineage\n,\nMinion\nCategory\n:\nMeat Shield\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports skills which create\nMinions\n, causing those\nMinions\nto be unable to deal or take Damage. Cannot support skills which create undamageable\nMinions\n.\nMinions from Supported Skills cannot be Damaged\nMinions from Supported Skills deal no Damage\nShavronne gleefully raised her arms to the sky as lightning\nflashed. She'd done it! Her creation was perfect! Invincible.\nImmortal! But she soon realized there was one piece missing...\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Cirels_Cultivation",
+    "id": "Cirels_Cultivation",
+    "name_en": "Cirel's Cultivation",
+    "name_cn": "西雷尔的教化",
+    "name_tw": "西瑞爾的耕植",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/greatwoodsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Totem"
+    ],
+    "detail_url": "https://poe2db.tw/us/Cirels_Cultivation",
+    "secDescrText": "Supports Skills which create Totems , preventing you from having more than one of that Totem but granting significant benefits for Supported Totems based how many allied Totems are near them. Does not Support Skills used by Minions .",
+    "icon_local": "images/poe2/skills/lineage/Cirels_Cultivation.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "Supported Skills can only have one active Totem",
+      "Totems created by Supported Skills have 5 % increased area of effect per allied Totem in effect radius",
+      "Totems created by Supported Skills deal 10 % more damage per allied Totem in effect radius",
+      "Totems created by supported Skills regenerate 1 % of maximum Life per second per allied Totem in effect radius",
+      "Supported Totems can gain benefits for having up to 5 Totems in effect radius",
+      "Counts allied Totems in radius of 4 metres"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Cirel's Cultivation\nSupport\nLineage\n,\nTotem\nCategory\n:\nTotemic Control\nCost Multiplier:\n115%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which create\nTotems\n, preventing you from having more than one of that\nTotem\nbut granting significant benefits for Supported\nTotems\nbased how many allied\nTotems\nare near them. Does not Support Skills used by\nMinions\n.\nSupported Skills can only have one active\nTotem\nTotems\ncreated by Supported Skills have\n5\n% increased area of effect per allied\nTotem\nin effect radius\nTotems\ncreated by Supported Skills deal\n10\n% more damage per allied\nTotem\nin effect radius\nTotems\ncreated by supported Skills regenerate\n1\n% of maximum Life per second per allied\nTotem\nin effect radius\nSupported\nTotems\ncan gain benefits for having up\nto\n5\nTotems\nin effect radius\nCounts allied\nTotems\nin radius of\n4\nmetres\nThe oldest and greatest fortress on Wraeclast was grown, not built.\nShe Who Waited planted their seeds in a time of ash and snow.\nNow, the gate of the Taisce is unassailable, yet open to all.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "DNT_Tangmazu_Lineage",
+    "id": "DNT_Tangmazu_Lineage",
+    "name_en": "[DNT] Tangmazu Lineage",
+    "name_cn": "[DNT] Tangmazu Lineage",
+    "name_tw": "[DNT] Tangmazu Lineage",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Buff",
+      "Persistent"
+    ],
+    "detail_url": "https://poe2db.tw/us/DNT_Tangmazu_Lineage",
+    "secDescrText": "[DNT] Tangmazu Lineage",
+    "icon_local": "images/poe2/skills/lineage/DNT_Tangmazu_Lineage.webp",
+    "explicitMod": [
+      "25 % increased Light Radius while a Supported Skill is active",
+      "20 % reduced Slowing Potency of Debuffs on You while a Supported Skill is active",
+      "10 % increased Movement Speed while Sprinting while a Supported Skill is active"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "[DNT] Tangmazu Lineage\nSupport\nLineage\n,\nBuff\n,\nPersistent\nCategory\n:\n[DNT] Tangmazu Lineage\nAdditional Reservation:\n15 Spirit\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\n[DNT] Tangmazu Lineage\n25\n% increased\nLight Radius\nwhile a Supported Skill is active\n20\n% reduced\nSlowing\nPotency of\nDebuffs\non You while a Supported Skill is active\n10\n% increased Movement Speed while Sprinting while a Supported Skill is active\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Daressos_Passion",
+    "id": "Daressos_Passion",
+    "name_en": "Daresso's Passion",
+    "name_cn": "德瑞索的热情",
+    "name_tw": "德瑞索的熱情",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Banner",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Daressos_Passion",
+    "secDescrText": "Supports Banner Skills, causing them to require significantly less Glory to use.",
+    "icon_local": "images/poe2/skills/lineage/Daressos_Passion.webp",
+    "explicitMod": [
+      "Supported Skills require 50 % less Glory to use"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Daresso's Passion\nSupport\nBanner\n,\nLineage\nCategory\n:\nDaresso's Passion\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports\nBanner\nSkills, causing them to require significantly less\nGlory\nto use.\nSupported Skills require\n50\n% less\nGlory\nto use\n\"I raised my eyes to look upon my death. Instead, I saw her.\nMerveil. Fighting had always been about survival. Now the\nfight became about something much greater... love.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Diallas_Desire",
+    "id": "Diallas_Desire",
+    "name_en": "Dialla's Desire",
+    "name_cn": "达拉的渴望",
+    "name_tw": "達拉的渴望",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Diallas_Desire",
+    "secDescrText": "Supports any Skill which has levels, increasing the level and Quality , while reducing the cost and Reservation .",
+    "icon_local": "images/poe2/skills/lineage/Diallas_Desire.webp",
+    "reservation": "90%",
+    "cost": "90%",
+    "explicitMod": [
+      "+1 to Level of Supported Skill Gems",
+      "+10 % to Quality of Supported Skills"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Dialla's Desire\nSupport\nLineage\nCategory\n:\nDialla's Desire\nReservation Multiplier:\n90%\nCost Multiplier:\n90%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports any Skill which has levels, increasing the level and\nQuality\n, while reducing the cost and\nReservation\n.\n+1\nto Level of Supported Skill Gems\n+10\n% to\nQuality\nof Supported Skills\n\"I will become your Gemling Queen, my love, but not\nwith such dull stones. I want to give myself to you\nfor eternity. Surely we can seek perfection together?\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Doedres_Undoing",
+    "id": "Doedres_Undoing",
+    "name_en": "Doedre's Undoing",
+    "name_cn": "德瑞的毁灭",
+    "name_tw": "德瑞的毀滅",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/cursedgroundsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "AoE",
+      "Trigger",
+      "Chaos",
+      "Curse",
+      "Hazard"
+    ],
+    "detail_url": "https://poe2db.tw/us/Doedres_Undoing",
+    "secDescrText": "Supports Curse Skills. Supported Curse Skills create Hazardous areas which explode when Enemies enter them, Cursing Enemies and dealing Chaos Damage.",
+    "icon_local": "images/poe2/skills/lineage/Doedres_Undoing.webp",
+    "explicitMod": [
+      "Supported Skills create Cursed Ground Enemies on the Cursed Ground from a Supported Skill are Cursed while within it",
+      "Cursed Ground created by Supported Skills counts as a Hazard",
+      "Maximum 2 areas of Cursed Ground",
+      "Cursed Ground created by Supported Skills triggers Doedre's Dark Design when Enemies enter",
+      "Deals (7 — 217) to (13 — 404) Chaos Damage",
+      "Explosion applies Supported Curse for 3 seconds on Hit",
+      "Explosion radius is equal to that of the Cursed Ground"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Doedre's Undoing\nSupport\nLineage\n,\nSpell\n,\nAoE\n,\nTrigger\n,\nChaos\n,\nCurse\n,\nHazard\nCategory\n:\nCursed Ground\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nCurse\nSkills. Supported\nCurse\nSkills create\nHazardous\nareas which explode when Enemies enter them,\nCursing\nEnemies and dealing\nChaos\nDamage.\nSupport\nSupported Skills create\nCursed\nGround\nEnemies on the\nCursed\nGround from a Supported Skill are\nCursed\nwhile within it\nCursed\nGround created by Supported Skills counts as a\nHazard\nMaximum\n2\nareas of\nCursed\nGround\nCursed\nGround created by Supported Skills triggers Doedre's Dark Design when Enemies enter\nDoedre's Dark Design\nLevel:\n(1\n—\n20)\nThis Skill will copy the Level of the Gem it is Socketed in\nCast Time:\n1.00 sec\nCritical Hit\nChance:\n7.00%\nExplodes and deals\nChaos\nDamage when an Enemy enters the area, applying the supported\nCurse\non\nHit\n.\nDeals\n(7\n—\n217)\nto\n(13\n—\n404)\nChaos\nDamage\nExplosion applies Supported\nCurse\nfor\n3\nseconds on\nHit\nExplosion radius is equal to that of the\nCursed\nGround\n\"Let the meat show us the way. Hail the meat, praise the\nmeat. The meat is both debasement and divinity alike. The\nmeat shall lead us down the path to true enlightenment.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Dominus_Grasp",
+    "id": "Dominus_Grasp",
+    "name_en": "Dominus' Grasp",
+    "name_cn": "神主之握",
+    "name_tw": "神主的掌握",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Projectile",
+      "Chaining"
+    ],
+    "detail_url": "https://poe2db.tw/us/Dominus_Grasp",
+    "secDescrText": "Supports Projectile skills and any other skills that Chain , causing them to Chain more times.",
+    "icon_local": "images/poe2/skills/lineage/Dominus_Grasp.webp",
+    "explicitMod": [
+      "Supported Skills Chain 100 % more times"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Dominus' Grasp\nSupport\nLineage\n,\nProjectile\n,\nChaining\nCategory\n:\nDominus' Grasp\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports\nProjectile\nskills and any other skills that\nChain\n, causing them to\nChain\nmore times.\nSupported Skills\nChain\n100\n% more times\nThe High Templar needed thousands of prisoners if his and\nPiety's experiments were to succeed. Conspiring on the\nmatter, they decided to revive an age old tradition... exile.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Dreamers_Knell",
+    "id": "Dreamers_Knell",
+    "name_en": "Dreamer's Knell",
+    "name_cn": "幻梦者的丧钟",
+    "name_tw": "幻夢者的喪鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Attack",
+      "AoE",
+      "Melee",
+      "Trigger",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Dreamers_Knell",
+    "secDescrText": "[DNT-UNUSED] Ezomyte Four",
+    "icon_local": "images/poe2/skills/lineage/Dreamers_Knell.webp",
+    "explicitMod": [
+      "Attack Damage of this skill is 40 % of Default Attack Damage",
+      "Shockwave radius is 1 metre",
+      "Bell duration is 8 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Dreamer's Knell\nSupport\nLineage\n,\nAttack\n,\nAoE\n,\nMelee\n,\nTrigger\n,\nDuration\nCategory\n:\nDreamers' Knell\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\n[DNT-UNUSED] Ezomyte Four\nSupport\n[DNT-UNUSED] Supported Skills create a Bell for every\n2\nCombo\nexpended when expending\nCombo\n[DNT] Small Bell\n[DNT] Ring Ring but small\nAttack Damage of this skill is\n40\n% of\nDefault Attack Damage\nShockwave radius is\n1\nmetre\nBell duration is\n8\nseconds\n[DNT-UNUSED]\nLimit\n8\nBells\nEach initiate hears a bell tolling in their dreams. It is the\nclarion call of the Benevolent Dreamer. From then on,\nthey dedicate their lives to a singular purpose.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Einhars_Beastrite",
+    "id": "Einhars_Beastrite",
+    "name_en": "Einhar's Beastrite",
+    "name_cn": "伊恩哈尔的魔物仪式",
+    "name_tw": "埃哈的野獸儀式",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/beheadsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Attack",
+      "Melee",
+      "Strike"
+    ],
+    "detail_url": "https://poe2db.tw/us/Einhars_Beastrite",
+    "secDescrText": "Supports Melee Strike skills, causing them to steal a Modifier from Rare monsters they kill for a lengthy duration, while being unable to damage enemies not on low Life. Does not modify skills used by Minions .",
+    "icon_local": "images/poe2/skills/lineage/Einhars_Beastrite.webp",
+    "explicitMod": [
+      "Supported Skills can only Damage Low Life Enemies",
+      "Killing Blows from Supported Strike Skills against Rare monsters grant two of their Modifiers for 300 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Einhar's Beastrite\nSupport\nLineage\n,\nAttack\n,\nMelee\n,\nStrike\nCategory\n:\nBehead\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Melee\nStrike\nskills, causing them to steal a\nModifier\nfrom\nRare\nmonsters they kill for a lengthy duration, while being unable to damage enemies not on low Life. Does not modify skills used by\nMinions\n.\nSupported Skills can only Damage\nLow Life\nEnemies\nKilling Blows\nfrom Supported\nStrike\nSkills against\nRare\nmonsters grant two of their\nModifiers\nfor\n300\nseconds\n\"You must cut the beast, like this,\" he told the wide-eyed\nand forgetful woman. \"The juiciest parts are in the middle!\"\nShe nodded, and began relearning the way of the wilds.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Eonyrs_Thunder",
+    "id": "Eonyrs_Thunder",
+    "name_en": "Eonyr's Thunder",
+    "name_cn": "伊奥尼尔的雷霆",
+    "name_tw": "伊歐涅的雷霆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "AoE",
+      "Lightning"
+    ],
+    "detail_url": "https://poe2db.tw/us/Eonyrs_Thunder",
+    "secDescrText": "[DNT] Supports any Skill which can deal Damage. Lightning Damage from Supported Skills can inflict Electrocute , but Supported Skills cannot inflict Shock . Enemies slain while Electrocuted by Supported Skills explode, dealing a percentage of their maximum Life as Lightning damage.",
+    "icon_local": "images/poe2/skills/lineage/Eonyrs_Thunder.webp",
+    "explicitMod": [
+      "Supported Skills Cannot inflict Shock",
+      "Lightning Damage from Supported Skills Contributes to Electrocution Buildup"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Eonyr's Thunder\nSupport\nLineage\n,\nAoE\n,\nLightning\nCategory\n:\nElectrocute\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\n[DNT] Supports any Skill which can deal Damage.\nLightning\nDamage from Supported Skills can inflict\nElectrocute\n, but Supported Skills cannot inflict\nShock\n. Enemies slain while\nElectrocuted\nby Supported Skills explode, dealing a percentage of their maximum Life as\nLightning\ndamage.\nSupported Skills Cannot inflict\nShock\nLightning\nDamage from Supported Skills\nContributes\nto\nElectrocution\nBuildup\n\"How? Well, the Great Wyvern granted her passage, of course.\nEonyr and his flock soar the winds between us and the Moon.\nThe roar of the storm... that's them, as they hunt and call.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Eshs_Radiance",
+    "id": "Eshs_Radiance",
+    "name_en": "Esh's Radiance",
+    "name_cn": "艾许的光辉",
+    "name_tw": "艾許的光芒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Lightning",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Eshs_Radiance",
+    "secDescrText": "Supports Skills that can cause Damaging Hits , granting extra Chaos damage and causing Chaos damage to Contribute to Shock .",
+    "icon_local": "images/poe2/skills/lineage/Eshs_Radiance.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Chaos Damage from Hits with Supported Skills also Contributes to Shock Chance",
+      "Supported Skills Gain 40 % of Lightning Damage as Extra Chaos Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Esh's Radiance\nSupport\nLineage\n,\nLightning\n,\nChaos\nCategory\n:\nBreachlord\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports Skills that can cause\nDamaging Hits\n, granting extra\nChaos\ndamage and causing\nChaos\ndamage to\nContribute\nto\nShock\n.\nChaos\nDamage from\nHits\nwith Supported Skills also\nContributes\nto\nShock\nChance\nSupported Skills\nGain\n40\n% of\nLightning\nDamage as Extra\nChaos\nDamage\n\"Where life once thrived, now only metal grows, inching\nlike endless worms through the ash. Where silence fell,\nnow sourceless thought whispers numbers in the dark.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Garukhans_Resolve",
+    "id": "Garukhans_Resolve",
+    "name_en": "Garukhan's Resolve",
+    "name_cn": "格鲁坎的决心",
+    "name_tw": "卡洛翰的決心",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Attack"
+    ],
+    "detail_url": "https://poe2db.tw/us/Garukhans_Resolve",
+    "secDescrText": "Supports Attack Skills you use yourself which do not already have some Condition for use. Supported Skills have a maximum Critical Hit chance , but will Bifurcate Critical Hit Chance . Cannot support Skills which have a Cooldown or that are Triggered , and does not modify skills used by Minions .",
+    "icon_local": "images/poe2/skills/lineage/Garukhans_Resolve.webp",
+    "explicitMod": [
+      "Maximum Critical Hit chance with Supported Skills is 50 %",
+      "Attack Critical Hit Chance with Supported Skills Bifurcates"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Garukhan's Resolve\nSupport\nLineage\n,\nAttack\nCategory\n:\nGarukhan's Resolve\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports\nAttack\nSkills you use yourself which do not already have some\nCondition\nfor use. Supported Skills have a maximum\nCritical Hit chance\n, but will\nBifurcate Critical Hit Chance\n. Cannot support Skills which have a Cooldown or that are\nTriggered\n, and does not modify skills used by\nMinions\n.\nMaximum\nCritical Hit chance\nwith Supported Skills is\n50\n%\nAttack Critical Hit Chance\nwith Supported Skills\nBifurcates\nAt the last, her hope gone - but not her resolve - she threw her\nbeloved Tangletongue. That was the day a god bled. For this, the\nGreat Roc graced a Maraketh warrior with a feather for the first time.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Guatelitzis_Ablation",
+    "id": "Guatelitzis_Ablation",
+    "name_en": "Guatelitzi's Ablation",
+    "name_cn": "瓜铁雷兹的消融",
+    "name_tw": "瓜特利斯的消融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Guatelitzis_Ablation",
+    "secDescrText": "Supports Offering Skills. Supported Skills Sacrifice a portion of your life on use. While Offering spikes from Supported Skills persist, you are periodically granted a Power Charge . When spikes from Supported Skills die, Regenerate a percentage of your maximum Life and Mana per second based on the duration the Offering persisted.",
+    "icon_local": "images/poe2/skills/lineage/Guatelitzis_Ablation.webp",
+    "explicitMod": [
+      "When an Offering from Supported Skills dies, Regenerate 5 % of your Life and Mana per second, for as long as that Offering was alive",
+      "Supported Skills Sacrifice 25 % of Life on use",
+      "Offerings from Supported Skills grant you a Power Charge every 4 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Guatelitzi's Ablation\nSupport\nLineage\nCategory\n:\nSacrificial Offering\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nOffering\nSkills. Supported Skills\nSacrifice\na portion of your life on use. While\nOffering\nspikes from Supported Skills persist, you are periodically granted a\nPower Charge\n. When spikes from Supported Skills die, Regenerate a percentage of your maximum Life and Mana per second based on the duration the\nOffering\npersisted.\nWhen an\nOffering\nfrom Supported Skills dies, Regenerate\n5\n% of your Life and Mana per second, for as long as that\nOffering\nwas alive\nSupported Skills\nSacrifice\n25\n% of Life on use\nOfferings\nfrom Supported Skills grant you a\nPower Charge\nevery\n4\nseconds\nYoung Guatelitzi was found moving among the prisoners,\npreparing their living bodies for sacrifice. The High Priests\nrecognised his inclinations, and gave him a higher calling.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Hayoxis_Fulmination",
+    "id": "Hayoxis_Fulmination",
+    "name_en": "Hayoxi's Fulmination",
+    "name_cn": "海幽夏的诛罚",
+    "name_tw": "荷霖蔡的轟鳴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "AoE",
+      "Trigger",
+      "Physical",
+      "Lightning",
+      "Cold",
+      "Fire",
+      "Chaos",
+      "Curse"
+    ],
+    "detail_url": "https://poe2db.tw/us/Hayoxis_Fulmination",
+    "secDescrText": "Supports Curse Skills. Supported Curse Skills create areas which Curse enemies so long as they are within them. Cursed areas from Supported Skills gather power before erupting in a column of annihilating light after a moderate delay.",
+    "icon_local": "images/poe2/skills/lineage/Hayoxis_Fulmination.webp",
+    "cooldown_time": "2.00 s",
+    "explicitMod": [
+      "Supported Skills create Cursed Ground Enemies on the Cursed Ground from a Supported Skill are Cursed while within it",
+      "Maximum 2 areas of Cursed Ground",
+      "Trigger Annihilation when Cursed Ground from Supported Skills have persisted for 7 seconds",
+      "Deals (25 — 850) to (37 — 1275) Physical Damage",
+      "Impact radius is 1.7 metres",
+      "Hits a total of 6 times over 2 seconds",
+      "100% of Physical Damage Converted to other Damage Types matching the Supported Curse Gem's Tags"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Hayoxi's Fulmination\nSupport\nLineage\n,\nSpell\n,\nAoE\n,\nTrigger\n,\nPhysical\n,\nLightning\n,\nCold\n,\nFire\n,\nChaos\n,\nCurse\nCategory\n:\nCursed Ground\nCooldown Time:\n2.00 s\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nCurse\nSkills. Supported\nCurse\nSkills create areas which\nCurse\nenemies so long as they are within them.\nCursed\nareas from Supported Skills gather power before erupting in a column of annihilating light after a moderate delay.\nSupport\nSupported Skills create\nCursed\nGround\nEnemies on the\nCursed\nGround from a Supported Skill are\nCursed\nwhile within it\nMaximum\n2\nareas of\nCursed\nGround\nTrigger Annihilation when\nCursed\nGround from Supported Skills have persisted for\n7\nseconds\nAnnihilation\nLevel:\n(1\n—\n20)\nThis Skill will copy the Level of the Gem it is Socketed in\nCast Time:\nInstant\nCritical Hit\nChance:\n9.00%\nDeals\n(25\n—\n850)\nto\n(37\n—\n1275)\nPhysical\nDamage\nImpact radius is\n1.7\nmetres\nHits\na total of\n6\ntimes over\n2\nseconds\n100% of Physical Damage Converted to other Damage Types matching the Supported\nCurse\nGem's Tags\nThe Architect of Destruction slipped explosive powder\nunder the royal temple one pinch at a time. For years,\nhe clung to that, never finding the courage to light it.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Helbryms_Hide",
+    "id": "Helbryms_Hide",
+    "name_en": "Helbrym's Hide",
+    "name_cn": "赫尔布林的隐瞒",
+    "name_tw": "海爾賓姆的躲藏",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Shapeshift",
+      "Buff"
+    ],
+    "detail_url": "https://poe2db.tw/us/Helbryms_Hide",
+    "secDescrText": "[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a Buff that stores damage taken, granting you Guard and Rage based on the amount when the Buff expires. Changing forms before the Buff expires causes it to be removed without effect.",
+    "icon_local": "images/poe2/skills/lineage/Helbryms_Hide.webp",
+    "cost": "130%",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "Helbrym's Hide\nSupport\nLineage\n,\nShapeshift\n,\nBuff\nCategory\n:\n[DNT] Hide of Helbrym\nCost Multiplier:\n130%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\n[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a\nBuff\nthat stores damage taken, granting you\nGuard\nand\nRage\nbased on the amount when the\nBuff\nexpires. Changing forms before the\nBuff\nexpires causes it to be removed without effect.\nSurrounded by abominations, Lysanda of Myr expected her\ntime had come to an end. Helbrym of Tarth charged from\nthe trees, breaking his oath, to save the Ezomyte Queen.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Ixchels_Torment",
+    "id": "Ixchels_Torment",
+    "name_en": "Ixchel's Torment",
+    "name_cn": "伊克切尔的折磨",
+    "name_tw": "薩雷許的折磨",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/randomisedtriggersupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Trigger"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ixchels_Torment",
+    "secDescrText": "",
+    "icon_local": "images/poe2/skills/lineage/Ixchels_Torment.webp",
+    "explicitMod": [
+      "Guarded by aberrations of chaos",
+      "Contains an additional Unique Item, Corrupted with an Enchantment"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Ixchel's Torment\nBlacksmith's Strongbox\nRequires:\nLevel 1\nGuarded by aberrations of chaos\nContains an additional Unique Item, Corrupted with an Enchantment\nCorrupted\nHis Trials will end when Time does...\nand then, they will begin again.",
+    "requirements": "Requires: Level 1"
+  },
+  {
+    "slug": "Kalisas_Crescendo",
+    "id": "Kalisas_Crescendo",
+    "name_en": "Kalisa's Crescendo",
+    "name_cn": "卡莉莎的强音",
+    "name_tw": "卡莉莎的漸強",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Kalisas_Crescendo",
+    "secDescrText": "Supports Curse Skills. Enemies Cursed by Supported Skills are Pacified for the final portion of the Supported Curse's duration.",
+    "icon_local": "images/poe2/skills/lineage/Kalisas_Crescendo.webp",
+    "explicitMod": [
+      "Enemies affected by Curses from Supported Skills are Pacified for the final 30 % of Supported Curse's duration",
+      "Enemies Pacified this way cannot be Pacified again for 8 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Kalisa's Crescendo\nSupport\nLineage\nCategory\n:\nKalisa's Crescendo\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nCurse\nSkills. Enemies\nCursed\nby Supported Skills are\nPacified\nfor the final portion of the Supported\nCurse's\nduration.\nEnemies affected by\nCurses\nfrom Supported Skills are\nPacified\nfor the final\n30\n% of Supported\nCurse's\nduration\nEnemies\nPacified\nthis way cannot be\nPacified\nagain for\n8\nseconds\n\"Her voice reached into my chest and plucked my beating\nheart from its cage. By the wide, glistening eyes of my\nfellow punters, I knew that they felt it, too.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Kaoms_Madness",
+    "id": "Kaoms_Madness",
+    "name_en": "Kaom's Madness",
+    "name_cn": "冈姆的疯狂",
+    "name_tw": "岡姆的癲狂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/upheavalsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Attack",
+      "Melee"
+    ],
+    "detail_url": "https://poe2db.tw/us/Kaoms_Madness",
+    "secDescrText": "Supports Skills which create fissures in the ground, causing them to create many additional fissures at the cost of damage, speed, and area of effect.",
+    "icon_local": "images/poe2/skills/lineage/Kaoms_Madness.webp",
+    "explicitMod": [
+      "Supported Skills create 3 additional fissures",
+      "Supported Skills deal 20 % less Damage",
+      "Supported Skills have 20 % less Skill Speed",
+      "Supported Skills have 30 % less Area of Effect"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Kaom's Madness\nSupport\nLineage\n,\nAttack\n,\nMelee\nCategory\n:\nFissures\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which create fissures in the ground, causing them to create many additional fissures at the cost of damage, speed, and area of effect.\nSupported Skills create\n3\nadditional fissures\nSupported Skills deal\n20\n% less Damage\nSupported Skills have\n20\n% less\nSkill Speed\nSupported Skills have\n30\n% less Area of Effect\nAs King Kaom delved further into Wraeclast, so, too, did he\ndraw closer to the Beast. One night, in a nightmarish fit, he\nswung his axe at his own men, slaughtering hundreds.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Khatals_Rejuvenation",
+    "id": "Khatals_Rejuvenation",
+    "name_en": "Khatal's Rejuvenation",
+    "name_cn": "卡哈塔的复苏",
+    "name_tw": "卡塔爾的恢復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Remnant"
+    ],
+    "detail_url": "https://poe2db.tw/us/Khatals_Rejuvenation",
+    "secDescrText": "Supports Skills that generate Remnants . Picking up Remnants from Supported Skills grants Khatal's Rejuvenation .",
+    "icon_local": "images/poe2/skills/lineage/Khatals_Rejuvenation.webp",
+    "reservation": "120%",
+    "cost": "120%",
+    "explicitMod": [
+      "Remnants created by Supported Skills grant Khatal's Rejuvenation when collected"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Khatal's Rejuvenation\nSupport\nLineage\n,\nRemnant\nCategory\n:\nKhatal's Rejuvenation\nReservation Multiplier:\n120%\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports Skills that generate\nRemnants\n. Picking up\nRemnants\nfrom Supported Skills grants\nKhatal's Rejuvenation\n.\nRemnants\ncreated by Supported Skills grant\nKhatal's Rejuvenation\nwhen collected\nThe surging geysers flooded the tunnels of the ancient\nenemy, destroying whole legions. His akhara turned to\npraise the tale-man Khatal, but he was dust on the wind.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Kulemaks_Dominion",
+    "id": "Kulemaks_Dominion",
+    "name_en": "Kulemak's Dominion",
+    "name_cn": "库勒马克的统治",
+    "name_tw": "骷髏馬克的支配",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Kulemaks_Dominion",
+    "secDescrText": "Supports Offering Skills, causing Spells that affect an area around you or a target location to also affect the area around Supported Offerings .",
+    "icon_local": "images/poe2/skills/lineage/Kulemaks_Dominion.webp",
+    "cost": "130%",
+    "explicitMod": [
+      "Spells you cast which affect an area around you or a targeted location also affect an area around Supported Offerings Spells deal 50 % less damage when affecting areas around Offerings this way"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Kulemak's Dominion\nSupport\nLineage\nCategory\n:\nKulemak's Dominion\nCost Multiplier:\n130%\nRequires:\nLevel 25\nSupport Requirements\n:\n+5 Int\nSupports\nOffering\nSkills, causing\nSpells\nthat affect an area around you or a target location to also affect the area around Supported\nOfferings\n.\nSpells\nyou cast which affect an area around you or a targeted location also affect an area around Supported\nOfferings\nSpells\ndeal\n50\n% less damage when affecting areas around\nOfferings\nthis way\nStill a shadow of his former self, Kulemak turned to deception.\nHe promised Ahn untold power and mastery, in exchange for\na single golem. \"After all, what harm could one servant do?\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 25 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Kurgals_Leash",
+    "id": "Kurgals_Leash",
+    "name_en": "Kurgal's Leash",
+    "name_cn": "古加尔的缰绳",
+    "name_tw": "柯戈的繩索",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Minion",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Kurgals_Leash",
+    "secDescrText": "Supports Commandable Minions causing you and the Supported Minion to gain Unholy Might when you Command them.",
+    "icon_local": "images/poe2/skills/lineage/Kurgals_Leash.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Gain Unholy Might for 15 seconds on Commanding Minions from Supported Skills",
+      "Minions from Supported Skills gain Unholy Might for 15 seconds when Commanded"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Kurgal's Leash\nSupport\nLineage\n,\nMinion\n,\nChaos\nCategory\n:\nBlackblood\nCost Multiplier:\n120%\nRequires:\nLevel 25\nSupport Requirements\n:\n+5 Int\nSupports\nCommandable Minions\ncausing you and the Supported\nMinion\nto gain\nUnholy Might\nwhen you\nCommand\nthem.\nGain\nUnholy Might\nfor\n15\nseconds on\nCommanding\nMinions\nfrom Supported Skills\nMinions\nfrom Supported Skills gain\nUnholy Might\nfor\n15\nseconds when\nCommanded\nKurgal's first body was a mere stone golem, enslaved by a\ncollar. He found such ecstasy in the power of dominion,\nhe clawed his way free... and soon, supplanted a Lich Lord.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 25 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Morganas_Tempest",
+    "id": "Morganas_Tempest",
+    "name_en": "Morgana's Tempest",
+    "name_cn": "莫甘娜的暴风",
+    "name_tw": "魔甘娜的風暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "Storm"
+    ],
+    "detail_url": "https://poe2db.tw/us/Morganas_Tempest",
+    "secDescrText": "Supports Spells which create Storms , increasing their Limit and causing them to move from the player towards the target location faster, but become less effective. Cannot Support Triggered Skills.",
+    "icon_local": "images/poe2/skills/lineage/Morganas_Tempest.webp",
+    "explicitMod": [
+      "Supported Skills have 25 % less area of effect",
+      "Supported Skills have 35 % less damage",
+      "Supported Skills have 60 % more Storm travel speed",
+      "Supported Storm Skills have + 1 to Limit",
+      "Supported Skills originate from the player and move towards the target location"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Morgana's Tempest\nSupport\nLineage\n,\nSpell\n,\nStorm\nCategory\n:\nAdvancing Storm, Overabundance\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nSpells\nwhich create\nStorms\n, increasing their\nLimit\nand causing them to move from the player towards the target location faster, but become less effective. Cannot Support\nTriggered\nSkills.\nSupported Skills have\n25\n% less area of effect\nSupported Skills have\n35\n% less damage\nSupported Skills have\n60\n% more\nStorm\ntravel speed\nSupported\nStorm\nSkills have +\n1\nto\nLimit\nSupported Skills originate from the player and move towards the target location\nOn the nights the fugue would come over her, the Ezomytes would\ngather below, begging her to bring the rains. Atop the Taisce,\nwailing with unknown sorrows, her cries made the skies rage.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Ois%C3%ADns_Oath",
+    "id": "Ois%C3%ADns_Oath",
+    "name_en": "Oisín's Oath",
+    "name_cn": "奥辛之誓",
+    "name_tw": "歐辛的誓言",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DItems/Gems/New/NewSupport/Lineage/WalkeroftheWilds.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell"
+    ],
+    "detail_url": "https://poe2db.tw/us/Ois%C3%ADns_Oath",
+    "secDescrText": "Supports Skills which Hit enemies, causing their Mana Leech to recover based on Elemental damage instead of Physical damage.",
+    "icon_local": "images/poe2/skills/lineage/Ois%C3%ADns_Oath.webp",
+    "explicitMod": [
+      "Mana Leech from Supported Skills recovers based on Elemental Damage Types instead of Physical Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Oisín's Oath\nSupport\nLineage\n,\nSpell\nCategory\n:\nMana Leech\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports Skills which\nHit\nenemies, causing their\nMana Leech\nto recover based on\nElemental\ndamage instead of\nPhysical\ndamage.\nMana Leech\nfrom Supported Skills recovers based on\nElemental Damage Types\ninstead of\nPhysical\nDamage\nThe first Warden of Eaves swore to patrol the border twixt the worlds forevermore, so that the tragedy of Gruthkul's stampede would never recur. In time, his vigil on the edge began to... change him.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Paquates_Pact",
+    "id": "Paquates_Pact",
+    "name_en": "Paquate's Pact",
+    "name_cn": "帕夸特的契约",
+    "name_tw": "帕科特的協議",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/corruptingcrysupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Warcry",
+      "Physical",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Paquates_Pact",
+    "secDescrText": "Supports Warcries , causing them to inflict massive amounts of Corrupted Blood on enemies in their area of effect, at the cost of your Life.",
+    "icon_local": "images/poe2/skills/lineage/Paquates_Pact.webp",
+    "explicitMod": [
+      "Corrupted Blood deals 25 % of your Strength as Physical Damage per second",
+      "Corrupted Blood duration is 5 seconds",
+      "Lose 2 % of maximum Life per Corrupted Blood inflicted by Supported Skills",
+      "Supported Warcries inflict 5 Corrupted Blood Debuffs"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Paquate's Pact\nSupport\nLineage\n,\nWarcry\n,\nPhysical\n,\nDuration\nCategory\n:\nCorrupting Cry\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports\nWarcries\n, causing them to inflict massive amounts of\nCorrupted Blood\non enemies in their area of effect, at the cost of your Life.\nCorrupted Blood\ndeals\n25\n% of your\nStrength\nas\nPhysical\nDamage per second\nCorrupted Blood\nduration is\n5\nseconds\nLose\n2\n% of maximum Life per\nCorrupted Blood\ninflicted by Supported Skills\nSupported\nWarcries\ninflict\n5\nCorrupted Blood\nDebuffs\nThe water used to cool the Locus of Corruption ran red\nas blood, bright as flame, and bubbled with strange heat.\n\"Drink,\" he offered. \"Suffuse your flesh with power!\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Rakiatas_Flow",
+    "id": "Rakiatas_Flow",
+    "name_en": "Rakiata's Flow",
+    "name_cn": "拉其塔之流",
+    "name_tw": "萊基亞塔的流動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Rakiatas_Flow",
+    "secDescrText": "Supports Skills that can cause Damaging Hits , causing those Hits to treat Enemy Elemental Resistances as inverted.",
+    "icon_local": "images/poe2/skills/lineage/Rakiatas_Flow.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Hits with Supported Skills treat Enemy Monster Elemental Resistance values as inverted"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Rakiata's Flow\nSupport\nLineage\nCategory\n:\nRakiata's Flow\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills that can cause\nDamaging Hits\n, causing those\nHits\nto treat Enemy\nElemental Resistances\nas inverted.\nHits\nwith Supported Skills treat Enemy Monster\nElemental\nResistance\nvalues as inverted\nThe Tasalio Tribe developed their own Way, seeing\nthe world not as it is, but as it should be, given its\nroiling and endless grace of constant motion.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Rathas_Assault",
+    "id": "Rathas_Assault",
+    "name_en": "Ratha's Assault",
+    "name_cn": "拉莎的突袭",
+    "name_tw": "菈妲的強襲",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combatreloadsupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Ammunition",
+      "Projectile"
+    ],
+    "detail_url": "https://poe2db.tw/us/Rathas_Assault",
+    "secDescrText": "Supports Crossbow Ammunition Skills, causing them to load multiple extra bolts and attack faster. Supported Skills cannot reload normally, instead loading bolts when you Dodge.",
+    "icon_local": "images/poe2/skills/lineage/Rathas_Assault.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "Supported Crossbow Ammunition Skills cannot reload",
+      "Supported Skills have 20 % increased Attack Speed",
+      "Supported Skills load 5 bolts when you Dodge",
+      "Supported Skills load 4 additional bolts"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Ratha's Assault\nSupport\nLineage\n,\nAmmunition\n,\nProjectile\nCategory\n:\nDouble Barrel, Rapid Attacks\nCost Multiplier:\n110%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports\nCrossbow\nAmmunition\nSkills, causing them to load multiple extra bolts and attack faster. Supported Skills cannot reload normally, instead loading bolts when you Dodge.\nSupported\nCrossbow\nAmmunition\nSkills cannot reload\nSupported Skills have\n20\n% increased\nAttack\nSpeed\nSupported Skills load\n5\nbolts when you Dodge\nSupported Skills load\n4\nadditional bolts\n\"No plan. No stealth. I want shock. Awe. I want them to\nknow who did it, and I want them telling tales. That's the\nonly way for us to earn their respect... and their fear.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Rigwalds_Ferocity",
+    "id": "Rigwalds_Ferocity",
+    "name_en": "Rigwald's Ferocity",
+    "name_cn": "瑞佛的凶猛",
+    "name_tw": "瑞佛的狂暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Attack"
+    ],
+    "detail_url": "https://poe2db.tw/us/Rigwalds_Ferocity",
+    "secDescrText": "Supports Attack skills, granting them Attack Speed at the cost of Damage or Damage at the cost of Attack Speed depending on Weapon Set they are used in. Does not modify skills used by Minions .",
+    "icon_local": "images/poe2/skills/lineage/Rigwalds_Ferocity.webp",
+    "explicitMod": [
+      "Supported Skills have 30 % increased Attack Speed if used in Weapon Set I",
+      "Supported Skills deal 15 % less Damage if used in Weapon Set I",
+      "Supported Skills have 10 % reduced Attack Speed if used in Weapon Set II",
+      "Supported Skills deal 30 % more Damage if used in Weapon Set II"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Rigwald's Ferocity\nSupport\nLineage\n,\nAttack\nCategory\n:\nRigwald's Ferocity\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports\nAttack\nskills, granting them\nAttack\nSpeed at the cost of Damage or Damage at the cost of\nAttack\nSpeed depending on\nWeapon Set\nthey are used in. Does not modify skills used by\nMinions\n.\nSupported Skills have\n30\n% increased\nAttack\nSpeed if\nused in\nWeapon Set\nI\nSupported Skills deal\n15\n% less Damage if\nused in\nWeapon Set\nI\nSupported Skills have\n10\n% reduced\nAttack\nSpeed if\nused in\nWeapon Set\nII\nSupported Skills deal\n30\n% more Damage if\nused in\nWeapon Set\nII\n\"Skothe kept us idle, sitting safe on these islands, while our\nbrethren remain slaves. We are one and the same! We must\nfight! So, I bring you his head. I am now your Wolven King!\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Romiras_Requital",
+    "id": "Romiras_Requital",
+    "name_en": "Romira's Requital",
+    "name_cn": "罗米拉的报复",
+    "name_tw": "羅米拉的報復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/trustycompanionsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Minion"
+    ],
+    "detail_url": "https://poe2db.tw/us/Romiras_Requital",
+    "secDescrText": "Supports Skills that create Companions which can be damaged. Minions created by Supported Skills take a portion of Hit Damage you would otherwise have taken, but have lowered maximum Life. A percentage of Damage taken this way is Recouped by you as Life.",
+    "icon_local": "images/poe2/skills/lineage/Romiras_Requital.webp",
+    "explicitMod": [
+      "10 % of Damage from Hits is taken from Supported Companion 's Life before you",
+      "You Recoup 200 % of Damage taken by Supported Minions this way as Life",
+      "Minions from Supported Skills have 30 % less maximum Life"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Romira's Requital\nSupport\nLineage\n,\nMinion\nCategory\n:\nLoyalty\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports Skills that create\nCompanions\nwhich can be damaged.\nMinions\ncreated by Supported Skills take a portion of\nHit Damage\nyou would otherwise have taken, but have lowered maximum Life. A percentage of Damage taken this way is\nRecouped\nby you as Life.\n10\n% of Damage from\nHits\nis taken from Supported\nCompanion\n's Life before you\nYou\nRecoup\n200\n% of Damage taken by Supported\nMinions\nthis way as Life\nMinions\nfrom Supported Skills have\n30\n% less maximum Life\n\"Come, my faithful wife,\" he crooned. \"Sit. Eat. I wanted to\nreward you for your loyalty. I even cooked this myself...\"\nShe looked 'round for her sons, but hers was the only chair.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Siones_Temper",
+    "id": "Siones_Temper",
+    "name_en": "Sione's Temper",
+    "name_cn": "西奥妮的怒火",
+    "name_tw": "西奧妮的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wildshardssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "Projectile"
+    ],
+    "detail_url": "https://poe2db.tw/us/Siones_Temper",
+    "secDescrText": "Supports Projectile Spells . Supported Spells have an increasingly higher chance to fire many additional Projectiles in a circle, resetting when they do.",
+    "icon_local": "images/poe2/skills/lineage/Siones_Temper.webp",
+    "explicitMod": [
+      "Gain 1 Wildshard on casting Supported Spells",
+      "Supported Skills have a 20 % chance to fire 8 additional Projectiles in a circle per Wildshard All Wildshards are lost when Supported Skills fire Projectiles in a circle"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Sione's Temper\nSupport\nLineage\n,\nSpell\n,\nProjectile\nCategory\n:\nAdditional Projectiles\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nProjectile\nSpells\n. Supported\nSpells\nhave an increasingly higher chance to fire many additional\nProjectiles\nin a circle, resetting when they do.\nGain\n1\nWildshard on casting Supported\nSpells\nSupported Skills have a\n20\n% chance to fire 8 additional\nProjectiles\nin a circle per Wildshard\nAll Wildshards are lost when Supported Skills fire\nProjectiles\nin a circle\nShe holds in her hand a shattered crystal, a vision of her desire: to\nsee her sister's silver palace obliterated, to see it cast across the\nheavens. One cross word, and the sky will rain down her fury.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Tacatis_Ire",
+    "id": "Tacatis_Ire",
+    "name_en": "Tacati's Ire",
+    "name_cn": "塔卡提之怒",
+    "name_tw": "特卡蒂的憤怒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Tacatis_Ire",
+    "secDescrText": "Supports Skills which can cause Damaging Hits . Poison inflicted with Supported Skills deals Damage faster the higher your Rage .",
+    "icon_local": "images/poe2/skills/lineage/Tacatis_Ire.webp",
+    "explicitMod": [
+      "Poisons from Supported Skills deal Damage 2 % faster per Rage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Tacati's Ire\nSupport\nLineage\n,\nChaos\nCategory\n:\nTacati's Ire\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills which can cause\nDamaging Hits\n.\nPoison\ninflicted with Supported Skills deals Damage faster the higher your\nRage\n.\nPoisons\nfrom Supported Skills deal Damage\n2\n% faster per\nRage\nHe almost saved the Vaal. His unique poison made it past\nthe Queen's cupbearers; he had only to direct his anger...\nbut in her presence, he could feel naught but lust.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Tasalios_Rhythm",
+    "id": "Tasalios_Rhythm",
+    "name_en": "Tasalio's Rhythm",
+    "name_cn": "塔萨里奥的律动",
+    "name_tw": "塔薩里奧的律動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Tasalios_Rhythm",
+    "secDescrText": "Supports Skills which have a benefit for Perfectly Timing their use. On successfully executing Perfect Timing with Supported Skills, gain Tasalio's Rhythm. Tasalio's Rhythm causes Supported Skills to deal more damage and have shorter Perfect Timing windows for each stack. Failing to execute any Perfect Timing (even with skills not supported by Tasalio's Rhythm) will remove all Tasalio's Rhythm on you.",
+    "icon_local": "images/poe2/skills/lineage/Tasalios_Rhythm.webp",
+    "explicitMod": [
+      "Successfully executing Perfect Timing with Supported Skills grants a stack of Tasalio's Rhythm All Tasalio's Rhythm is lost on failing to execute any Perfect Timing Supported Skills deal 10% more Damage for each stack of Tasalio's Rhythm Supported Skills have a 30% shorter Perfect Timing window for each stack of Tasalio's Rhythm Tasalio's Rhythm stacks up to 5 times",
+      "Supported Skills have a 100 % longer Perfect Timing window"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Tasalio's Rhythm\nSupport\nLineage\nCategory\n:\nPerfection\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills which have a benefit for\nPerfectly Timing\ntheir use. On successfully executing\nPerfect Timing\nwith Supported Skills, gain Tasalio's Rhythm. Tasalio's Rhythm causes Supported Skills to deal more damage and have shorter\nPerfect Timing\nwindows for each stack. Failing to execute any\nPerfect Timing\n(even with skills not supported by Tasalio's Rhythm) will remove all Tasalio's Rhythm on you.\nSuccessfully executing\nPerfect Timing\nwith Supported Skills grants a stack of Tasalio's Rhythm\nAll Tasalio's Rhythm is lost on failing to execute any\nPerfect Timing\nSupported Skills deal 10% more Damage for each stack of Tasalio's Rhythm\nSupported Skills have a 30% shorter\nPerfect Timing\nwindow for each stack of Tasalio's Rhythm\nTasalio's Rhythm stacks up to 5 times\nSupported Skills have a\n100\n% longer\nPerfect Timing\nwindow\nThe Chieftain built a grand waikoama, and boasted that\nit could never be sunk. Tasalio grinned, and the waves\nrolled in, tilting the ship, cresting higher and higher...\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Tawhoas_Tending",
+    "id": "Tawhoas_Tending",
+    "name_en": "Tawhoa's Tending",
+    "name_cn": "塔赫亚的照料",
+    "name_tw": "塔赫亞的照顧",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/moretotemlifesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Totem",
+      "AoE",
+      "Trigger",
+      "Physical"
+    ],
+    "detail_url": "https://poe2db.tw/us/Tawhoas_Tending",
+    "secDescrText": "Supports Skills which create Totems , causing those Totems to have more Life. Totems created by Supported Skills explode on death, dealing Physical damage based on their Life.",
+    "icon_local": "images/poe2/skills/lineage/Tawhoas_Tending.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "Totems created by Supported Skills have 25 % more maximum Life",
+      "Totems created by Supported Skills trigger Tawhoa's Vengeance on death",
+      "Explosion radius is 3 metres",
+      "Explosion deals base Physical Damage equal to 20 % of Totem's maximum Life"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Tawhoa's Tending\nSupport\nLineage\n,\nTotem\n,\nAoE\n,\nTrigger\n,\nPhysical\nCategory\n:\nHardy Totems\nCost Multiplier:\n110%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which create\nTotems\n, causing those\nTotems\nto have more Life.\nTotems\ncreated by Supported Skills explode on death, dealing\nPhysical\ndamage based on their Life.\nSupport\nTotems\ncreated by Supported\nSkills have\n25\n% more maximum Life\nTotems\ncreated by Supported Skills trigger Tawhoa's Vengeance on death\nTawhoa's Vengeance\nCritical Hit\nChance:\n5.00%\nDeals\nPhysical\nDamage in an area, based on\nTotem\nLife.\nExplosion radius is\n3\nmetres\nExplosion deals base\nPhysical\nDamage equal to\n20\n% of\nTotem's\nmaximum Life\nA scavenging warrior found Tawhoa meditating in a grove.\n\"There is only so much jade in this world,\" intoned the god.\n\"Take my gift to your tribe. Ironwood will grow for all time.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Tecrods_Revenge",
+    "id": "Tecrods_Revenge",
+    "name_en": "Tecrod's Revenge",
+    "name_cn": "特克罗的复仇",
+    "name_tw": "特克羅德的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/lastgaspsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Minion",
+      "Persistent",
+      "Duration"
+    ],
+    "detail_url": "https://poe2db.tw/us/Tecrods_Revenge",
+    "secDescrText": "Supports skills that create Persistent Minions , causing those Minions to fight on when they are fatally wounded, dying after a duration or when they take further damage exceeding their maximum Life. Minions from Supported Skills gain Soul Eater and a burst of speed on entering this state.",
+    "icon_local": "images/poe2/skills/lineage/Tecrods_Revenge.webp",
+    "explicitMod": [
+      "Minions from Supported Skills die 20 seconds after their Life is reduced to 0",
+      "Minions from Supported Skills gain Soul Eater when their Life is reduced to 0",
+      "Minions from Supported Skills gain 40 % increased Attack and Cast Speed when their Life is reduced to 0"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Tecrod's Revenge\nSupport\nLineage\n,\nMinion\n,\nPersistent\n,\nDuration\nCategory\n:\nLast Gasp\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports skills that create\nPersistent\nMinions\n, causing those\nMinions\nto fight on when they are fatally wounded, dying after a duration or when they take further damage exceeding their maximum Life.\nMinions\nfrom Supported Skills gain\nSoul Eater\nand a burst of speed on entering this state.\nMinions\nfrom Supported Skills die\n20\nseconds after their Life is reduced to 0\nMinions\nfrom Supported Skills gain\nSoul Eater\nwhen their Life is reduced to 0\nMinions\nfrom Supported Skills gain\n40\n% increased\nAttack\nand Cast Speed when their Life is reduced to 0\nThe Lich Lords destroyed his body, but with his dying fury,\nTecrod found a way. He lurks deep, in the blood, in the flesh,\nin the Well... perhaps walking among them even now, unseen.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Tuls_Stillness",
+    "id": "Tuls_Stillness",
+    "name_en": "Tul's Stillness",
+    "name_cn": "托沃的寂静",
+    "name_tw": "托沃的寧靜",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Cold",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Tuls_Stillness",
+    "secDescrText": "Supports Skills that can cause Damaging Hits , granting extra Chaos damage and causing Chaos damage to Contribute to Freeze Buildup .",
+    "icon_local": "images/poe2/skills/lineage/Tuls_Stillness.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Chaos Damage from Hits with Supported Skills also Contributes to Freeze Buildup",
+      "Supported Skills Gain 40 % of Cold Damage as Extra Chaos Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Tul's Stillness\nSupport\nLineage\n,\nCold\n,\nChaos\nCategory\n:\nBreachlord\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Dex\nSupports Skills that can cause\nDamaging Hits\n, granting extra\nChaos\ndamage and causing\nChaos\ndamage to\nContribute\nto\nFreeze Buildup\n.\nChaos\nDamage from\nHits\nwith Supported Skills also\nContributes\nto\nFreeze\nBuildup\nSupported Skills\nGain\n40\n% of\nCold\nDamage as Extra\nChaos\nDamage\n\"Countless graves glow silently in endless rows that stretch\non unseen. The living lie within, but do not decay, do not\ndie. Their eyes remain open, their essence stilled, waiting.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Dex"
+  },
+  {
+    "slug": "Uhtreds_Augury",
+    "id": "Uhtreds_Augury",
+    "name_en": "Uhtred's Augury",
+    "name_cn": "乌崔德的占卜",
+    "name_tw": "烏特雷的占卜術",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Uhtreds_Augury",
+    "secDescrText": "Supports Skills which can gain levels, granting them many additional levels provided exactly two other supports are used with the supported Skill. Does not support skills which do not have levels.",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Augury.webp",
+    "explicitMod": [
+      "+3 to level of Supported Skills if exactly two other Supports are modifying them"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Uhtred's Augury\nSupport\nLineage\nCategory\n:\nUhtred of Kalguur\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which can gain levels, granting them many additional levels provided exactly two other supports are used with the supported Skill. Does not support skills which do not have levels.\n+3\nto level of Supported Skills if exactly two other Supports are modifying them\nStudying the ill omens of the stars, Uhtred came to suspect\nsomething was very wrong among the first Kalguurans.\nOlroth, Vorana, Medved... three there were. Three dangers.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Uhtreds_Exodus",
+    "id": "Uhtreds_Exodus",
+    "name_en": "Uhtred's Exodus",
+    "name_cn": "乌崔德的出走",
+    "name_tw": "烏特雷的出走",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Uhtreds_Exodus",
+    "secDescrText": "Supports Skills which can gain levels, granting them many additional levels provided no other supports are used with the supported Skill. Does not support skills which do not have levels.",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Exodus.webp",
+    "explicitMod": [
+      "+3 to level of Supported Skills if no other Supports are modifying them"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Uhtred's Exodus\nSupport\nLineage\nCategory\n:\nUhtred of Kalguur\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which can gain levels, granting them many additional levels provided no other supports are used with the supported Skill. Does not support skills which do not have levels.\n+3\nto level of Supported Skills if no other Supports are modifying them\nBy the time Uhtred realised the truth, only Vorana remained\nto defend them. While the rest fled, she implanted her flesh\nwith gems and set forth alone to face the endless hordes.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Uhtreds_Omen",
+    "id": "Uhtreds_Omen",
+    "name_en": "Uhtred's Omen",
+    "name_cn": "乌崔德的预兆",
+    "name_tw": "烏特雷的徵兆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Uhtreds_Omen",
+    "secDescrText": "Supports Skills which can gain levels, granting them many additional levels provided exactly one other support is used with the supported Skill. Does not support skills which do not have levels.",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Omen.webp",
+    "explicitMod": [
+      "+3 to level of Supported Skills if exactly one other Support is modifying them"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Uhtred's Omen\nSupport\nLineage\nCategory\n:\nUhtred of Kalguur\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills which can gain levels, granting them many additional levels provided exactly one other support is used with the supported Skill. Does not support skills which do not have levels.\n+3\nto level of Supported Skills if exactly one other Support is modifying them\nDay and night, his priests followed each of the Kalguuran\nheroes. When Medved disappeared, Uhtred grew even more\nparanoid. Now, only two remained... Olroth and Vorana.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Uruks_Smelting",
+    "id": "Uruks_Smelting",
+    "name_en": "Uruk's Smelting",
+    "name_cn": "厄罗克的熔炼术",
+    "name_tw": "厄羅克的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/increasedarmourbreaksupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Physical"
+    ],
+    "detail_url": "https://poe2db.tw/us/Uruks_Smelting",
+    "secDescrText": "Supports any skill, causing Armour Break it inflicts to be stronger. Fully Breaking Armour with Supported Skills permanently increases the Physical Damage taken by those affected, up to a cap.",
+    "icon_local": "images/poe2/skills/lineage/Uruks_Smelting.webp",
+    "explicitMod": [
+      "Fully Breaking Armour with Supported Skills causes affected targets to permanently take 5 % increased Physical Damage, up to 20%",
+      "Supported Skills Break 70 % more Armour"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Uruk's Smelting\nSupport\nLineage\n,\nPhysical\nCategory\n:\nArmour Demolisher\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports any skill, causing\nArmour Break\nit inflicts to be stronger.\nFully Breaking Armour\nwith Supported Skills permanently increases the\nPhysical\nDamage taken by those affected, up to a cap.\nFully Breaking Armour\nwith Supported Skills causes affected targets to permanently take\n5\n% increased\nPhysical\nDamage, up to 20%\nSupported Skills\nBreak\n70\n% more\nArmour\nThe volcano roared, but there was no thunder, only the boom\nof Uruk's hammer. Wraeclast had forgotten the old alliance,\nbut by the Molten One's will, the fires would rage again.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Uul-Netols_Embrace",
+    "id": "Uul-Netols_Embrace",
+    "name_en": "Uul-Netol's Embrace",
+    "name_cn": "乌尔尼多的拥抱",
+    "name_tw": "烏爾尼多的擁抱",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Physical",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Uul-Netols_Embrace",
+    "secDescrText": "Supports Skills that can cause Damaging Hits , granting extra Chaos damage and causing Chaos damage to Break Armour .",
+    "icon_local": "images/poe2/skills/lineage/Uul-Netols_Embrace.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Break Armour equal to 20 % of Chaos Damage dealt by Supported Skills",
+      "Supported Skills Gain 40 % of Physical Damage as Extra Chaos Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Uul-Netol's Embrace\nSupport\nLineage\n,\nPhysical\n,\nChaos\nCategory\n:\nBreachlord\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills that can cause\nDamaging Hits\n, granting extra\nChaos\ndamage and causing\nChaos\ndamage to\nBreak Armour\n.\nBreak Armour\nequal to\n20\n% of\nChaos\nDamage dealt by Supported Skills\nSupported Skills\nGain\n40\n% of\nPhysical\nDamage as Extra\nChaos\nDamage\n\"The Lords could not breathe, so they grew new lungs.\nThe Lords could not venture, so they grew new skin.\nThe Lords were alone, so they grew us, to serve them.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Varashtas_Blessing",
+    "id": "Varashtas_Blessing",
+    "name_en": "Varashta's Blessing",
+    "name_cn": "瓦拉煞的祝福",
+    "name_tw": "瓦拉什塔的祝福",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage"
+    ],
+    "detail_url": "https://poe2db.tw/us/Varashtas_Blessing",
+    "secDescrText": "Supports any Skill that can deal Damage, causing it to deal more Damage per different Command Skill used.",
+    "icon_local": "images/poe2/skills/lineage/Varashtas_Blessing.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Supported Skills deal 10 % more Damage for each different Command Skill used in the last 15 seconds"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Varashta's Blessing\nSupport\nLineage\nCategory\n:\nVarashta's Blessing\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports any Skill that can deal Damage, causing it to deal more Damage per different\nCommand\nSkill used.\nSupported Skills deal\n10\n% more Damage for each different\nCommand\nSkill used in the last 15 seconds\n\"These traditions we shall set forth, so that we may remain\nstrong, so that we may endure throughout the ages. Not to\nbind, not to dominate, but to protect... and guide.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Vilentas_Propulsion",
+    "id": "Vilentas_Propulsion",
+    "name_en": "Vilenta's Propulsion",
+    "name_cn": "薇伦塔之推进",
+    "name_tw": "范尼達的奮進",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/slowerprojectilessupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "Projectile"
+    ],
+    "detail_url": "https://poe2db.tw/us/Vilentas_Propulsion",
+    "secDescrText": "Supports Spell Skills that fire Projectiles , causing increases and reductions to cast speed to also apply to Projectile speed.",
+    "icon_local": "images/poe2/skills/lineage/Vilentas_Propulsion.webp",
+    "explicitMod": [
+      "75 % of increases and reductions to Cast speed also apply to Projectile Speed for Supported Skills"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Vilenta's Propulsion\nSupport\nLineage\n,\nSpell\n,\nProjectile\nCategory\n:\nProjectile Speed\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nSpell\nSkills that fire\nProjectiles\n, causing increases and reductions to cast speed to also apply to\nProjectile\nspeed.\n75\n% of increases and reductions to Cast speed also apply to\nProjectile\nSpeed for Supported Skills\nDay and night, she hammered away, obsessed with proving it\ncould be done; a vast ring of artifice under the earth, pushing\nenergy to speeds never before seen - all to prove Qotra wrong.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Xibaquas_Rending",
+    "id": "Xibaquas_Rending",
+    "name_en": "Xibaqua's Rending",
+    "name_cn": "夏巴夸亚的撕裂",
+    "name_tw": "賽巴昆的撕裂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "AoE",
+      "Trigger",
+      "Fire"
+    ],
+    "detail_url": "https://poe2db.tw/us/Xibaquas_Rending",
+    "secDescrText": "Supports Skills that leap into the air, causing Corpses in the area you land to violently explode, damaging surrounding enemies.",
+    "icon_local": "images/poe2/skills/lineage/Xibaquas_Rending.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "Supported Skills trigger Fiery Reclamation on landing",
+      "Explosion deals base Fire Damage equal to 6 % of the Corpse's Maximum Life",
+      "Explosion radius is 1.5 metres",
+      "Detonates Corpses in a radius of 3.5 metres"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Xibaqua's Rending\nSupport\nLineage\n,\nAoE\n,\nTrigger\n,\nFire\nCategory\n:\nXibaqua's Rending\nCost Multiplier:\n115%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports Skills that leap into the air, causing\nCorpses\nin the area you land to violently explode, damaging surrounding enemies.\nSupport\nSupported Skills trigger Fiery Reclamation on landing\nFiery Reclamation\nDeals\nFire\ndamage in an area around the exploding\nCorpse\nbased on its maximum Life.\nExplosion deals base\nFire\nDamage equal to\n6\n% of the\nCorpse's\nMaximum Life\nExplosion radius is\n1.5\nmetres\nDetonates\nCorpses\nin a radius of\n3.5\nmetres\nBorn of the gods, his treachery was met with divine fury.\nOne by one, the gods reclaimed their flesh, until all that\nremained was a droplet of pure light: the first Vaal.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Xophs_Pyre",
+    "id": "Xophs_Pyre",
+    "name_en": "Xoph's Pyre",
+    "name_cn": "索伏的葬火",
+    "name_tw": "索伏的燃焰",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Fire",
+      "Chaos"
+    ],
+    "detail_url": "https://poe2db.tw/us/Xophs_Pyre",
+    "secDescrText": "Supports Skills that can cause Damaging Hits , granting extra Chaos damage and causing Chaos damage to Contribute to Ignites .",
+    "icon_local": "images/poe2/skills/lineage/Xophs_Pyre.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "Chaos Damage from Hits with Supported Skills also Contributes to Flammability and Ignite Magnitudes",
+      "Supported Skills Gain 40 % of Fire Damage as Extra Chaos Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Xoph's Pyre\nSupport\nLineage\n,\nFire\n,\nChaos\nCategory\n:\nBreachlord\nCost Multiplier:\n120%\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports Skills that can cause\nDamaging Hits\n, granting extra\nChaos\ndamage and causing\nChaos\ndamage to\nContribute\nto\nIgnites\n.\nChaos\nDamage from\nHits\nwith Supported Skills also\nContributes\nto\nFlammability\nand\nIgnite\nMagnitudes\nSupported Skills\nGain\n40\n% of\nFire\nDamage as Extra\nChaos\nDamage\n\"They drank until only dust remained. Ate until their gums\nbled rust. Such was their greed, the only thing that remains\nof the Broken Sun... is the Red Pyre, the Torus Eternal.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  },
+  {
+    "slug": "Zarokhs_Refrain",
+    "id": "Zarokhs_Refrain",
+    "name_en": "Zarokh's Refrain",
+    "name_cn": "扎洛卡的克制",
+    "name_tw": "澤洛克的克制",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Spell",
+      "AoE"
+    ],
+    "detail_url": "https://poe2db.tw/us/Zarokhs_Refrain",
+    "secDescrText": "Supports Spells that affect an area around you or a target location. Supported Spells echo thrice, causing their effects to happen again after a short delay, but Supported Skills are given a short Cooldown. Cannot support Channelling skills, Remote skills, skills which already have a Cooldown, or skills which are Triggered .",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Refrain.webp",
+    "cost": "130%",
+    "cooldown_time": "5.00 s",
+    "explicitMod": [
+      "Supported Spells Echo 3 times",
+      "Echoes from Supported Spells have 40 % increased Area of Effect"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Zarokh's Refrain\nSupport\nLineage\n,\nSpell\n,\nAoE\nCategory\n:\nSpell Echo\nCost Multiplier:\n130%\nCooldown Time:\n5.00 s\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Int\nSupports\nSpells\nthat affect an area around you or a target location. Supported\nSpells\necho thrice, causing their effects to happen again after a short delay, but Supported Skills are given a short Cooldown. Cannot support\nChannelling\nskills,\nRemote\nskills, skills which already have a Cooldown, or skills which are\nTriggered\n.\nSupported\nSpells\nEcho\n3\ntimes\nEchoes from Supported\nSpells\nhave\n40\n% increased Area of Effect\nReliving the same day for all time, Zarokh raged against\nthe moments that made up his prison. There would be\nno redemption, for he had broken his only barya.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Zarokhs_Revolt",
+    "id": "Zarokhs_Revolt",
+    "name_en": "Zarokh's Revolt",
+    "name_cn": "扎洛卡的反叛",
+    "name_tw": "澤洛克的反叛",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Spell"
+    ],
+    "detail_url": "https://poe2db.tw/us/Zarokhs_Revolt",
+    "secDescrText": "Supports Spells you cast yourself, making their effect reoccur up to five times when cast, but giving them a moderate Cooldown. Cannot support Channelling Skills.",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Revolt.webp",
+    "cost": "200%",
+    "cooldown_time": "10.00 s",
+    "explicitMod": [
+      "Supported Spells gain a Seal every 50 % of cast time, to a maximum of 5 Seals Supported Spells are Unsealed when cast, and their effects Reoccur for each Seal lost",
+      "Supported Skills deal 20 % less Damage when Reoccurring"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Zarokh's Revolt\nSupport\nSpell\nCategory\n:\nSeal\nCost Multiplier:\n200%\nCooldown Time:\n10.00 s\nSupport Requirements\n:\n+5 Int\nSupports\nSpells\nyou cast yourself, making their effect reoccur up to five times when cast, but giving them a moderate Cooldown. Cannot support\nChannelling\nSkills.\nSupported Spells gain a Seal every\n50\n% of cast time, to a maximum of\n5\nSeals\nSupported Spells are Unsealed when cast, and their effects Reoccur for each Seal lost\nSupported Skills deal\n20\n% less Damage when Reoccurring\nZarokh's ire built over the centuries as he planned his escape.\nThe Afarud would find what he sought, and then... the\nWeeping Black would break the chains of his prison.\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Support Requirements : +5 Int"
+  },
+  {
+    "slug": "Zerphis_Infamy",
+    "id": "Zerphis_Infamy",
+    "name_en": "Zerphi's Infamy",
+    "name_cn": "泽佛伊的恶名",
+    "name_tw": "澤佛伊的惡名",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "Support",
+      "Lineage",
+      "Warcry",
+      "AoE"
+    ],
+    "detail_url": "https://poe2db.tw/us/Zerphis_Infamy",
+    "secDescrText": "Supports Attacks and Warcries you use yourself. Supported Skills gain a Glory requirement, and build Glory when you spend Life on Skills. Supported Skills deal more damage and have significantly increased area of effect.",
+    "icon_local": "images/poe2/skills/lineage/Zerphis_Infamy.webp",
+    "explicitMod": [
+      "Supported Skills requires 50 Glory to use",
+      "Supported Skills gain Glory equal to 5 % of Life spent on other Skills",
+      "Supported Skills have 50 % increased Area of Effect",
+      "Supported Skills deal 50 % more Damage"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "Zerphi's Infamy\nSupport\nLineage\n,\nWarcry\n,\nAoE\nCategory\n:\nZerphi's Legacy\nRequires:\nLevel 65\nSupport Requirements\n:\n+5 Str\nSupports\nAttacks\nand\nWarcries\nyou use yourself. Supported Skills gain a\nGlory\nrequirement, and build\nGlory\nwhen you spend Life on Skills. Supported Skills deal more damage and have significantly\nincreased area of effect.\nSupported Skills requires\n50\nGlory\nto use\nSupported Skills gain\nGlory\nequal to\n5\n% of\nLife spent on other Skills\nSupported Skills have\n50\n% increased Area of Effect\nSupported Skills deal\n50\n% more Damage\n\"It was the quality of his heinous acts that set him apart, not\nthe quantity... all of the physical trauma inflicted occurred\nwhile the victim was still alive. Perhaps this was the key.\"\nPlace into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.",
+    "requirements": "Requires: Level 65 | Support Requirements : +5 Str"
+  }
+]

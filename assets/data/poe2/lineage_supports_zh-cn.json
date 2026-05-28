@@ -1,0 +1,1517 @@
+[
+  {
+    "slug": "Ahns_Citadel",
+    "id": "Ahns_Citadel",
+    "name_en": "Ahn's Citadel",
+    "name_cn": "汉恩的城塞",
+    "name_tw": "漢恩的城塞",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wallfortresssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Ahns_Citadel",
+    "secDescrText": "辅助产生一排墙体的技能，使其改为沿着裂缝创造。",
+    "icon_local": "images/poe2/skills/lineage/Ahns_Citadel.webp",
+    "explicitMod": [
+      "被辅助技能的墙改为沿裂缝创造"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "汉恩的城塞\n辅助\n血统\n类别\n:\n上古堡垒\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助产生一排墙体的技能，使其改为沿着裂缝创造。\n被辅助技能的墙改为沿裂缝创造\n当被附身的魔像肆虐大地时，奥尔——以鲜血与暴政为汉恩加冕\n——开始了最后的仪式。蓝晶爆裂而开，疯狂蔓长，\n吞噬了他那命定毁灭的要塞。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAhn's Citadel",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Ailiths_Chimes",
+    "id": "Ailiths_Chimes",
+    "name_en": "Ailith's Chimes",
+    "name_cn": "艾利丝钟琴",
+    "name_tw": "艾里絲的管鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combofinishersupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Ailiths_Chimes",
+    "secDescrText": "辅助可以消耗 连击 的技能。被辅助技能消耗 连击 时，你有机会根据消耗的 连击 数量获得 暴击球 。",
+    "icon_local": "images/poe2/skills/lineage/Ailiths_Chimes.webp",
+    "explicitMod": [
+      "使用被辅助技能消耗 连击 时，每消耗一次 连击 ，都有 25 % 的 溢出几率 获得一个 暴击球"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "艾利丝钟琴\n辅助\n血统\n类别\n:\n艾利丝钟琴\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助可以消耗\n连击\n的技能。被辅助技能消耗\n连击\n时，你有机会根据消耗的\n连击\n数量获得\n暴击球\n。\n使用被辅助技能消耗\n连击\n时，每消耗一次\n连击\n，都有\n25\n% 的\n溢出几率\n获得一个\n暴击球\n艾利丝醒来发现火焰变成了虹色，脑海中涌现出各种异象。\n天亮时，她开始传授所见之物……\n苍白异象守护者由此诞生。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAilith's Chimes",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Amanamus_Tithe",
+    "id": "Amanamus_Tithe",
+    "name_en": "Amanamu's Tithe",
+    "name_cn": "阿曼娜姆的奉纳",
+    "name_tw": "阿姆那姆的稅賦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "召唤生物",
+      "永久性"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Amanamus_Tithe",
+    "secDescrText": "辅助 永久性 召唤生物 的技能，使被辅助的 召唤生物 为你而被击败后有几率获得一个深渊怪物词缀。",
+    "icon_local": "images/poe2/skills/lineage/Amanamus_Tithe.webp",
+    "explicitMod": [
+      "被辅助技能创造的 召唤生物 死亡时，有 50 % 的几率获得一个深渊怪物词缀，持续 20 秒 该类深渊怪物词缀上限 3 个"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿曼娜姆的奉纳\n辅助\n血统\n,\n召唤生物\n,\n永久性\n类别\n:\n阿曼娜姆的奉纳\n需求：\n等级 25\n辅助宝石需求\n：\n+5 力量\n辅助\n永久性\n召唤生物\n的技能，使被辅助的\n召唤生物\n为你而被击败后有几率获得一个深渊怪物词缀。\n被辅助技能创造的\n召唤生物\n死亡时，有\n50\n% 的几率获得一个深渊怪物词缀，持续 20 秒\n该类深渊怪物词缀上限 3 个\n凡侍奉暗光领主者，皆彻底归其所有。\n鲜血、血肉与灵魂，皆乃可扭曲、可屈从其意志之耗材。\n在巫妖领主麾下，纵是死亡亦非解脱。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAmanamu's Tithe",
+    "requirements": "需求： 等级 25 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Arakaalis_Lust",
+    "id": "Arakaalis_Lust",
+    "name_en": "Arakaali's Lust",
+    "name_cn": "阿拉卡力的欲望",
+    "name_tw": "艾爾卡莉之慾",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Arakaalis_Lust",
+    "secDescrText": "辅助任意 击中 敌人的技能，目标身上 中毒 越多，造成的伤害越高。",
+    "icon_local": "images/poe2/skills/lineage/Arakaalis_Lust.webp",
+    "explicitMod": [
+      "被辅助技能 击中 中毒目标时，每层 中毒 效果造成的伤害总增 8 %，最多 40 层中毒效果"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿拉卡力的欲望\n辅助\n血统\n类别\n:\n阿拉卡力的欲望\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助任意\n击中\n敌人的技能，目标身上\n中毒\n越多，造成的伤害越高。\n被辅助技能\n击中\n中毒目标时，每层\n中毒\n效果造成的伤害总增\n8\n%，最多\n40\n层中毒效果\n她露出满口獠牙的笑容：“罪，我的爱人，\n忘却玛拉凯的苦烦吧。”她撕咬、狂欢；\n而他，困于丝茧之间，绝望与狂喜交织。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nArakaali's Lust",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Arbiters_Ignition",
+    "id": "Arbiters_Ignition",
+    "name_en": "Arbiter's Ignition",
+    "name_cn": "仲裁官的点燃",
+    "name_tw": "仲裁者的燃灼",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Arbiters_Ignition",
+    "secDescrText": "辅助 火焰 法术 技能。用被辅助技能 点燃 敌人时有获得 元素执政官 。",
+    "icon_local": "images/poe2/skills/lineage/Arbiters_Ignition.webp",
+    "explicitMod": [
+      "当你 点燃 敌人时，获得 元素执政官"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "仲裁官的点燃\n辅助\n血统\n,\n法术\n,\n火焰\n类别\n:\n仲裁官的点燃\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n火焰\n法术\n技能。用被辅助技能\n点燃\n敌人时有获得\n元素执政官\n。\n当你\n点燃\n敌人时，获得\n元素执政官\n“这幅雕刻似乎描绘了众多容器之中漂浮着蜷缩的躯体……\n而下一幅则显示，除一人之外，余者尽皆死亡。他们究竟意欲何为？\n看来，他们屡遭失败，却依旧不断实验……”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nArbiter's Ignition",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Arjuns_Medal",
+    "id": "Arjuns_Medal",
+    "name_en": "Arjun's Medal",
+    "name_cn": "阿尔琼的勋章",
+    "name_tw": "亞瓊的獎章",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/chancetonotconsumeammosupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "弹药",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Arjuns_Medal",
+    "secDescrText": "辅助 战弩 技能，击败敌人时为所有 战弩 弹药 装填一发弩箭。",
+    "icon_local": "images/poe2/skills/lineage/Arjuns_Medal.webp",
+    "explicitMod": [
+      "被辅助技能造成 致命一击 时，所有 战弩 技能装填一发弩箭"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿尔琼的勋章\n辅助\n血统\n,\n弹药\n,\n投射物\n类别\n:\n节省弹药\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助\n战弩\n技能，击败敌人时为所有\n战弩\n弹药\n装填一发弩箭。\n被辅助技能造成\n致命一击\n时，所有\n战弩\n技能装填一发弩箭\n柯伊塔人确信敌人束手无策，大胆冲击城墙——\n但阿尔琼的军需报告有些……“水分”\n……就像巴迪亚的其他东西一样不靠谱。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nArjun's Medal",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Ataluis_Bloodletting",
+    "id": "Ataluis_Bloodletting",
+    "name_en": "Atalui's Bloodletting",
+    "name_cn": "阿图鲁伊的放血术",
+    "name_tw": "阿特路伊的出血",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/bloodmagicsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Ataluis_Bloodletting",
+    "secDescrText": "辅助任意技能，将部分魔力消耗转换为生命消耗。无法辅助保留 精魂 的技能。被辅助技能 获得 相当于部分生命消耗的额外 物理 伤害。",
+    "icon_local": "images/poe2/skills/lineage/Ataluis_Bloodletting.webp",
+    "explicitMod": [
+      "被辅助技能的魔力消耗 转化 为生命消耗",
+      "被辅助技能每消耗 20 点生命， 获得 相当于伤害 2 % 的额外 物理 伤害，最高 40%"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿图鲁伊的放血术\n辅助\n血统\n,\n物理\n类别\n:\n赤炼\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助任意技能，将部分魔力消耗转换为生命消耗。无法辅助保留\n精魂\n的技能。被辅助技能\n获得\n相当于部分生命消耗的额外\n物理\n伤害。\n被辅助技能的魔力消耗\n转化\n为生命消耗\n被辅助技能每消耗 20 点生命，\n获得\n相当于伤害\n2\n% 的额外\n物理\n伤害，最高 40%\n阿塔泽科与阿图鲁伊踉跄起身，遍体鳞伤，\n肌肤焦黑，身负百般创痕。她向兄长投以狰狞笑意：\n“不如让他们见识一下，胆敢挑战瓦尔血脉的代价？”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAtalui's Bloodletting",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Atziris_Allure",
+    "id": "Atziris_Allure",
+    "name_en": "Atziri's Allure",
+    "name_cn": "阿兹里的魅惑",
+    "name_tw": "阿茲里的魅惑",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "诅咒"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Atziris_Allure",
+    "secDescrText": "辅助你释放的 诅咒 法术 技能，使这些 诅咒 突破通常的 诅咒 上限 ，但施放时会将效果反弹至你自身。",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Allure.webp",
+    "explicitMod": [
+      "被辅助技能施加的 诅咒 忽略 诅咒 上限",
+      "被辅助技能施加的 诅咒 会反射给你",
+      "被辅助技能的 诅咒 效果总降 20 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿兹里的魅惑\n辅助\n血统\n,\n诅咒\n类别\n:\n阿兹里的魅惑\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助你释放的\n诅咒\n法术\n技能，使这些\n诅咒\n突破通常的\n诅咒\n上限\n，但施放时会将效果反弹至你自身。\n被辅助技能施加的\n诅咒\n忽略\n诅咒\n上限\n被辅助技能施加的\n诅咒\n会反射给你\n被辅助技能的\n诅咒\n效果总降\n20\n%\n她那致命的诱惑，驱使宫廷贵族\n争先恐后地效忠于她。赢得她梳妆镜中的惊鸿一瞥,\n甚至胜过他们自己的性命。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAtziri's Allure",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Call",
+    "id": "Atziris_Call",
+    "name_en": "Atziri's Call",
+    "name_cn": "阿兹里的召唤",
+    "name_tw": "阿茲里的呼喚",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "效果区域",
+      "触发"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Atziris_Call",
+    "secDescrText": "[DNT] Supports Spells you use yourself which Hit enemies. On Critical Hit with supported Spells , Trigger Atziri's Storm at the location of the nearest enemy.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Call.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "阿兹里的召唤\n辅助\n血统\n,\n法术\n,\n效果区域\n,\n触发\n类别\n:\n阿兹里的呼唤\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n[DNT] Supports\nSpells\nyou use yourself which\nHit\nenemies. On\nCritical Hit\nwith supported\nSpells\n,\nTrigger\nAtziri's Storm at the location of the nearest enemy.\n辅助\n阿兹里的呼唤\n[DNT] Fill me in\n[DNT] Coming soon!\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAtziri's Call",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Communion",
+    "id": "Atziris_Communion",
+    "name_en": "Atziri's Communion",
+    "name_cn": "阿兹里的圣礼",
+    "name_tw": "阿茲里的共融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "增益",
+      "永久性"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Atziris_Communion",
+    "secDescrText": "[DNT] Supports Buff skills which reserve Spirit . Spirit costs from Supported Skills are converted to reserve a percentage of your Life.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Communion.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "阿兹里的圣礼\n辅助\n血统\n,\n增益\n,\n永久性\n类别\n:\n阿兹里的圣礼\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n[DNT] Supports\nBuff\nskills which reserve\nSpirit\n.\nSpirit\ncosts from Supported Skills are converted to reserve a percentage of your Life.\n红色圣礼本欲超脱灵魂的桎梏，\n重塑血肉的形态，赐予众生永恒的生命。\n它确实达成了这些目标……以最骇人的方式。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAtziri's Communion",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Impatience",
+    "id": "Atziris_Impatience",
+    "name_en": "Atziri's Impatience",
+    "name_cn": "阿兹里的焦躁",
+    "name_tw": "阿茲里的不耐",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Atziris_Impatience",
+    "secDescrText": "辅助拥有冷却时间的技能，大幅提升其 冷却回复 速度，但使用时会消耗你的生命、魔力与能量护盾。无法辅助 非凡 技能或影响 召唤生物 的技能。",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Impatience.webp",
+    "explicitMod": [
+      "使用被辅助技能时，你失去 25 % 的生命、魔力，和 能量护盾 上限",
+      "被辅助技能的冷却回复速度加快 100 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿兹里的焦躁\n辅助\n血统\n类别\n:\n冷却回复\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助拥有冷却时间的技能，大幅提升其\n冷却回复\n速度，但使用时会消耗你的生命、魔力与能量护盾。无法辅助\n非凡\n技能或影响\n召唤生物\n的技能。\n使用被辅助技能时，你失去\n25\n% 的生命、魔力，和\n能量护盾\n上限\n被辅助技能的冷却回复速度加快\n100\n%\n“凡令女王厌烦之人，皆受严惩：\n所有与他们相识者都将被诛杀，以此彻底抹除其存在。\n故而无论代价如何……无人敢让她等候。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nAtziri's Impatience",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Bhatairs_Vengeance",
+    "id": "Bhatairs_Vengeance",
+    "name_en": "Bhatair's Vengeance",
+    "name_cn": "巴蒂尔的复仇",
+    "name_tw": "瓦特爾的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/icebitesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "攻击",
+      "战吼",
+      "冰霜",
+      "持续时间"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Bhatairs_Vengeance",
+    "secDescrText": "辅助你使用的 攻击 和 战吼 。使用被辅助技能 冻结 敌人后，你和友军在短时间内附加 冰霜 伤害。",
+    "icon_local": "images/poe2/skills/lineage/Bhatairs_Vengeance.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "当你用被辅助技能 冻结 目标时，每有 1 点怒火，你和你 在场 的 友军 会获得 1% 的伤害作为 冰霜 伤害，持续时间 20 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "巴蒂尔的复仇\n辅助\n攻击\n,\n战吼\n,\n冰霜\n,\n持续时间\n类别\n:\n霜咬\n消耗加成:\n110%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助你使用的\n攻击\n和\n战吼\n。使用被辅助技能\n冻结\n敌人后，你和友军在短时间内附加\n冰霜\n伤害。\n当你用被辅助技能\n冻结\n目标时，每有 1 点怒火，你和你\n在场\n的\n友军\n会获得 1% 的伤害作为\n冰霜\n伤害，持续时间\n20\n秒\n传说，故事守护者至今仍在瓦尔克拉斯游荡。\n他化身为双足飞龙，因爱徒们被迷雾之王掠走\n而深陷于无尽的悲愤之中……\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nBhatair's Vengeance",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Brutus_Brain",
+    "id": "Brutus_Brain",
+    "name_en": "Brutus' Brain",
+    "name_cn": "布鲁特斯之脑",
+    "name_tw": "布魯特斯的腦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/meatshield.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "召唤生物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Brutus_Brain",
+    "secDescrText": "辅助产生 召唤生物 的技能，使这些 召唤生物 无法造成或承受伤害。无法辅助产生无敌 召唤生物 的技能。",
+    "icon_local": "images/poe2/skills/lineage/Brutus_Brain.webp",
+    "explicitMod": [
+      "被辅助技能的召唤生物无法被伤害",
+      "被辅助技能的召唤生物无法造成伤害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "布鲁特斯之脑\n辅助\n血统\n,\n召唤生物\n类别\n:\n肉盾\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助产生\n召唤生物\n的技能，使这些\n召唤生物\n无法造成或承受伤害。无法辅助产生无敌\n召唤生物\n的技能。\n被辅助技能的召唤生物无法被伤害\n被辅助技能的召唤生物无法造成伤害\n薛朗欢欣地举起双臂，迎向雷电交加的天空。\n她成功了！她的造物完美无缺！无敌！不朽！\n但她旋即意识到，尚缺关键一环……\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nBrutus' Brain",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Cirels_Cultivation",
+    "id": "Cirels_Cultivation",
+    "name_en": "Cirel's Cultivation",
+    "name_cn": "西雷尔的教化",
+    "name_tw": "西瑞爾的耕植",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/greatwoodsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "图腾"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Cirels_Cultivation",
+    "secDescrText": "辅助可创建 图腾 的技能，但仅允许拥有一个该种 图腾 ，但会依据周围友军拥有的 图腾 数量，为被辅助的 图腾 提供显著增益。无法辅助由 召唤生物 施放的技能。",
+    "icon_local": "images/poe2/skills/lineage/Cirels_Cultivation.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "被辅助技能只能激活一个 图腾",
+      "效果范围内每存在一个友方 图腾 ，被辅助技能生成的 图腾 效果范围总增 5 %",
+      "效果范围内每存在一个友方 图腾 ，被辅助技能生成的 图腾 造成的伤害总增 10 %",
+      "效果范围内每存在一个友方 图腾 ，被辅助技能生成的 图腾 每秒回复最大生命值的 1 %",
+      "被辅助 图腾 可因效果范围内 最多 5 个友方 图腾 而获得增益",
+      "计入 4 米范围内的友方 图腾"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "西雷尔的教化\n辅助\n血统\n,\n图腾\n类别\n:\n图腾掌控\n消耗加成:\n115%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可创建\n图腾\n的技能，但仅允许拥有一个该种\n图腾\n，但会依据周围友军拥有的\n图腾\n数量，为被辅助的\n图腾\n提供显著增益。无法辅助由\n召唤生物\n施放的技能。\n被辅助技能只能激活一个\n图腾\n效果范围内每存在一个友方\n图腾\n，被辅助技能生成的\n图腾\n效果范围总增\n5\n%\n效果范围内每存在一个友方\n图腾\n，被辅助技能生成的\n图腾\n造成的伤害总增\n10\n%\n效果范围内每存在一个友方\n图腾\n，被辅助技能生成的\n图腾\n每秒回复最大生命值的\n1\n%\n被辅助\n图腾\n可因效果范围内\n最多\n5\n个友方\n图腾\n而获得增益\n计入\n4\n米范围内的友方\n图腾\n瓦尔克拉斯最古老、最宏伟的堡垒并非建造而成，而是生长出来的。\n“等待之女”在灰烬与冰雪的时代埋下了它们的种子。\n如今，泰斯卡之门虽坚不可摧，却向所有人敞开。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nCirel's Cultivation",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "DNT_Tangmazu_Lineage",
+    "id": "DNT_Tangmazu_Lineage",
+    "name_en": "[DNT] Tangmazu Lineage",
+    "name_cn": "[DNT] Tangmazu Lineage",
+    "name_tw": "[DNT] Tangmazu Lineage",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "增益",
+      "永久性"
+    ],
+    "detail_url": "https://poe2db.tw/cn/DNT_Tangmazu_Lineage",
+    "secDescrText": "[DNT] Tangmazu Lineage",
+    "icon_local": "images/poe2/skills/lineage/DNT_Tangmazu_Lineage.webp",
+    "explicitMod": [
+      "被辅助技能激活时， 照亮范围 扩大 25 %",
+      "被辅助技能激活时，你受到的 减益状态 的 减速 强度降低 20 %",
+      "被辅助技能激活时，奔跑时移动速度提高 10 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "[DNT] Tangmazu Lineage\n辅助\n血统\n,\n增益\n,\n永久性\n类别\n:\n[DNT] Tangmazu Lineage\n额外保留:\n15 灵魂\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n[DNT] Tangmazu Lineage\n被辅助技能激活时，\n照亮范围\n扩大\n25\n%\n被辅助技能激活时，你受到的\n减益状态\n的\n减速\n强度降低\n20\n%\n被辅助技能激活时，奔跑时移动速度提高\n10\n%\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Daressos_Passion",
+    "id": "Daressos_Passion",
+    "name_en": "Daresso's Passion",
+    "name_cn": "德瑞索的热情",
+    "name_tw": "德瑞索的熱情",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "旗帜",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Daressos_Passion",
+    "secDescrText": "辅助 旗帜 技能，使其需要的 荣耀 大幅降低。",
+    "icon_local": "images/poe2/skills/lineage/Daressos_Passion.webp",
+    "explicitMod": [
+      "使用被辅助技能需要的 荣耀 总降 50 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "德瑞索的热情\n辅助\n旗帜\n,\n血统\n类别\n:\n德瑞索的热情\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助\n旗帜\n技能，使其需要的\n荣耀\n大幅降低。\n使用被辅助技能需要的\n荣耀\n总降\n50\n%\n“我抬起双眼凝视我的死亡。却看见了她，\n莫薇儿。战斗从来只是为了生存，\n而此刻，战斗有了更崇高的意义……爱。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nDaresso's Passion",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Diallas_Desire",
+    "id": "Diallas_Desire",
+    "name_en": "Dialla's Desire",
+    "name_cn": "达拉的渴望",
+    "name_tw": "達拉的渴望",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Diallas_Desire",
+    "secDescrText": "辅助任何有等级的技能，提高等级和 品质 ，同时降低消耗和 保留 。",
+    "icon_local": "images/poe2/skills/lineage/Diallas_Desire.webp",
+    "cost": "90%",
+    "explicitMod": [
+      "被辅助技能宝石等级提高 +1",
+      "被辅助技能宝石 品质 提高 +10 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "达拉的渴望\n辅助\n血统\n类别\n:\n达拉的渴望\n保留加成:\n90%\n消耗加成:\n90%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助任何有等级的技能，提高等级和\n品质\n，同时降低消耗和\n保留\n。\n被辅助技能宝石等级提高\n+1\n被辅助技能宝石\n品质\n提高\n+10\n%\n“我会成为你的宝石皇后，我的挚爱，\n但不要用这些黯淡的石头。我想把自己永远交给你。\n我们何不一起追求完美？”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nDialla's Desire",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Doedres_Undoing",
+    "id": "Doedres_Undoing",
+    "name_en": "Doedre's Undoing",
+    "name_cn": "德瑞的毁灭",
+    "name_tw": "德瑞的毀滅",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/cursedgroundsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "效果区域",
+      "触发",
+      "混沌",
+      "诅咒",
+      "危害"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Doedres_Undoing",
+    "secDescrText": "辅助 诅咒 技能。被辅助 诅咒 技能创造 危害 区域，当敌人进入时爆炸， 诅咒 敌人并造成 混沌 伤害。",
+    "icon_local": "images/poe2/skills/lineage/Doedres_Undoing.webp",
+    "explicitMod": [
+      "被辅助技能产生 诅咒 之地 被辅助技能的 诅咒 之地上的敌人受到 诅咒",
+      "被辅助技能创造的 诅咒 之地被视为 危害",
+      "最多 2 个 诅咒 之地区域",
+      "敌人进入被辅助技能创造的 诅咒 之地时触发德瑞的黑暗设计",
+      "造成 (7 — 217) - (13 — 404) 混沌 伤害",
+      "爆炸 击中 时施加 3 秒被辅助的 诅咒",
+      "爆炸范围等于 诅咒 之地的范围"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "德瑞的毁灭\n辅助\n血统\n,\n法术\n,\n效果区域\n,\n触发\n,\n混沌\n,\n诅咒\n,\n危害\n类别\n:\n诅咒之地\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n诅咒\n技能。被辅助\n诅咒\n技能创造\n危害\n区域，当敌人进入时爆炸，\n诅咒\n敌人并造成\n混沌\n伤害。\n辅助\n被辅助技能产生\n诅咒\n之地\n被辅助技能的\n诅咒\n之地上的敌人受到\n诅咒\n被辅助技能创造的\n诅咒\n之地被视为\n危害\n最多\n2\n个\n诅咒\n之地区域\n敌人进入被辅助技能创造的\n诅咒\n之地时触发德瑞的黑暗设计\n德瑞的黑暗设计\n等级:\n(1\n—\n20)\n该技能将复制其镶嵌宝石的等级\n施放间隔:\n1.00 秒\n暴击\n率:\n7.00%\n当敌人进入区域时爆炸，并造成\n混沌\n伤害，\n击中\n时施加被辅助的\n诅咒\n。\n造成\n(7\n—\n217)\n-\n(13\n—\n404)\n混沌\n伤害\n爆炸\n击中\n时施加\n3\n秒被辅助的\n诅咒\n爆炸范围等于\n诅咒\n之地的范围\n“血肉指引我等。赞美血肉，膜拜血肉。\n血肉既是堕落，亦是神性。\n血肉将引领我等步入真正的启迪之道。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nDoedre's Undoing",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Dominus_Grasp",
+    "id": "Dominus_Grasp",
+    "name_en": "Dominus' Grasp",
+    "name_cn": "神主之握",
+    "name_tw": "神主的掌握",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "投射物",
+      "连锁"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Dominus_Grasp",
+    "secDescrText": "辅助 投射物 技能及其他可 连锁 的技能，增加它们的 连锁 次数。",
+    "icon_local": "images/poe2/skills/lineage/Dominus_Grasp.webp",
+    "explicitMod": [
+      "被辅助技能的 连锁 次数总增 100 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "神主之握\n辅助\n血统\n,\n投射物\n,\n连锁\n类别\n:\n神主之握\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助\n投射物\n技能及其他可\n连锁\n的技能，增加它们的\n连锁\n次数。\n被辅助技能的\n连锁\n次数总增\n100\n%\n若神主和派蒂的实验要成功，\n便需要数千名囚犯。为此密谋时，\n他们决定重启一项古老的传统……流放。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nDominus' Grasp",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Dreamers_Knell",
+    "id": "Dreamers_Knell",
+    "name_en": "Dreamer's Knell",
+    "name_cn": "幻梦者的丧钟",
+    "name_tw": "幻夢者的喪鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "攻击",
+      "效果区域",
+      "近战",
+      "触发",
+      "持续时间"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Dreamers_Knell",
+    "secDescrText": "艾兹麦人四",
+    "icon_local": "images/poe2/skills/lineage/Dreamers_Knell.webp",
+    "explicitMod": [
+      "此技能的攻击伤害为 默认攻击伤害 的 40 %",
+      "震波范围为 1 米",
+      "钟的持续时间为 8 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "幻梦者的丧钟\n辅助\n血统\n,\n攻击\n,\n效果区域\n,\n近战\n,\n触发\n,\n持续时间\n类别\n:\n幻梦者的丧钟\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n艾兹麦人四\n辅助\n[DNT-UNUSED]消耗\n连击\n时，被辅助技能每消耗\n2\n次\n连击\n，都会产生一个钟\n[DNT] Small Bell\n[DNT] Ring Ring but small\n此技能的攻击伤害为\n默认攻击伤害\n的\n40\n%\n震波范围为\n1\n米\n钟的持续时间为\n8\n秒\n[DNT-UNUSED]\n上限\n8\n个钟\n每位入门弟子梦中都会听闻钟声回响。\n那是仁爱的幻梦者的召唤号角。自此刻起，\n他们便将毕生献于唯一的神圣使命。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nDreamer's Knell",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Einhars_Beastrite",
+    "id": "Einhars_Beastrite",
+    "name_en": "Einhar's Beastrite",
+    "name_cn": "伊恩哈尔的魔物仪式",
+    "name_tw": "埃哈的野獸儀式",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/beheadsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "攻击",
+      "近战",
+      "打击"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Einhars_Beastrite",
+    "secDescrText": "辅助近战 打击 技能，使其从击败的 稀有 怪物处窃取一个 词缀 ，持续时间较长，但无法对非低血敌人造成伤害。无法修改 召唤生物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Einhars_Beastrite.webp",
+    "explicitMod": [
+      "被辅助技能只能对 低血 敌人造成伤害",
+      "被辅助的 打击 技能对 稀有 怪物造成最后一击时获得其两项 词缀 ，持续 300 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "伊恩哈尔的魔物仪式\n辅助\n血统\n,\n攻击\n,\n近战\n,\n打击\n类别\n:\n斩首\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助近战\n打击\n技能，使其从击败的\n稀有\n怪物处窃取一个\n词缀\n，持续时间较长，但无法对非低血敌人造成伤害。无法修改\n召唤生物\n使用的技能。\n被辅助技能只能对\n低血\n敌人造成伤害\n被辅助的\n打击\n技能对\n稀有\n怪物造成最后一击时获得其两项\n词缀\n，持续\n300\n秒\n“你应当这样肢解野兽，”他对那目光惊愕的健忘女人说道。\n“最肥美部位就在当中！”\n她点头，开始重新学习荒野之道。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nEinhar's Beastrite",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Eonyrs_Thunder",
+    "id": "Eonyrs_Thunder",
+    "name_en": "Eonyr's Thunder",
+    "name_cn": "伊奥尼尔的雷霆",
+    "name_tw": "伊歐涅的雷霆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "效果区域",
+      "闪电"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Eonyrs_Thunder",
+    "secDescrText": "[DNT] Supports any Skill which can deal Damage. Lightning Damage from Supported Skills can inflict Electrocute , but Supported Skills cannot inflict Shock . Enemies slain while Electrocuted by Supported Skills explode, dealing a percentage of their maximum Life as Lightning damage.",
+    "icon_local": "images/poe2/skills/lineage/Eonyrs_Thunder.webp",
+    "explicitMod": [
+      "被辅助技能无法造成 感电",
+      "被辅助技能的 闪电 伤害 作用于 电殛 积蓄"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "伊奥尼尔的雷霆\n辅助\n血统\n,\n效果区域\n,\n闪电\n类别\n:\n电殛\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n[DNT] Supports any Skill which can deal Damage.\nLightning\nDamage from Supported Skills can inflict\nElectrocute\n, but Supported Skills cannot inflict\nShock\n. Enemies slain while\nElectrocuted\nby Supported Skills explode, dealing a percentage of their maximum Life as\nLightning\ndamage.\n被辅助技能无法造成\n感电\n被辅助技能的\n闪电\n伤害\n作用于\n电殛\n积蓄\n“怎么做到的？呵，自然是伟大的飞龙准她通过的。\n伊奥尼尔和他的族群，一直在我们与月亮之间的天风中翱翔。\n那风暴的咆哮声……正是他们捕猎与呼唤的声响。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nEonyr's Thunder",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Eshs_Radiance",
+    "id": "Eshs_Radiance",
+    "name_en": "Esh's Radiance",
+    "name_cn": "艾许的光辉",
+    "name_tw": "艾許的光芒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "闪电",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Eshs_Radiance",
+    "secDescrText": "辅助可造成伤害性 击中 的技能，提供额外 混沌 伤害，使 混沌 伤害 作用于 感电 。",
+    "icon_local": "images/poe2/skills/lineage/Eshs_Radiance.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被辅助技能造成的 混沌 击中 伤害也会 作用于 感电 几率",
+      "被辅助技能 获得 额外 混沌 伤害，其数值等同于 闪电 伤害 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "艾许的光辉\n辅助\n血统\n,\n闪电\n,\n混沌\n类别\n:\n裂隙之主\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助可造成伤害性\n击中\n的技能，提供额外\n混沌\n伤害，使\n混沌\n伤害\n作用于\n感电\n。\n被辅助技能造成的\n混沌\n击中\n伤害也会\n作用于\n感电\n几率\n被辅助技能\n获得\n额外\n混沌\n伤害，其数值等同于\n闪电\n伤害\n40\n%\n“生命曾经繁盛之地，如今唯余金属滋长，\n宛如无尽蠕虫于灰烬中爬行。寂静降临之地，\n如今传来无源之思，在黑暗中低声吟唱。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nEsh's Radiance",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Garukhans_Resolve",
+    "id": "Garukhans_Resolve",
+    "name_en": "Garukhan's Resolve",
+    "name_cn": "格鲁坎的决心",
+    "name_tw": "卡洛翰的決心",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "攻击"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Garukhans_Resolve",
+    "secDescrText": "辅助你自己使用且不具有使用 条件 的 攻击 技能。被辅助技能将拥有最大 暴击几率 ，但会 分叉暴击几率 。无法辅助有冷却时间或可被 触发 的技能，不会影响 召唤生物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Garukhans_Resolve.webp",
+    "explicitMod": [
+      "被辅助技能的 暴击率 上限为 50 %",
+      "被辅助技能以 攻击暴击几率 双重分叉"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "格鲁坎的决心\n辅助\n血统\n,\n攻击\n类别\n:\n格鲁坎的决心\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助你自己使用且不具有使用\n条件\n的\n攻击\n技能。被辅助技能将拥有最大\n暴击几率\n，但会\n分叉暴击几率\n。无法辅助有冷却时间或可被\n触发\n的技能，不会影响\n召唤生物\n使用的技能。\n被辅助技能的\n暴击率\n上限为\n50\n%\n被辅助技能以\n攻击暴击几率\n双重分叉\n最终，她希望断绝——但意志未灭——她掷出了心爱的纠缠之舌。\n那一天，神明流下了血。\n为此，巨鹏首次将羽毛赐予马拉克斯战士。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nGarukhan's Resolve",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Guatelitzis_Ablation",
+    "id": "Guatelitzis_Ablation",
+    "name_en": "Guatelitzi's Ablation",
+    "name_cn": "瓜铁雷兹的消融",
+    "name_tw": "瓜特利斯的消融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Guatelitzis_Ablation",
+    "secDescrText": "辅助 奉献 技能。使用被辅助技能会使你 牺牲 一部分生命。当被辅助技能产生的 奉献 尖刺存留期间，你会周期性获得一个 暴击球 。当尖刺消失时，基于该 奉献 技能的持续时长，每秒回复一定比例的最大生命与魔力。",
+    "icon_local": "images/poe2/skills/lineage/Guatelitzis_Ablation.webp",
+    "explicitMod": [
+      "当来自被辅助技能的 祭品 死亡时，按该 祭品 存在的持续时间，每秒回复你 5 % 的生命和魔力",
+      "被辅助技能使用时 献祭 25 % 的生命",
+      "来自被辅助技能的 祭品 每 4 秒为你提供一个 暴击球"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瓜铁雷兹的消融\n辅助\n血统\n类别\n:\n牺牲供奉\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n奉献\n技能。使用被辅助技能会使你\n牺牲\n一部分生命。当被辅助技能产生的\n奉献\n尖刺存留期间，你会周期性获得一个\n暴击球\n。当尖刺消失时，基于该\n奉献\n技能的持续时长，每秒回复一定比例的最大生命与魔力。\n当来自被辅助技能的\n祭品\n死亡时，按该\n祭品\n存在的持续时间，每秒回复你\n5\n% 的生命和魔力\n被辅助技能使用时\n献祭\n25\n% 的生命\n来自被辅助技能的\n祭品\n每\n4\n秒为你提供一个\n暴击球\n年轻的瓜铁雷兹被发现穿行于囚犯之中，\n将活人之躯用来献祭。\n高阶祭司们认可他的天性，赋予了他更高的使命。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nGuatelitzi's Ablation",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Hayoxis_Fulmination",
+    "id": "Hayoxis_Fulmination",
+    "name_en": "Hayoxi's Fulmination",
+    "name_cn": "海幽夏的诛罚",
+    "name_tw": "荷霖蔡的轟鳴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "效果区域",
+      "触发",
+      "物理",
+      "闪电",
+      "冰霜",
+      "火焰",
+      "混沌",
+      "诅咒"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Hayoxis_Fulmination",
+    "secDescrText": "辅助 诅咒 类技能。被辅助的 诅咒 技能会生成一个区域，敌人处于该区域内将持续被 诅咒 。被辅助技能生成的 诅咒 区域会积蓄力量，经过短暂延迟后迸发一束摧残之光。",
+    "icon_local": "images/poe2/skills/lineage/Hayoxis_Fulmination.webp",
+    "cooldown_time": "2.00 秒",
+    "explicitMod": [
+      "被辅助技能产生 诅咒 之地 被辅助技能的 诅咒 之地上的敌人受到 诅咒",
+      "最多 2 个 诅咒 之地区域",
+      "被辅助技能造成的 诅咒 地面持续存在 7 秒后，触发众星之魂效果",
+      "造成 (25 — 850) - (37 — 1275) 物理 伤害",
+      "冲击范围为 1.7 米",
+      "每 2 秒总计 击中 6 次",
+      "100% 物理伤害转换为符合被辅助 诅咒 宝石标签的其他伤害类型"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "海幽夏的诛罚\n辅助\n血统\n,\n法术\n,\n效果区域\n,\n触发\n,\n物理\n,\n闪电\n,\n冰霜\n,\n火焰\n,\n混沌\n,\n诅咒\n类别\n:\n诅咒之地\n冷却时间:\n2.00 秒\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n诅咒\n类技能。被辅助的\n诅咒\n技能会生成一个区域，敌人处于该区域内将持续被\n诅咒\n。被辅助技能生成的\n诅咒\n区域会积蓄力量，经过短暂延迟后迸发一束摧残之光。\n辅助\n被辅助技能产生\n诅咒\n之地\n被辅助技能的\n诅咒\n之地上的敌人受到\n诅咒\n最多\n2\n个\n诅咒\n之地区域\n被辅助技能造成的\n诅咒\n地面持续存在\n7\n秒后，触发众星之魂效果\n湮灭\n等级:\n(1\n—\n20)\n该技能将复制其镶嵌宝石的等级\n施放间隔:\n瞬发\n暴击\n率:\n9.00%\n造成\n(25\n—\n850)\n-\n(37\n—\n1275)\n物理\n伤害\n冲击范围为\n1.7\n米\n每\n2\n秒总计\n击中\n6\n次\n100% 物理伤害转换为符合被辅助\n诅咒\n宝石标签的其他伤害类型\n毁灭之建筑师将火药一撮一撮地\n埋进皇家神庙的地基。多年间，\n他始终守着这个秘密，却始终没能点燃引线。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nHayoxi's Fulmination",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Helbryms_Hide",
+    "id": "Helbryms_Hide",
+    "name_en": "Helbrym's Hide",
+    "name_cn": "赫尔布林的隐瞒",
+    "name_tw": "海爾賓姆的躲藏",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "变形",
+      "增益"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Helbryms_Hide",
+    "secDescrText": "[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a Buff that stores damage taken, granting you Guard and Rage based on the amount when the Buff expires. Changing forms before the Buff expires causes it to be removed without effect.",
+    "icon_local": "images/poe2/skills/lineage/Helbryms_Hide.webp",
+    "cost": "130%",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "赫尔布林的隐瞒\n辅助\n血统\n,\n变形\n,\n增益\n类别\n:\n[DNT] Hide of Helbrym\n消耗加成:\n130%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a\nBuff\nthat stores damage taken, granting you\nGuard\nand\nRage\nbased on the amount when the\nBuff\nexpires. Changing forms before the\nBuff\nexpires causes it to be removed without effect.\n被可憎之物团团围困时，艾兹麦的莱桑达\n以为自己的大限已至。塔斯的赫尔布林却从林中冲出，\n不惜破誓拯救了这位艾兹麦女王。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nHelbrym's Hide",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Ixchels_Torment",
+    "id": "Ixchels_Torment",
+    "name_en": "Ixchel's Torment",
+    "name_cn": "伊克切尔的折磨",
+    "name_tw": "薩雷許的折磨",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/randomisedtriggersupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "触发"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Ixchels_Torment",
+    "secDescrText": "",
+    "icon_local": "images/poe2/skills/lineage/Ixchels_Torment.webp",
+    "explicitMod": [
+      "被混沌异魔守卫",
+      "包含一件额外的传奇物品，已腐化并具有一项附魔"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "伊克切尔的折磨\nBlacksmith's Strongbox\n需求：\n等级 1\n被混沌异魔守卫\n包含一件额外的传奇物品，已腐化并具有一项附魔\n已腐化\n唯有时光到头，他的试炼才会到头。\n即便如此，时光之轮总是周而复始。\nIxchel's Torment",
+    "requirements": "需求： 等级 1"
+  },
+  {
+    "slug": "Kalisas_Crescendo",
+    "id": "Kalisas_Crescendo",
+    "name_en": "Kalisa's Crescendo",
+    "name_cn": "卡莉莎的强音",
+    "name_tw": "卡莉莎的漸強",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Kalisas_Crescendo",
+    "secDescrText": "辅助 诅咒 技能。被辅助技能 诅咒 的敌人在被辅助 诅咒 持续时间的最后阶段被 宁心 。",
+    "icon_local": "images/poe2/skills/lineage/Kalisas_Crescendo.webp",
+    "explicitMod": [
+      "被辅助技能的 诅咒 影响的敌人在被辅助 诅咒 持续时间的最后 30 % 期间被 宁心",
+      "以此方式被 宁心 的敌人在 8 秒内无法再次被 宁心"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "卡莉莎的强音\n辅助\n血统\n类别\n:\n卡莉莎的强音\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n诅咒\n技能。被辅助技能\n诅咒\n的敌人在被辅助\n诅咒\n持续时间的最后阶段被\n宁心\n。\n被辅助技能的\n诅咒\n影响的敌人在被辅助\n诅咒\n持续时间的最后\n30\n% 期间被\n宁心\n以此方式被\n宁心\n的敌人在\n8\n秒内无法再次被\n宁心\n“她的声音探入我的胸膛，将跳动的心脏\n从牢笼中摘走。从同伴们圆睁而晶莹的眼中，\n我知道他们也感同身受。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nKalisa's Crescendo",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kaoms_Madness",
+    "id": "Kaoms_Madness",
+    "name_en": "Kaom's Madness",
+    "name_cn": "冈姆的疯狂",
+    "name_tw": "岡姆的癲狂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/upheavalsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "攻击",
+      "近战"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Kaoms_Madness",
+    "secDescrText": "辅助在地上产生裂缝的技能，使其产生大量额外的裂缝，但会牺牲伤害、攻击速度和效果范围。",
+    "icon_local": "images/poe2/skills/lineage/Kaoms_Madness.webp",
+    "explicitMod": [
+      "被辅助技能额外产生 3 道裂隙",
+      "被辅助技能造成的伤害总降 -20 %",
+      "辅助技能的 技能速度 总降 20 %",
+      "被辅助技能的效果范围总降 30 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "冈姆的疯狂\n辅助\n血统\n,\n攻击\n,\n近战\n类别\n:\n裂缝\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助在地上产生裂缝的技能，使其产生大量额外的裂缝，但会牺牲伤害、攻击速度和效果范围。\n被辅助技能额外产生\n3\n道裂隙\n被辅助技能造成的伤害总降\n-20\n%\n辅助技能的\n技能速度\n总降\n20\n%\n被辅助技能的效果范围总降\n30\n%\n当卡鲁之王冈姆愈发深入瓦尔克拉斯，他也愈发接近那头巨兽。\n一夜，他于梦魇中发狂，\n挥舞战斧砍向麾下士兵，戮数百。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nKaom's Madness",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Khatals_Rejuvenation",
+    "id": "Khatals_Rejuvenation",
+    "name_en": "Khatal's Rejuvenation",
+    "name_cn": "卡哈塔的复苏",
+    "name_tw": "卡塔爾的恢復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "残片"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Khatals_Rejuvenation",
+    "secDescrText": "辅助可生成 残片 的技能。拾取被辅助技能生成的 残片 时，将获得 卡塔尔的复苏 。",
+    "icon_local": "images/poe2/skills/lineage/Khatals_Rejuvenation.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "收集由被辅技能生成的 残片 时，获得 卡哈塔的回春 效果"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "卡哈塔的复苏\n辅助\n血统\n,\n残片\n类别\n:\n卡哈塔的复苏\n保留加成:\n120%\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助可生成\n残片\n的技能。拾取被辅助技能生成的\n残片\n时，将获得\n卡塔尔的复苏\n。\n收集由被辅技能生成的\n残片\n时，获得\n卡哈塔的回春\n效果\n喷薄的地泉吞没了宿敌的地道，整师覆灭洪流。\n他的阿卡拉回身欲颂说书人卡哈塔之功，\n却见其已化作随风飘散的尘埃。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nKhatal's Rejuvenation",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kulemaks_Dominion",
+    "id": "Kulemaks_Dominion",
+    "name_en": "Kulemak's Dominion",
+    "name_cn": "库勒马克的统治",
+    "name_tw": "骷髏馬克的支配",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Kulemaks_Dominion",
+    "secDescrText": "辅助 奉献 技能，使影响你周围区域或目标位置的 法术 也会影响被辅助 奉献 的位置。",
+    "icon_local": "images/poe2/skills/lineage/Kulemaks_Dominion.webp",
+    "cost": "130%",
+    "explicitMod": [
+      "你施放影响周围或指定地点的 法术 时，同样会影响被辅助 奉献 周围的区域 以此方式影响奉献周围区域时， 法术 造成的伤害总降 50 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "库勒马克的统治\n辅助\n血统\n类别\n:\n库勒马克的统治\n消耗加成:\n130%\n需求：\n等级 25\n辅助宝石需求\n：\n+5 智慧\n辅助\n奉献\n技能，使影响你周围区域或目标位置的\n法术\n也会影响被辅助\n奉献\n的位置。\n你施放影响周围或指定地点的\n法术\n时，同样会影响被辅助\n奉献\n周围的区域\n以此方式影响奉献周围区域时，\n法术\n造成的伤害总降\n50\n%\n库勒马克的力量远不如昔，他转而诉诸欺诈。\n他向汉恩许诺无尽的权利与统治，只为换取一尊魔像。\n“毕竟，一介奴仆又能有何危害？”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nKulemak's Dominion",
+    "requirements": "需求： 等级 25 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kurgals_Leash",
+    "id": "Kurgals_Leash",
+    "name_en": "Kurgal's Leash",
+    "name_cn": "古加尔的缰绳",
+    "name_tw": "柯戈的繩索",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "召唤生物",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Kurgals_Leash",
+    "secDescrText": "辅助 可命令的召唤生物 ，使你和被辅助 召唤生物 在 命令 它们时获得 不洁之力 。",
+    "icon_local": "images/poe2/skills/lineage/Kurgals_Leash.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "命令 被辅助技能的 召唤生物 时，获得 15 秒的 不洁之力",
+      "被辅助技能的 召唤生物 被 命令 时获得 15 秒的 不洁之力"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "古加尔的缰绳\n辅助\n血统\n,\n召唤生物\n,\n混沌\n类别\n:\n黑血\n消耗加成:\n120%\n需求：\n等级 25\n辅助宝石需求\n：\n+5 智慧\n辅助\n可命令的召唤生物\n，使你和被辅助\n召唤生物\n在\n命令\n它们时获得\n不洁之力\n。\n命令\n被辅助技能的\n召唤生物\n时，获得\n15\n秒的\n不洁之力\n被辅助技能的\n召唤生物\n被\n命令\n时获得\n15\n秒的\n不洁之力\n古加尔的第一具身体不过是个被项圈束缚的石头魔像。\n他在统治的力量中尝到甜头，拼死挣脱枷锁……\n很快就干掉了一个巫妖领主。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nKurgal's Leash",
+    "requirements": "需求： 等级 25 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Morganas_Tempest",
+    "id": "Morganas_Tempest",
+    "name_en": "Morgana's Tempest",
+    "name_cn": "莫甘娜的暴风",
+    "name_tw": "魔甘娜的風暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "风暴"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Morganas_Tempest",
+    "secDescrText": "辅助可创造 风暴 的 法术 ，增加其数量 上限 ，并使其从玩家处更快移向目标地点，但效果会减弱。无法辅助 触发 类技能。",
+    "icon_local": "images/poe2/skills/lineage/Morganas_Tempest.webp",
+    "explicitMod": [
+      "被辅助技能的效果范围总降 25 %",
+      "被辅助技能造成的伤害总降 35 %",
+      "被辅助技能的 风暴 位移速度总增 60 %",
+      "被辅助 风暴 技能的 上限 + 1",
+      "被辅助的技能从玩家处释放，并朝目标位置移动"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "莫甘娜的暴风\n辅助\n血统\n,\n法术\n,\n风暴\n类别\n:\n风暴行军, 冗余\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助可创造\n风暴\n的\n法术\n，增加其数量\n上限\n，并使其从玩家处更快移向目标地点，但效果会减弱。无法辅助\n触发\n类技能。\n被辅助技能的效果范围总降\n25\n%\n被辅助技能造成的伤害总降\n35\n%\n被辅助技能的\n风暴\n位移速度总增\n60\n%\n被辅助\n风暴\n技能的\n上限\n+\n1\n被辅助的技能从玩家处释放，并朝目标位置移动\n每当恍惚之夜降临她身，艾兹麦人便齐聚于下，\n祈求她唤来甘霖。在泰斯卡之巅，\n她怀着无人知晓的悲恸恸哭——那哭声令苍穹为之暴怒。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nMorgana's Tempest",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Ois%C3%ADns_Oath",
+    "id": "Ois%C3%ADns_Oath",
+    "name_en": "Oisín's Oath",
+    "name_cn": "奥辛之誓",
+    "name_tw": "歐辛的誓言",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DItems/Gems/New/NewSupport/Lineage/WalkeroftheWilds.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Ois%C3%ADns_Oath",
+    "secDescrText": "辅助任意 击中 敌人的技能，使其[Mana Leech|魔力偷取]效果改为基于[Elemental Damage|元素]伤害而非 物理 伤害进行恢复。",
+    "icon_local": "images/poe2/skills/lineage/Ois%C3%ADns_Oath.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "奥辛之誓\n辅助\n血统\n,\n法术\n类别\n:\n魔力偷取\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助任意\n击中\n敌人的技能，使其[Mana Leech|魔力偷取]效果改为基于[Elemental Damage|元素]伤害而非\n物理\n伤害进行恢复。\n被辅助技能的\n魔力偷取\n根据\n元素伤害类型\n恢复魔力，而非[Physical物理]伤害\n初代“林际守望者”曾立誓永世巡守两个世界间的交界，\n只为让格鲁丝克的践踏悲剧永不重演。\n然而经年累月，他在边缘地带的守望……竟开始改变他。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nOisín's Oath",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Paquates_Pact",
+    "id": "Paquates_Pact",
+    "name_en": "Paquate's Pact",
+    "name_cn": "帕夸特的契约",
+    "name_tw": "帕科特的協議",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/corruptingcrysupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "战吼",
+      "物理",
+      "持续时间"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Paquates_Pact",
+    "secDescrText": "辅助 战吼 技能，使其以生命为代价，对效果范围内的敌人施加大量 腐化之血 。",
+    "icon_local": "images/poe2/skills/lineage/Paquates_Pact.webp",
+    "explicitMod": [
+      "腐化之血 每秒造成相当于 25 % 力量 的 物理 伤害",
+      "腐化之血 的持续时间为 5 秒",
+      "被辅助技能每施加一个 腐化之血 ，你损失最大生命的 2 %",
+      "被辅助 战吼 施加 5 层 腐化之血 减益"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "帕夸特的契约\n辅助\n血统\n,\n战吼\n,\n物理\n,\n持续时间\n类别\n:\n腐化战吼\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助\n战吼\n技能，使其以生命为代价，对效果范围内的敌人施加大量\n腐化之血\n。\n腐化之血\n每秒造成相当于\n25\n%\n力量\n的\n物理\n伤害\n腐化之血\n的持续时间为\n5\n秒\n被辅助技能每施加一个\n腐化之血\n，你损失最大生命的\n2\n%\n被辅助\n战吼\n施加\n5\n层\n腐化之血\n减益\n用来冷却腐化蝗群的水变得\n血红如火，冒着诡异的热泡。\n“喝吧，”他提议道。“让力量渗透你的血肉！”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nPaquate's Pact",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Rakiatas_Flow",
+    "id": "Rakiatas_Flow",
+    "name_en": "Rakiata's Flow",
+    "name_cn": "拉其塔之流",
+    "name_tw": "萊基亞塔的流動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Rakiatas_Flow",
+    "secDescrText": "辅助可造成 伤害性击中 的技能，使 击中 将敌人的 元素抗性 视为反转。",
+    "icon_local": "images/poe2/skills/lineage/Rakiatas_Flow.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被辅助技能 击中 时将敌方怪物的 元素 抗性 值视作反转"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "拉其塔之流\n辅助\n血统\n类别\n:\n拉其塔之流\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助可造成\n伤害性击中\n的技能，使\n击中\n将敌人的\n元素抗性\n视为反转。\n被辅助技能\n击中\n时将敌方怪物的\n元素\n抗性\n值视作反转\n塔萨里奥部落走出了自己的路，他们看世界不看现状，\n而看本该如何，因为世界有着翻滚不息、\n无穷无尽的优雅律动。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nRakiata's Flow",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Rathas_Assault",
+    "id": "Rathas_Assault",
+    "name_en": "Ratha's Assault",
+    "name_cn": "拉莎的突袭",
+    "name_tw": "菈妲的強襲",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combatreloadsupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "弹药",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Rathas_Assault",
+    "secDescrText": "辅助 战弩 弹药 技能，使其装填多发额外弩箭并提升击发速度。被辅助技能无法正常装填，改为在闪避时进行装填。",
+    "icon_local": "images/poe2/skills/lineage/Rathas_Assault.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "被辅助的 战弩 弹药 技能无法装填",
+      "被辅助技能的 攻击 速度加快 20 %",
+      "你闪避时被辅助技能装填 5 发弩箭",
+      "被辅助技能额外装填 4 发弩箭"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "拉莎的突袭\n辅助\n血统\n,\n弹药\n,\n投射物\n类别\n:\n双管齐下, 快速攻击\n消耗加成:\n110%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助\n战弩\n弹药\n技能，使其装填多发额外弩箭并提升击发速度。被辅助技能无法正常装填，改为在闪避时进行装填。\n被辅助的\n战弩\n弹药\n技能无法装填\n被辅助技能的\n攻击\n速度加快\n20\n%\n你闪避时被辅助技能装填\n5\n发弩箭\n被辅助技能额外装填\n4\n发弩箭\n“不要计划。不要潜行。我要的是震撼。是敬畏。\n我要他们知道凶手是谁，我要他们代代相传。\n只有这样我们才能赢得他们的敬重……和恐惧。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nRatha's Assault",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Rigwalds_Ferocity",
+    "id": "Rigwalds_Ferocity",
+    "name_en": "Rigwald's Ferocity",
+    "name_cn": "瑞佛的凶猛",
+    "name_tw": "瑞佛的狂暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "攻击"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Rigwalds_Ferocity",
+    "secDescrText": "辅助 攻击 技能，根据使用的 武器组 ，以伤害为代价提供 攻击 速度，或以 攻击 速度为代价提供伤害。不会修改 召唤生物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Rigwalds_Ferocity.webp",
+    "explicitMod": [
+      "在 武器组 I 中使用时， 被辅助技能的 攻击 速度提高 30 %",
+      "在 武器组 I 中使用时， 被辅助技能造成的伤害总降 15 %",
+      "在 武器组 II 中使用时， 被辅助技能的 攻击 速度降低 10 %",
+      "在 武器组 II 中使用时， 被辅助技能造成的伤害总增 30 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瑞佛的凶猛\n辅助\n血统\n,\n攻击\n类别\n:\n瑞佛的凶猛\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助\n攻击\n技能，根据使用的\n武器组\n，以伤害为代价提供\n攻击\n速度，或以\n攻击\n速度为代价提供伤害。不会修改\n召唤生物\n使用的技能。\n在\n武器组\nI 中使用时，\n被辅助技能的\n攻击\n速度提高\n30\n%\n在\n武器组\nI 中使用时，\n被辅助技能造成的伤害总降\n15\n%\n在\n武器组\nII 中使用时，\n被辅助技能的\n攻击\n速度降低\n10\n%\n在\n武器组\nII 中使用时，\n被辅助技能造成的伤害总增\n30\n%\n“斯科提让我们闲坐在这些岛上无所作为，而我们的兄弟依然为奴。\n我们本是同根！我们必须战斗！\n所以，我把他的脑袋带来了。我就是你们的新狼王！”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nRigwald's Ferocity",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Romiras_Requital",
+    "id": "Romiras_Requital",
+    "name_en": "Romira's Requital",
+    "name_cn": "罗米拉的报复",
+    "name_tw": "羅米拉的報復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/trustycompanionsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "召唤生物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Romiras_Requital",
+    "secDescrText": "辅助产生能够受到伤害的 伙伴 的技能。被辅助技能产生的 召唤生物 会替你承担一定比例的 击中伤害 ，但其生命上限降低。以此方式受到的一部分伤害会 吸纳 为你的生命。",
+    "icon_local": "images/poe2/skills/lineage/Romiras_Requital.webp",
+    "explicitMod": [
+      "击中 伤害的 10 % 在你承受之前，由被辅助的 伙伴 的生命承受",
+      "你将被辅助 召唤生物 以此方式受到伤害的 200 % 吸纳 为生命",
+      "被辅助技能的 召唤生物 的生命上限总降 30 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "罗米拉的报复\n辅助\n血统\n,\n召唤生物\n类别\n:\n忠诚\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助产生能够受到伤害的\n伙伴\n的技能。被辅助技能产生的\n召唤生物\n会替你承担一定比例的\n击中伤害\n，但其生命上限降低。以此方式受到的一部分伤害会\n吸纳\n为你的生命。\n击中\n伤害的\n10\n% 在你承受之前，由被辅助的\n伙伴\n的生命承受\n你将被辅助\n召唤生物\n以此方式受到伤害的\n200\n%\n吸纳\n为生命\n被辅助技能的\n召唤生物\n的生命上限总降\n30\n%\n“来吧，我忠贞的妻子。”他低语道。“坐，用餐。\n我要奖赏你的忠诚，这甚至是我亲手烹制……”\n她环顾四周，儿子们踪迹皆无，只看到一把属于自己的椅子。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nRomira's Requital",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Siones_Temper",
+    "id": "Siones_Temper",
+    "name_en": "Sione's Temper",
+    "name_cn": "西奥妮的怒火",
+    "name_tw": "西奧妮的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wildshardssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Siones_Temper",
+    "secDescrText": "辅助 投射物 法术 。被辅助 法术 额外环形发射大量 投射物 的几率越来越高，触发时重置几率。",
+    "icon_local": "images/poe2/skills/lineage/Siones_Temper.webp",
+    "explicitMod": [
+      "施放被辅助 法术 时获得 1 个狂野碎片",
+      "每有一个狂野碎片，被辅助技能有 20 % 的几率额外环形发射 8 个 投射物 被辅助技能环形发射 投射物 时失去所有狂野碎片"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "西奥妮的怒火\n辅助\n血统\n,\n法术\n,\n投射物\n类别\n:\n额外投射物连锁\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助\n投射物\n法术\n。被辅助\n法术\n额外环形发射大量\n投射物\n的几率越来越高，触发时重置几率。\n施放被辅助\n法术\n时获得\n1\n个狂野碎片\n每有一个狂野碎片，被辅助技能有\n20\n% 的几率额外环形发射 8 个\n投射物\n被辅助技能环形发射\n投射物\n时失去所有狂野碎片\n她手中紧握破碎水晶，那是她内心渴望的映像：\n看到姐妹的银色宫殿化为废墟，\n看到碎片散落星空。只需一句恶言，天空便会降下她的怒火。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nSione's Temper",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Tacatis_Ire",
+    "id": "Tacatis_Ire",
+    "name_en": "Tacati's Ire",
+    "name_cn": "塔卡提之怒",
+    "name_tw": "特卡蒂的憤怒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Tacatis_Ire",
+    "secDescrText": "辅助可造成 伤害性击中 的技能。根据你的 怒火 数量，被辅助技能施加的 中毒 伤害生效更快。",
+    "icon_local": "images/poe2/skills/lineage/Tacatis_Ire.webp",
+    "explicitMod": [
+      "每有一点 怒火 ，被辅助技能施加的 中毒 效果伤害生效速度加快 2 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "塔卡提之怒\n辅助\n血统\n,\n混沌\n类别\n:\n塔卡提之怒\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助可造成\n伤害性击中\n的技能。根据你的\n怒火\n数量，被辅助技能施加的\n中毒\n伤害生效更快。\n每有一点\n怒火\n，被辅助技能施加的\n中毒\n效果伤害生效速度加快\n2\n%\n他差点就拯救了瓦尔。他的独门毒药\n骗过了女王的侍酒官，他只需引燃自己的怒火……\n可在她面前，他感受到的却唯有欲望。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nTacati's Ire",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Tasalios_Rhythm",
+    "id": "Tasalios_Rhythm",
+    "name_en": "Tasalio's Rhythm",
+    "name_cn": "塔萨里奥的律动",
+    "name_tw": "塔薩里奧的律動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Tasalios_Rhythm",
+    "secDescrText": "辅助在 完美时机 使用能获得加成的技能。被辅助技能成功把握 完美时机 会获得塔萨里奥的律动。塔萨里奥的律动会使被辅助技能造成更多伤害，且每层律动都会缩短技能的 完美时机 判定窗口。未能把握 完美时机 （包括未受到塔萨里奥的律动辅助的技能）会移除你身上的所有塔萨里奥的律动。",
+    "icon_local": "images/poe2/skills/lineage/Tasalios_Rhythm.webp",
+    "explicitMod": [
+      "成功在 完美时机 释放被辅助技能时，获得一层塔萨里奥的旋律 若未能把握 完美时机 ，则失去所有塔萨里奥的旋律 每层塔萨里奥的旋律使被辅助技能造成的伤害总增 10% 每层塔萨里奥的旋律使被辅助技能的 完美时机 时间窗口缩短 30% 塔萨里奥的旋律最多叠加 5 层",
+      "被辅助技能的 完美时机 窗口延长 100 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "塔萨里奥的律动\n辅助\n血统\n类别\n:\n完美\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助在\n完美时机\n使用能获得加成的技能。被辅助技能成功把握\n完美时机\n会获得塔萨里奥的律动。塔萨里奥的律动会使被辅助技能造成更多伤害，且每层律动都会缩短技能的\n完美时机\n判定窗口。未能把握\n完美时机\n（包括未受到塔萨里奥的律动辅助的技能）会移除你身上的所有塔萨里奥的律动。\n成功在\n完美时机\n释放被辅助技能时，获得一层塔萨里奥的旋律\n若未能把握\n完美时机\n，则失去所有塔萨里奥的旋律\n每层塔萨里奥的旋律使被辅助技能造成的伤害总增 10%\n每层塔萨里奥的旋律使被辅助技能的\n完美时机\n时间窗口缩短 30%\n塔萨里奥的旋律最多叠加 5 层\n被辅助技能的\n完美时机\n窗口延长\n100\n%\n酋长曾建造雄伟战舰，狂言此船永不沉没。\n塔萨里奥闻之莞尔，巨浪翻涌而至，\n舰身倾斜，怒涛层层攀升……\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nTasalio's Rhythm",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Tawhoas_Tending",
+    "id": "Tawhoas_Tending",
+    "name_en": "Tawhoa's Tending",
+    "name_cn": "塔赫亚的照料",
+    "name_tw": "塔赫亞的照顧",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/moretotemlifesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "图腾",
+      "效果区域",
+      "触发",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Tawhoas_Tending",
+    "secDescrText": "辅助产生 图腾 的技能，使 图腾 拥有更多生命。被辅助技能产生的 图腾 被击败时爆炸，根据其生命造成 物理 伤害。",
+    "icon_local": "images/poe2/skills/lineage/Tawhoas_Tending.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "被辅助技能创造的 图腾 最大生命总增 25 %",
+      "被辅助技能产生的 图腾 死亡时，触发塔赫亚的复仇",
+      "爆炸范围为 3 米",
+      "爆炸造成基础 物理 伤害，等于 图腾 最大生命的 20 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "塔赫亚的照料\n辅助\n血统\n,\n图腾\n,\n效果区域\n,\n触发\n,\n物理\n类别\n:\n坚韧图腾\n消耗加成:\n110%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助产生\n图腾\n的技能，使\n图腾\n拥有更多生命。被辅助技能产生的\n图腾\n被击败时爆炸，根据其生命造成\n物理\n伤害。\n辅助\n被辅助技能创造的\n图腾\n最大生命总增\n25\n%\n被辅助技能产生的\n图腾\n死亡时，触发塔赫亚的复仇\n塔赫亚的复仇\n暴击\n率:\n5.00%\n依据\n图腾\n生命值在区域内造成\n物理\n伤害。\n爆炸范围为\n3\n米\n爆炸造成基础\n物理\n伤害，等于\n图腾\n最大生命的\n20\n%\n一个搜寻者发现塔赫亚在林中打坐。\n“这世间的青玉数量有限，”神明开口道。\n“将我的恩赐带给你的族人。铁木将生长到永远。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nTawhoa's Tending",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Tecrods_Revenge",
+    "id": "Tecrods_Revenge",
+    "name_en": "Tecrod's Revenge",
+    "name_cn": "特克罗的复仇",
+    "name_tw": "特克羅德的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/lastgaspsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "召唤生物",
+      "永久性",
+      "持续时间"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Tecrods_Revenge",
+    "secDescrText": "辅助能够产生 永久性 召唤生物 的技能，使 召唤生物 在受到致命伤害时还会继续战斗，并在持续一段时间或受到超过其最大生命的后续伤害后死亡。被辅助技能召唤的 召唤生物 在进入此状态时获得 噬魂者 和速度爆发。",
+    "icon_local": "images/poe2/skills/lineage/Tecrods_Revenge.webp",
+    "explicitMod": [
+      "被辅助技能的 召唤生物 在生命降至 0 的 20 秒后被击败",
+      "被辅助技能的 召唤生物 在生命降至 0 时获得 噬魂者",
+      "被辅助技能的 召唤生物 生命降至 0 时， 攻击 和施法速度提高 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "特克罗的复仇\n辅助\n血统\n,\n召唤生物\n,\n永久性\n,\n持续时间\n类别\n:\n亡命之息\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助能够产生\n永久性\n召唤生物\n的技能，使\n召唤生物\n在受到致命伤害时还会继续战斗，并在持续一段时间或受到超过其最大生命的后续伤害后死亡。被辅助技能召唤的\n召唤生物\n在进入此状态时获得\n噬魂者\n和速度爆发。\n被辅助技能的\n召唤生物\n在生命降至 0 的\n20\n秒后被击败\n被辅助技能的\n召唤生物\n在生命降至 0 时获得\n噬魂者\n被辅助技能的\n召唤生物\n生命降至 0 时，\n攻击\n和施法速度提高\n40\n%\n巫妖领主毁灭了他的肉体，但在濒死的怒火中，\n特克德找到了一条道路。他深潜在鲜血、血肉、\n深井之中……或许此刻仍隐匿于人群之中，无人察觉。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nTecrod's Revenge",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Tuls_Stillness",
+    "id": "Tuls_Stillness",
+    "name_en": "Tul's Stillness",
+    "name_cn": "托沃的寂静",
+    "name_tw": "托沃的寧靜",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "冰霜",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Tuls_Stillness",
+    "secDescrText": "辅助可造成伤害性 击中 的技能，提供额外 混沌 伤害，使 混沌 伤害 作用于 冻结积蓄 。",
+    "icon_local": "images/poe2/skills/lineage/Tuls_Stillness.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被辅助技能 击中 造成的 混沌 伤害也会 作用于 冻结 积蓄",
+      "被辅助技能 获得 额外 混沌 伤害，其数值等同于 冰霜 伤害 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "托沃的寂静\n辅助\n血统\n,\n冰霜\n,\n混沌\n类别\n:\n裂隙之主\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 敏捷\n辅助可造成伤害性\n击中\n的技能，提供额外\n混沌\n伤害，使\n混沌\n伤害\n作用于\n冻结积蓄\n。\n被辅助技能\n击中\n造成的\n混沌\n伤害也会\n作用于\n冻结\n积蓄\n被辅助技能\n获得\n额外\n混沌\n伤害，其数值等同于\n冰霜\n伤害\n40\n%\n“无数坟茔，无尽延伸，静默泛光。\n生者躺于其内，却不腐不朽，拒斥死亡。\n他们圆睁双目，精华凝滞，默然等待。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nTul's Stillness",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Uhtreds_Augury",
+    "id": "Uhtreds_Augury",
+    "name_en": "Uhtred's Augury",
+    "name_cn": "乌崔德的占卜",
+    "name_tw": "烏特雷的占卜術",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Uhtreds_Augury",
+    "secDescrText": "辅助可升级的技能，在恰好有两个其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。无法辅助没有等级的技能。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Augury.webp",
+    "explicitMod": [
+      "若仅有两个其他辅助宝石影响被辅助技能，被辅助技能宝石等级 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "乌崔德的占卜\n辅助\n血统\n类别\n:\n君锋城的乌崔德\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可升级的技能，在恰好有两个其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。无法辅助没有等级的技能。\n若仅有两个其他辅助宝石影响被辅助技能，被辅助技能宝石等级\n+3\n研读星象恶兆之后，乌崔德疑窦丛生，\n第一批卡古兰人大有蹊跷。\n欧罗什、沃拉娜、梅德维德……三人。三大威胁。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nUhtred's Augury",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Uhtreds_Exodus",
+    "id": "Uhtreds_Exodus",
+    "name_en": "Uhtred's Exodus",
+    "name_cn": "乌崔德的出走",
+    "name_tw": "烏特雷的出走",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Uhtreds_Exodus",
+    "secDescrText": "辅助可升级的技能，在没有其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Exodus.webp",
+    "explicitMod": [
+      "若没有其他辅助宝石，被辅助技能宝石等级 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "乌崔德的出走\n辅助\n血统\n类别\n:\n君锋城的乌崔德\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可升级的技能，在没有其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。\n若没有其他辅助宝石，被辅助技能宝石等级\n+3\n待乌崔德察觉真相之时，仅剩沃拉娜守卫众人。\n余众尽数逃离之际，她却将宝石植入血肉，\n独身迎向无尽大军。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nUhtred's Exodus",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Uhtreds_Omen",
+    "id": "Uhtreds_Omen",
+    "name_en": "Uhtred's Omen",
+    "name_cn": "乌崔德的预兆",
+    "name_tw": "烏特雷的徵兆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Uhtreds_Omen",
+    "secDescrText": "辅助可升级的技能，在恰好有一个其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。无法辅助没有等级的技能。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Omen.webp",
+    "explicitMod": [
+      "若仅有一个其他辅助宝石影响被辅助技能，被辅助技能宝石等级 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "乌崔德的预兆\n辅助\n血统\n类别\n:\n君锋城的乌崔德\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可升级的技能，在恰好有一个其他辅助宝石修改被辅助技能的情况下，提供大量额外等级。无法辅助没有等级的技能。\n若仅有一个其他辅助宝石影响被辅助技能，被辅助技能宝石等级\n+3\n日日夜夜，他的祭司跟踪每一位卡古兰英雄。\n梅德维德失踪后，乌崔德愈发偏执多疑。\n如今，仅存两人……欧罗什与沃拉娜。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nUhtred's Omen",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Uruks_Smelting",
+    "id": "Uruks_Smelting",
+    "name_en": "Uruk's Smelting",
+    "name_cn": "厄罗克的熔炼术",
+    "name_tw": "厄羅克的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/increasedarmourbreaksupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Uruks_Smelting",
+    "secDescrText": "辅助任意技能，使其造成的 护甲破损 更强。被辅助技能 完全粉碎护甲 时，永久增加受影响目标受到的 物理 伤害，该效果有上限。",
+    "icon_local": "images/poe2/skills/lineage/Uruks_Smelting.webp",
+    "explicitMod": [
+      "被辅助技能 完全粉碎护甲 后，受影响的目标受到的 物理 伤害永久提高 5 %，最高 20%",
+      "被辅助技能 粉碎 的 护甲 总增 70 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "厄罗克的熔炼术\n辅助\n血统\n,\n物理\n类别\n:\n护甲破坏者\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助任意技能，使其造成的\n护甲破损\n更强。被辅助技能\n完全粉碎护甲\n时，永久增加受影响目标受到的\n物理\n伤害，该效果有上限。\n被辅助技能\n完全粉碎护甲\n后，受影响的目标受到的\n物理\n伤害永久提高\n5\n%，最高 20%\n被辅助技能\n粉碎\n的\n护甲\n总增\n70\n%\n火山咆哮，却无雷鸣，唯闻厄罗克战锤之轰响。\n瓦尔克拉斯或许早已遗忘古老的盟约，\n但凭熔岩者之意志，烈火势将再次怒燃。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nUruk's Smelting",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Uul-Netols_Embrace",
+    "id": "Uul-Netols_Embrace",
+    "name_en": "Uul-Netol's Embrace",
+    "name_cn": "乌尔尼多的拥抱",
+    "name_tw": "烏爾尼多的擁抱",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "物理",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Uul-Netols_Embrace",
+    "secDescrText": "辅助可造成伤害性 击中 的技能，提供额外 混沌 伤害，使 混沌 伤害 粉碎护甲 。",
+    "icon_local": "images/poe2/skills/lineage/Uul-Netols_Embrace.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被辅助技能 粉碎护甲 ，相当于造成 混沌 伤害的 20 %",
+      "被辅助技能额外 获得 40 % 物理 伤害，并转化为 混沌 伤害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "乌尔尼多的拥抱\n辅助\n血统\n,\n物理\n,\n混沌\n类别\n:\n裂隙之主\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可造成伤害性\n击中\n的技能，提供额外\n混沌\n伤害，使\n混沌\n伤害\n粉碎护甲\n。\n被辅助技能\n粉碎护甲\n，相当于造成\n混沌\n伤害的\n20\n%\n被辅助技能额外\n获得\n40\n%\n物理\n伤害，并转化为\n混沌\n伤害\n“诸主无法呼吸，故而培育新肺。\n诸主无法远行，故而培育新肤。\n诸主形孤影寡，故而培育我等，以供驱使。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nUul-Netol's Embrace",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Varashtas_Blessing",
+    "id": "Varashtas_Blessing",
+    "name_en": "Varashta's Blessing",
+    "name_cn": "瓦拉煞的祝福",
+    "name_tw": "瓦拉什塔的祝福",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Varashtas_Blessing",
+    "secDescrText": "辅助任意可造成伤害的技能，根据你使用过的不同 命令 技能数量提高其伤害。",
+    "icon_local": "images/poe2/skills/lineage/Varashtas_Blessing.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "过去 15 秒内每使用一种不同的 命令 技能，被辅助技能伤害总增 10 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瓦拉煞的祝福\n辅助\n血统\n类别\n:\n瓦拉煞的祝福\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助任意可造成伤害的技能，根据你使用过的不同\n命令\n技能数量提高其伤害。\n过去 15 秒内每使用一种不同的\n命令\n技能，被辅助技能伤害总增\n10\n%\n“我等立下此等传统，意欲永葆强固，以求永世长存。\n绝非为束缚，绝非为支配，\n而是为守护……与指引。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nVarashta's Blessing",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Vilentas_Propulsion",
+    "id": "Vilentas_Propulsion",
+    "name_en": "Vilenta's Propulsion",
+    "name_cn": "薇伦塔之推进",
+    "name_tw": "范尼達的奮進",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/slowerprojectilessupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Vilentas_Propulsion",
+    "secDescrText": "辅助发射 投射物 的 法术 技能，对施法速度的加速与减缓也同样作用于 投射物 速度。",
+    "icon_local": "images/poe2/skills/lineage/Vilentas_Propulsion.webp",
+    "explicitMod": [
+      "施法速度的加速与减缓的 75 % 同样作用于被辅助技能的 投射物 速度"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "薇伦塔之推进\n辅助\n血统\n,\n法术\n,\n投射物\n类别\n:\n投射物速度\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助发射\n投射物\n的\n法术\n技能，对施法速度的加速与减缓也同样作用于\n投射物\n速度。\n施法速度的加速与减缓的\n75\n% 同样作用于被辅助技能的\n投射物\n速度\n她日夜不休地锤打，痴迷于证明其可行性；\n一座深埋地下的巨大机械圆环，\n将能量推动至前所未有的速度——只为证明科塔拉是错的。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nVilenta's Propulsion",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Xibaquas_Rending",
+    "id": "Xibaquas_Rending",
+    "name_en": "Xibaqua's Rending",
+    "name_cn": "夏巴夸亚的撕裂",
+    "name_tw": "賽巴昆的撕裂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "效果区域",
+      "触发",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Xibaquas_Rending",
+    "secDescrText": "辅助可跃向空中的技能。落地时，使你着陆区域内的 灵柩 猛烈爆炸，并对周围敌人造成伤害。",
+    "icon_local": "images/poe2/skills/lineage/Xibaquas_Rending.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "被辅助技能在着地时触发炽热噬夺",
+      "爆炸造成的基础 火焰 伤害等于 灵柩 最大生命的 6 %",
+      "爆炸范围为 1.5 米",
+      "引爆 3.5 米范围内的 灵柩"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "夏巴夸亚的撕裂\n辅助\n血统\n,\n效果区域\n,\n触发\n,\n火焰\n类别\n:\n夏巴夸亚的撕裂\n消耗加成:\n115%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助可跃向空中的技能。落地时，使你着陆区域内的\n灵柩\n猛烈爆炸，并对周围敌人造成伤害。\n辅助\n被辅助技能在着地时触发炽热噬夺\n烈焰征伐\n根据爆炸的\n灵柩\n生命上限，在其周围区域造成\n火焰\n伤害。\n爆炸造成的基础\n火焰\n伤害等于\n灵柩\n最大生命的\n6\n%\n爆炸范围为\n1.5\n米\n引爆\n3.5\n米范围内的\n灵柩\n诞生于神祇血肉，他的背叛遭到了神罚。\n众神逐一剥夺了他们的肉体，\n直到他们的身躯只残留下最后一点光沫，\n那就是最早的瓦尔。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nXibaqua's Rending",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Xophs_Pyre",
+    "id": "Xophs_Pyre",
+    "name_en": "Xoph's Pyre",
+    "name_cn": "索伏的葬火",
+    "name_tw": "索伏的燃焰",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "火焰",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Xophs_Pyre",
+    "secDescrText": "辅助可造成伤害性 击中 的技能，提供额外 混沌 伤害，使 混沌 伤害 作用于 点燃 。",
+    "icon_local": "images/poe2/skills/lineage/Xophs_Pyre.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被辅助技能 击中 造成的 混沌 伤害也会 作用于 易燃 和 点燃 强度",
+      "被辅助技能 获得 额外 混沌 伤害，其数值等同于 火焰 伤害 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "索伏的葬火\n辅助\n血统\n,\n火焰\n,\n混沌\n类别\n:\n裂隙之主\n消耗加成:\n120%\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助可造成伤害性\n击中\n的技能，提供额外\n混沌\n伤害，使\n混沌\n伤害\n作用于\n点燃\n。\n被辅助技能\n击中\n造成的\n混沌\n伤害也会\n作用于\n易燃\n和\n点燃\n强度\n被辅助技能\n获得\n额外\n混沌\n伤害，其数值等同于\n火焰\n伤害\n40\n%\n“他们饮尽万物，直至唯余尘埃。吞食一切，直至齿龈锈血横流。\n贪婪至此，破碎太阳遗迹中，唯有赤焰长存\n——是为永恒环火。”\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nXoph's Pyre",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  },
+  {
+    "slug": "Zarokhs_Refrain",
+    "id": "Zarokhs_Refrain",
+    "name_en": "Zarokh's Refrain",
+    "name_cn": "扎洛卡的克制",
+    "name_tw": "澤洛克的克制",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "法术",
+      "效果区域"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Zarokhs_Refrain",
+    "secDescrText": "辅助影响周围区域或目标位置的 法术 。被辅助的 法术 产生三次回响，在短暂延迟后再次生效，但被辅助技能获得短暂冷却时间。无法辅助 持续吟唱 技能、 远距 技能、已有冷却时间的技能或 触发 技能。",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Refrain.webp",
+    "cost": "130%",
+    "cooldown_time": "5.00 秒",
+    "explicitMod": [
+      "被辅助的 法术 回响 3 次",
+      "被辅助 法术 的回响效果范围提高 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "扎洛卡的克制\n辅助\n血统\n,\n法术\n,\n效果区域\n类别\n:\n施法回响\n消耗加成:\n130%\n冷却时间:\n5.00 秒\n需求：\n等级 65\n辅助宝石需求\n：\n+5 智慧\n辅助影响周围区域或目标位置的\n法术\n。被辅助的\n法术\n产生三次回响，在短暂延迟后再次生效，但被辅助技能获得短暂冷却时间。无法辅助\n持续吟唱\n技能、\n远距\n技能、已有冷却时间的技能或\n触发\n技能。\n被辅助的\n法术\n回响\n3\n次\n被辅助\n法术\n的回响效果范围提高\n40\n%\n扎洛卡永远重复同一天，对组成牢笼的\n每个瞬间怒不可遏。再无救赎可言，\n因为他已经亲手打碎了唯一的巨灵币。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nZarokh's Refrain",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Zarokhs_Revolt",
+    "id": "Zarokhs_Revolt",
+    "name_en": "Zarokh's Revolt",
+    "name_cn": "扎洛卡的反叛",
+    "name_tw": "澤洛克的反叛",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "法术"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Zarokhs_Revolt",
+    "secDescrText": "辅助你施放的 法术 ，使其在施放时效果最多重复触发五次，但会为其附加一定的冷却时间。无法辅助 持续吟唱 技能。",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Revolt.webp",
+    "cost": "200%",
+    "cooldown_time": "10.00 秒",
+    "explicitMod": [
+      "被辅助法术每隔施法时间的 50 % 获得一个封印，最多 5 个封印 被辅助法术施放时解除封印，每失去一个封印其效果便重复一次",
+      "被辅助技能重复施放时，造成的伤害总降 20 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "扎洛卡的反叛\n辅助\n法术\n类别\n:\n封印\n消耗加成:\n200%\n冷却时间:\n10.00 秒\n辅助宝石需求\n：\n+5 智慧\n辅助你施放的\n法术\n，使其在施放时效果最多重复触发五次，但会为其附加一定的冷却时间。无法辅助\n持续吟唱\n技能。\n被辅助法术每隔施法时间的\n50\n% 获得一个封印，最多\n5\n个封印\n被辅助法术施放时解除封印，每失去一个封印其效果便重复一次\n被辅助技能重复施放时，造成的伤害总降\n20\n%\n扎洛卡的怒意在数个世纪中积聚，他一直在谋划逃离。\n阿法鲁德终将找到他所求之物，而后……\n腐泣必将打破他囚笼的枷锁。\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nZarokh's Revolt",
+    "requirements": "辅助宝石需求 ： +5 智慧"
+  },
+  {
+    "slug": "Zerphis_Infamy",
+    "id": "Zerphis_Infamy",
+    "name_en": "Zerphi's Infamy",
+    "name_cn": "泽佛伊的恶名",
+    "name_tw": "澤佛伊的惡名",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "辅助",
+      "血统",
+      "战吼",
+      "效果区域"
+    ],
+    "detail_url": "https://poe2db.tw/cn/Zerphis_Infamy",
+    "secDescrText": "辅助你施放的 攻击 与 战吼 。被辅助的技能将需要消耗 荣耀 ，并且当你在技能上消耗生命时会积攒 荣耀 。被辅助的技能会造成更多伤害，并显著 扩大影响范围。",
+    "icon_local": "images/poe2/skills/lineage/Zerphis_Infamy.webp",
+    "explicitMod": [
+      "使用被辅助技能需要 50 点 荣耀",
+      "被辅助技能获得的 荣耀 等于 在其他技能上消耗的 5 % 生命",
+      "被辅助技能的效果范围扩大 50 %",
+      "被辅助技能造成的伤害总增 50 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "泽佛伊的恶名\n辅助\n血统\n,\n战吼\n,\n效果区域\n类别\n:\n泽佛伊的遗产\n需求：\n等级 65\n辅助宝石需求\n：\n+5 力量\n辅助你施放的\n攻击\n与\n战吼\n。被辅助的技能将需要消耗\n荣耀\n，并且当你在技能上消耗生命时会积攒\n荣耀\n。被辅助的技能会造成更多伤害，并显著\n扩大影响范围。\n使用被辅助技能需要\n50\n点\n荣耀\n被辅助技能获得的\n荣耀\n等于\n在其他技能上消耗的\n5\n% 生命\n被辅助技能的效果范围扩大\n50\n%\n被辅助技能造成的伤害总增\n50\n%\n\"令他脱颖而出的并非暴行的数量，而是其质量……\n所有肉体创伤的施加，都发生在受害者意识清醒之时。\n或许，这正是关键所在。\"\n在技能面板中放入一个技能的辅助宝石插槽，使技能获得该效果。无法在一个技能中镶嵌多个相同类别的辅助宝石。\nZerphi's Infamy",
+    "requirements": "需求： 等级 65 | 辅助宝石需求 ： +5 力量"
+  }
+]

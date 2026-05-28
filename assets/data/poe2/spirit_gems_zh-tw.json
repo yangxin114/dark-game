@@ -1,0 +1,1674 @@
+[
+  {
+    "slug": "Alchemists_Boon",
+    "id": "Alchemists_Boon",
+    "name_en": "Alchemist's Boon",
+    "name_cn": "炼金师的恩典",
+    "name_tw": "煉金師恩惠",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AlchemistsBoonSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "光環"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Alchemists_Boon",
+    "icon_local": "images/poe2/skills/spirit/Alchemists_Boon.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，被動給予你 藥劑 使用次數，並使你 藥劑 的生命和魔力恢復也會套用在你 存在範圍 內的 友方 身上。",
+    "explicitMod": [
+      "你 藥劑 的 (15 — 34) % 恢復量也會 作用於你 存在範圍 內的 友方",
+      "每秒給予你 (0.17 — 0.23) 藥劑 充能"
+    ],
+    "qualityMod": [
+      "每秒給予你 (0 — 0.03) 藥劑 充能"
+    ],
+    "newItemPopup": "煉金師恩惠\n增益效果\n持續\n,\n光環\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n啟動時，被動給予你\n藥劑\n使用次數，並使你\n藥劑\n的生命和魔力恢復也會套用在你\n存在範圍\n內的\n友方\n身上。\n你\n藥劑\n的\n(15\n—\n34)\n% 恢復量也會\n作用於你\n存在範圍\n內的\n友方\n每秒給予你\n(0.17\n—\n0.23)\n藥劑\n充能\n來自品質的額外效果：\n每秒給予你\n(0\n—\n0.03)\n藥劑\n充能\n可以在技能面板管理技能。\nAlchemist's Boon",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷"
+  },
+  {
+    "slug": "Archmage",
+    "id": "Archmage",
+    "name_en": "Archmage",
+    "name_cn": "大法师",
+    "name_tw": "大法師",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ArchmageSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "閃電"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Archmage",
+    "icon_local": "images/poe2/skills/spirit/Archmage.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，使你的非 引導 法術 消耗額外的魔力，並造成額外的 閃電 傷害，兩者皆根據你的最大魔力而定。",
+    "explicitMod": [
+      "你每擁有 100 最大魔力，非引導 法術 獲得 相當於 4 % 傷害的額外 閃電 傷害",
+      "非引導 法術 額外消耗你最大魔力的 (6.1 — 8) %"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "大法師\n增益效果\n持續\n,\n閃電\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，使你的非\n引導\n法術\n消耗額外的魔力，並造成額外的\n閃電\n傷害，兩者皆根據你的最大魔力而定。\n你每擁有 100 最大魔力，非引導\n法術\n獲得\n相當於\n4\n% 傷害的額外\n閃電\n傷害\n非引導\n法術\n額外消耗你最大魔力的\n(6.1\n—\n8)\n%\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n可以在技能面板管理技能。\nArchmage",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Arctic_Armour",
+    "id": "Arctic_Armour",
+    "name_en": "Arctic Armour",
+    "name_cn": "极地装甲",
+    "name_tw": "極地裝甲",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "法術",
+      "持續",
+      "持續性",
+      "冰冷",
+      "獲得疊層"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Arctic_Armour",
+    "icon_local": "images/poe2/skills/spirit/Arctic_Armour.webp",
+    "level": "(1 — 20)",
+    "cooldown_time": "0.25 秒",
+    "cast_time": "立即",
+    "secDescrText": "啟動時，召喚一道會隨時間增強的寒冰屏障。當屏障處於增強階段時，擊中你的 近戰 攻擊 會移除一個階段，引發冰霜爆發，對攻擊者造成 冰冷 法術 傷害。",
+    "explicitMod": [
+      "每層造成 (3 — 101) 至 (5 — 152) 冰冷 傷害",
+      "施加之 冰緩 具有 100 % 更多 幅度",
+      "100 % 更多 冰凍 累積",
+      "每 (0.73 — 1.25) 秒獲得 1 層，最多可達 (2 — 5) 層"
+    ],
+    "qualityMod": [
+      "每  秒獲得 1 層，最多可達 (0 — 1) 層"
+    ],
+    "newItemPopup": "極地裝甲\n增益效果\n法術\n,\n持續\n,\n持續性\n,\n冰冷\n,\n獲得疊層\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n冷卻時間:\n0.25 秒\n施放時間:\n立即\n暴擊\n率:\n11.00%\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，召喚一道會隨時間增強的寒冰屏障。當屏障處於增強階段時，擊中你的\n近戰\n攻擊\n會移除一個階段，引發冰霜爆發，對攻擊者造成\n冰冷\n法術\n傷害。\n每層造成\n(3\n—\n101)\n至\n(5\n—\n152)\n冰冷\n傷害\n施加之\n冰緩\n具有\n100\n% 更多\n幅度\n100\n% 更多\n冰凍\n累積\n每\n(0.73\n—\n1.25)\n秒獲得 1 層，最多可達\n(2\n—\n5)\n層\n來自品質的額外效果：\n每  秒獲得 1 層，最多可達\n(0\n—\n1)\n層\n可以在技能面板管理技能。\nArctic Armour",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Attrition",
+    "id": "Attrition",
+    "name_en": "Attrition",
+    "name_cn": "持久鏖战",
+    "name_tw": "損耗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AttritionSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Attrition",
+    "icon_local": "images/poe2/skills/spirit/Attrition.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，你與 稀有 和 傳奇 敵人交戰的時間越久，對其造成的 擊中 傷害越高，且與其交戰足夠久之後，獲得 撲殺 效果。",
+    "explicitMod": [
+      "你對於在自己 存在範圍 內至少待了共計 (31 — 40) 秒的 稀有 和 傳奇 敵人有 撲殺 效果",
+      "稀有 和 傳奇 敵人每在你的 存在範圍 內待 2 秒，你對該名敵人造成 1 % 更多 擊中 傷害 ，最多提升至 (40 — 59) %"
+    ],
+    "qualityMod": [
+      "你對於在自己 存在範圍 內至少待了共計 (-5 — 0) 秒的 稀有 和 傳奇 敵人有 撲殺 效果"
+    ],
+    "newItemPopup": "損耗\n增益效果\n持續\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n啟動時，你與\n稀有\n和\n傳奇\n敵人交戰的時間越久，對其造成的\n擊中\n傷害越高，且與其交戰足夠久之後，獲得\n撲殺\n效果。\n你對於在自己\n存在範圍\n內至少待了共計\n(31\n—\n40)\n秒的\n稀有\n和\n傳奇\n敵人有\n撲殺\n效果\n稀有\n和\n傳奇\n敵人每在你的\n存在範圍\n內待 2 秒，你對該名敵人造成\n1\n% 更多\n擊中\n傷害 ，最多提升至\n(40\n—\n59)\n%\n來自品質的額外效果：\n你對於在自己\n存在範圍\n內至少待了共計\n(-5\n—\n0)\n秒的\n稀有\n和\n傳奇\n敵人有\n撲殺\n效果\n可以在技能面板管理技能。\nAttrition",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷"
+  },
+  {
+    "slug": "Barkskin",
+    "id": "Barkskin",
+    "name_en": "Barkskin",
+    "name_cn": "树肤术",
+    "name_tw": "木質外膚",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBarkSkin.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Barkskin",
+    "icon_local": "images/poe2/skills/spirit/Barkskin.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，以 能量護盾 承受來自敵人的 擊中 傷害時會使你短暫獲得 護甲 。從複數 擊中 獲得的 護甲 可以堆疊。從此技能獲得的總 護甲 無法超過 裝備護甲物品 的 物品護甲 。",
+    "explicitMod": [
+      "當被敵人 擊中 時，獲得等同於 (25 — 44) %失去 能量護盾 的 護甲",
+      "增益效果 持續時間為 6 秒"
+    ],
+    "qualityMod": [
+      "當被敵人 擊中 時，獲得等同於 (0 — 5) %失去 能量護盾 的 護甲"
+    ],
+    "newItemPopup": "木質外膚\n增益效果\n持續\n,\n持續時間\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 智慧\n啟動時，以\n能量護盾\n承受來自敵人的\n擊中\n傷害時會使你短暫獲得\n護甲\n。從複數\n擊中\n獲得的\n護甲\n可以堆疊。從此技能獲得的總\n護甲\n無法超過\n裝備護甲物品\n的\n物品護甲\n。\n當被敵人\n擊中\n時，獲得等同於\n(25\n—\n44)\n%失去\n能量護盾\n的\n護甲\n增益效果\n持續時間為\n6\n秒\n來自品質的額外效果：\n當被敵人\n擊中\n時，獲得等同於\n(0\n—\n5)\n%失去\n能量護盾\n的\n護甲\n可以在技能面板管理技能。\nBarkskin",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Barrier_Invocation",
+    "id": "Barrier_Invocation",
+    "name_en": "Barrier Invocation",
+    "name_cn": "屏障咒言",
+    "name_tw": "屏障祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBarrierInvocation.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "祈願",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Barrier_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Barrier_Invocation.webp",
+    "level": "(1 — 20)",
+    "cooldown_time": "0.20 秒",
+    "secDescrText": "啟動時，當你的 能量護盾 承受到敵人的 擊中 傷害，便會獲得 能量 。收集到足夠的 能量 後使用祈願，將會消耗 能量 以觸發插槽中的 法術 ，若有足夠的 能量 則可以觸發多次。",
+    "explicitMod": [
+      "被敵人 擊中 時，每 10 因承受傷害而失去的 能量護盾 可獲得 1 能量",
+      "能量 獲得量增加 (0 — 57) %",
+      "最大 能量 為 500",
+      "插槽中的 法術 觸發時，每 0.1 秒基礎施放時間消耗 10 能量"
+    ],
+    "qualityMod": [
+      "能量 獲得量增加 (0 — 15) %"
+    ],
+    "newItemPopup": "屏障祈願\n增益效果\n持續\n,\n觸發\n,\n祈願\n,\n主要\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n冷卻時間:\n0.20 秒\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，當你的\n能量護盾\n承受到敵人的\n擊中\n傷害，便會獲得\n能量\n。收集到足夠的\n能量\n後使用祈願，將會消耗\n能量\n以觸發插槽中的\n法術\n，若有足夠的\n能量\n則可以觸發多次。\n屏障祈願\n被敵人\n擊中\n時，每\n10\n因承受傷害而失去的\n能量護盾\n可獲得 1\n能量\n能量\n獲得量增加\n(0\n—\n57)\n%\n最大\n能量\n為\n500\n來自品質的額外效果：\n能量\n獲得量增加\n(0\n—\n15)\n%\n輔助\n插槽中的\n法術\n觸發時，每\n0.1\n秒基礎施放時間消耗 10 能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nBarrier Invocation",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Berserk",
+    "id": "Berserk",
+    "name_en": "Berserk",
+    "name_cn": "盛怒",
+    "name_tw": "狂戰",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BeserkSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Berserk",
+    "icon_local": "images/poe2/skills/spirit/Berserk.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，加強你的 盛怒 ，但會使你失去生命而不會失去 盛怒 。",
+    "explicitMod": [
+      "未損失 盛怒 時，每一 盛怒 造成每秒 損失 0.1 % 生命",
+      "賦予 盛怒 效果增加 (40 — 59) %"
+    ],
+    "qualityMod": [
+      "賦予 盛怒 效果增加 (0 — 10) %"
+    ],
+    "newItemPopup": "狂戰\n增益效果\n持續\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n啟動時，加強你的\n盛怒\n，但會使你失去生命而不會失去\n盛怒\n。\n未損失\n盛怒\n時，每一\n盛怒\n造成每秒\n損失\n0.1\n% 生命\n賦予\n盛怒\n效果增加\n(40\n—\n59)\n%\n來自品質的額外效果：\n賦予\n盛怒\n效果增加\n(0\n—\n10)\n%\n可以在技能面板管理技能。\nBerserk",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量"
+  },
+  {
+    "slug": "Blasphemy",
+    "id": "Blasphemy",
+    "name_en": "Blasphemy",
+    "name_cn": "诅咒光环",
+    "name_tw": "瀆神",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "光環",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Blasphemy",
+    "icon_local": "images/poe2/skills/spirit/Blasphemy.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "將所有插槽中的 詛咒 技能轉變為惡毒 光環 ，將效果套用於周圍所有敵人。",
+    "explicitMod": [
+      "插槽中的 詛咒 技能會以 光環 的形式影響周圍",
+      "每個插槽中的 詛咒 占用 60 精魂",
+      "被輔助的 詛咒 有 (41 — 50) % 更少效果 幅度",
+      "插槽中的技能在基礎範圍上額外增加 +1 公尺"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "瀆神\n增益效果\n持續\n,\n範圍效果\n,\n光環\n,\n主要\n階級:\n8\n等級:\n(1\n—\n20)\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n將所有插槽中的\n詛咒\n技能轉變為惡毒\n光環\n，將效果套用於周圍所有敵人。\n增益效果\n插槽中的\n詛咒\n技能會以\n光環\n的形式影響周圍\n每個插槽中的\n詛咒\n占用\n60\n精魂\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n詛咒\n被輔助的\n詛咒\n有\n(41\n—\n50)\n% 更少效果\n幅度\n插槽中的技能在基礎範圍上額外增加\n+1\n公尺\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nBlasphemy",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Blink",
+    "id": "Blink",
+    "name_en": "Blink",
+    "name_cn": "闪现",
+    "name_tw": "閃現",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlinkReservation.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "法術",
+      "持續",
+      "快行"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Blink",
+    "icon_local": "images/poe2/skills/spirit/Blink.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，以一個冷卻時間極短的 法術 取代你的閃避翻滾，讓你可穿越空間，立即現身於中距離外的一處。",
+    "explicitMod": [
+      "必須在兩個 武器套裝 中同時啟用",
+      "傳送 (4 — 4.9) 公尺"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 冷卻時間恢復率"
+    ],
+    "newItemPopup": "閃現\n增益效果\n法術\n,\n持續\n,\n快行\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，以一個冷卻時間極短的\n法術\n取代你的閃避翻滾，讓你可穿越空間，立即現身於中距離外的一處。\n閃現\n必須在兩個\n武器套裝\n中同時啟用\n閃現\n冷卻時間:\n(4.50\n—\n3.50) 秒\n施放時間:\n0.70 秒\n啟動時，以一個冷卻時間極短的\n法術\n取代你的閃避翻滾，讓你可穿越空間，立即現身於中距離外的一處。\n傳送\n(4\n—\n4.9)\n公尺\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n冷卻時間恢復率\n可以在技能面板管理技能。\nBlink",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Briarpatch",
+    "id": "Briarpatch",
+    "name_en": "Briarpatch",
+    "name_cn": "荆刺之缚",
+    "name_tw": "荊棘叢",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBriarpatch.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "法術",
+      "持續",
+      "範圍效果",
+      "持續性",
+      "物理",
+      "持續時間",
+      "植物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Briarpatch",
+    "icon_local": "images/poe2/skills/spirit/Briarpatch.webp",
+    "secDescrText": "",
+    "explicitMod": [
+      "增加 (10 — 20) % 移動速度",
+      "+(40 — 60) 最大生命",
+      "暈眩門檻 +(60 — 80)",
+      "+25 % 荊棘的 暴擊 率",
+      "(10 — 15) 至 (20 — 25) 點 物理 荊棘 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "薔薇眼罩\n飾帶長靴\n鞋子\n閃避值\n:\n38\n需求:\n等級 11\n,\n17 敏捷\n增加\n(10\n—\n20)\n% 移動速度\n+(40\n—\n60)\n最大生命\n暈眩門檻\n+(60\n—\n80)\n+25\n% 荊棘的\n暴擊\n率\n(10\n—\n15)\n至\n(20\n—\n25)\n點\n物理\n荊棘\n傷害\n德魯伊毫無畏懼地穿行於葛瑞爾林。\nBriarpatch",
+    "requirements": "需求: 等級 11 , 17 敏捷"
+  },
+  {
+    "slug": "Cast_on_Critical",
+    "id": "Cast_on_Critical",
+    "name_en": "Cast on Critical",
+    "name_cn": "暴击时施放",
+    "name_tw": "暴擊時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnCritSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Cast_on_Critical",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Critical.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，當你 暴擊 敵人時獲得 能量 ，並在到達最大 能量 時觸發插槽中的 法術 。",
+    "explicitMod": [
+      "你以技能對敵人 暴擊 時，依每點 強度 獲得 1 能量 ， 隨暴擊對敵人所造成的 異常狀態門檻 百分比變動",
+      "能量 獲得量增加 (0 — 57) %",
+      "插槽中的 法術 每 0.1 秒基礎施放時間有 10 最大能量",
+      "插槽中的技能造成 20 % 更少傷害"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "暴擊時施放\n增益效果\n持續\n,\n觸發\n,\n主要\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，當你\n暴擊\n敵人時獲得\n能量\n，並在到達最大\n能量\n時觸發插槽中的\n法術\n。\n暴擊時施放\n你以技能對敵人\n暴擊\n時，依每點\n強度\n獲得\n1\n能量\n，\n隨暴擊對敵人所造成的\n異常狀態門檻\n百分比變動\n能量\n獲得量增加\n(0\n—\n57)\n%\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n輔助\n插槽中的\n法術\n每\n0.1\n秒基礎施放時間有 10 最大能量\n插槽中的技能造成\n20\n% 更少傷害\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nCast on Critical",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Cast_on_Dodge",
+    "id": "Cast_on_Dodge",
+    "name_en": "Cast on Dodge",
+    "name_cn": "躲闪时施放",
+    "name_tw": "閃避時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Cast_on_Dodge",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Dodge.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間，當你閃避翻滾時獲得 能量 ，並在到達最大 能量 時觸發插槽中的法術。",
+    "explicitMod": [
+      "躲避翻滾時每移動 1 公尺獲得 2 能量",
+      "能量 獲得量增加 (0 — 57) %",
+      "插槽中的 法術 每 0.1 秒基礎施放時間有 10 最大能量"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "閃避時施放\n增益效果\n持續\n,\n觸發\n,\n主要\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動期間，當你閃避翻滾時獲得\n能量\n，並在到達最大\n能量\n時觸發插槽中的法術。\n閃避時施放\n躲避翻滾時每移動 1 公尺獲得\n2\n能量\n能量\n獲得量增加\n(0\n—\n57)\n%\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n輔助\n插槽中的\n法術\n每\n0.1\n秒基礎施放時間有 10 最大能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nCast on Dodge",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Cast_on_Elemental_Ailment",
+    "id": "Cast_on_Elemental_Ailment",
+    "name_en": "Cast on Elemental Ailment",
+    "name_cn": "元素异常状态时施放",
+    "name_tw": "元素異常狀態時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastonFreezeShockIgnite.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Cast_on_Elemental_Ailment",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Elemental_Ailment.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間，當你對敵人造成 冰凍 、 感電 或 點燃 時獲得 能量 ，並在到達最大 能量 時觸發插槽中的法術。",
+    "explicitMod": [
+      "你以技能 擊中 而 冰凍 敵人時， 依每點 強度 獲得 10 能量",
+      "你以技能 擊中 敵人造成 點燃 時，依每點 強度 獲得 1 能量 ， 隨 點燃 對敵人所造成 異常狀態門檻 百分比變動",
+      "你以技能 擊中 而使敵人 感電 時， 依每點 強度 獲得 1 能量",
+      "能量 獲得量增加 (0 — 57) %",
+      "插槽中的 法術 每 0.1 秒基礎施放時間有 10 最大能量"
+    ],
+    "qualityMod": [
+      "能量 獲得量增加 (0 — 15) %"
+    ],
+    "newItemPopup": "元素異常狀態時施放\n增益效果\n持續\n,\n觸發\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n主要\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動期間，當你對敵人造成\n冰凍\n、\n感電\n或\n點燃\n時獲得\n能量\n，並在到達最大\n能量\n時觸發插槽中的法術。\n元素異常狀態時施放\n你以技能\n擊中\n而\n冰凍\n敵人時，\n依每點\n強度\n獲得\n10\n能量\n你以技能\n擊中\n敵人造成\n點燃\n時，依每點\n強度\n獲得\n1\n能量\n，\n隨\n點燃\n對敵人所造成\n異常狀態門檻\n百分比變動\n你以技能\n擊中\n而使敵人\n感電\n時，\n依每點\n強度\n獲得\n1\n能量\n能量\n獲得量增加\n(0\n—\n57)\n%\n來自品質的額外效果：\n能量\n獲得量增加\n(0\n—\n15)\n%\n輔助\n插槽中的\n法術\n每\n0.1\n秒基礎施放時間有 10 最大能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nCast on Elemental Ailment",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Cast_on_Minion_Death",
+    "id": "Cast_on_Minion_Death",
+    "name_en": "Cast on Minion Death",
+    "name_cn": "召唤生物死亡时施放",
+    "name_tw": "召喚物死亡時施放",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnMinionDeath.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "召喚物",
+      "持續",
+      "觸發",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Cast_on_Minion_Death",
+    "icon_local": "images/poe2/skills/spirit/Cast_on_Minion_Death.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間，你的 持續 召喚物 被 擊殺 時會使你獲得 能量 ，並在到達最大 能量 時觸發插槽中的 法術 。等級非常落後的 召喚物 具有一個 能量 產生懲罰。無法插入創造 召喚物 的 法術 。",
+    "explicitMod": [
+      "召喚物 被 擊殺 時獲得 50 基礎 能量 ，並隨著 召喚物 的 強度 而調整",
+      "能量 獲得量增加 (0 — 57) %",
+      "插槽中的 法術 每 0.1 秒基礎施放時間有 10 最大能量"
+    ],
+    "qualityMod": [
+      "能量 獲得量增加 (0 — 20) %"
+    ],
+    "newItemPopup": "召喚物死亡時施放\n增益效果\n召喚物\n,\n持續\n,\n觸發\n,\n主要\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動期間，你的\n持續\n召喚物\n被\n擊殺\n時會使你獲得\n能量\n，並在到達最大\n能量\n時觸發插槽中的\n法術\n。等級非常落後的\n召喚物\n具有一個\n能量\n產生懲罰。無法插入創造\n召喚物\n的\n法術\n。\n召喚物死亡時施放\n召喚物\n被\n擊殺\n時獲得 50 基礎\n能量\n，並隨著\n召喚物\n的\n強度\n而調整\n能量\n獲得量增加\n(0\n—\n57)\n%\n來自品質的額外效果：\n能量\n獲得量增加\n(0\n—\n20)\n%\n輔助\n插槽中的\n法術\n每\n0.1\n秒基礎施放時間有 10 最大能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nCast on Minion Death",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Charge_Regulation",
+    "id": "Charge_Regulation",
+    "name_en": "Charge Regulation",
+    "name_cn": "能量球调节",
+    "name_tw": "充能調節",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Charge_Regulation",
+    "icon_local": "images/poe2/skills/spirit/Charge_Regulation.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，你會根據生效的 能量球 獲得強力的 增益效果 。然而，維持 增益效果 需每隔幾秒消耗 能量球 。",
+    "explicitMod": [
+      "當你有 暴擊球 時， 暴擊 率增加 (20 — 26) %",
+      "當你有 耐力球 時， 防禦 增加 (15 — 20) %",
+      "當你擁有 狂怒球 時，增加 (20 — 25) % 技能速度",
+      "每 10 秒消耗一顆各類型的 能量球"
+    ],
+    "qualityMod": [
+      "每 (0 — 2.4) 秒消耗一顆各類型的 能量球"
+    ],
+    "newItemPopup": "充能調節\n增益效果\n持續\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，你會根據生效的\n能量球\n獲得強力的\n增益效果\n。然而，維持\n增益效果\n需每隔幾秒消耗\n能量球\n。\n當你有\n暴擊球\n時，\n暴擊\n率增加\n(20\n—\n26)\n%\n當你有\n耐力球\n時，\n防禦\n增加\n(15\n—\n20)\n%\n當你擁有\n狂怒球\n時，增加\n(20\n—\n25)\n%\n技能速度\n每\n10\n秒消耗一顆各類型的\n能量球\n來自品質的額外效果：\n每\n(0\n—\n2.4)\n秒消耗一顆各類型的\n能量球\n可以在技能面板管理技能。\nCharge Regulation",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Combat_Frenzy",
+    "id": "Combat_Frenzy",
+    "name_en": "Combat Frenzy",
+    "name_cn": "战斗狂怒",
+    "name_tw": "戰鬥狂怒",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerCombatFrenzySkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Combat_Frenzy",
+    "icon_local": "images/poe2/skills/spirit/Combat_Frenzy.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，當你 冰凍 、 觸電 或 釘身 一名敵人時，賦予你一顆 狂怒球 。此效果每幾秒只能觸發一次。",
+    "explicitMod": [
+      "當你 冰凍 、 觸電 或 釘身 一個敵人，獲得一顆 狂怒球 ，每 (6.1 — 8) 秒不超過一次"
+    ],
+    "qualityMod": [
+      "當你獲得一顆 能量球 時，有 (0 — 10) % 機率獲得一顆額外的 能量球"
+    ],
+    "newItemPopup": "戰鬥狂怒\n增益效果\n持續\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n啟動時，當你\n冰凍\n、\n觸電\n或\n釘身\n一名敵人時，賦予你一顆\n狂怒球\n。此效果每幾秒只能觸發一次。\n當你\n冰凍\n、\n觸電\n或\n釘身\n一個敵人，獲得一顆\n狂怒球\n，每\n(6.1\n—\n8)\n秒不超過一次\n來自品質的額外效果：\n當你獲得一顆\n能量球\n時，有\n(0\n—\n10)\n% 機率獲得一顆額外的\n能量球\n可以在技能面板管理技能。\nCombat Frenzy",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷"
+  },
+  {
+    "slug": "Convalescence",
+    "id": "Convalescence",
+    "name_en": "Convalescence",
+    "name_cn": "康复",
+    "name_tw": "恢復期",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ConvalescenceSkillIcon.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "法術",
+      "增益效果",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Convalescence",
+    "icon_local": "images/poe2/skills/spirit/Convalescence.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "生效時賦予你一個技能，使用後可立即開始 充能 能量護盾 ，並獲得一個持續一段時間的 增益效果 ，使 充能 不會遭到中斷。該 增益效果 在 能量護盾 達到最大時移除，且該技能在 能量護盾 已滿時無法使用。",
+    "explicitMod": [
+      "必須在兩個 武器套裝 中同時啟用",
+      "冷卻時間在增益效果期間不會恢復",
+      "冷卻時間為 30 秒",
+      "增益效果 持續時間為 (3 — 3.95) 秒"
+    ],
+    "qualityMod": [
+      "+(0 — 0.5) 秒 增益效果 持續時間"
+    ],
+    "newItemPopup": "恢復期\n法術\n增益效果\n,\n持續\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n生效時賦予你一個技能，使用後可立即開始\n充能\n能量護盾\n，並獲得一個持續一段時間的\n增益效果\n，使\n充能\n不會遭到中斷。該\n增益效果\n在\n能量護盾\n達到最大時移除，且該技能在\n能量護盾\n已滿時無法使用。\n恢復期\n必須在兩個\n武器套裝\n中同時啟用\n恢復期\n消耗:\n20 魔力\n冷卻時間:\n30.00 秒\n施放時間:\n0.50 秒\n冷卻時間在增益效果期間不會恢復\n冷卻時間為\n30\n秒\n增益效果\n持續時間為\n(3\n—\n3.95)\n秒\n來自品質的額外效果：\n+(0\n—\n0.5)\n秒\n增益效果\n持續時間\n可以在技能面板管理技能。\nConvalescence",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Defiance_Banner",
+    "id": "Defiance_Banner",
+    "name_en": "Defiance Banner",
+    "name_cn": "抗争之旗",
+    "name_tw": "反抗之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DefianceBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "旗幟",
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "光環",
+      "持續時間",
+      "條件"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Defiance_Banner",
+    "icon_local": "images/poe2/skills/spirit/Defiance_Banner.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時， 攻擊 敵人會累積 榮耀 。當你擁有最大 榮耀 ，你就能放置一面帶有 光環 的激勵 旗幟 ，在旗幟持續期間賦予你和附近的 友方 護甲值 、 閃避 和移動速度。",
+    "explicitMod": [
+      "此技能 攻擊 擊中 時，產生等同於 100 % 怪物強度 的 榮耀",
+      "需要 200 榮耀 才能使用",
+      "旗幟 光環 範圍為 4.5 公尺",
+      "光環使 護甲 和 閃避值 增加 30 %",
+      "光環增加 30 % 移動速度",
+      "旗幟持續時間為 (6 — 9.8) 秒"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "反抗之旗\n旗幟\n增益效果\n,\n持續\n,\n範圍效果\n,\n光環\n,\n持續時間\n,\n條件\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n啟動時，\n攻擊\n敵人會累積\n榮耀\n。當你擁有最大\n榮耀\n，你就能放置一面帶有\n光環\n的激勵\n旗幟\n，在旗幟持續期間賦予你和附近的\n友方\n護甲值\n、\n閃避\n和移動速度。\n反抗之旗\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n反抗之旗\n此技能\n攻擊\n擊中\n時，產生等同於\n100\n%\n怪物強度\n的\n榮耀\n需要\n200\n榮耀\n才能使用\n旗幟\n光環\n範圍為\n4.5\n公尺\n光環使\n護甲\n和\n閃避值\n增加\n30\n%\n光環增加\n30\n% 移動速度\n旗幟持續時間為\n(6\n—\n9.8)\n秒\n可以在技能面板管理技能。\nDefiance Banner",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷"
+  },
+  {
+    "slug": "Dread_Banner",
+    "id": "Dread_Banner",
+    "name_en": "Dread Banner",
+    "name_cn": "恐怖之旗",
+    "name_tw": "恐懼之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DreadBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "旗幟",
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "光環",
+      "持續時間",
+      "條件"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Dread_Banner",
+    "icon_local": "images/poe2/skills/spirit/Dread_Banner.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時， 攻擊 敵人會累積 榮耀 。當你擁有最大 榮耀 ，你就能放置一面帶有 光環 的激勵 旗幟 ，在旗幟持續期間賦予你和附近的 友方 元素異常狀態門檻 、 最大元素抗性 和 藥劑 充能。",
+    "explicitMod": [
+      "此技能 攻擊 擊中 時，產生等同於 100 % 怪物強度 的 榮耀",
+      "需要 200 榮耀 才能使用",
+      "旗幟 光環 範圍為 4.5 公尺",
+      "光環賦予所有 最大元素抗性 +4 %",
+      "光環賦予 60 % 更多 元素異常狀態門檻",
+      "光環每秒提供 0.5 個 藥劑 充能",
+      "旗幟持續時間為 (6 — 9.8) 秒"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "恐懼之旗\n旗幟\n增益效果\n,\n持續\n,\n範圍效果\n,\n光環\n,\n持續時間\n,\n條件\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n啟動時，\n攻擊\n敵人會累積\n榮耀\n。當你擁有最大\n榮耀\n，你就能放置一面帶有\n光環\n的激勵\n旗幟\n，在旗幟持續期間賦予你和附近的\n友方\n元素異常狀態門檻\n、\n最大元素抗性\n和\n藥劑\n充能。\n恐懼之旗\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n恐懼之旗\n此技能\n攻擊\n擊中\n時，產生等同於\n100\n%\n怪物強度\n的\n榮耀\n需要\n200\n榮耀\n才能使用\n旗幟\n光環\n範圍為\n4.5\n公尺\n光環賦予所有\n最大元素抗性\n+4\n%\n光環賦予\n60\n% 更多\n元素異常狀態門檻\n光環每秒提供\n0.5\n個\n藥劑\n充能\n旗幟持續時間為\n(6\n—\n9.8)\n秒\n可以在技能面板管理技能。\nDread Banner",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷"
+  },
+  {
+    "slug": "Elemental_Conflux",
+    "id": "Elemental_Conflux",
+    "name_en": "Elemental Conflux",
+    "name_cn": "元素汇流",
+    "name_tw": "元素匯流",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalConfluxSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Elemental_Conflux",
+    "icon_local": "images/poe2/skills/spirit/Elemental_Conflux.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "操控一股原始且無法預測的 元素 之力，使你造成的隨機一種 元素 傷害大幅提高。受影響的 元素 會頻繁地改變，但同樣的 元素 可以被連續影響多次。",
+    "explicitMod": [
+      "元素 隨機化的間隔時間為 8 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "元素匯流\n增益效果\n持續\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n持續時間\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n操控一股原始且無法預測的\n元素\n之力，使你造成的隨機一種\n元素\n傷害大幅提高。受影響的\n元素\n會頻繁地改變，但同樣的\n元素\n可以被連續影響多次。\n元素\n隨機化的間隔時間為\n8\n秒\n可以在技能面板管理技能。\nElemental Conflux",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Elemental_Invocation",
+    "id": "Elemental_Invocation",
+    "name_en": "Elemental Invocation",
+    "name_cn": "元素祈求",
+    "name_tw": "元素祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalInvocationSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "祈願",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Elemental_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Elemental_Invocation.webp",
+    "level": "(1 — 20)",
+    "cooldown_time": "0.20 秒",
+    "secDescrText": "啟動時，當你 冰凍 、 感電 或 點燃 一名敵人，便會獲得 能量 。收集到足夠的 能量 後使用祈願，將會消耗 能量 以觸發插槽中的 法術 ，若有足夠的 能量 則可以觸發多次。",
+    "explicitMod": [
+      "你以技能 擊中 而 冰凍 敵人時， 依每點 強度 獲得 10 能量",
+      "你以技能 擊中 敵人造成 點燃 時，依每點 強度 獲得 1 能量 ， 隨 點燃 對敵人所造成 異常狀態門檻 百分比變動",
+      "你以技能 擊中 而使敵人 感電 時， 依每點 強度 獲得 1 能量",
+      "能量 獲得量增加 (0 — 68) %",
+      "最大 能量 為 500",
+      "插槽中的 法術 觸發時，每 0.1 秒基礎施放時間消耗 10 能量"
+    ],
+    "qualityMod": [
+      "最大 能量 為 (0 — 100)"
+    ],
+    "newItemPopup": "元素祈願\n增益效果\n持續\n,\n觸發\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n祈願\n,\n主要\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n冷卻時間:\n0.20 秒\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，當你\n冰凍\n、\n感電\n或\n點燃\n一名敵人，便會獲得\n能量\n。收集到足夠的\n能量\n後使用祈願，將會消耗\n能量\n以觸發插槽中的\n法術\n，若有足夠的\n能量\n則可以觸發多次。\n元素祈願\n你以技能\n擊中\n而\n冰凍\n敵人時，\n依每點\n強度\n獲得\n10\n能量\n你以技能\n擊中\n敵人造成\n點燃\n時，依每點\n強度\n獲得\n1\n能量\n，\n隨\n點燃\n對敵人所造成\n異常狀態門檻\n百分比變動\n你以技能\n擊中\n而使敵人\n感電\n時，\n依每點\n強度\n獲得\n1\n能量\n能量\n獲得量增加\n(0\n—\n68)\n%\n最大\n能量\n為\n500\n來自品質的額外效果：\n最大\n能量\n為\n(0\n—\n100)\n輔助\n插槽中的\n法術\n觸發時，每\n0.1\n秒基礎施放時間消耗 10 能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nElemental Invocation",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Eternal_Rage",
+    "id": "Eternal_Rage",
+    "name_en": "Eternal Rage",
+    "name_cn": "永恒狂怒",
+    "name_tw": "無盡怒火",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CeaselessRageSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Eternal_Rage",
+    "icon_local": "images/poe2/skills/spirit/Eternal_Rage.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時會不斷的回復 盛怒 。",
+    "explicitMod": [
+      "每秒回復 (0.25 — 5) 盛怒"
+    ],
+    "qualityMod": [
+      "每秒回復 (0 — 0.5) 盛怒"
+    ],
+    "newItemPopup": "無盡怒火\n增益效果\n持續\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n啟動時會不斷的回復\n盛怒\n。\n每秒回復\n(0.25\n—\n5)\n盛怒\n來自品質的額外效果：\n每秒回復\n(0\n—\n0.5)\n盛怒\n可以在技能面板管理技能。\nEternal Rage",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量"
+  },
+  {
+    "slug": "Feral_Invocation",
+    "id": "Feral_Invocation",
+    "name_en": "Feral Invocation",
+    "name_cn": "野性召唤",
+    "name_tw": "野性祈求",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFeralInvocation.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "祈願",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Feral_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Feral_Invocation.webp",
+    "level": "(1 — 20)",
+    "cooldown_time": "0.20 秒",
+    "secDescrText": "啟動時，在消耗魔力時獲得 能量 。當累積足夠的 能量 後會使用祈求，消耗 能量 並創造幻影以使用插槽中的 變形 攻擊 一次，並且只要有足夠的 能量 即可創造多道幻影。",
+    "explicitMod": [
+      "能量 獲得量增加 (0 — 57) %",
+      "每 20 魔力消耗獲得1 能量",
+      "最大 能量 為 500",
+      "插槽中的 攻擊 每 0.1 秒 技能基礎攻擊時間 消耗 10 能量用以創造幻影"
+    ],
+    "qualityMod": [
+      "能量 獲得量增加 (0 — 20) %"
+    ],
+    "newItemPopup": "野性祈求\n增益效果\n持續\n,\n祈願\n,\n主要\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n冷卻時間:\n0.20 秒\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 智慧\n需求:\n魔符\n啟動時，在消耗魔力時獲得\n能量\n。當累積足夠的\n能量\n後會使用祈求，消耗\n能量\n並創造幻影以使用插槽中的\n變形\n攻擊\n一次，並且只要有足夠的\n能量\n即可創造多道幻影。\n野性祈求\n能量\n獲得量增加\n(0\n—\n57)\n%\n每\n20\n魔力消耗獲得1\n能量\n最大\n能量\n為\n500\n來自品質的額外效果：\n能量\n獲得量增加\n(0\n—\n20)\n%\n輔助\n插槽中的\n攻擊\n每\n0.1\n秒\n技能基礎攻擊時間\n消耗 10 能量用以創造幻影\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nFeral Invocation",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 智慧 | 需求: 魔符"
+  },
+  {
+    "slug": "Ghost_Dance",
+    "id": "Ghost_Dance",
+    "name_en": "Ghost Dance",
+    "name_cn": "幽灵舞步",
+    "name_tw": "鬼魂之舞",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGhostDance.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ghost_Dance",
+    "icon_local": "images/poe2/skills/spirit/Ghost_Dance.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，使你週期性地獲得幽魂屍布。當你擁有幽魂屍布又受到 擊中 時，會立刻消耗一層幽魂屍布，並根據你的 閃避值 恢復 能量護盾 。",
+    "explicitMod": [
+      "獲得幽魂屍布的間隔時間為 (6.1 — 8) 秒",
+      "最多 3 個幽魂屍布",
+      "擊中 時， 消耗 一個幽魂屍布以 恢復相當於你 5 % 閃避 值的 能量護盾"
+    ],
+    "qualityMod": [
+      "增加 (0 — 20) % 保留 效率"
+    ],
+    "newItemPopup": "鬼魂之舞\n增益效果\n持續\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，使你週期性地獲得幽魂屍布。當你擁有幽魂屍布又受到\n擊中\n時，會立刻消耗一層幽魂屍布，並根據你的\n閃避值\n恢復\n能量護盾\n。\n獲得幽魂屍布的間隔時間為\n(6.1\n—\n8)\n秒\n最多\n3\n個幽魂屍布\n擊中\n時，\n消耗\n一個幽魂屍布以\n恢復相當於你\n5\n%\n閃避\n值的\n能量護盾\n來自品質的額外效果：\n增加\n(0\n—\n20)\n%\n保留\n效率\n可以在技能面板管理技能。\nGhost Dance",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Grim_Feast",
+    "id": "Grim_Feast",
+    "name_en": "Grim Feast",
+    "name_cn": "饕餮飨宴",
+    "name_tw": "冷酷之宴",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchGrimFeast.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "法術",
+      "召喚物",
+      "持續",
+      "痕跡"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Grim_Feast",
+    "icon_local": "images/poe2/skills/spirit/Grim_Feast.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，你的 復甦 召喚物 會儲存其最大生命的一部分，在死亡時成為可收集的殘酷 痕跡 。使用冷酷復活會消耗你收集的生命來 復甦 相當於該生命總量的死亡 召喚物 。",
+    "explicitMod": [
+      "痕跡 持續 8 秒",
+      "痕跡 會保存 35 % 的 召喚物 最大生命",
+      "你最多可以保存 (47 — 66124) 點收集到的 召喚物 生命"
+    ],
+    "qualityMod": [
+      "痕跡 會保存 (0 — 5) % 的 召喚物 最大生命"
+    ],
+    "newItemPopup": "冷酷之宴\n增益效果\n法術\n,\n召喚物\n,\n持續\n,\n痕跡\n階級:\n4\n等級:\n(1\n—\n20)\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，你的\n復甦\n召喚物\n會儲存其最大生命的一部分，在死亡時成為可收集的殘酷\n痕跡\n。使用冷酷復活會消耗你收集的生命來\n復甦\n相當於該生命總量的死亡\n召喚物\n。\n冷酷之宴\n痕跡\n持續\n8\n秒\n痕跡\n會保存\n35\n% 的\n召喚物\n最大生命\n你最多可以保存\n(47\n—\n66124)\n點收集到的\n召喚物\n生命\n來自品質的額外效果：\n痕跡\n會保存\n(0\n—\n5)\n% 的\n召喚物\n最大生命\n冷酷復活\n施放時間:\n0.40 秒\n消耗儲存的\n召喚物\n生命來\n復甦\n你的\n召喚物\n。\n復甦\n的\n召喚物\n數量會儘可能與冷酷之宴儲存的生命總量相當，或低於該總量，並以最大生命較高者優先。\n可以在技能面板管理技能。\nGrim Feast",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Herald_of_Ash",
+    "id": "Herald_of_Ash",
+    "name_en": "Herald of Ash",
+    "name_cn": "灰烬之捷",
+    "name_tw": "灰燼之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "火焰",
+      "持續時間",
+      "捷光環"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Herald_of_Ash",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Ash.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，以非 捷光環 攻擊 對敵人造成足夠的 溢出 傷害時會引發爆炸，並根據 溢出 的傷害對附近的敵人施加 點燃 。",
+    "explicitMod": [
+      "若溢出傷害至少達到敵人最大生命的 20 %，則 點燃 周圍的敵人",
+      "爆炸範圍為 1.2 公尺",
+      "點燃 持續時間為 3 秒",
+      "+(16.67 — 23) % 的額外 溢出 傷害貢獻至基礎 點燃 傷害"
+    ],
+    "qualityMod": [
+      "+(0 — 5) % 的額外 溢出 傷害貢獻至基礎 點燃 傷害"
+    ],
+    "newItemPopup": "灰燼之捷\n增益效果\n持續\n,\n範圍效果\n,\n火焰\n,\n持續時間\n,\n捷光環\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n需求:\n任何\n軍用武器\n啟動時，以非\n捷光環\n攻擊\n對敵人造成足夠的\n溢出\n傷害時會引發爆炸，並根據\n溢出\n的傷害對附近的敵人施加\n點燃\n。\n增益效果\n若溢出傷害至少達到敵人最大生命的\n20\n%，則\n點燃\n周圍的敵人\n爆炸\n爆炸範圍為\n1.2\n公尺\n點燃\n持續時間為\n3\n秒\n+(16.67\n—\n23)\n% 的額外\n溢出\n傷害貢獻至基礎\n點燃\n傷害\n來自品質的額外效果：\n+(0\n—\n5)\n% 的額外\n溢出\n傷害貢獻至基礎\n點燃\n傷害\n可以在技能面板管理技能。\nHerald of Ash",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Herald_of_Blood",
+    "id": "Herald_of_Blood",
+    "name_en": "Herald of Blood",
+    "name_cn": "赤血之捷",
+    "name_tw": "鮮血之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfBloodSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "攻擊",
+      "持續",
+      "範圍效果",
+      "物理",
+      "捷光環",
+      "遣散"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Herald_of_Blood",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Blood.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間，擊殺一名帶有 失血 的敵人會造成一次鮮血爆炸，根據爆炸敵人的生命對周遭敵人造成 物理 攻擊 傷害，若敵人為 普通或魔法 則會摧毀他們的 屍體 。此一爆炸還有機會 加劇 流血 。",
+    "explicitMod": [
+      "你殺死的帶有 失血 效果的敵人會爆炸",
+      "不能 被閃避",
+      "不能造成 流血",
+      "爆炸範圍為 1.5 公尺",
+      "(4 — 107) 至 (6 — 160) 基礎 物理 傷害",
+      "造成相當於 +15 % 爆炸敵人 失血 量 的獨立 物理 攻擊 傷害",
+      "(40 — 59) % 機率在 擊中 時 加劇 流血"
+    ],
+    "qualityMod": [
+      "造成相當於 +(0 — 4) % 爆炸敵人 失血 量 的獨立 物理 攻擊 傷害"
+    ],
+    "newItemPopup": "鮮血之捷\n增益效果\n攻擊\n,\n持續\n,\n範圍效果\n,\n物理\n,\n捷光環\n,\n遣散\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n需求:\n任何\n軍用武器\n啟動期間，擊殺一名帶有\n失血\n的敵人會造成一次鮮血爆炸，根據爆炸敵人的生命對周遭敵人造成\n物理\n攻擊\n傷害，若敵人為\n普通或魔法\n則會摧毀他們的\n屍體\n。此一爆炸還有機會\n加劇\n流血\n。\n增益效果\n你殺死的帶有\n失血\n效果的敵人會爆炸\n爆炸\n不能\n被閃避\n不能造成\n流血\n爆炸範圍為\n1.5\n公尺\n(4\n—\n107)\n至\n(6\n—\n160)\n基礎\n物理\n傷害\n造成相當於\n+15\n% 爆炸敵人\n失血\n量\n的獨立\n物理\n攻擊\n傷害\n(40\n—\n59)\n% 機率在\n擊中\n時\n加劇\n流血\n來自品質的額外效果：\n造成相當於\n+(0\n—\n4)\n% 爆炸敵人\n失血\n量\n的獨立\n物理\n攻擊\n傷害\n可以在技能面板管理技能。\nHerald of Blood",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Herald_of_Ice",
+    "id": "Herald_of_Ice",
+    "name_en": "Herald of Ice",
+    "name_cn": "寒冰之捷",
+    "name_tw": "冰霜之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfIceSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "攻擊",
+      "持續",
+      "範圍效果",
+      "冰冷",
+      "捷光環",
+      "遣散"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Herald_of_Ice",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Ice.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，以非 捷光環 攻擊 擊中 並 粉碎 敵人會引發冰霜爆炸，並對周圍敵人造成 攻擊 傷害。",
+    "explicitMod": [
+      "被你 粉碎 的敵人會爆炸",
+      "不能 被閃避",
+      "不能 冰凍",
+      "爆炸範圍為 1.6 公尺",
+      "100 % 的爆炸 物理 傷害 轉換 為 冰冷 傷害"
+    ],
+    "qualityMod": [
+      "爆炸範圍為 (0 — 0.4) 公尺"
+    ],
+    "newItemPopup": "冰霜之捷\n增益效果\n攻擊\n,\n持續\n,\n範圍效果\n,\n冰冷\n,\n捷光環\n,\n遣散\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n需求:\n任何\n軍用武器\n啟動時，以非\n捷光環\n攻擊\n擊中\n並\n粉碎\n敵人會引發冰霜爆炸，並對周圍敵人造成\n攻擊\n傷害。\n增益效果\n被你\n粉碎\n的敵人會爆炸\n爆炸\n攻擊傷害:\n(70\n—\n286)%\n不能\n被閃避\n不能\n冰凍\n爆炸範圍為\n1.6\n公尺\n100\n% 的爆炸\n物理\n傷害\n轉換\n為\n冰冷\n傷害\n來自品質的額外效果：\n爆炸範圍為\n(0\n—\n0.4)\n公尺\n可以在技能面板管理技能。\nHerald of Ice",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Herald_of_Plague",
+    "id": "Herald_of_Plague",
+    "name_en": "Herald of Plague",
+    "name_cn": "荒芜之捷",
+    "name_tw": "瘟疫之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAgonySkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "混沌",
+      "捷光環"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Herald_of_Plague",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Plague.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，擊殺 中毒的 敵人會使 中毒 效果擴散至附近的其他敵人，且也有機會 阻礙 他們。",
+    "explicitMod": [
+      "擊殺敵人時，造成傷害最高的 中毒 會 散播 至 (1.5 — 1.8) 公尺內的範圍",
+      "(10 — 29) % 機率 阻礙 中毒 散播至敵人"
+    ],
+    "qualityMod": [
+      "(0 — 20) % 機率 阻礙 中毒 散播至敵人"
+    ],
+    "newItemPopup": "瘟疫之捷\n增益效果\n持續\n,\n混沌\n,\n捷光環\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n需求:\n任何\n軍用武器\n啟動時，擊殺\n中毒的\n敵人會使\n中毒\n效果擴散至附近的其他敵人，且也有機會\n阻礙\n他們。\n擊殺敵人時，造成傷害最高的\n中毒\n會\n散播\n至\n(1.5\n—\n1.8)\n公尺內的範圍\n(10\n—\n29)\n% 機率\n阻礙\n中毒\n散播至敵人\n來自品質的額外效果：\n(0\n—\n20)\n% 機率\n阻礙\n中毒\n散播至敵人\n可以在技能面板管理技能。\nHerald of Plague",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Herald_of_Thunder",
+    "id": "Herald_of_Thunder",
+    "name_en": "Herald of Thunder",
+    "name_cn": "闪电之捷",
+    "name_tw": "閃電之捷",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfThunderSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "攻擊",
+      "持續",
+      "範圍效果",
+      "閃電",
+      "捷光環",
+      "遣散"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Herald_of_Thunder",
+    "icon_local": "images/poe2/skills/spirit/Herald_of_Thunder.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，以非 捷光環 攻擊 擊中 並擊殺 感電 敵人會使後續的 攻擊 擊中 釋放雷擊，對周圍所有敵人造成 攻擊 傷害。",
+    "explicitMod": [
+      "以 攻擊 傷害擊殺一名 受感電 的敵人時， 雷彈會打擊你下 (2 — 3) 次 攻擊 擊中 的目標",
+      "不能 被閃避",
+      "無法 感電",
+      "弩箭衝擊範圍為 1 公尺",
+      "100 % 的弩箭 物理 傷害 轉換 為 閃電 傷害"
+    ],
+    "qualityMod": [
+      "以 攻擊 傷害擊殺一名 受感電 的敵人時， 雷彈會打擊你下 (0 — 2) 次 攻擊 擊中 的目標"
+    ],
+    "newItemPopup": "閃電之捷\n增益效果\n攻擊\n,\n持續\n,\n範圍效果\n,\n閃電\n,\n捷光環\n,\n遣散\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n需求:\n任何\n軍用武器\n啟動時，以非\n捷光環\n攻擊\n擊中\n並擊殺\n感電\n敵人會使後續的\n攻擊\n擊中\n釋放雷擊，對周圍所有敵人造成\n攻擊\n傷害。\n增益效果\n以\n攻擊\n傷害擊殺一名\n受感電\n的敵人時，\n雷彈會打擊你下\n(2\n—\n3)\n次\n攻擊\n擊中\n的目標\n來自品質的額外效果：\n以\n攻擊\n傷害擊殺一名\n受感電\n的敵人時，\n雷彈會打擊你下\n(0\n—\n2)\n次\n攻擊\n擊中\n的目標\n弩箭\n攻擊傷害:\n(30\n—\n122)%\n不能\n被閃避\n無法\n感電\n弩箭衝擊範圍為\n1\n公尺\n100\n% 的弩箭\n物理\n傷害\n轉換\n為\n閃電\n傷害\n可以在技能面板管理技能。\nHerald of Thunder",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Iron_Ward",
+    "id": "Iron_Ward",
+    "name_en": "Iron Ward",
+    "name_cn": "钢铁看守",
+    "name_tw": "鋼鐵守護",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WardingSteel.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "物理",
+      "新星"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Iron_Ward",
+    "icon_local": "images/poe2/skills/spirit/Iron_Ward.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，儲存一定比例你 護甲 或其他傷害減免來源所防止的 物理 傷害。使用此技能會以尖刺新星釋放儲存的傷害。",
+    "explicitMod": [
+      "儲存 (100 — 480) % 減輕的 物理 傷害，最多為 (65 — 22886)",
+      "新星範圍為 6 公尺",
+      "儲存的傷害最多賦予 200 % 更多效果範圍"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "鋼鐵守護\n增益效果\n持續\n,\n範圍效果\n,\n物理\n,\n新星\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n啟動時，儲存一定比例你\n護甲\n或其他傷害減免來源所防止的\n物理\n傷害。使用此技能會以尖刺新星釋放儲存的傷害。\n鋼鐵守護\n儲存\n(100\n—\n480)\n% 減輕的\n物理\n傷害，最多為\n(65\n—\n22886)\n鋼鐵守護\n新星範圍為\n6\n公尺\n儲存的傷害最多賦予\n200\n% 更多效果範圍\n可以在技能面板管理技能。\nIron Ward",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量"
+  },
+  {
+    "slug": "Lingering_Illusion",
+    "id": "Lingering_Illusion",
+    "name_en": "Lingering Illusion",
+    "name_cn": "徘徊幻影",
+    "name_tw": "殘留幻象",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkLingeringIllusion.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "持續時間",
+      "痕跡"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Lingering_Illusion",
+    "icon_local": "images/poe2/skills/spirit/Lingering_Illusion.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，每當你閃避翻滾，會創造出一個自己的幻影分身，持續一小段時間。該分身可由敵人造成傷害，並在遭敵人摧毀時給你一個 暴擊球 。",
+    "explicitMod": [
+      "幻影擁有你最大生命的 1 %",
+      "痕跡 持續 5 秒",
+      "幻影持續時間為 3 秒",
+      "有 (0 — 76) %機率產生額外一個 痕跡"
+    ],
+    "qualityMod": [
+      "有 (0 — 20) %機率產生額外一個 痕跡"
+    ],
+    "newItemPopup": "殘留幻象\n增益效果\n持續\n,\n持續時間\n,\n痕跡\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，每當你閃避翻滾，會創造出一個自己的幻影分身，持續一小段時間。該分身可由敵人造成傷害，並在遭敵人摧毀時給你一個\n暴擊球\n。\n增益效果\n幻影\n消耗:\n10 魔力\n幻影擁有你最大生命的\n1\n%\n痕跡\n持續\n5\n秒\n幻影持續時間為\n3\n秒\n有\n(0\n—\n76)\n%機率產生額外一個\n痕跡\n來自品質的額外效果：\n有\n(0\n—\n20)\n%機率產生額外一個\n痕跡\n可以在技能面板管理技能。\nLingering Illusion",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Magma_Barrier",
+    "id": "Magma_Barrier",
+    "name_en": "Magma Barrier",
+    "name_cn": "岩浆屏障",
+    "name_tw": "熔岩屏障",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteMagmaBarrier.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "攻擊",
+      "持續",
+      "範圍效果",
+      "近戰",
+      "觸發",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Magma_Barrier",
+    "icon_local": "images/poe2/skills/spirit/Magma_Barrier.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時被動增加你的 格擋率 ，並持續用岩漿灌注你的 盾牌 。當盾牌完全注能時，你下次舉起 盾牌 的 格擋 會消耗岩漿並造成爆炸，且賦予你一顆 耐力球 。",
+    "explicitMod": [
+      "在 8 秒內為 盾牌 完全注能",
+      "賦予的 格擋 機率增加 25 %",
+      "盾牌 上每 15 點 護甲 附加 6 至 8 火焰 傷害",
+      "盾牌 上每 15 點 閃避 增加 6 至 8 附加 火焰 傷害",
+      "(4 — 103) 至 (6 — 155) 基礎副手 火焰 傷害",
+      "岩漿潑濺範圍為 2.8 公尺"
+    ],
+    "qualityMod": [
+      "賦予的 格擋 機率增加 (0 — 5) %"
+    ],
+    "newItemPopup": "熔岩屏障\n增益效果\n攻擊\n,\n持續\n,\n範圍效果\n,\n近戰\n,\n觸發\n,\n火焰\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n需求:\n盾\n,\n輕盾\n啟動時被動增加你的\n格擋率\n，並持續用岩漿灌注你的\n盾牌\n。當盾牌完全注能時，你下次舉起\n盾牌\n的\n格擋\n會消耗岩漿並造成爆炸，且賦予你一顆\n耐力球\n。\n增益效果\n在\n8\n秒內為\n盾牌\n完全注能\n賦予的\n格擋\n機率增加\n25\n%\n來自品質的額外效果：\n賦予的\n格擋\n機率增加\n(0\n—\n5)\n%\n岩漿噴濺\n暴擊\n率:\n5.00%\n攻擊傷害:\n基礎的 (170\n—\n694)%\n盾牌\n上每 15 點\n護甲\n附加\n6\n至\n8\n火焰\n傷害\n盾牌\n上每 15 點\n閃避\n增加\n6\n至\n8\n附加\n火焰\n傷害\n(4\n—\n103)\n至\n(6\n—\n155)\n基礎副手\n火焰\n傷害\n岩漿潑濺範圍為\n2.8\n公尺\n可以在技能面板管理技能。\nMagma Barrier",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量 | 需求: 盾 , 輕盾"
+  },
+  {
+    "slug": "Mana_Remnants",
+    "id": "Mana_Remnants",
+    "name_en": "Mana Remnants",
+    "name_cn": "魔力残片",
+    "name_tw": "魔力痕跡",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "痕跡"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Mana_Remnants",
+    "icon_local": "images/poe2/skills/spirit/Mana_Remnants.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "召喚奧術能量來回復自己的魔力。啟動時，你所擊殺的受 元素異常狀態 影響之敵人有一定機率生成一個魔力 痕跡 ，對受 元素異常狀態 影響之目標造成 暴擊 則每隔數秒生成一個魔力 痕跡 。拾起一個魔力 痕跡 會賦予你魔力，可 溢出 最大魔力。",
+    "explicitMod": [
+      "痕跡 持續 8 秒",
+      "擊殺受 元素異常狀態 影響的敵人時，有 25 % 機率產生一道 痕跡",
+      "對受 元素異常狀態 影響的目標造成 暴擊 時，產生一道 痕跡 ，每 2 秒只能觸發一次",
+      "每個 痕跡 賦予 (28 — 281) 魔力"
+    ],
+    "qualityMod": [
+      "每個 痕跡 賦予 (0 — 40) 魔力"
+    ],
+    "newItemPopup": "魔力痕跡\n增益效果\n持續\n,\n痕跡\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n召喚奧術能量來回復自己的魔力。啟動時，你所擊殺的受\n元素異常狀態\n影響之敵人有一定機率生成一個魔力\n痕跡\n，對受\n元素異常狀態\n影響之目標造成\n暴擊\n則每隔數秒生成一個魔力\n痕跡\n。拾起一個魔力\n痕跡\n會賦予你魔力，可\n溢出\n最大魔力。\n痕跡\n持續\n8\n秒\n擊殺受\n元素異常狀態\n影響的敵人時，有\n25\n% 機率產生一道\n痕跡\n對受\n元素異常狀態\n影響的目標造成\n暴擊\n時，產生一道\n痕跡\n，每\n2\n秒只能觸發一次\n每個\n痕跡\n賦予\n(28\n—\n281)\n魔力\n來自品質的額外效果：\n每個\n痕跡\n賦予\n(0\n—\n40)\n魔力\n可以在技能面板管理技能。\nMana Remnants",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Mirage_Archer",
+    "id": "Mirage_Archer",
+    "name_en": "Mirage Archer",
+    "name_cn": "幻影射手",
+    "name_tw": "幻影射手",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LingeringMirageSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "持續時間",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Mirage_Archer",
+    "icon_local": "images/poe2/skills/spirit/Mirage_Archer.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，閃避翻滾會產生一個幻影之體，在短時間內使用插槽中的遠程 攻擊 ，之後消失。",
+    "explicitMod": [
+      "被輔助的技能無法消耗 能量球",
+      "幻影造成 30 % 更少傷害",
+      "幻影之體持續時間為 (5.05 — 6) 秒"
+    ],
+    "qualityMod": [
+      "幻影之體持續時間為 (0 — 1) 秒"
+    ],
+    "newItemPopup": "幻影射手\n增益效果\n持續\n,\n觸發\n,\n持續時間\n,\n主要\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n需求:\n弓\n,\n長矛\n,\n十字弓\n啟動時，閃避翻滾會產生一個幻影之體，在短時間內使用插槽中的遠程\n攻擊\n，之後消失。\n幻影射手\n輔助\n被輔助的技能無法消耗\n能量球\n幻影造成\n30\n% 更少傷害\n幻影之體\n冷卻時間:\n10.00 秒\n幻影之體持續時間為\n(5.05\n—\n6)\n秒\n來自品質的額外效果：\n幻影之體持續時間為\n(0\n—\n1)\n秒\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nMirage Archer",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷 | 需求: 弓 , 長矛 , 十字弓"
+  },
+  {
+    "slug": "Overwhelming_Presence",
+    "id": "Overwhelming_Presence",
+    "name_en": "Overwhelming Presence",
+    "name_cn": "压迫气场",
+    "name_tw": "壓倒性的存在",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OverwhelmingPressureSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "光環"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Overwhelming_Presence",
+    "icon_local": "images/poe2/skills/spirit/Overwhelming_Presence.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，產生一個 光環 ，使你 存在範圍 內的敵人更容易被 暈眩 和造成 元素異常狀態 。",
+    "explicitMod": [
+      "你 存在範圍 內的敵人減少 (15 — 24) % 元素異常狀態門檻",
+      "你 存在範圍 內的敵人減少 (15 — 25) % 暈眩門檻"
+    ],
+    "qualityMod": [
+      "增加 (0 — 15) % 光環 幅度"
+    ],
+    "newItemPopup": "壓倒性的存在\n增益效果\n持續\n,\n光環\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n啟動時，產生一個\n光環\n，使你\n存在範圍\n內的敵人更容易被\n暈眩\n和造成\n元素異常狀態\n。\n你\n存在範圍\n內的敵人減少\n(15\n—\n24)\n%\n元素異常狀態門檻\n你\n存在範圍\n內的敵人減少\n(15\n—\n25)\n%\n暈眩門檻\n來自品質的額外效果：\n增加\n(0\n—\n15)\n%\n光環\n幅度\n可以在技能面板管理技能。\nOverwhelming Presence",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量"
+  },
+  {
+    "slug": "Plague_Bearer",
+    "id": "Plague_Bearer",
+    "name_en": "Plague Bearer",
+    "name_cn": "灾难使徒",
+    "name_tw": "病疫之難",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPlagueBearerSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "物理",
+      "混沌",
+      "新星"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Plague_Bearer",
+    "icon_local": "images/poe2/skills/spirit/Plague_Bearer.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時會儲存一部分你造成的 中毒 傷害，再次使用此技能會釋放儲存的 毒素 以傷害周圍敵人並使其 中毒 。",
+    "explicitMod": [
+      "儲存 4 % 預期 中毒 傷害，最多為 (43 — 15257) 造成等同於儲存的 中毒 傷害的 物理 傷害",
+      "擊中 時必定造成 中毒",
+      "80 % 更少 暈眩 累積",
+      "新星範圍為 1.8 公尺",
+      "儲存的 中毒 賦予最多 600 % 額外效果範圍"
+    ],
+    "qualityMod": [
+      "儲存 (0 — 2) % 預期 中毒 傷害，最多為 造成等同於儲存的 中毒 傷害的 物理 傷害"
+    ],
+    "newItemPopup": "病疫之難\n增益效果\n持續\n,\n範圍效果\n,\n物理\n,\n混沌\n,\n新星\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n啟動時會儲存一部分你造成的\n中毒\n傷害，再次使用此技能會釋放儲存的\n毒素\n以傷害周圍敵人並使其\n中毒\n。\n病疫之難\n儲存\n4\n% 預期\n中毒\n傷害，最多為\n(43\n—\n15257)\n造成等同於儲存的\n中毒\n傷害的\n物理\n傷害\n來自品質的額外效果：\n儲存\n(0\n—\n2)\n% 預期\n中毒\n傷害，最多為\n造成等同於儲存的\n中毒\n傷害的\n物理\n傷害\n病疫之難\n擊中\n時必定造成\n中毒\n80\n% 更少\n暈眩\n累積\n新星範圍為\n1.8\n公尺\n儲存的\n中毒\n賦予最多\n600\n% 額外效果範圍\n可以在技能面板管理技能。\nPlague Bearer",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷"
+  },
+  {
+    "slug": "Raging_Spirits",
+    "id": "Raging_Spirits",
+    "name_en": "Raging Spirits",
+    "name_cn": "愤怒狂灵",
+    "name_tw": "憤怒狂靈",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchReservationRaginSpirits.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "召喚物",
+      "持續",
+      "火焰",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Raging_Spirits",
+    "icon_local": "images/poe2/skills/spirit/Raging_Spirits.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間，你自己施放的 火焰 法術 也會召喚憤怒狂靈，這種持續時間短暫的火焰骷髏會衝向附近的敵人並快速 攻擊 ，但會無視號令。敵人不會直接與這些 召喚物 交戰，並可穿過他們。",
+    "explicitMod": [
+      "來自此技能的召喚物將 70 % 的 物理 傷害轉換為 火焰 傷害",
+      "召喚憤怒狂靈的 上限 為 10",
+      "每 1.5 公尺的範圍， 火焰 範圍 法術 召喚 1 個靈魂 火焰 法術 的 投射物 擊中時召喚 1 個靈魂",
+      "每次施放 法術 最多召喚 2 個靈魂",
+      "魂靈持續時間為 5 秒"
+    ],
+    "qualityMod": [
+      "召喚憤怒狂靈的 上限 為 (0 — 1)"
+    ],
+    "newItemPopup": "憤怒狂靈\n增益效果\n召喚物\n,\n持續\n,\n火焰\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動期間，你自己施放的\n火焰\n法術\n也會召喚憤怒狂靈，這種持續時間短暫的火焰骷髏會衝向附近的敵人並快速\n攻擊\n，但會無視號令。敵人不會直接與這些\n召喚物\n交戰，並可穿過他們。\n來自此技能的召喚物將\n70\n% 的\n物理\n傷害轉換為\n火焰\n傷害\n召喚憤怒狂靈的\n上限\n為\n10\n每\n1.5\n公尺的範圍，\n火焰\n範圍\n法術\n召喚 1 個靈魂\n火焰\n法術\n的\n投射物\n擊中時召喚 1 個靈魂\n每次施放\n法術\n最多召喚\n2\n個靈魂\n魂靈持續時間為\n5\n秒\n來自品質的額外效果：\n召喚憤怒狂靈的\n上限\n為\n(0\n—\n1)\n可以在技能面板管理技能。\nRaging Spirits",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Ravenous_Swarm",
+    "id": "Ravenous_Swarm",
+    "name_en": "Ravenous Swarm",
+    "name_cn": "饕餮虫群",
+    "name_tw": "貪婪蟲群",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchRavenousSwarm.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "召喚物",
+      "持續",
+      "物理",
+      "混沌",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ravenous_Swarm",
+    "icon_local": "images/poe2/skills/spirit/Ravenous_Swarm.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "當啟動時存在敵人，會從你的體內出現蟲族追擊附近敵人。蟲群為無法做為目標的 召喚物 ，會 攻擊 敵人並使其 中毒 。",
+    "explicitMod": [
+      "蟲群 攻擊 你周圍 4 公尺內的敵人",
+      "蟲群持續時間為 (6 — 9.8) 秒",
+      "每 6 秒生成一個新的蟲群"
+    ],
+    "qualityMod": [
+      "蟲群 攻擊 你周圍 (0 — 1) 公尺內的敵人"
+    ],
+    "newItemPopup": "貪婪蟲群\n增益效果\n召喚物\n,\n持續\n,\n物理\n,\n混沌\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n當啟動時存在敵人，會從你的體內出現蟲族追擊附近敵人。蟲群為無法做為目標的\n召喚物\n，會\n攻擊\n敵人並使其\n中毒\n。\n蟲群\n攻擊\n你周圍\n4\n公尺內的敵人\n蟲群持續時間為\n(6\n—\n9.8)\n秒\n每\n6\n秒生成一個新的蟲群\n來自品質的額外效果：\n蟲群\n攻擊\n你周圍\n(0\n—\n1)\n公尺內的敵人\n可以在技能面板管理技能。\nRavenous Swarm",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Reapers_Invocation",
+    "id": "Reapers_Invocation",
+    "name_en": "Reaper's Invocation",
+    "name_cn": "收割祈求",
+    "name_tw": "收割者的祈願",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MeleeInvocationSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "觸發",
+      "祈願",
+      "主要"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Reapers_Invocation",
+    "icon_local": "images/poe2/skills/spirit/Reapers_Invocation.webp",
+    "level": "(1 — 20)",
+    "cooldown_time": "0.20 秒",
+    "secDescrText": "啟動時，當你以 近戰 攻擊 擊殺一名敵人，會獲得 能量 。收集到足夠的 能量 後使用祈願，將會消耗 能量 以觸發插槽中的 法術 ，若有足夠的 能量 則可以觸發多次。",
+    "explicitMod": [
+      "能量 獲得量增加 (0 — 57) %",
+      "最大 能量 為 500",
+      "你以 近戰 攻擊 擊殺敵人時， 依每點 強度 獲得 30 能量",
+      "插槽中的 法術 觸發時，每 0.1 秒基礎施放時間消耗 10 能量"
+    ],
+    "qualityMod": [
+      "能量 獲得量增加 (0 — 20) %"
+    ],
+    "newItemPopup": "收割者的祈願\n增益效果\n持續\n,\n觸發\n,\n祈願\n,\n主要\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n冷卻時間:\n0.20 秒\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n啟動時，當你以\n近戰\n攻擊\n擊殺一名敵人，會獲得\n能量\n。收集到足夠的\n能量\n後使用祈願，將會消耗\n能量\n以觸發插槽中的\n法術\n，若有足夠的\n能量\n則可以觸發多次。\n收割者的祈願\n能量\n獲得量增加\n(0\n—\n57)\n%\n最大\n能量\n為\n500\n你以\n近戰\n攻擊\n擊殺敵人時，\n依每點\n強度\n獲得\n30\n能量\n來自品質的額外效果：\n能量\n獲得量增加\n(0\n—\n20)\n%\n輔助\n插槽中的\n法術\n觸發時，每\n0.1\n秒基礎施放時間消耗 10 能量\n於技能面板中主要寶石的插槽內放入一顆以上的技能寶石。插槽中的技能會被納入主要寶石的效果中。\nReaper's Invocation",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Rhoa_Mount",
+    "id": "Rhoa_Mount",
+    "name_en": "Rhoa Mount",
+    "name_cn": "恐喙鸟坐骑",
+    "name_tw": "恐喙鳥坐騎",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RhoaMountSkillIcon.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "召喚物",
+      "增益效果",
+      "盟友",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Rhoa_Mount",
+    "icon_local": "images/poe2/skills/spirit/Rhoa_Mount.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "使用 弓 或 長矛 時，駕馭一隻可騎乘的恐喙鳥 盟友 。騎乘時，你可以使用 弓 、投擲 長矛 和 印記 技能，且使用技能時的減速程度降低，但你遭 擊中 時會累積 沉重暈眩 。未騎乘時，恐喙鳥會用其嘴喙來攻擊敵人，但能夠受到傷害。",
+    "explicitMod": [
+      "增加 100 % 召喚物 命中 值",
+      "在騎乘時使用技能 會減少 100 % 移動速度懲罰"
+    ],
+    "qualityMod": [
+      "召喚物有 (0 — 20) % 更多最大生命"
+    ],
+    "newItemPopup": "恐喙鳥坐騎\n召喚物\n增益效果\n,\n盟友\n,\n持續\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n使用\n弓\n或\n長矛\n時，駕馭一隻可騎乘的恐喙鳥\n盟友\n。騎乘時，你可以使用\n弓\n、投擲\n長矛\n和\n印記\n技能，且使用技能時的減速程度降低，但你遭\n擊中\n時會累積\n沉重暈眩\n。未騎乘時，恐喙鳥會用其嘴喙來攻擊敵人，但能夠受到傷害。\n增加\n100\n%\n召喚物\n命中\n值\n在騎乘時使用技能\n會減少\n100\n% 移動速度懲罰\n來自品質的額外效果：\n召喚物有\n(0\n—\n20)\n% 更多最大生命\n可以在技能面板管理技能。\nRhoa Mount",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷"
+  },
+  {
+    "slug": "Sacrifice",
+    "id": "Sacrifice",
+    "name_en": "Sacrifice",
+    "name_cn": "替代牺牲",
+    "name_tw": "獻祭",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HarvesterSkill.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "召喚物",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Sacrifice",
+    "icon_local": "images/poe2/skills/spirit/Sacrifice.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，你的不死 復甦 召喚物 可以用來替代你的技能所使用的 屍體 ，但你的 召喚物 復甦 速度減慢。",
+    "explicitMod": [
+      "必須在兩個 武器套裝 中同時啟用",
+      "技能可使用你的不死 復甦 召喚物 替代 屍體 ， 但你的 召喚物 復甦 速度減慢 (40 — 59) %"
+    ],
+    "qualityMod": [
+      "召喚物 的 復甦 速度加快 +(0 — 5) %"
+    ],
+    "newItemPopup": "獻祭\n增益效果\n召喚物\n,\n持續\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，你的不死\n復甦\n召喚物\n可以用來替代你的技能所使用的\n屍體\n，但你的\n召喚物\n復甦\n速度減慢。\n必須在兩個\n武器套裝\n中同時啟用\n技能可使用你的不死\n復甦\n召喚物\n替代\n屍體\n，\n但你的\n召喚物\n復甦\n速度減慢\n(40\n—\n59)\n%\n來自品質的額外效果：\n召喚物\n的\n復甦\n速度加快\n+(0\n—\n5)\n%\n可以在技能面板管理技能。\nSacrifice",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Savage_Fury",
+    "id": "Savage_Fury",
+    "name_en": "Savage Fury",
+    "name_cn": "凶蛮怒火",
+    "name_tw": "殘猛狂怒",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWildBeast.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Savage_Fury",
+    "icon_local": "images/poe2/skills/spirit/Savage_Fury.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，你 攻擊 敵人時會累積怒氣。使用此技能時會釋放你的狂怒並使你進入野獸般的瘋狂狀態，獲得傷害和 猛攻 但會持續失去生命且會強制你處於動物型態。狂怒狀態會在你回到人類型態時立即結束。你無法在狂怒狀態期間獲得怒氣。",
+    "explicitMod": [
+      "攻擊 擊中 時獲得1怒氣 每次使用技能最多獲得1次",
+      "最大怒氣為 20",
+      "每1怒氣擁有 0.5 秒 增益效果 持續時間",
+      "增益效果 賦予 (20 — 29) %更多傷害以及 猛攻",
+      "增益效果 使你每秒損失@ 3 %最大生命"
+    ],
+    "qualityMod": [
+      "增益效果 賦予 (0 — 5) %更多傷害以及 猛攻"
+    ],
+    "newItemPopup": "殘猛狂怒\n增益效果\n持續\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 智慧\n啟動時，你\n攻擊\n敵人時會累積怒氣。使用此技能時會釋放你的狂怒並使你進入野獸般的瘋狂狀態，獲得傷害和\n猛攻\n但會持續失去生命且會強制你處於動物型態。狂怒狀態會在你回到人類型態時立即結束。你無法在狂怒狀態期間獲得怒氣。\n殘猛怒氣\n攻擊\n擊中\n時獲得1怒氣\n每次使用技能最多獲得1次\n最大怒氣為\n20\n殘猛怒氣\n每1怒氣擁有\n0.5\n秒\n增益效果\n持續時間\n增益效果\n賦予\n(20\n—\n29)\n%更多傷害以及\n猛攻\n增益效果\n使你每秒損失@\n3\n%最大生命\n來自品質的額外效果：\n增益效果\n賦予\n(0\n—\n5)\n%更多傷害以及\n猛攻\n可以在技能面板管理技能。\nSavage Fury",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "Scavenged_Plating",
+    "id": "Scavenged_Plating",
+    "name_en": "Scavenged Plating",
+    "name_cn": "装甲回收",
+    "name_tw": "拾荒者護板",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteScavengedPlating.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "物理",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Scavenged_Plating",
+    "icon_local": "images/poe2/skills/spirit/Scavenged_Plating.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，使用自敵人收集而來的護甲碎片加強自己的護甲。 完全破壞 敵人的 護甲 時，會依據其稀有度賦予你數層的拾荒者護板，持續一段時間，每層使你獲得 護甲值 和 荊棘 。普通敵人賦予 1 層、魔法敵人賦予 2 層、稀有敵人賦予 5 層，而傳奇敵人賦予 10 層。",
+    "explicitMod": [
+      "拾荒者護板持續時間為 8 秒",
+      "每片拾荒者護板有 4 % 更多 護甲值",
+      "最多 10 片拾荒者護板",
+      "每片拾荒者護板有 (2 — 43) 至 (2 — 64) 條 荊棘"
+    ],
+    "qualityMod": [
+      "拾荒者護板持續時間為 (0 — 2) 秒"
+    ],
+    "newItemPopup": "拾荒者護板\n增益效果\n持續\n,\n物理\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 力量\n啟動時，使用自敵人收集而來的護甲碎片加強自己的護甲。\n完全破壞\n敵人的\n護甲\n時，會依據其稀有度賦予你數層的拾荒者護板，持續一段時間，每層使你獲得\n護甲值\n和\n荊棘\n。普通敵人賦予 1 層、魔法敵人賦予 2 層、稀有敵人賦予 5 層，而傳奇敵人賦予 10 層。\n拾荒者護板持續時間為\n8\n秒\n每片拾荒者護板有\n4\n% 更多\n護甲值\n最多\n10\n片拾荒者護板\n每片拾荒者護板有\n(2\n—\n43)\n至\n(2\n—\n64)\n條\n荊棘\n來自品質的額外效果：\n拾荒者護板持續時間為\n(0\n—\n2)\n秒\n可以在技能面板管理技能。\nScavenged Plating",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 力量"
+  },
+  {
+    "slug": "Shard_Scavenger",
+    "id": "Shard_Scavenger",
+    "name_en": "Shard Scavenger",
+    "name_cn": "碎片回收",
+    "name_tw": "碎片清除者",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercShardDespoiler.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "物理",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Shard_Scavenger",
+    "icon_local": "images/poe2/skills/spirit/Shard_Scavenger.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動期間， 消耗 敵人身上的 冰凍 、 感電 、 點燃 或 完全破甲 時會裝填你的 十字弓 、為你的 擲彈 恢復一次冷卻使用次數，並賦予一個 增益效果 ，使你的 十字弓 攻擊 在持續時間內不會消耗弩箭。該效果每幾秒只能觸發一次。",
+    "explicitMod": [
+      "消耗 冰凍 、 感電 、 點燃 或 完全破甲 時， 立即裝填你的 十字弓 並為你的 擲彈 恢復一次冷卻使用次數， 每次消耗最短間隔持續時間為 (6.05 — 7) 秒",
+      "增益效果 持續時間為 3 秒"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "碎片清除者\n增益效果\n持續\n,\n物理\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n持續時間\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n需求:\n十字弓\n啟動期間，\n消耗\n敵人身上的\n冰凍\n、\n感電\n、\n點燃\n或\n完全破甲\n時會裝填你的\n十字弓\n、為你的\n擲彈\n恢復一次冷卻使用次數，並賦予一個\n增益效果\n，使你的\n十字弓\n攻擊\n在持續時間內不會消耗弩箭。該效果每幾秒只能觸發一次。\n消耗\n冰凍\n、\n感電\n、\n點燃\n或\n完全破甲\n時，\n立即裝填你的\n十字弓\n並為你的\n擲彈\n恢復一次冷卻使用次數，\n每次消耗最短間隔持續時間為\n(6.05\n—\n7)\n秒\n增益效果\n持續時間為\n3\n秒\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n可以在技能面板管理技能。\nShard Scavenger",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷 | 需求: 十字弓"
+  },
+  {
+    "slug": "Siphon_Elements",
+    "id": "Siphon_Elements",
+    "name_en": "Siphon Elements",
+    "name_cn": "汲取元素",
+    "name_tw": "虹吸元素",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiphonElements.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "痕跡"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Siphon_Elements",
+    "icon_local": "images/poe2/skills/spirit/Siphon_Elements.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，每當你對目標造成 冰凍 、 感電 或 點燃 ，有一定機率產生 灌注 痕跡 。",
+    "explicitMod": [
+      "被輔助技能產生的 痕跡 可從 (0 — 38) % 更遠距離撿拾",
+      "每點 強度 有 5 % 機率在 冰凍 目標時生成一個 冰冷 痕跡",
+      "有 5 % 機率在 點燃 未被點燃的目標時生成一個 火焰 痕跡",
+      "有 5 % 機率在 感電 未被感電的目標時生成一個 閃電 痕跡"
+    ],
+    "qualityMod": [
+      "每點 強度 有 (0 — 2) % 機率在 冰凍 目標時生成一個 冰冷 痕跡 有 (0 — 2) % 機率在 點燃 未被點燃的目標時生成一個 火焰 痕跡 有 (0 — 2) % 機率在 感電 未被感電的目標時生成一個 閃電 痕跡"
+    ],
+    "newItemPopup": "虹吸元素\n增益效果\n持續\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n痕跡\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，每當你對目標造成\n冰凍\n、\n感電\n或\n點燃\n，有一定機率產生\n灌注\n痕跡\n。\n被輔助技能產生的\n痕跡\n可從\n(0\n—\n38)\n% 更遠距離撿拾\n每點\n強度\n有\n5\n% 機率在\n冰凍\n目標時生成一個\n冰冷\n痕跡\n有\n5\n% 機率在\n點燃\n未被點燃的目標時生成一個\n火焰\n痕跡\n有\n5\n% 機率在\n感電\n未被感電的目標時生成一個\n閃電\n痕跡\n來自品質的額外效果：\n每點\n強度\n有\n(0\n—\n2)\n% 機率在\n冰凍\n目標時生成一個\n冰冷\n痕跡\n有\n(0\n—\n2)\n% 機率在\n點燃\n未被點燃的目標時生成一個\n火焰\n痕跡\n有\n(0\n—\n2)\n% 機率在\n感電\n未被感電的目標時生成一個\n閃電\n痕跡\n可以在技能面板管理技能。\nSiphon Elements",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Time_of_Need",
+    "id": "Time_of_Need",
+    "name_en": "Time of Need",
+    "name_cn": "紧急时刻",
+    "name_tw": "緊急時刻",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TimeOfNeedSkill.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Time_of_Need",
+    "icon_local": "images/poe2/skills/spirit/Time_of_Need.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，祈求神聖的祝褔，每隔一段治療你並移除你身上的 詛咒 和 元素異常狀態 。",
+    "explicitMod": [
+      "獲得祝福的間隔時間為 (10.1 — 12) 秒",
+      "祝福會恢復 (17 — 628) 生命並移除 詛咒 和 元素異常狀態"
+    ],
+    "qualityMod": [
+      "祝福會恢復 (0 — 40) 生命並移除 詛咒 和 元素異常狀態"
+    ],
+    "newItemPopup": "緊急時刻\n增益效果\n持續\n,\n持續時間\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n122) 力量\n,\n(4\n—\n48) 智慧\n啟動時，祈求神聖的祝褔，每隔一段治療你並移除你身上的\n詛咒\n和\n元素異常狀態\n。\n獲得祝福的間隔時間為\n(10.1\n—\n12)\n秒\n祝福會恢復\n(17\n—\n628)\n生命並移除\n詛咒\n和\n元素異常狀態\n來自品質的額外效果：\n祝福會恢復\n(0\n—\n40)\n生命並移除\n詛咒\n和\n元素異常狀態\n可以在技能面板管理技能。\nTime of Need",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 122) 力量 , (4 — 48) 智慧"
+  },
+  {
+    "slug": "Trail_of_Caltrops",
+    "id": "Trail_of_Caltrops",
+    "name_en": "Trail of Caltrops",
+    "name_cn": "铁蒺藜之路",
+    "name_tw": "蒺藜之徑",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CaltropsOnDodgeSkillIcon.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "攻擊",
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "投射物",
+      "觸發",
+      "物理",
+      "持續時間",
+      "危險"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Trail_of_Caltrops",
+    "icon_local": "images/poe2/skills/spirit/Trail_of_Caltrops.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，在躲避時投出蒺藜。",
+    "explicitMod": [
+      "躲避時投出 3 個蒺藜",
+      "(6 — 159) 至 (9 — 238) 基礎 物理 傷害",
+      "荊棘 傷害的增加和減少會套用於此技能的 擊中傷害",
+      "擊中 時 癱瘓",
+      "達到最大能量時觸發",
+      "蒺藜範圍為 0.5 公尺",
+      "蒺藜落於 投射物 衝擊處 0.8 公尺內範圍",
+      "產生 1 個蒺藜",
+      "蒺藜持續時間為 8 秒"
+    ],
+    "qualityMod": [
+      "+(0 — 5) 可投出的最大蒺藜數量"
+    ],
+    "newItemPopup": "蒺藜之徑\n攻擊\n增益效果\n,\n持續\n,\n範圍效果\n,\n投射物\n,\n觸發\n,\n物理\n,\n持續時間\n,\n危險\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n啟動時，在躲避時投出蒺藜。\n蒺藜之徑\n躲避時投出\n3\n個蒺藜\n蒺藜\n暴擊\n率:\n5.00%\n攻擊傷害:\n基礎的 (35\n—\n143)%\n投射物速度:\n4 metres per Second\n受敵人觸發時施加\n癱瘓\n並造成\n攻擊\n範圍傷害。蒺藜受觸發時會摧毀，同一時間最多可設置 20 個蒺藜。\n(6\n—\n159)\n至\n(9\n—\n238)\n基礎\n物理\n傷害\n荊棘\n傷害的增加和減少會套用於此技能的\n擊中傷害\n擊中\n時\n癱瘓\n達到最大能量時觸發\n蒺藜範圍為\n0.5\n公尺\n蒺藜落於\n投射物\n衝擊處\n0.8\n公尺內範圍\n產生\n1\n個蒺藜\n蒺藜持續時間為\n8\n秒\n來自品質的額外效果：\n+(0\n—\n5)\n可投出的最大蒺藜數量\n可以在技能面板管理技能。\nTrail of Caltrops",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷"
+  },
+  {
+    "slug": "Trinity",
+    "id": "Trinity",
+    "name_en": "Trinity",
+    "name_cn": "三位一体",
+    "name_tw": "三相",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressTrinitySkillIcon.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "閃電",
+      "冰冷",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Trinity",
+    "icon_local": "images/poe2/skills/spirit/Trinity.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "與所有 元素 同調，並根據你 擊中 所造成的最高 元素傷害 類型來累積火焰、冰冷和閃電 共鳴 。你任一類型的 共鳴 越高，造成的 元素傷害 便會強化。",
+    "explicitMod": [
+      "每 30 點任何類型的 共鳴 ， 有 (1 — 6) % 更多 元素傷害",
+      "擊中 造成 元素傷害 時，獲得 (5 — 13) 點最高 元素傷害 類型的 共鳴 ，並失去 3 點其他類型的 共鳴"
+    ],
+    "qualityMod": [
+      "共鳴總值達 250 點以上時， 技能速度 增加 (0 — 15) %"
+    ],
+    "newItemPopup": "三相\n增益效果\n持續\n,\n閃電\n,\n冰冷\n,\n火焰\n階級:\n14\n等級:\n(1\n—\n20)\n保留:\n100 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 敏捷\n,\n(4\n—\n86) 智慧\n與所有\n元素\n同調，並根據你\n擊中\n所造成的最高\n元素傷害\n類型來累積火焰、冰冷和閃電\n共鳴\n。你任一類型的\n共鳴\n越高，造成的\n元素傷害\n便會強化。\n每 30 點任何類型的\n共鳴\n，\n有\n(1\n—\n6)\n% 更多\n元素傷害\n擊中\n造成\n元素傷害\n時，獲得\n(5\n—\n13)\n點最高\n元素傷害\n類型的\n共鳴\n，並失去\n3\n點其他類型的\n共鳴\n來自品質的額外效果：\n共鳴總值達 250 點以上時，\n技能速度\n增加\n(0\n—\n15)\n%\n可以在技能面板管理技能。\nTrinity",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 敏捷 , (4 — 86) 智慧"
+  },
+  {
+    "slug": "War_Banner",
+    "id": "War_Banner",
+    "name_en": "War Banner",
+    "name_cn": "战旗",
+    "name_tw": "戰爭之旗",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarBannerSkill.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "旗幟",
+      "增益效果",
+      "持續",
+      "範圍效果",
+      "光環",
+      "持續時間",
+      "條件"
+    ],
+    "detail_url": "https://poe2db.tw/tw/War_Banner",
+    "icon_local": "images/poe2/skills/spirit/War_Banner.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時， 攻擊 敵人會累積 榮耀 。當你擁有最大 榮耀 ，你就能放置一面帶有 光環 的激勵 旗幟 ，在旗幟持續期間賦予你和附近的 友方 攻擊 傷害、 攻擊 速度及 命中 。",
+    "explicitMod": [
+      "此技能 攻擊 擊中 時，產生等同於 100 % 怪物強度 的 榮耀",
+      "需要 200 榮耀 才能使用",
+      "旗幟 光環 範圍為 4.5 公尺",
+      "光環給予 25 % 更多 攻擊 傷害",
+      "光環增加 50 % 命中值",
+      "光環賦予增加 25 % 攻擊 速度",
+      "旗幟持續時間為 (6 — 9.8) 秒"
+    ],
+    "qualityMod": [
+      "增加 (0 — 10) % 保留 效率"
+    ],
+    "newItemPopup": "戰爭之旗\n旗幟\n增益效果\n,\n持續\n,\n範圍效果\n,\n光環\n,\n持續時間\n,\n條件\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 敏捷\n啟動時，\n攻擊\n敵人會累積\n榮耀\n。當你擁有最大\n榮耀\n，你就能放置一面帶有\n光環\n的激勵\n旗幟\n，在旗幟持續期間賦予你和附近的\n友方\n攻擊\n傷害、\n攻擊\n速度及\n命中\n。\n戰爭之旗\n來自品質的額外效果：\n增加\n(0\n—\n10)\n%\n保留\n效率\n戰爭之旗\n此技能\n攻擊\n擊中\n時，產生等同於\n100\n%\n怪物強度\n的\n榮耀\n需要\n200\n榮耀\n才能使用\n旗幟\n光環\n範圍為\n4.5\n公尺\n光環給予\n25\n% 更多\n攻擊\n傷害\n光環增加\n50\n%\n命中值\n光環賦予增加\n25\n%\n攻擊\n速度\n旗幟持續時間為\n(6\n—\n9.8)\n秒\n可以在技能面板管理技能。\nWar Banner",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 敏捷"
+  },
+  {
+    "slug": "Wind_Dancer",
+    "id": "Wind_Dancer",
+    "name_en": "Wind Dancer",
+    "name_cn": "风舞者",
+    "name_tw": "風魔舞者",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerWindDancerSkill.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "攻擊",
+      "持續",
+      "範圍效果",
+      "近戰",
+      "觸發",
+      "獲得疊層"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Wind_Dancer",
+    "icon_local": "images/poe2/skills/spirit/Wind_Dancer.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，週期性地賦予多層增益效果，每層增益效果使你獲得更多 閃避值 。在此增益效果期間遭敵人 擊中 時會消耗所有層數，對周圍敵人造成傷害並將其 擊退 。",
+    "explicitMod": [
+      "3 最大疊層",
+      "每 (1.12 — 1.5) 秒獲得 1 層疊層",
+      "每層有 10 % 更多 閃避 值 被敵人 擊中 時，消耗所有 疊層以觸發颶風之力",
+      "擊退 敵人",
+      "爆炸範圍為 1.6 公尺",
+      "每層 100 % 更多效果範圍",
+      "每層 50 % 更多傷害",
+      "每層 25 % 更多 擊退 距離"
+    ],
+    "qualityMod": [
+      "爆炸範圍增加 +(0 — 0.4) 公尺"
+    ],
+    "newItemPopup": "風魔舞者\n增益效果\n攻擊\n,\n持續\n,\n範圍效果\n,\n近戰\n,\n觸發\n,\n獲得疊層\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 敏捷\n需求:\n任何\n軍用武器\n啟動時，週期性地賦予多層增益效果，每層增益效果使你獲得更多\n閃避值\n。在此增益效果期間遭敵人\n擊中\n時會消耗所有層數，對周圍敵人造成傷害並將其\n擊退\n。\n增益效果\n3\n最大疊層\n每\n(1.12\n—\n1.5)\n秒獲得 1 層疊層\n每層有\n10\n% 更多\n閃避\n值\n被敵人\n擊中\n時，消耗所有\n疊層以觸發颶風之力\n颶風之力\n冷卻時間:\n0.25 秒\n攻擊傷害:\n基礎的 (20\n—\n82)%\n擊退\n敵人\n爆炸範圍為\n1.6\n公尺\n每層\n100\n% 更多效果範圍\n每層\n50\n% 更多傷害\n每層\n25\n% 更多\n擊退\n距離\n來自品質的額外效果：\n爆炸範圍增加\n+(0\n—\n0.4)\n公尺\n可以在技能面板管理技能。\nWind Dancer",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 敏捷 | 需求: 任何 軍用武器"
+  },
+  {
+    "slug": "Withering_Presence",
+    "id": "Withering_Presence",
+    "name_en": "Withering Presence",
+    "name_cn": "凋零姿态",
+    "name_tw": "凋零光環",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "增益效果",
+      "持續",
+      "光環",
+      "混沌",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Withering_Presence",
+    "icon_local": "images/poe2/skills/spirit/Withering_Presence.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "啟動時，產生一個 光環 ，週期性使你 存在範圍 內的敵人 凋零 。",
+    "explicitMod": [
+      "凋零 持續時間為 6 秒",
+      "身處你 存在範圍 中的敵人每 (1.42 — 1.8) 秒承受 凋零"
+    ],
+    "qualityMod": [
+      "凋零 持續時間為 (0 — 1) 秒"
+    ],
+    "newItemPopup": "凋零光環\n增益效果\n持續\n,\n光環\n,\n混沌\n,\n持續時間\n階級:\n4\n等級:\n(1\n—\n20)\n保留:\n30 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n157) 智慧\n啟動時，產生一個\n光環\n，週期性使你\n存在範圍\n內的敵人\n凋零\n。\n凋零\n持續時間為\n6\n秒\n身處你\n存在範圍\n中的敵人每\n(1.42\n—\n1.8)\n秒承受\n凋零\n來自品質的額外效果：\n凋零\n持續時間為\n(0\n—\n1)\n秒\n可以在技能面板管理技能。\nWithering Presence",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 157) 智慧"
+  },
+  {
+    "slug": "Wolf_Pack",
+    "id": "Wolf_Pack",
+    "name_en": "Wolf Pack",
+    "name_cn": "狼群",
+    "name_tw": "召喚惡狼",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidSummonWolf.webp",
+    "gem_class": "gemitem",
+    "level_count": "",
+    "tags": [
+      "召喚物",
+      "盟友",
+      "持續",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Wolf_Pack",
+    "icon_local": "images/poe2/skills/spirit/Wolf_Pack.webp",
+    "level": "(1 — 20)",
+    "secDescrText": "召喚出一群惡狼 盟友 。狼群在計算會 盟友 上限時僅會消耗一格 盟友 欄位，不論狼群中狼的數量為何。",
+    "explicitMod": [
+      "召喚 (3 — 6) 匹狼"
+    ],
+    "qualityMod": [
+      "召喚 (0 — 1) 匹狼"
+    ],
+    "newItemPopup": "召喚惡狼\n召喚物\n盟友\n,\n持續\n,\n物理\n階級:\n8\n等級:\n(1\n—\n20)\n保留:\n60 精魂\n需求:\n等級 (1\n—\n90)\n,\n(4\n—\n86) 力量\n,\n(4\n—\n86) 智慧\n召喚出一群惡狼\n盟友\n。狼群在計算會\n盟友\n上限時僅會消耗一格\n盟友\n欄位，不論狼群中狼的數量為何。\n召喚\n(3\n—\n6)\n匹狼\n來自品質的額外效果：\n召喚\n(0\n—\n1)\n匹狼\n可以在技能面板管理技能。\nWolf Pack",
+    "requirements": "需求: 等級 (1 — 90) , (4 — 86) 力量 , (4 — 86) 智慧"
+  }
+]

@@ -1,31 +1,34 @@
 /**
  * 流放之路 2 主题
- * 风格：暗黑魔幻，品红+兰花紫
+ * 风格：暗黑史诗，赤红+暗金
  * @author 看雲起雲落
  */
 :root {
-  --bg-main: #180e18;
-  --bg-card: #241524;
-  --bg-hover: #302030;
-  --text-primary: #f0e0f0;
-  --text-secondary: #a080a0;
-  --text-muted: #504050;
-  --accent: #d878e8;
-  --accent-dim: #8828c0;
-  --accent-bright: #f8a8ff;
-  --border-color: #4a3050;
-  --shadow-color: rgba(136, 40, 192, 0.35);
+  --bg-main: #120A08;
+  --bg-card: #221812;
+  --bg-hover: #2E2018;
+  --text-primary: #D0C0B0;
+  --text-secondary: #A08080;
+  --text-muted: #664444;
+  --accent: #8B0000;
+  --accent-dim: #5D0000;
+  --accent-bright: #C00000;
+  --gold: #D4AF37;
+  --gold-dim: #8B6B2F;
+  --gold-bright: #F0D060;
+  --border-color: #4A3020;
+  --shadow-color: rgba(139, 0, 0, 0.35);
 }
 
 body {
   background-image:
-    radial-gradient(circle at 15% 25%, rgba(136, 40, 192, 0.1) 0%, transparent 30%),
-    radial-gradient(circle at 85% 75%, rgba(216, 120, 232, 0.08) 0%, transparent 30%);
+    radial-gradient(circle at 15% 25%, rgba(139, 0, 0, 0.1) 0%, transparent 30%),
+    radial-gradient(circle at 85% 75%, rgba(212, 175, 55, 0.05) 0%, transparent 30%);
 }
 
 .page-header h1 {
-  color: var(--accent);
-  text-shadow: 0 0 30px rgba(216, 120, 232, 0.2);
+  color: var(--gold-bright);
+  text-shadow: 0 0 30px rgba(212, 175, 55, 0.2);
 }
 
 .page-header::before {

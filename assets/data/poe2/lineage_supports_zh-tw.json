@@ -1,0 +1,1519 @@
+[
+  {
+    "slug": "Ahns_Citadel",
+    "id": "Ahns_Citadel",
+    "name_en": "Ahn's Citadel",
+    "name_cn": "汉恩的城塞",
+    "name_tw": "漢恩的城塞",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wallfortresssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ahns_Citadel",
+    "secDescrText": "輔助創造出一道直線牆的技能，使其改為沿著裂縫創造出一道牆。",
+    "icon_local": "images/poe2/skills/lineage/Ahns_Citadel.webp",
+    "explicitMod": [
+      "被輔助的技能的牆壁改為沿裂縫分布"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "漢恩的城塞\n輔助\n族裔\n類別\n:\n堡壘\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助創造出一道直線牆的技能，使其改為沿著裂縫創造出一道牆。\n被輔助的技能的牆壁改為沿裂縫分布\n當被附身的魔像蹂躪大地時，以鮮血與暴政加冕為安的奧爾，\n開始了最後的儀式，使青金石水晶在他那註定被毀滅的城塞中破裂並蔓延生長。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAhn's Citadel",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Ailiths_Chimes",
+    "id": "Ailiths_Chimes",
+    "name_en": "Ailith's Chimes",
+    "name_cn": "艾利丝钟琴",
+    "name_tw": "艾里絲的管鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combofinishersupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ailiths_Chimes",
+    "secDescrText": "輔助可消耗 連擊 的技能。以被輔助的技能消耗 連擊 時，你有機率會根據消耗的 連擊 數量獲得 暴擊球 。",
+    "icon_local": "images/poe2/skills/lineage/Ailiths_Chimes.webp",
+    "explicitMod": [
+      "以被輔助的技能消耗 連擊 時，每一消耗的 連擊 有 25 % 滿溢 機率獲得一顆 暴擊球"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "艾里絲的管鐘\n輔助\n族裔\n類別\n:\n艾里絲的管鐘\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助可消耗\n連擊\n的技能。以被輔助的技能消耗\n連擊\n時，你有機率會根據消耗的\n連擊\n數量獲得\n暴擊球\n。\n以被輔助的技能消耗\n連擊\n時，每一消耗的\n連擊\n有\n25\n%\n滿溢\n機率獲得一顆\n暴擊球\n艾里絲醒來，發現自己的火焰正熾烈、心中的視界正活靈活現。\n她在晨間開始傳授這些視界的內涵……因而創立了蒼白視界守護者。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAilith's Chimes",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Amanamus_Tithe",
+    "id": "Amanamus_Tithe",
+    "name_en": "Amanamu's Tithe",
+    "name_cn": "阿曼娜姆的奉纳",
+    "name_tw": "阿姆那姆的稅賦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "召喚物",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Amanamus_Tithe",
+    "secDescrText": "輔助 持續 召喚物 技能。使被輔助的 召喚物 為你而死時，有機率獲得一條深淵怪物詞綴。",
+    "icon_local": "images/poe2/skills/lineage/Amanamus_Tithe.webp",
+    "explicitMod": [
+      "當被輔助的技能生成的 召喚物 死亡時，有 50 %機率獲得一條深淵怪物詞綴 20 秒 最多可以透過此方式獲得3條深淵怪物詞綴"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿姆那姆的稅賦\n輔助\n族裔\n,\n召喚物\n,\n持續\n類別\n:\n阿姆那姆的稅賦\n需求:\n等級 25\n輔助需求\n：\n+5 力量\n輔助\n持續\n召喚物\n技能。使被輔助的\n召喚物\n為你而死時，有機率獲得一條深淵怪物詞綴。\n當被輔助的技能生成的\n召喚物\n死亡時，有\n50\n%機率獲得一條深淵怪物詞綴 20 秒\n最多可以透過此方式獲得3條深淵怪物詞綴\n那些侍奉黯光諸侯的人，將完全從屬於他。\n他們的鮮血、肉體與靈魂都是任他操控的祭品。\n一旦加入巫妖領主麾下，即使死亡都無法獲得解脫。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAmanamu's Tithe",
+    "requirements": "需求: 等級 25 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Arakaalis_Lust",
+    "id": "Arakaalis_Lust",
+    "name_en": "Arakaali's Lust",
+    "name_cn": "阿拉卡力的欲望",
+    "name_tw": "艾爾卡莉之慾",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Arakaalis_Lust",
+    "secDescrText": "輔助任何可以 擊中 敵人的技能，目標身上越多 中毒 效果，使其造成的傷害逐漸提高。",
+    "icon_local": "images/poe2/skills/lineage/Arakaalis_Lust.webp",
+    "explicitMod": [
+      "被輔助的技能依據敵人身上每層 中毒 造成 8 % 更多 擊中 傷害，最多 40 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "艾爾卡莉之慾\n輔助\n族裔\n類別\n:\n艾爾卡莉之慾\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助任何可以\n擊中\n敵人的技能，目標身上越多\n中毒\n效果，使其造成的傷害逐漸提高。\n被輔助的技能依據敵人身上每層\n中毒\n造成\n8\n% 更多\n擊中\n傷害，最多\n40\n%\n她露出滿是邪惡利齒的笑容。\n「罪，親愛的，忘掉你那些在馬拉克斯的煩惱吧。」\n她啃咬、撕扯並盡情狂歡；他被困於絲綢之中，沉浸在交織的絕望與狂喜中。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nArakaali's Lust",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Arbiters_Ignition",
+    "id": "Arbiters_Ignition",
+    "name_en": "Arbiter's Ignition",
+    "name_cn": "仲裁官的点燃",
+    "name_tw": "仲裁者的燃灼",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Arbiters_Ignition",
+    "secDescrText": "輔助 火焰 法術 技能。以被輔助技能 點燃 時，有一定機率獲得 元素統治者 。",
+    "icon_local": "images/poe2/skills/lineage/Arbiters_Ignition.webp",
+    "explicitMod": [
+      "當你 點燃 一名敵人時獲得 元素統治者"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "仲裁者的燃灼\n輔助\n族裔\n,\n法術\n,\n火焰\n類別\n:\n仲裁者的燃灼\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n火焰\n法術\n技能。以被輔助技能\n點燃\n時，有一定機率獲得\n元素統治者\n。\n當你\n點燃\n一名敵人時獲得\n元素統治者\n「這幅雕刻似乎描繪了許多蜷曲的身軀漂浮在大缸中……在下一幅中，\n幾乎所有人都死了，只剩一個人倖存。\n他們究竟在實驗什麼？看來他們一直在嘗試……不斷實驗……」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nArbiter's Ignition",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Arjuns_Medal",
+    "id": "Arjuns_Medal",
+    "name_en": "Arjun's Medal",
+    "name_cn": "阿尔琼的勋章",
+    "name_tw": "亞瓊的獎章",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/chancetonotconsumeammosupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "彈藥",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Arjuns_Medal",
+    "secDescrText": "輔助 十字弓 技能，在被輔助的技能造成擊殺時，裝填一發弩箭至所有 十字弓 彈藥 技能。",
+    "icon_local": "images/poe2/skills/lineage/Arjuns_Medal.webp",
+    "explicitMod": [
+      "以被輔助的技能造成 最後一擊 時為所有 十字弓 技能裝填一發彈藥"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "亞瓊的獎章\n輔助\n族裔\n,\n彈藥\n,\n投射物\n類別\n:\n彈藥保存\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助\n十字弓\n技能，在被輔助的技能造成擊殺時，裝填一發弩箭至所有\n十字弓\n彈藥\n技能。\n以被輔助的技能造成\n最後一擊\n時為所有\n十字弓\n技能裝填一發彈藥\n凱塔家族深信敵人毫無防備，因而大膽地對牆垛發動衝鋒。\n然而，亞瓊的彈藥供應報告……「並不準確」\n……真是典型的巴迪亞家族作風。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nArjun's Medal",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Ataluis_Bloodletting",
+    "id": "Ataluis_Bloodletting",
+    "name_en": "Atalui's Bloodletting",
+    "name_cn": "阿图鲁伊的放血术",
+    "name_tw": "阿特路伊的出血",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/bloodmagicsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ataluis_Bloodletting",
+    "secDescrText": "輔助任何技能，使其一部分的魔力消耗轉換為消耗生命。無法輔助保留 精魂 的技能。被輔助的技能會 獲得 相當於部分生命消耗的額外 物理 傷害。",
+    "icon_local": "images/poe2/skills/lineage/Ataluis_Bloodletting.webp",
+    "explicitMod": [
+      "被輔助的技能的 100 %魔力消耗 轉換 為生命消耗",
+      "被輔助的技能每消耗20生命施放，即 獲得 2 %傷害的額外 物理 傷害，最多40%。"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿特路伊的出血\n輔助\n族裔\n,\n物理\n類別\n:\n活栓\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助任何技能，使其一部分的魔力消耗轉換為消耗生命。無法輔助保留\n精魂\n的技能。被輔助的技能會\n獲得\n相當於部分生命消耗的額外\n物理\n傷害。\n被輔助的技能的\n100\n%魔力消耗\n轉換\n為生命消耗\n被輔助的技能每消耗20生命施放，即\n獲得\n2\n%傷害的額外\n物理\n傷害，最多40%。\n阿塔澤克與阿特路伊挺身而出，滿身創傷，千瘡百孔。\n她對兄長露出一抹陰森的笑意：「要不要讓他們看看，挑戰瓦爾的下場？」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAtalui's Bloodletting",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Atziris_Allure",
+    "id": "Atziris_Allure",
+    "name_en": "Atziri's Allure",
+    "name_cn": "阿兹里的魅惑",
+    "name_tw": "阿茲里的魅惑",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "詛咒"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Atziris_Allure",
+    "secDescrText": "輔助你自身施放的 詛咒 法術 技能，使這些 詛咒 無視一般 詛咒 上限 ，但會反射至你身上。",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Allure.webp",
+    "explicitMod": [
+      "被輔助技能施加的 詛咒 無視 詛咒 上限",
+      "被輔助的技能施加的 詛咒 會反射給你",
+      "被輔助的技能有 20 % 更少 詛咒效果"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿茲里的魅惑\n輔助\n族裔\n,\n詛咒\n類別\n:\n阿茲里的魅惑\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助你自身施放的\n詛咒\n法術\n技能，使這些\n詛咒\n無視一般\n詛咒\n上限\n，但會反射至你身上。\n被輔助技能施加的\n詛咒\n無視\n詛咒\n上限\n被輔助的技能施加的\n詛咒\n會反射給你\n被輔助的技能有\n20\n% 更少\n詛咒效果\n她的誘惑力如此強大，宮廷中的每位貴族都爭先恐後地聽從她的旨意。\n若能讓她的視線從鏡子裡移開，哪怕只是對他們輕輕一暼，\n對他們而言卻比性命還重要。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAtziri's Allure",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Call",
+    "id": "Atziris_Call",
+    "name_en": "Atziri's Call",
+    "name_cn": "阿兹里的召唤",
+    "name_tw": "阿茲里的呼喚",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "範圍效果",
+      "觸發"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Atziris_Call",
+    "secDescrText": "[DNT] Supports Spells you use yourself which Hit enemies. On Critical Hit with supported Spells , Trigger Atziri's Storm at the location of the nearest enemy.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Call.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "阿茲里的呼喚\n輔助\n族裔\n,\n法術\n,\n範圍效果\n,\n觸發\n類別\n:\n阿茲里的呼喚\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n[DNT] Supports\nSpells\nyou use yourself which\nHit\nenemies. On\nCritical Hit\nwith supported\nSpells\n,\nTrigger\nAtziri's Storm at the location of the nearest enemy.\n輔助\n阿茲里的呼喚\n[DNT] Fill me in\n[DNT] Coming soon!\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAtziri's Call",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Communion",
+    "id": "Atziris_Communion",
+    "name_en": "Atziri's Communion",
+    "name_cn": "阿兹里的圣礼",
+    "name_tw": "阿茲里的共融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Atziris_Communion",
+    "secDescrText": "[DNT] Supports Buff skills which reserve Spirit . Spirit costs from Supported Skills are converted to reserve a percentage of your Life.",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Communion.webp",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "阿茲里的共融\n輔助\n族裔\n,\n增益效果\n,\n持續\n類別\n:\n阿茲里的共融\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n[DNT] Supports\nBuff\nskills which reserve\nSpirit\n.\nSpirit\ncosts from Supported Skills are converted to reserve a percentage of your Life.\n紅色聖宴的本意，是要超越靈魂的界線，\n重塑血肉，\n並賦予永恆不朽的生命。\n這些目標，它確實全都達成了……\n只是方式，慘烈得無法想像。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAtziri's Communion",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Atziris_Impatience",
+    "id": "Atziris_Impatience",
+    "name_en": "Atziri's Impatience",
+    "name_cn": "阿兹里的焦躁",
+    "name_tw": "阿茲里的不耐",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Atziris_Impatience",
+    "secDescrText": "輔助擁有冷卻時間的技能，大幅的增加其 冷卻時間回復 ，但使用時會使你失去生命、魔力、和能量護盾。無法輔助 主要 技能且無法修改 召喚物 技能。",
+    "icon_local": "images/poe2/skills/lineage/Atziris_Impatience.webp",
+    "explicitMod": [
+      "當你使用被輔助的技能時，失去 25 %最大生命、魔力、和 能量護盾",
+      "被輔助的技能增加 100 % 冷卻時間恢復率"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "阿茲里的不耐\n輔助\n族裔\n類別\n:\n冷卻時間恢復\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助擁有冷卻時間的技能，大幅的增加其\n冷卻時間回復\n，但使用時會使你失去生命、魔力、和能量護盾。無法輔助\n主要\n技能且無法修改\n召喚物\n技能。\n當你使用被輔助的技能時，失去\n25\n%最大生命、魔力、和\n能量護盾\n被輔助的技能增加\n100\n% 冷卻時間恢復率\n「令女王感到厭倦者將遭受過度殘酷的懲罰：\n他們曾認識的所有人都會被處決，等同將其一生抹除。\n因此—無論代價為何……沒有任何人敢讓她久候。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nAtziri's Impatience",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Bhatairs_Vengeance",
+    "id": "Bhatairs_Vengeance",
+    "name_en": "Bhatair's Vengeance",
+    "name_cn": "巴蒂尔的复仇",
+    "name_tw": "瓦特爾的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/icebitesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "攻擊",
+      "戰吼",
+      "冰冷",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Bhatairs_Vengeance",
+    "secDescrText": "輔助自身使用的 攻擊 和 戰吼 技能。以被輔助的技能 凍結 一名敵人會短暫的以 冰冷 傷害強化自身和友方，持續一段時間。",
+    "icon_local": "images/poe2/skills/lineage/Bhatairs_Vengeance.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "當你以被輔助的技能 凍結 一名目標時，根據你擁有的每1 盛怒 ，你和 存在 範圍內的 友方 獲得1%傷害的 冰冷 傷害，持續 20 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瓦特爾的復仇\n輔助\n攻擊\n,\n戰吼\n,\n冰冷\n,\n持續時間\n類別\n:\n霜咬\n消耗加成:\n110%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助自身使用的\n攻擊\n和\n戰吼\n技能。以被輔助的技能\n凍結\n一名敵人會短暫的以\n冰冷\n傷害強化自身和友方，持續一段時間。\n當你以被輔助的技能\n凍結\n一名目標時，根據你擁有的每1\n盛怒\n，你和\n存在\n範圍內的\n友方\n獲得1%傷害的\n冰冷\n傷害，持續\n20\n秒\n傳說的起源仍在瓦爾克拉斯四處遊蕩—\n迷失於飛龍之軀，滿懷哀痛與狂怒，\n只因他心愛的門徒皆葬身於迷霧之王……\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nBhatair's Vengeance",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Brutus_Brain",
+    "id": "Brutus_Brain",
+    "name_en": "Brutus' Brain",
+    "name_cn": "布鲁特斯之脑",
+    "name_tw": "布魯特斯的腦",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/meatshield.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "召喚物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Brutus_Brain",
+    "secDescrText": "輔助創造 召喚物 的技能，使這些 召喚物 無法造成或受到傷害。無法輔助創造出無法被傷害的 召喚物 的技能。",
+    "icon_local": "images/poe2/skills/lineage/Brutus_Brain.webp",
+    "explicitMod": [
+      "被輔助的技能製造的 召喚物 無法受到傷害",
+      "被輔助的技能製造的 召喚物 無法造成傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "布魯特斯的腦\n輔助\n族裔\n,\n召喚物\n類別\n:\n肉盾\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助創造\n召喚物\n的技能，使這些\n召喚物\n無法造成或受到傷害。無法輔助創造出無法被傷害的\n召喚物\n的技能。\n被輔助的技能製造的\n召喚物\n無法受到傷害\n被輔助的技能製造的\n召喚物\n無法造成傷害\n薛朗欣喜地高舉雙臂迎向閃電。她成功了！\n她的造物完美無瑕！無堅不摧。不朽不滅！\n然而，她很快意識到，還缺少了一個關鍵的部分……\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nBrutus' Brain",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Cirels_Cultivation",
+    "id": "Cirels_Cultivation",
+    "name_en": "Cirel's Cultivation",
+    "name_cn": "西雷尔的教化",
+    "name_tw": "西瑞爾的耕植",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/greatwoodsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "圖騰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Cirels_Cultivation",
+    "secDescrText": "輔助會創造 圖騰 的技能，使你無法擁有超過一根該 圖騰 ，但是會根據周遭的友方 圖騰 給予被輔助的 圖騰 大量增益。無法輔助 召喚物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Cirels_Cultivation.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "被輔助的技能只能有一個 圖騰 生效",
+      "被輔助的技能所創造的 圖騰 會根據範圍內的每根友方 圖騰 數量增加 5 %範圍效果",
+      "被輔助的技能所創造的 圖騰 會根據範圍內的每根友方 圖騰 數量造成 10 %更多傷害",
+      "被輔助的技能所創造的 圖騰 會根據範圍內的每根友方 圖騰 數量每秒回復 1 %最大生命",
+      "被輔助的 圖騰 可獲得範圍內最多 5 根 圖騰 的增益效果",
+      "友方 圖騰 的計算範圍半徑為 4 公尺"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "西瑞爾的耕植\n輔助\n族裔\n,\n圖騰\n類別\n:\n圖騰掌控\n消耗加成:\n115%\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助會創造\n圖騰\n的技能，使你無法擁有超過一根該\n圖騰\n，但是會根據周遭的友方\n圖騰\n給予被輔助的\n圖騰\n大量增益。無法輔助\n召喚物\n使用的技能。\n被輔助的技能只能有一個\n圖騰\n生效\n被輔助的技能所創造的\n圖騰\n會根據範圍內的每根友方\n圖騰\n數量增加\n5\n%範圍效果\n被輔助的技能所創造的\n圖騰\n會根據範圍內的每根友方\n圖騰\n數量造成\n10\n%更多傷害\n被輔助的技能所創造的\n圖騰\n會根據範圍內的每根友方\n圖騰\n數量每秒回復\n1\n%最大生命\n被輔助的\n圖騰\n可獲得範圍內最多\n5\n根\n圖騰\n的增益效果\n友方\n圖騰\n的計算範圍半徑為\n4\n公尺\n瓦爾克拉斯上最古老、最偉大的堡壘是「生長」出來的，而非建造。\n等待之女在滿佈灰燼與冰雪的年代種下那些種子。\n如今，特什卡之門堅不可摧，卻對所有人開放。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nCirel's Cultivation",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "DNT_Tangmazu_Lineage",
+    "id": "DNT_Tangmazu_Lineage",
+    "name_en": "[DNT] Tangmazu Lineage",
+    "name_cn": "[DNT] Tangmazu Lineage",
+    "name_tw": "[DNT] Tangmazu Lineage",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "增益效果",
+      "持續"
+    ],
+    "detail_url": "https://poe2db.tw/tw/DNT_Tangmazu_Lineage",
+    "secDescrText": "[DNT] Tangmazu Lineage",
+    "icon_local": "images/poe2/skills/lineage/DNT_Tangmazu_Lineage.webp",
+    "explicitMod": [
+      "被輔助的技能啟動時，增加 25 % 光線範圍",
+      "被輔助的技能啟動時，減少 20 % 減益效果 所施加在你身上的 緩速幅度",
+      "當被輔助的技能生效時，衝刺增加 10 % 移動速度"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "[DNT] Tangmazu Lineage\n輔助\n族裔\n,\n增益效果\n,\n持續\n類別\n:\n[DNT] Tangmazu Lineage\n額外保留:\n15 精魂\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n[DNT] Tangmazu Lineage\n被輔助的技能啟動時，增加\n25\n%\n光線範圍\n被輔助的技能啟動時，減少\n20\n%\n減益效果\n所施加在你身上的\n緩速幅度\n當被輔助的技能生效時，衝刺增加\n10\n% 移動速度\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Daressos_Passion",
+    "id": "Daressos_Passion",
+    "name_en": "Daresso's Passion",
+    "name_cn": "德瑞索的热情",
+    "name_tw": "德瑞索的熱情",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "旗幟",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Daressos_Passion",
+    "secDescrText": "輔助 旗幟 技能，使其使用的 榮耀 需求大量減少",
+    "icon_local": "images/poe2/skills/lineage/Daressos_Passion.webp",
+    "explicitMod": [
+      "被輔助的技能需要 50 更少 榮耀 才能使用"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "德瑞索的熱情\n輔助\n旗幟\n,\n族裔\n類別\n:\n德瑞索的熱情\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助\n旗幟\n技能，使其使用的\n榮耀\n需求大量減少\n被輔助的技能需要\n50\n更少\n榮耀\n才能使用\n「我將視線上移，以為將要直視自己的死亡。然而，我卻看見了她，莫薇兒。\n戰鬥曾經只是為了生存，如今卻有了更大的意義……愛。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nDaresso's Passion",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Diallas_Desire",
+    "id": "Diallas_Desire",
+    "name_en": "Dialla's Desire",
+    "name_cn": "达拉的渴望",
+    "name_tw": "達拉的渴望",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Diallas_Desire",
+    "secDescrText": "輔助任何有等級的技能，增加其等級和 品質 ，並減少其消耗和 保留 。",
+    "icon_local": "images/poe2/skills/lineage/Diallas_Desire.webp",
+    "cost": "90%",
+    "explicitMod": [
+      "被輔助的技能寶石等級 +1",
+      "+10 % 被輔助的技能的 品質"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "達拉的渴望\n輔助\n族裔\n類別\n:\n達拉的渴望\n保留加成:\n90%\n消耗加成:\n90%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助任何有等級的技能，增加其等級和\n品質\n，並減少其消耗和\n保留\n。\n被輔助的技能寶石等級\n+1\n+10\n% 被輔助的技能的\n品質\n「我將成為你的寶石之后，我的摯愛，\n但這些粗製濫造的石頭怎麼配得上呢？\n我想要永遠歸你所有。我們一起登峰造極吧？」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nDialla's Desire",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Doedres_Undoing",
+    "id": "Doedres_Undoing",
+    "name_en": "Doedre's Undoing",
+    "name_cn": "德瑞的毁灭",
+    "name_tw": "德瑞的毀滅",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/cursedgroundsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "範圍效果",
+      "觸發",
+      "混沌",
+      "詛咒",
+      "危險"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Doedres_Undoing",
+    "secDescrText": "輔助 詛咒 技能。被輔助的 詛咒 技能會產生 危險 區域，只要敵人進入這些區域內就會爆炸，其會 詛咒 敵人並造成 混沌 傷害。",
+    "icon_local": "images/poe2/skills/lineage/Doedres_Undoing.webp",
+    "explicitMod": [
+      "被輔助的技能會生成 詛咒 地面 在被輔助的技能生成之 詛咒 地面上的敵人會 受詛咒",
+      "被輔助技能所產生的 詛咒 地面視為 危險",
+      "詛咒 地面區域上限為 2",
+      "敵人進入被輔助技能所創造的 詛咒 地面時，會觸發德瑞的黑暗謀略",
+      "造成 (7 — 217) 至 (13 — 404) 混沌 傷害",
+      "擊中 時，爆炸施加被輔助的 詛咒 ，持續 3 秒",
+      "爆炸範圍與 詛咒 地面等大"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "德瑞的毀滅\n輔助\n族裔\n,\n法術\n,\n範圍效果\n,\n觸發\n,\n混沌\n,\n詛咒\n,\n危險\n類別\n:\n詛咒地面\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n詛咒\n技能。被輔助的\n詛咒\n技能會產生\n危險\n區域，只要敵人進入這些區域內就會爆炸，其會\n詛咒\n敵人並造成\n混沌\n傷害。\n輔助\n被輔助的技能會生成\n詛咒\n地面\n在被輔助的技能生成之\n詛咒\n地面上的敵人會\n受詛咒\n被輔助技能所產生的\n詛咒\n地面視為\n危險\n詛咒\n地面區域上限為\n2\n敵人進入被輔助技能所創造的\n詛咒\n地面時，會觸發德瑞的黑暗謀略\n德瑞的黑暗謀略\n等級:\n(1\n—\n20)\n此技能會複製插槽內的寶石等級\n施放時間:\n1.00 秒\n暴擊\n率:\n7.00%\n當敵人進入範圍時，產生爆炸並造成\n混沌\n傷害，並在\n擊中\n時附加被輔助的\n詛咒\n。\n造成\n(7\n—\n217)\n至\n(13\n—\n404)\n混沌\n傷害\n擊中\n時，爆炸施加被輔助的\n詛咒\n，持續\n3\n秒\n爆炸範圍與\n詛咒\n地面等大\n「讓鮮肉為我們指引道路。向鮮肉致敬，讚頌鮮肉。\n鮮肉既是墮落，亦是神聖。\n唯有鮮肉，能引領我們踏上真正的啟蒙之道。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nDoedre's Undoing",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Dominus_Grasp",
+    "id": "Dominus_Grasp",
+    "name_en": "Dominus' Grasp",
+    "name_cn": "神主之握",
+    "name_tw": "神主的掌握",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "投射物",
+      "連鎖"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Dominus_Grasp",
+    "secDescrText": "輔助 投射物 和任何可以 連鎖 的技能，使他們 連鎖 更多次。",
+    "icon_local": "images/poe2/skills/lineage/Dominus_Grasp.webp",
+    "explicitMod": [
+      "被輔助的技能的 連鎖 次數增加 100 %"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "神主的掌握\n輔助\n族裔\n,\n投射物\n,\n連鎖\n類別\n:\n神主的掌握\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助\n投射物\n和任何可以\n連鎖\n的技能，使他們\n連鎖\n更多次。\n被輔助的技能的\n連鎖\n次數增加\n100\n%\n若要讓聖宗領導人與派蒂的實驗成功，\n他需要成千上萬的囚徒。在密謀之下，\n他們決定復興一項古老的傳統……流放。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nDominus' Grasp",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Dreamers_Knell",
+    "id": "Dreamers_Knell",
+    "name_en": "Dreamer's Knell",
+    "name_cn": "幻梦者的丧钟",
+    "name_tw": "幻夢者的喪鐘",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "攻擊",
+      "範圍效果",
+      "近戰",
+      "觸發",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Dreamers_Knell",
+    "secDescrText": "[DNT-UNUSED] Ezomyte Four",
+    "icon_local": "images/poe2/skills/lineage/Dreamers_Knell.webp",
+    "explicitMod": [
+      "此技能造成攻擊傷害為 40 %的 普通攻擊傷害",
+      "震波範圍為 1 公尺",
+      "鐘的持續 8 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "幻夢者的喪鐘\n輔助\n族裔\n,\n攻擊\n,\n範圍效果\n,\n近戰\n,\n觸發\n,\n持續時間\n類別\n:\n幻夢者的喪鐘\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n[DNT-UNUSED] Ezomyte Four\n輔助\n[DNT-UNUSED] 被輔助的技能在消耗\n連擊\n時每消耗\n2\n連擊\n，會創造一座鐘\n[DNT] Small Bell\n[DNT] Ring Ring but small\n此技能造成攻擊傷害為\n40\n%的\n普通攻擊傷害\n震波範圍為\n1\n公尺\n鐘的持續\n8\n秒\n[DNT-UNUSED]\nLimit\n8\nBells\n每位入門者都在夢中聽到鐘聲。那是仁慈幻夢者的號角。\n從此，他們將一生奉獻給一個單一的使命。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nDreamer's Knell",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Einhars_Beastrite",
+    "id": "Einhars_Beastrite",
+    "name_en": "Einhar's Beastrite",
+    "name_cn": "伊恩哈尔的魔物仪式",
+    "name_tw": "埃哈的野獸儀式",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/beheadsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "攻擊",
+      "近戰",
+      "打擊"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Einhars_Beastrite",
+    "secDescrText": "輔助近戰 打擊 技能，使其能竊取所擊殺的 稀有 怪物身上的一條 詞綴 並持續一段較長的時間，但其無法對未處於貧血狀態的敵人造成傷害。無法修改 召喚物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Einhars_Beastrite.webp",
+    "explicitMod": [
+      "被輔助的技能只能傷害 貧血狀態 的敵人",
+      "對 稀有 怪物使用被輔助的 打擊 技能的最後一擊時，賦予它們的其中 2 個 詞綴 ，持續 300 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "埃哈的野獸儀式\n輔助\n族裔\n,\n攻擊\n,\n近戰\n,\n打擊\n類別\n:\n斬首\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助近戰\n打擊\n技能，使其能竊取所擊殺的\n稀有\n怪物身上的一條\n詞綴\n並持續一段較長的時間，但其無法對未處於貧血狀態的敵人造成傷害。無法修改\n召喚物\n使用的技能。\n被輔助的技能只能傷害\n貧血狀態\n的敵人\n對\n稀有\n怪物使用被輔助的\n打擊\n技能的最後一擊時，賦予它們的其中 2 個\n詞綴\n，持續\n300\n秒\n「妳必須這樣切開野獸，」他告訴那雙眼睜大但有些健忘的女子。\n「最多汁的部位都在中段！」她點了點頭，重新開始學習荒野的生存之道。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nEinhar's Beastrite",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Eonyrs_Thunder",
+    "id": "Eonyrs_Thunder",
+    "name_en": "Eonyr's Thunder",
+    "name_cn": "伊奥尼尔的雷霆",
+    "name_tw": "伊歐涅的雷霆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "範圍效果",
+      "閃電"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Eonyrs_Thunder",
+    "secDescrText": "[DNT] Supports any Skill which can deal Damage. Lightning Damage from Supported Skills can inflict Electrocute , but Supported Skills cannot inflict Shock . Enemies slain while Electrocuted by Supported Skills explode, dealing a percentage of their maximum Life as Lightning damage.",
+    "icon_local": "images/poe2/skills/lineage/Eonyrs_Thunder.webp",
+    "explicitMod": [
+      "被輔助的技能無法造成 感電",
+      "被輔助的技能造成的 閃電 傷害會 貢獻 至 觸電 累積"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "伊歐涅的雷霆\n輔助\n族裔\n,\n範圍效果\n,\n閃電\n類別\n:\n觸電\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n[DNT] Supports any Skill which can deal Damage.\nLightning\nDamage from Supported Skills can inflict\nElectrocute\n, but Supported Skills cannot inflict\nShock\n. Enemies slain while\nElectrocuted\nby Supported Skills explode, dealing a percentage of their maximum Life as\nLightning\ndamage.\n被輔助的技能無法造成\n感電\n被輔助的技能造成的\n閃電\n傷害會\n貢獻\n至\n觸電\n累積\n怎麼做到的？嗯，當然是巨龍賜予她通行。\n伊歐涅與牠的族群在我們與月亮之間的風中翱翔。\n風暴的咆嘯——那正是牠們在獵食、在呼喚。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nEonyr's Thunder",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Eshs_Radiance",
+    "id": "Eshs_Radiance",
+    "name_en": "Esh's Radiance",
+    "name_cn": "艾许的光辉",
+    "name_tw": "艾許的光芒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "閃電",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Eshs_Radiance",
+    "secDescrText": "輔助會造成 傷害型擊中 的技能，賦予其額外 混沌 傷害，並使 混沌 傷害 貢獻 至 感電 。",
+    "icon_local": "images/poe2/skills/lineage/Eshs_Radiance.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被輔助技能的 混沌 傷害同時 有助於 感電 機率的計算",
+      "被輔助的技能 獲得 相當於 40 % 閃電 傷害的額外 混沌 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "艾許的光芒\n輔助\n族裔\n,\n閃電\n,\n混沌\n類別\n:\n裂痕王\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助會造成\n傷害型擊中\n的技能，賦予其額外\n混沌\n傷害，並使\n混沌\n傷害\n貢獻\n至\n感電\n。\n被輔助技能的\n混沌\n傷害同時\n有助於\n感電\n機率的計算\n被輔助的技能\n獲得\n相當於\n40\n%\n閃電\n傷害的額外\n混沌\n傷害\n「昔日生命蓬勃之地，如今唯有金屬滋長，\n宛如無盡的蠕蟲在灰燼中緩慢蠕行。\n昔日被寂靜籠罩之地，如今卻有無源的思緒在幽暗中呢喃著數字。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nEsh's Radiance",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Garukhans_Resolve",
+    "id": "Garukhans_Resolve",
+    "name_en": "Garukhan's Resolve",
+    "name_cn": "格鲁坎的决心",
+    "name_tw": "卡洛翰的決心",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "攻擊"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Garukhans_Resolve",
+    "secDescrText": "輔助你自己使用，且沒有使用 條件 的 攻擊 技能。被輔助的技能擁有最大 暴擊率 ，但會 分岔暴擊 。無法輔助具有冷卻時間或被 觸發 的技能，且無法修改由 召喚物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Garukhans_Resolve.webp",
+    "explicitMod": [
+      "被輔助技能的 暴擊率 上限為 50 %",
+      "被輔助技能的 攻擊暴擊率 會 二分"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "卡洛翰的決心\n輔助\n族裔\n,\n攻擊\n類別\n:\n卡洛翰的決心\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助你自己使用，且沒有使用\n條件\n的\n攻擊\n技能。被輔助的技能擁有最大\n暴擊率\n，但會\n分岔暴擊\n。無法輔助具有冷卻時間或被\n觸發\n的技能，且無法修改由\n召喚物\n使用的技能。\n被輔助技能的\n暴擊率\n上限為\n50\n%\n被輔助技能的\n攻擊暴擊率\n會\n二分\n她的希望最後落空……但她依舊決絕……\n她投出摯愛的縛舌。一尊神祇為之淌血。\n因此，巨鷹首次將一支羽翎賜予一名馬拉克斯戰士。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nGarukhan's Resolve",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Guatelitzis_Ablation",
+    "id": "Guatelitzis_Ablation",
+    "name_en": "Guatelitzi's Ablation",
+    "name_cn": "瓜铁雷兹的消融",
+    "name_tw": "瓜特利斯的消融",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Guatelitzis_Ablation",
+    "secDescrText": "輔助 奉獻 技能。 被輔助的技能在使用時會 犧牲 一定比例的自身血量。當被輔助技能的 奉獻 尖刺存在時，你會週期性的獲得 暴擊球 。當被輔助的技能的尖刺消失時，根據該 奉獻 持續的時間按比例每秒回復一部分最大生命和魔力。",
+    "icon_local": "images/poe2/skills/lineage/Guatelitzis_Ablation.webp",
+    "explicitMod": [
+      "當被輔助技能的 奉獻 召喚物死亡時，回復 5 %你的生命和魔力，持續時間等同於該 奉獻 的生存時間",
+      "被輔助的技能使用時會 犧牲 25 % 生命",
+      "被輔助技能的 奉獻 召喚物每 4 秒給予你一顆 暴擊球"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瓜特利斯的消融\n輔助\n族裔\n類別\n:\n犧牲奉獻\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n奉獻\n技能。 被輔助的技能在使用時會\n犧牲\n一定比例的自身血量。當被輔助技能的\n奉獻\n尖刺存在時，你會週期性的獲得\n暴擊球\n。當被輔助的技能的尖刺消失時，根據該\n奉獻\n持續的時間按比例每秒回復一部分最大生命和魔力。\n當被輔助技能的\n奉獻\n召喚物死亡時，回復\n5\n%你的生命和魔力，持續時間等同於該\n奉獻\n的生存時間\n被輔助的技能使用時會\n犧牲\n25\n% 生命\n被輔助技能的\n奉獻\n召喚物每\n4\n秒給予你一顆\n暴擊球\n年幼的瓜特利斯被發現混跡於囚犯之間，為活生生的祭品\n做準備。大祭司們察覺了他的傾向，\n並為他指引了更高的使命。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nGuatelitzi's Ablation",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Hayoxis_Fulmination",
+    "id": "Hayoxis_Fulmination",
+    "name_en": "Hayoxi's Fulmination",
+    "name_cn": "海幽夏的诛罚",
+    "name_tw": "荷霖蔡的轟鳴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "範圍效果",
+      "觸發",
+      "物理",
+      "閃電",
+      "冰冷",
+      "火焰",
+      "混沌",
+      "詛咒"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Hayoxis_Fulmination",
+    "secDescrText": "輔助 詛咒 技能。被輔助的詛咒技能會產生區域，只要敵人在這些區域內，就會受到 詛咒 。來自被輔助的技能的被 詛咒 區域會積蓄能量，並在延遲後噴發一道毀天滅地的光束。",
+    "icon_local": "images/poe2/skills/lineage/Hayoxis_Fulmination.webp",
+    "cooldown_time": "2.00 秒",
+    "explicitMod": [
+      "被輔助的技能會生成 詛咒 地面 在被輔助的技能生成之 詛咒 地面上的敵人會 受詛咒",
+      "詛咒 地面區域上限為 2",
+      "被輔助技能造成的 詛咒 地面持續 7 秒後觸發湮滅",
+      "造成 (25 — 850) 至 (37 — 1275) 物理 傷害",
+      "衝擊範圍為 1.7 公尺",
+      "總計在 2 秒內 擊中 6 次",
+      "轉換100%的物理傷害為被輔助的 詛咒 技能標籤類型的傷害種類"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "荷霖蔡的轟鳴\n輔助\n族裔\n,\n法術\n,\n範圍效果\n,\n觸發\n,\n物理\n,\n閃電\n,\n冰冷\n,\n火焰\n,\n混沌\n,\n詛咒\n類別\n:\n詛咒地面\n冷卻時間:\n2.00 秒\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n詛咒\n技能。被輔助的詛咒技能會產生區域，只要敵人在這些區域內，就會受到\n詛咒\n。來自被輔助的技能的被\n詛咒\n區域會積蓄能量，並在延遲後噴發一道毀天滅地的光束。\n輔助\n被輔助的技能會生成\n詛咒\n地面\n在被輔助的技能生成之\n詛咒\n地面上的敵人會\n受詛咒\n詛咒\n地面區域上限為\n2\n被輔助技能造成的\n詛咒\n地面持續\n7\n秒後觸發湮滅\n湮滅\n等級:\n(1\n—\n20)\n此技能會複製插槽內的寶石等級\n施放時間:\n立即\n暴擊\n率:\n9.00%\n造成\n(25\n—\n850)\n至\n(37\n—\n1275)\n物理\n傷害\n衝擊範圍為\n1.7\n公尺\n總計在\n2\n秒內\n擊中\n6\n次\n轉換100%的物理傷害為被輔助的\n詛咒\n技能標籤類型的傷害種類\n毀滅建築師將爆裂粉末一撮一撮地藏於皇家神殿之下。\n多年來，他始終抓緊那份執念，卻從未找到點燃它的勇氣。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nHayoxi's Fulmination",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Helbryms_Hide",
+    "id": "Helbryms_Hide",
+    "name_en": "Helbrym's Hide",
+    "name_cn": "赫尔布林的隐瞒",
+    "name_tw": "海爾賓姆的躲藏",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "變形",
+      "增益效果"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Helbryms_Hide",
+    "secDescrText": "[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a Buff that stores damage taken, granting you Guard and Rage based on the amount when the Buff expires. Changing forms before the Buff expires causes it to be removed without effect.",
+    "icon_local": "images/poe2/skills/lineage/Helbryms_Hide.webp",
+    "cost": "130%",
+    "explicitMod": [],
+    "qualityMod": [],
+    "newItemPopup": "海爾賓姆的躲藏\n輔助\n族裔\n,\n變形\n,\n增益效果\n類別\n:\n[DNT] Hide of Helbrym\n消耗加成:\n130%\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n[DNT] Supports Shapeshifting Skills. When Shapeshifting with Supported Skills you gain a\nBuff\nthat stores damage taken, granting you\nGuard\nand\nRage\nbased on the amount when the\nBuff\nexpires. Changing forms before the\nBuff\nexpires causes it to be removed without effect.\n被怪物包圍之際，米爾的萊珊德菈以為自己的末日已至。\n塔斯的海爾賓姆從樹林間衝出，打破誓言，\n只為拯救那位艾茲麥女王。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nHelbrym's Hide",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Ixchels_Torment",
+    "id": "Ixchels_Torment",
+    "name_en": "Ixchel's Torment",
+    "name_cn": "伊克切尔的折磨",
+    "name_tw": "薩雷許的折磨",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/randomisedtriggersupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "觸發"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ixchels_Torment",
+    "secDescrText": "",
+    "icon_local": "images/poe2/skills/lineage/Ixchels_Torment.webp",
+    "explicitMod": [
+      "受到混沌異象守護",
+      "含有額外 1 件傳奇物品，並受到一項附魔汙染"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "薩雷許的折磨\nBlacksmith's Strongbox\n需求:\n等級 1\n受到混沌異象守護\n含有額外 1 件傳奇物品，並受到一項附魔汙染\n已汙染\n他的試煉將隨時間結束……\n接著，又會重新開始。\nIxchel's Torment",
+    "requirements": "需求: 等級 1"
+  },
+  {
+    "slug": "Kalisas_Crescendo",
+    "id": "Kalisas_Crescendo",
+    "name_en": "Kalisa's Crescendo",
+    "name_cn": "卡莉莎的强音",
+    "name_tw": "卡莉莎的漸強",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Kalisas_Crescendo",
+    "secDescrText": "輔助 詛咒 技能。於被輔助的 詛咒 最後一段持續時間內，受被輔助技能施加的 詛咒 影響的敵人變得 平靜 。",
+    "icon_local": "images/poe2/skills/lineage/Kalisas_Crescendo.webp",
+    "explicitMod": [
+      "於被輔助的 詛咒 最後 30 % 持續時間內，受被輔助技能施加的 詛咒 影響的敵人變得 平靜",
+      "以此方式變得 平靜 的敵人在 8 秒內無法再次變得平靜"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "卡莉莎的漸強\n輔助\n族裔\n類別\n:\n卡莉莎的漸強\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n詛咒\n技能。於被輔助的\n詛咒\n最後一段持續時間內，受被輔助技能施加的\n詛咒\n影響的敵人變得\n平靜\n。\n於被輔助的\n詛咒\n最後\n30\n% 持續時間內，受被輔助技能施加的\n詛咒\n影響的敵人變得\n平靜\n以此方式變得\n平靜\n的敵人在\n8\n秒內無法再次變得平靜\n「她的聲音深入我胸膛，將我仍在跳動的心臟從牢籠中取了出來。\n從身旁賭徒們睜大且閃爍的雙眸中，我明白他們也同樣感受到了。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nKalisa's Crescendo",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kaoms_Madness",
+    "id": "Kaoms_Madness",
+    "name_en": "Kaom's Madness",
+    "name_cn": "冈姆的疯狂",
+    "name_tw": "岡姆的癲狂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/upheavalsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "攻擊",
+      "近戰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Kaoms_Madness",
+    "secDescrText": "輔助在地面製造裂縫的技能，使其以降低傷害、攻擊速度和效果範圍為代價來製造多條額外的裂縫。",
+    "icon_local": "images/poe2/skills/lineage/Kaoms_Madness.webp",
+    "explicitMod": [
+      "被輔助技能會創造 3 個額外裂縫",
+      "被輔助的技能造成 20 % 更少傷害",
+      "被輔助的技能有 20 % 更少 技能速度",
+      "被輔助的技能有 30 % 更少效果範圍"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "岡姆的癲狂\n輔助\n族裔\n,\n攻擊\n,\n近戰\n類別\n:\n裂縫\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助在地面製造裂縫的技能，使其以降低傷害、攻擊速度和效果範圍為代價來製造多條額外的裂縫。\n被輔助技能會創造\n3\n個額外裂縫\n被輔助的技能造成\n20\n% 更少傷害\n被輔助的技能有\n20\n% 更少\n技能速度\n被輔助的技能有\n30\n% 更少效果範圍\n隨著岡姆國王一步步深入瓦爾克拉斯，他也同樣逐漸逼近那頭巨獸。\n某個夜晚，在夢魘般的狂亂中，他對準自己的手下揮動斧頭，並屠殺了數百人。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nKaom's Madness",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Khatals_Rejuvenation",
+    "id": "Khatals_Rejuvenation",
+    "name_en": "Khatal's Rejuvenation",
+    "name_cn": "卡哈塔的复苏",
+    "name_tw": "卡塔爾的恢復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "痕跡"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Khatals_Rejuvenation",
+    "secDescrText": "輔助會生成 痕跡 的技能。拾起來自被輔助的技能所生成的 痕跡 時會賦予 卡塔爾的回春 。",
+    "icon_local": "images/poe2/skills/lineage/Khatals_Rejuvenation.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被輔助技能所創造的 痕跡 會在拾取時賦予 卡塔爾的回春"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "卡塔爾的恢復\n輔助\n族裔\n,\n痕跡\n類別\n:\n卡塔爾的恢復\n保留加成:\n120%\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助會生成\n痕跡\n的技能。拾起來自被輔助的技能所生成的\n痕跡\n時會賦予\n卡塔爾的回春\n。\n被輔助技能所創造的\n痕跡\n會在拾取時賦予\n卡塔爾的回春\n滾滾噴湧的間歇泉淹沒了古老敵人的隧道，摧毀了整支軍團。\n他的血脈轉身讚美說書人卡塔爾，但後者已化作風中的塵埃。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nKhatal's Rejuvenation",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kulemaks_Dominion",
+    "id": "Kulemaks_Dominion",
+    "name_en": "Kulemak's Dominion",
+    "name_cn": "库勒马克的统治",
+    "name_tw": "骷髏馬克的支配",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Kulemaks_Dominion",
+    "secDescrText": "輔助 奉獻 技能，使影響你周圍一定範圍或目標位置的 法術 也會影響被輔助 奉獻 周圍的區域。",
+    "icon_local": "images/poe2/skills/lineage/Kulemaks_Dominion.webp",
+    "cost": "130%",
+    "explicitMod": [
+      "由你施放、影響你周圍區域或目標地點的 法術 也會發生於被輔助 奉獻 的周圍區域 以此方式影響奉獻周圍區域時， 法術 造成 50 % 更少傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "骷髏馬克的支配\n輔助\n族裔\n類別\n:\n骷髏馬克的支配\n消耗加成:\n130%\n需求:\n等級 25\n輔助需求\n：\n+5 智慧\n輔助\n奉獻\n技能，使影響你周圍一定範圍或目標位置的\n法術\n也會影響被輔助\n奉獻\n周圍的區域。\n由你施放、影響你周圍區域或目標地點的\n法術\n也會發生於被輔助\n奉獻\n的周圍區域\n以此方式影響奉獻周圍區域時，\n法術\n造成\n50\n% 更少傷害\n骷髏馬克仍未恢復往日的風采，於是他訴諸詐欺。\n他向安承諾無盡的力量與統御，只為了換取一個魔像。\n「畢竟，一個僕從能造成多大的危害呢？」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nKulemak's Dominion",
+    "requirements": "需求: 等級 25 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Kurgals_Leash",
+    "id": "Kurgals_Leash",
+    "name_en": "Kurgal's Leash",
+    "name_cn": "古加尔的缰绳",
+    "name_tw": "柯戈的繩索",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "召喚物",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Kurgals_Leash",
+    "secDescrText": "輔助 可命令的召喚物 ，使你與被輔助的 召喚物 在你 號令 他們時獲得 不潔之力 。",
+    "icon_local": "images/poe2/skills/lineage/Kurgals_Leash.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "對被輔助的技能產生的 召喚物 下 號令 時，獲得 不潔之力 15 秒",
+      "被 號令 時，被輔助的技能產生的 召喚物 獲得 不潔之力 15 秒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "柯戈的繩索\n輔助\n族裔\n,\n召喚物\n,\n混沌\n類別\n:\n黑血\n消耗加成:\n120%\n需求:\n等級 25\n輔助需求\n：\n+5 智慧\n輔助\n可命令的召喚物\n，使你與被輔助的\n召喚物\n在你\n號令\n他們時獲得\n不潔之力\n。\n對被輔助的技能產生的\n召喚物\n下\n號令\n時，獲得\n不潔之力\n15\n秒\n被\n號令\n時，被輔助的技能產生的\n召喚物\n獲得\n不潔之力\n15\n秒\n柯戈的第一副身體是一尊巨石魔像，受人驅使。\n他從支配的力量感受到無比的欣喜，他使盡全力試圖追尋自由\n……不久後取代了妖巫之主。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nKurgal's Leash",
+    "requirements": "需求: 等級 25 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Morganas_Tempest",
+    "id": "Morganas_Tempest",
+    "name_en": "Morgana's Tempest",
+    "name_cn": "莫甘娜的暴风",
+    "name_tw": "魔甘娜的風暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "風暴"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Morganas_Tempest",
+    "secDescrText": "輔助創造 風暴 的 法術 ，增加其 上限 並以玩家為起始點並更快的移動至目標位置，但是降低其效果。無法輔助被 觸發 的技能。",
+    "icon_local": "images/poe2/skills/lineage/Morganas_Tempest.webp",
+    "explicitMod": [
+      "被輔助的技能擁有 25 %更少範圍效果",
+      "被輔助的技能擁有 35 %更少傷害",
+      "被輔助的技能擁有 60 %更多 風暴 移動速度",
+      "被輔助的 風暴 技能+ 1 上限",
+      "被輔助的技能會以玩家為中心並朝目標位置移動"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "魔甘娜的風暴\n輔助\n族裔\n,\n法術\n,\n風暴\n類別\n:\n推進風暴, 過剩\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助創造\n風暴\n的\n法術\n，增加其\n上限\n並以玩家為起始點並更快的移動至目標位置，但是降低其效果。無法輔助被\n觸發\n的技能。\n被輔助的技能擁有\n25\n%更少範圍效果\n被輔助的技能擁有\n35\n%更少傷害\n被輔助的技能擁有\n60\n%更多\n風暴\n移動速度\n被輔助的\n風暴\n技能+\n1\n上限\n被輔助的技能會以玩家為中心並朝目標位置移動\n「當那精神恍惚的夜晚降臨時，艾茲麥人會聚集在下方，乞求她降下雨水。在泰斯克之巔，她因未知的悲傷而哀號，哭聲震動了蒼穹。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nMorgana's Tempest",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Ois%C3%ADns_Oath",
+    "id": "Ois%C3%ADns_Oath",
+    "name_en": "Oisín's Oath",
+    "name_cn": "奥辛之誓",
+    "name_tw": "歐辛的誓言",
+    "icon_url": "https://cdn.poe2db.tw/image/Art/2DItems/Gems/New/NewSupport/Lineage/WalkeroftheWilds.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Ois%C3%ADns_Oath",
+    "secDescrText": "輔助會 擊中 敵人的技能，使其的 魔力偷取 基於 元素 傷害而不是 物理 傷害。",
+    "icon_local": "images/poe2/skills/lineage/Ois%C3%ADns_Oath.webp",
+    "explicitMod": [
+      "來自被輔助技能的 魔力偷取 會以造成的 元素傷害 計算回復量而不是 物理 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "歐辛的誓言\n輔助\n族裔\n,\n法術\n類別\n:\n魔力偷取\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助會\n擊中\n敵人的技能，使其的\n魔力偷取\n基於\n元素\n傷害而不是\n物理\n傷害。\n來自被輔助技能的\n魔力偷取\n會以造成的\n元素傷害\n計算回復量而不是\n物理\n傷害\n第一任伊維斯的守衛發誓永遠巡守兩界之間的邊境，\n以防葛魯斯寇的踐踏悲劇再度發生。\n然而隨著時光流逝，他在邊界的守望開始……改變了他。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nOisín's Oath",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Paquates_Pact",
+    "id": "Paquates_Pact",
+    "name_en": "Paquate's Pact",
+    "name_cn": "帕夸特的契约",
+    "name_tw": "帕科特的協議",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/corruptingcrysupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "戰吼",
+      "物理",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Paquates_Pact",
+    "secDescrText": "輔助 戰吼 ，使其對其效果範圍內的敵人造成大量 腐化之血 ，但會消耗你的生命。",
+    "icon_local": "images/poe2/skills/lineage/Paquates_Pact.webp",
+    "explicitMod": [
+      "腐化之血 每秒造成你 力量 25 % 的 物理 傷害",
+      "腐化之血 持續時間為 5 秒",
+      "被輔助技能每造成一次 腐化之血 ，會失去 2 % 最大生命",
+      "被輔助的 戰吼 會造成 5 個 腐化之血 減益效果"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "帕科特的協議\n輔助\n族裔\n,\n戰吼\n,\n物理\n,\n持續時間\n類別\n:\n汙染戰吼\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助\n戰吼\n，使其對其效果範圍內的敵人造成大量\n腐化之血\n，但會消耗你的生命。\n腐化之血\n每秒造成你\n力量\n25\n% 的\n物理\n傷害\n腐化之血\n持續時間為\n5\n秒\n被輔助技能每造成一次\n腐化之血\n，會失去\n2\n% 最大生命\n被輔助的\n戰吼\n會造成\n5\n個\n腐化之血\n減益效果\n腐敗之地的冷卻用水染上和血液一樣的鮮紅、\n和火焰一樣明亮，並因詭譎的熱而冒泡著。\n「喝吧。」他邀請著。「讓你的軀體充滿力量！」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nPaquate's Pact",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Rakiatas_Flow",
+    "id": "Rakiatas_Flow",
+    "name_en": "Rakiata's Flow",
+    "name_cn": "拉其塔之流",
+    "name_tw": "萊基亞塔的流動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Rakiatas_Flow",
+    "secDescrText": "輔助會造成 傷害型擊中 的技能，使其 擊中 將敵人 元素抗性 視為顛倒。",
+    "icon_local": "images/poe2/skills/lineage/Rakiatas_Flow.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被輔助的技能 擊中 會將敵對怪物的 元素 抗性 數值視為顛倒"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "萊基亞塔的流動\n輔助\n族裔\n類別\n:\n萊基亞塔的流動\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助會造成\n傷害型擊中\n的技能，使其\n擊中\n將敵人\n元素抗性\n視為顛倒。\n被輔助的技能\n擊中\n會將敵對怪物的\n元素\n抗性\n數值視為顛倒\n塔薩里奧部族開闢出屬於自己的一條道路：\n他們並不在乎世界目前的模樣，\n而是從時過境遷的紛亂中，探尋秩序的軌跡。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nRakiata's Flow",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Rathas_Assault",
+    "id": "Rathas_Assault",
+    "name_en": "Ratha's Assault",
+    "name_cn": "拉莎的突袭",
+    "name_tw": "菈妲的強襲",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/combatreloadsupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "彈藥",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Rathas_Assault",
+    "secDescrText": "輔助 十字弓 彈藥 技能，使其裝填多發額外弩箭。被輔助的技能無法正常重新裝填，而是在你躲避時裝填弩箭。",
+    "icon_local": "images/poe2/skills/lineage/Rathas_Assault.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "被輔助的 十字弓 彈藥 技能無法重新裝填",
+      "被輔助的技能增加 20 % 攻擊 速度",
+      "當你躲避時，被輔助技能裝填 5 發弩箭",
+      "被輔助的技能額外裝填 4 支弩箭"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "菈妲的強襲\n輔助\n族裔\n,\n彈藥\n,\n投射物\n類別\n:\n雙管, 疾速攻擊\n消耗加成:\n110%\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助\n十字弓\n彈藥\n技能，使其裝填多發額外弩箭。被輔助的技能無法正常重新裝填，而是在你躲避時裝填弩箭。\n被輔助的\n十字弓\n彈藥\n技能無法重新裝填\n被輔助的技能增加\n20\n%\n攻擊\n速度\n當你躲避時，被輔助技能裝填\n5\n發弩箭\n被輔助的技能額外裝填\n4\n支弩箭\n「沒有計畫、沒有隱匿。我要的是震撼、尊重。\n我要讓他們知道是誰幹的，並且四處宣揚。\n這樣他們才會對我們敬畏三分。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nRatha's Assault",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Rigwalds_Ferocity",
+    "id": "Rigwalds_Ferocity",
+    "name_en": "Rigwald's Ferocity",
+    "name_cn": "瑞佛的凶猛",
+    "name_tw": "瑞佛的狂暴",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "攻擊"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Rigwalds_Ferocity",
+    "secDescrText": "輔助 攻擊 技能，賦予其 攻擊 速度，但犧牲傷害；或是賦予傷害，但犧牲 攻擊 速度，根據其使用的 武器套裝 而定。無法修改 召喚物 使用的技能。",
+    "icon_local": "images/poe2/skills/lineage/Rigwalds_Ferocity.webp",
+    "explicitMod": [
+      "被輔助的技能在切換至 武器套裝 I 使用時， 增加 30 % 攻擊 速度",
+      "被輔助的技能在切換至 武器套裝 I 使用時， 造成 15 % 更少傷害",
+      "被輔助的技能在切換至 武器套裝 II 使用時， 減少 10 % 攻擊 速度",
+      "被輔助的技能在切換至 武器套裝 II 使用時， 造成 30 % 更多傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瑞佛的狂暴\n輔助\n族裔\n,\n攻擊\n類別\n:\n瑞佛的狂暴\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助\n攻擊\n技能，賦予其\n攻擊\n速度，但犧牲傷害；或是賦予傷害，但犧牲\n攻擊\n速度，根據其使用的\n武器套裝\n而定。無法修改\n召喚物\n使用的技能。\n被輔助的技能在切換至\n武器套裝\nI 使用時，\n增加\n30\n%\n攻擊\n速度\n被輔助的技能在切換至\n武器套裝\nI 使用時，\n造成\n15\n% 更少傷害\n被輔助的技能在切換至\n武器套裝\nII 使用時，\n減少\n10\n%\n攻擊\n速度\n被輔助的技能在切換至\n武器套裝\nII 使用時，\n造成\n30\n% 更多傷害\n「史科特讓我們在這些島嶼上無所事事，我們的同袍仍舊身陷囹圄。\n我們和他們又有何差別！我們必須戰鬥！\n我會把他的頭顱帶給你。我現在就是你的狼王！」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nRigwald's Ferocity",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Romiras_Requital",
+    "id": "Romiras_Requital",
+    "name_en": "Romira's Requital",
+    "name_cn": "罗米拉的报复",
+    "name_tw": "羅米拉的報復",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/trustycompanionsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "召喚物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Romiras_Requital",
+    "secDescrText": "輔助可創造能受到傷害的 盟友 的技能。由被輔助技能產生的 召喚物 會承受你原本要承受的一部分 擊中傷害 ，但其最大生命減少。以此方式承受的一部分傷害會 補償 為你的[Life|生命]。",
+    "icon_local": "images/poe2/skills/lineage/Romiras_Requital.webp",
+    "explicitMod": [
+      "擊中 傷害的 10 % 會先由被輔助的 盟友 承受",
+      "被輔助的 召喚物 以此方式受到傷害時，你會 補償 相當於該傷害 200 % 的生命",
+      "透過被輔助技能製造的 召喚物 有 30 % 更少最大生命"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "羅米拉的報復\n輔助\n族裔\n,\n召喚物\n類別\n:\n忠誠\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助可創造能受到傷害的\n盟友\n的技能。由被輔助技能產生的\n召喚物\n會承受你原本要承受的一部分\n擊中傷害\n，但其最大生命減少。以此方式承受的一部分傷害會\n補償\n為你的[Life|生命]。\n擊中\n傷害的\n10\n% 會先由被輔助的\n盟友\n承受\n被輔助的\n召喚物\n以此方式受到傷害時，你會\n補償\n相當於該傷害\n200\n% 的生命\n透過被輔助技能製造的\n召喚物\n有\n30\n% 更少最大生命\n「來吧，我忠誠的妻子。」他溫柔地說道。\n「坐下吧，吃點東西。我想獎勵妳的忠誠，這道菜還是我親手做的……」\n她四下張望，尋找自己的兒子們，但桌旁卻只有她的椅子。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nRomira's Requital",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Siones_Temper",
+    "id": "Siones_Temper",
+    "name_en": "Sione's Temper",
+    "name_cn": "西奥妮的怒火",
+    "name_tw": "西奧妮的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/wildshardssupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Siones_Temper",
+    "secDescrText": "輔助 投射物 法術 。被輔助的 法術 按遞增機率以環形發射更多額外的 投射物 。引起環狀發射後機率重置。",
+    "icon_local": "images/poe2/skills/lineage/Siones_Temper.webp",
+    "explicitMod": [
+      "施放被輔助的 法術 時獲得 1 個野性裂片",
+      "每有一個野性裂片，被輔助的技能就有 20 % 機率以環形發射 8 個額外 投射物 被輔助的技能以環形發射 投射物 時失去所有野性裂片"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "西奧妮的鍛鍊\n輔助\n族裔\n,\n法術\n,\n投射物\n類別\n:\n額外投射物\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助\n投射物\n法術\n。被輔助的\n法術\n按遞增機率以環形發射更多額外的\n投射物\n。引起環狀發射後機率重置。\n施放被輔助的\n法術\n時獲得\n1\n個野性裂片\n每有一個野性裂片，被輔助的技能就有\n20\n% 機率以環形發射 8 個額外\n投射物\n被輔助的技能以環形發射\n投射物\n時失去所有野性裂片\n她手持一塊破碎的水晶，從中看見自己的渴望：\n將銀輝王宮化為灰燼、隨風飄散。\n她的憤怒將讓天空隨之降下懲罰。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nSione's Temper",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Tacatis_Ire",
+    "id": "Tacatis_Ire",
+    "name_en": "Tacati's Ire",
+    "name_cn": "塔卡提之怒",
+    "name_tw": "特卡蒂的憤怒",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Tacatis_Ire",
+    "secDescrText": "輔助可造成 傷害性擊中 的技能。你的 盛怒 越高，被輔助的技能施加的 中毒 造成傷害的速度越快。",
+    "icon_local": "images/poe2/skills/lineage/Tacatis_Ire.webp",
+    "explicitMod": [
+      "每 1 盛怒 ，被輔助技能造成的 中毒 ，比平常快 2 % 造成傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "特卡蒂的憤怒\n輔助\n族裔\n,\n混沌\n類別\n:\n特卡蒂的憤怒\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助可造成\n傷害性擊中\n的技能。你的\n盛怒\n越高，被輔助的技能施加的\n中毒\n造成傷害的速度越快。\n每 1\n盛怒\n，被輔助技能造成的\n中毒\n，比平常快\n2\n% 造成傷害\n他差點就能拯救瓦爾。他獨一無二的毒藥避過了女王的斟酒侍從，\n他只需要指向他的怒火……然而在她的面前，他能感受到的卻只有情慾。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nTacati's Ire",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Tasalios_Rhythm",
+    "id": "Tasalios_Rhythm",
+    "name_en": "Tasalio's Rhythm",
+    "name_cn": "塔萨里奥的律动",
+    "name_tw": "塔薩里奧的律動",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankgreensupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Tasalios_Rhythm",
+    "secDescrText": "輔助在 完美時機 使用時能獲益的技能。當成功以被輔助的技能施展 完美時機 時，會獲得[TasaliosPerfectionBuff|塔薩里奧的律動]。每一層塔薩里奧的律動會使被輔助的技能造成更多傷害且擁有更短的 完美時機 空檔。 未能成功施展任何 完美時機 （即使是非由塔薩里奧的律動輔助的技能）時，將會移除你身上的所有[TasaliosPerfectionBuff|塔薩里奧的律動]。",
+    "icon_local": "images/poe2/skills/lineage/Tasalios_Rhythm.webp",
+    "explicitMod": [
+      "以被輔助的技能成功達成 完美時機 時獲得一層塔薩里奧的律動 在達成任何 完美時機 失敗時失去所有塔薩里奧的律動 被輔助的技能每一層塔薩里奧的律動造成10%更多傷害 被輔助的技能每一層塔薩里奧的律動有30%更短 完美時機 空檔 塔薩里奧的律動可以堆疊五次",
+      "被輔助的技能有 100 % 更長的 完美時機 空檔"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "塔薩里奧的律動\n輔助\n族裔\n類別\n:\n完美\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助在\n完美時機\n使用時能獲益的技能。當成功以被輔助的技能施展\n完美時機\n時，會獲得[TasaliosPerfectionBuff|塔薩里奧的律動]。每一層塔薩里奧的律動會使被輔助的技能造成更多傷害且擁有更短的\n完美時機\n空檔。 未能成功施展任何\n完美時機\n（即使是非由塔薩里奧的律動輔助的技能）時，將會移除你身上的所有[TasaliosPerfectionBuff|塔薩里奧的律動]。\n以被輔助的技能成功達成\n完美時機\n時獲得一層塔薩里奧的律動\n在達成任何\n完美時機\n失敗時失去所有塔薩里奧的律動\n被輔助的技能每一層塔薩里奧的律動造成10%更多傷害\n被輔助的技能每一層塔薩里奧的律動有30%更短\n完美時機\n空檔\n塔薩里奧的律動可以堆疊五次\n被輔助的技能有\n100\n% 更長的\n完美時機\n空檔\n酋長蓋了一艘宏偉的懷科阿馬(獨木舟)，並誇口說它永遠不會沉沒。\n塔薩里奧笑了，海浪滾滾而來，使船身傾斜，浪頭越來越高……\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nTasalio's Rhythm",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Tawhoas_Tending",
+    "id": "Tawhoas_Tending",
+    "name_en": "Tawhoa's Tending",
+    "name_cn": "塔赫亚的照料",
+    "name_tw": "塔赫亞的照顧",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/moretotemlifesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "圖騰",
+      "範圍效果",
+      "觸發",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Tawhoas_Tending",
+    "secDescrText": "輔助會產生 圖騰 的技能，使這些 圖騰 擁有更多生命。被輔助技能產生的 圖騰 會在死亡時爆炸，依據其生命造成 物理 傷害。",
+    "icon_local": "images/poe2/skills/lineage/Tawhoas_Tending.webp",
+    "cost": "110%",
+    "explicitMod": [
+      "被輔助的技能製造的 圖騰 有 25 % 更多最大生命",
+      "被輔助技能生成的 圖騰 在死亡時觸發塔赫亞的復仇",
+      "爆炸範圍為 3 公尺",
+      "爆炸造成的基礎 物理 傷害等同於 20 % 圖騰 的最大生命"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "塔赫亞的照顧\n輔助\n族裔\n,\n圖騰\n,\n範圍效果\n,\n觸發\n,\n物理\n類別\n:\n堅韌圖騰\n消耗加成:\n110%\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助會產生\n圖騰\n的技能，使這些\n圖騰\n擁有更多生命。被輔助技能產生的\n圖騰\n會在死亡時爆炸，依據其生命造成\n物理\n傷害。\n輔助\n被輔助的技能製造的\n圖騰\n有\n25\n% 更多最大生命\n被輔助技能生成的\n圖騰\n在死亡時觸發塔赫亞的復仇\n塔赫亞的復仇\n暴擊\n率:\n5.00%\n依據\n圖騰\n生命，對一個區域造成\n物理\n傷害。\n爆炸範圍為\n3\n公尺\n爆炸造成的基礎\n物理\n傷害等同於\n20\n%\n圖騰\n的最大生命\n一名拾荒的戰士發現塔赫亞在樹叢中冥想。\n「這個世界的璞玉如此少見。」神以平淡而嚴肅的語調說著。\n「帶著我的禮物回到族裡，鐵木將不分時節生長。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nTawhoa's Tending",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Tecrods_Revenge",
+    "id": "Tecrods_Revenge",
+    "name_en": "Tecrod's Revenge",
+    "name_cn": "特克罗的复仇",
+    "name_tw": "特克羅德的復仇",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/lastgaspsupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "召喚物",
+      "持續",
+      "持續時間"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Tecrods_Revenge",
+    "secDescrText": "輔助創造出 持續 召喚物 的技能，使這些 召喚物 在承受致命傷害時仍可持續戰鬥，並在一小段時間後死亡。進入此狀態時，被輔助技能的 召喚物 獲得 噬魂者 及瞬間加速。",
+    "icon_local": "images/poe2/skills/lineage/Tecrods_Revenge.webp",
+    "explicitMod": [
+      "透過被輔助的技能製造的 召喚物 會在生命歸零後的 20 秒死亡",
+      "透過被輔助技能製造的 召喚物 在生命降至 0 時，獲得 噬魂者",
+      "透過被輔助技能製造的 召喚物 在生命降至 0 時，獲得增加 40 % 攻擊 和施放速度"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "特克羅德的復仇\n輔助\n族裔\n,\n召喚物\n,\n持續\n,\n持續時間\n類別\n:\n臨終恐息\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助創造出\n持續\n召喚物\n的技能，使這些\n召喚物\n在承受致命傷害時仍可持續戰鬥，並在一小段時間後死亡。進入此狀態時，被輔助技能的\n召喚物\n獲得\n噬魂者\n及瞬間加速。\n透過被輔助的技能製造的\n召喚物\n會在生命歸零後的\n20\n秒死亡\n透過被輔助技能製造的\n召喚物\n在生命降至 0 時，獲得\n噬魂者\n透過被輔助技能製造的\n召喚物\n在生命降至 0 時，獲得增加\n40\n%\n攻擊\n和施放速度\n巫妖領主們摧毀了他的肉身，但在臨死的憤怒中，\n特克羅德找到了出路。他潛伏在深處，在鮮血中、在肉體中、甚至在深井中……\n或許此刻正隱匿於他們之中，無人察覺。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nTecrod's Revenge",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Tuls_Stillness",
+    "id": "Tuls_Stillness",
+    "name_en": "Tul's Stillness",
+    "name_cn": "托沃的寂静",
+    "name_tw": "托沃的寧靜",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_green",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "冰冷",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Tuls_Stillness",
+    "secDescrText": "輔助會造成 傷害型擊中 的技能，賦予其額外 混沌 傷害，並使 混沌 傷害 貢獻 至 冰凍累積 。",
+    "icon_local": "images/poe2/skills/lineage/Tuls_Stillness.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被輔助的技能 擊中 的 混沌 傷害也會 貢獻 至 冰凍 幅度",
+      "被輔助的技能 獲得 相當於 40 % 冰冷 傷害的額外 混沌 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "托沃的寧靜\n輔助\n族裔\n,\n冰冷\n,\n混沌\n類別\n:\n裂痕王\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 敏捷\n輔助會造成\n傷害型擊中\n的技能，賦予其額外\n混沌\n傷害，並使\n混沌\n傷害\n貢獻\n至\n冰凍累積\n。\n被輔助的技能\n擊中\n的\n混沌\n傷害也會\n貢獻\n至\n冰凍\n幅度\n被輔助的技能\n獲得\n相當於\n40\n%\n冰冷\n傷害的額外\n混沌\n傷害\n「無數的墓冢靜靜閃耀，綿延成看不見盡頭的長列。\n生者安臥其中，卻不會腐朽，也不會死去。\n他們的雙眼依舊睜開，精髓留滯體內，靜靜地等待。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nTul's Stillness",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 敏捷"
+  },
+  {
+    "slug": "Uhtreds_Augury",
+    "id": "Uhtreds_Augury",
+    "name_en": "Uhtred's Augury",
+    "name_cn": "乌崔德的占卜",
+    "name_tw": "烏特雷的占卜術",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Uhtreds_Augury",
+    "secDescrText": "輔助可升級的技能，若被輔助的技能恰好搭配兩顆其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Augury.webp",
+    "explicitMod": [
+      "如果被輔助的技能恰好被兩顆輔助寶石修改，其等級 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "烏特雷的占卜術\n輔助\n族裔\n類別\n:\n卡爾葛的烏特雷\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助可升級的技能，若被輔助的技能恰好搭配兩顆其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。\n如果被輔助的技能恰好被兩顆輔助寶石修改，其等級\n+3\n當烏特雷研究群星的不祥徵兆時，就開始懷疑第一批卡爾葛人之中可能潛藏巨大的問題。\n奧爾羅斯、沃拉娜、梅德偉……這三人，構成三重威脅。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nUhtred's Augury",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Uhtreds_Exodus",
+    "id": "Uhtreds_Exodus",
+    "name_en": "Uhtred's Exodus",
+    "name_cn": "乌崔德的出走",
+    "name_tw": "烏特雷的出走",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Uhtreds_Exodus",
+    "secDescrText": "輔助可升級的技能，若被輔助的技能沒有搭配其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Exodus.webp",
+    "explicitMod": [
+      "如果被輔助的技能沒有被其他輔助寶石修改，其等級 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "烏特雷的出走\n輔助\n族裔\n類別\n:\n卡爾葛的烏特雷\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助可升級的技能，若被輔助的技能沒有搭配其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。\n如果被輔助的技能沒有被其他輔助寶石修改，其等級\n+3\n當烏特雷終於瞭解真相時，只剩下沃拉娜堅守防線。\n其餘人皆已逃離，而她卻將寶石植入血肉之中，\n獨自踏上戰場，迎擊無盡如潮水般的敵人。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nUhtred's Exodus",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Uhtreds_Omen",
+    "id": "Uhtreds_Omen",
+    "name_en": "Uhtred's Omen",
+    "name_cn": "乌崔德的预兆",
+    "name_tw": "烏特雷的徵兆",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Uhtreds_Omen",
+    "secDescrText": "輔助可升級的技能，若被輔助的技能恰好搭配一顆其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。",
+    "icon_local": "images/poe2/skills/lineage/Uhtreds_Omen.webp",
+    "explicitMod": [
+      "如果被輔助的技能恰好被一顆輔助寶石修改，其等級 +3"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "烏特雷的徵兆\n輔助\n族裔\n類別\n:\n卡爾葛的烏特雷\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助可升級的技能，若被輔助的技能恰好搭配一顆其他輔助寶石，則賦予其許多額外等級。無法輔助無等級的技能。\n如果被輔助的技能恰好被一顆輔助寶石修改，其等級\n+3\n日日夜夜，他的祭司們緊隨在每一位卡爾葛英雄身側。\n當梅德偉失蹤後，烏特雷變得更加疑懼。\n如今，僅剩下兩人……奧爾羅斯與沃拉娜。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nUhtred's Omen",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Uruks_Smelting",
+    "id": "Uruks_Smelting",
+    "name_en": "Uruk's Smelting",
+    "name_cn": "厄罗克的熔炼术",
+    "name_tw": "厄羅克的鍛鍊",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/increasedarmourbreaksupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "物理"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Uruks_Smelting",
+    "secDescrText": "輔助任何技能，加強其 破甲 效果。以被輔助技能達到 完全破甲 時，會永久增加受影響對象受到的 物理 傷害，直到達上限值。",
+    "icon_local": "images/poe2/skills/lineage/Uruks_Smelting.webp",
+    "explicitMod": [
+      "以被輔助技能造成的 完全破甲 會導致受影響的目標永久增加 5 % 承受的 物理 傷害，最多為 20%",
+      "被輔助的技能 破壞 70 % 更多 護甲值"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "厄羅克的鍛鍊\n輔助\n族裔\n,\n物理\n類別\n:\n護甲破壞者\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助任何技能，加強其\n破甲\n效果。以被輔助技能達到\n完全破甲\n時，會永久增加受影響對象受到的\n物理\n傷害，直到達上限值。\n以被輔助技能造成的\n完全破甲\n會導致受影響的目標永久增加\n5\n% 承受的\n物理\n傷害，最多為 20%\n被輔助的技能\n破壞\n70\n% 更多\n護甲值\n火山咆哮，卻無雷鳴，只有厄羅克之錘的轟響。\n瓦爾克拉斯已忘卻昔日的盟約，但憑藉熔岩者的意志，火焰將再次肆虐。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nUruk's Smelting",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Uul-Netols_Embrace",
+    "id": "Uul-Netols_Embrace",
+    "name_en": "Uul-Netol's Embrace",
+    "name_cn": "乌尔尼多的拥抱",
+    "name_tw": "烏爾尼多的擁抱",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "物理",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Uul-Netols_Embrace",
+    "secDescrText": "輔助會造成 傷害型擊中 的技能，賦予其額外 混沌 傷害，並使 混沌 傷害可以 破甲 。",
+    "icon_local": "images/poe2/skills/lineage/Uul-Netols_Embrace.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "破壞的護甲值 相當於被輔助的技能造成的 20 % 混沌 傷害",
+      "被輔助的技能獲得 40 % 物理 傷害的額外 混沌 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "烏爾尼多的擁抱\n輔助\n族裔\n,\n物理\n,\n混沌\n類別\n:\n裂痕王\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助會造成\n傷害型擊中\n的技能，賦予其額外\n混沌\n傷害，並使\n混沌\n傷害可以\n破甲\n。\n破壞的護甲值\n相當於被輔助的技能造成的\n20\n%\n混沌\n傷害\n被輔助的技能獲得\n40\n%\n物理\n傷害的額外\n混沌\n傷害\n「領主們無法呼吸，於是長出了新的肺。\n領主們無法遠行，於是長出了新的皮膚。\n領主們感到孤單，於是創造了我們來侍奉他們。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nUul-Netol's Embrace",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Varashtas_Blessing",
+    "id": "Varashtas_Blessing",
+    "name_en": "Varashta's Blessing",
+    "name_cn": "瓦拉煞的祝福",
+    "name_tw": "瓦拉什塔的祝福",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Varashtas_Blessing",
+    "secDescrText": "輔助任何可以造成傷害的技能，每使用一個不同的 號令 技能，使其造成更多傷害。",
+    "icon_local": "images/poe2/skills/lineage/Varashtas_Blessing.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "過去 15 秒內每使用一個不同的 號令 技能，被輔助技能造成 10 % 更多傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "瓦拉什塔的祝福\n輔助\n族裔\n類別\n:\n瓦拉什塔的祝福\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助任何可以造成傷害的技能，每使用一個不同的\n號令\n技能，使其造成更多傷害。\n過去 15 秒內每使用一個不同的\n號令\n技能，被輔助技能造成\n10\n% 更多傷害\n「我們將這些傳統延續下去，讓我們保持強大並歷久彌堅。\n不是為了約束，也不是為了征服，而是為了保護……並引導。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nVarashta's Blessing",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Vilentas_Propulsion",
+    "id": "Vilentas_Propulsion",
+    "name_en": "Vilenta's Propulsion",
+    "name_cn": "薇伦塔之推进",
+    "name_tw": "范尼達的奮進",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/slowerprojectilessupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "投射物"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Vilentas_Propulsion",
+    "secDescrText": "輔助發射火焰 投射物 的 法術 技能，使施放速度的增減同時套用至 投射物 速度。",
+    "icon_local": "images/poe2/skills/lineage/Vilentas_Propulsion.webp",
+    "explicitMod": [
+      "施放速度增減的 75 % 也會套用於被輔助技能的 投射物 速度"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "范尼達的奮進\n輔助\n族裔\n,\n法術\n,\n投射物\n類別\n:\n投射物速度\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助發射火焰\n投射物\n的\n法術\n技能，使施放速度的增減同時套用至\n投射物\n速度。\n施放速度增減的\n75\n% 也會套用於被輔助技能的\n投射物\n速度\n日以繼夜，她不眠不休，執著於證明這件事的可行性；\n在地下建造了一個龐大的人工環，將能量加速至前所未有的速度……\n一切只為證明卡特拉錯了。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nVilenta's Propulsion",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Xibaquas_Rending",
+    "id": "Xibaquas_Rending",
+    "name_en": "Xibaqua's Rending",
+    "name_cn": "夏巴夸亚的撕裂",
+    "name_tw": "賽巴昆的撕裂",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "範圍效果",
+      "觸發",
+      "火焰"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Xibaquas_Rending",
+    "secDescrText": "輔助會躍至空中的技能，使你著地位置周遭的 屍體 劇烈的爆炸，對周遭敵人造成傷害。",
+    "icon_local": "images/poe2/skills/lineage/Xibaquas_Rending.webp",
+    "cost": "115%",
+    "explicitMod": [
+      "被輔助的技能著地時觸發燃炎回收",
+      "爆炸造成等同 6 % 屍體的 最大生命的基礎 火焰 傷害",
+      "爆炸範圍為 1.5 公尺",
+      "引爆 3.5 公尺範圍內的 屍體"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "賽巴昆的撕裂\n輔助\n族裔\n,\n範圍效果\n,\n觸發\n,\n火焰\n類別\n:\n賽巴昆的撕裂\n消耗加成:\n115%\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助會躍至空中的技能，使你著地位置周遭的\n屍體\n劇烈的爆炸，對周遭敵人造成傷害。\n輔助\n被輔助的技能著地時觸發燃炎回收\n燃炎回收\n在引爆\n屍體\n時，對其周圍造成基於該屍體最大生命的\n火焰\n範圍傷害。\n爆炸造成等同\n6\n%\n屍體的\n最大生命的基礎\n火焰\n傷害\n爆炸範圍為\n1.5\n公尺\n引爆\n3.5\n公尺範圍內的\n屍體\n祂從諸神中誕生，其背叛招來了神聖的憤怒。\n諸神一個接一個地收回了祂們的血肉，直到最後只剩下一滴純淨的光點：那是原初的瓦爾。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nXibaqua's Rending",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Xophs_Pyre",
+    "id": "Xophs_Pyre",
+    "name_en": "Xoph's Pyre",
+    "name_cn": "索伏的葬火",
+    "name_tw": "索伏的燃焰",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "火焰",
+      "混沌"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Xophs_Pyre",
+    "secDescrText": "輔助會造成 傷害型擊中 的技能，賦予其額外 混沌 傷害，並使 混沌 傷害 貢獻 至 點燃 。",
+    "icon_local": "images/poe2/skills/lineage/Xophs_Pyre.webp",
+    "cost": "120%",
+    "explicitMod": [
+      "被輔助的技能 擊中 的 混沌 傷害也會 貢獻 至 易燃 以及 點燃 幅度",
+      "被輔助的技能 獲得 相當於 40 % 火焰 傷害的額外 混沌 傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "索伏的燃焰\n輔助\n族裔\n,\n火焰\n,\n混沌\n類別\n:\n裂痕王\n消耗加成:\n120%\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助會造成\n傷害型擊中\n的技能，賦予其額外\n混沌\n傷害，並使\n混沌\n傷害\n貢獻\n至\n點燃\n。\n被輔助的技能\n擊中\n的\n混沌\n傷害也會\n貢獻\n至\n易燃\n以及\n點燃\n幅度\n被輔助的技能\n獲得\n相當於\n40\n%\n火焰\n傷害的額外\n混沌\n傷害\n「他們一飲而盡，直到只剩塵埃；\n他們飢不擇食，直到牙齦滲出鏽血。\n貪婪至此，如今破碎之日僅剩的……\n是紅焱，是永恆之環。」\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nXoph's Pyre",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  },
+  {
+    "slug": "Zarokhs_Refrain",
+    "id": "Zarokhs_Refrain",
+    "name_en": "Zarokh's Refrain",
+    "name_cn": "扎洛卡的克制",
+    "name_tw": "澤洛克的克制",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "法術",
+      "範圍效果"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Zarokhs_Refrain",
+    "secDescrText": "輔助影響範圍為自身周圍或一個目標位置的 法術 。被輔助的 法術 會迴響三次，在短暫延遲後再次發揮效果，但被輔助的技能會增加一小段冷卻時間。無法輔助 引導 技能、 遠端 技能、已有冷卻時間的技能或 觸發 技能。",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Refrain.webp",
+    "cost": "130%",
+    "cooldown_time": "5.00 秒",
+    "explicitMod": [
+      "被輔助的 法術 會迴響 3 次",
+      "被輔助的 法術 的迴響增加 40 % 效果範圍"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "澤洛克的克制\n輔助\n族裔\n,\n法術\n,\n範圍效果\n類別\n:\n法術迴響\n消耗加成:\n130%\n冷卻時間:\n5.00 秒\n需求:\n等級 65\n輔助需求\n：\n+5 智慧\n輔助影響範圍為自身周圍或一個目標位置的\n法術\n。被輔助的\n法術\n會迴響三次，在短暫延遲後再次發揮效果，但被輔助的技能會增加一小段冷卻時間。無法輔助\n引導\n技能、\n遠端\n技能、已有冷卻時間的技能或\n觸發\n技能。\n被輔助的\n法術\n會迴響\n3\n次\n被輔助的\n法術\n的迴響增加\n40\n% 效果範圍\n澤洛克將自己永遠困在同一個日子，\n為之憤怒不已卻又無法自拔。\n當他摧毀了自己唯一的巨靈之幣，救贖便已遠離。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nZarokh's Refrain",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Zarokhs_Revolt",
+    "id": "Zarokhs_Revolt",
+    "name_en": "Zarokh's Revolt",
+    "name_cn": "扎洛卡的反叛",
+    "name_tw": "澤洛克的反叛",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankbluesupport.webp",
+    "gem_class": "gem_blue",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "法術"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Zarokhs_Revolt",
+    "secDescrText": "輔助你自身施放的 法術 ，施放時會使其效果重複出現五次，並給予其一個冷卻時間。無法輔助 引導 技能。",
+    "icon_local": "images/poe2/skills/lineage/Zarokhs_Revolt.webp",
+    "cost": "200%",
+    "cooldown_time": "10.00 秒",
+    "explicitMod": [
+      "被輔助的法術每 50 % 的施放時間獲得 1 道封印，最多 5 道封印 施放被輔助的法術時解除封印，每失去一道封印使其效果重複觸發",
+      "被輔助的技能再次被觸發時，造成 20 % 更少傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "澤洛克的反叛\n輔助\n法術\n類別\n:\n封印\n消耗加成:\n200%\n冷卻時間:\n10.00 秒\n輔助需求\n：\n+5 智慧\n輔助你自身施放的\n法術\n，施放時會使其效果重複出現五次，並給予其一個冷卻時間。無法輔助\n引導\n技能。\n被輔助的法術每\n50\n% 的施放時間獲得 1 道封印，最多\n5\n道封印\n施放被輔助的法術時解除封印，每失去一道封印使其效果重複觸發\n被輔助的技能再次被觸發時，造成\n20\n% 更少傷害\n札洛克的怒火在無盡世紀中逐漸積聚，等待著逃脫之日。\n阿法魯德終將找到他所渴求之物，而後——\n「泣黑死靈法師」便會粉碎囚禁他的鎖鏈。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nZarokh's Revolt",
+    "requirements": "輔助需求 ： +5 智慧"
+  },
+  {
+    "slug": "Zerphis_Infamy",
+    "id": "Zerphis_Infamy",
+    "name_en": "Zerphi's Infamy",
+    "name_cn": "泽佛伊的恶名",
+    "name_tw": "澤佛伊的惡名",
+    "icon_url": "https://cdn.poe2db.tw/image/art/2dart/skillicons/support/blankredsupport.webp",
+    "gem_class": "gem_red",
+    "level_count": "",
+    "tags": [
+      "輔助",
+      "族裔",
+      "戰吼",
+      "範圍效果"
+    ],
+    "detail_url": "https://poe2db.tw/tw/Zerphis_Infamy",
+    "secDescrText": "輔助自身使用的 攻擊 和 戰吼 。被輔助的技能獲得 榮耀 消耗需求，且在你消耗生命施放技能時累積 榮耀 。被輔助的技能造成更多傷害，且顯著 的提升範圍效果。",
+    "icon_local": "images/poe2/skills/lineage/Zerphis_Infamy.webp",
+    "explicitMod": [
+      "需求 50 榮耀 以使用被輔助的技能",
+      "被輔助的技能獲得等同 5 % 其他技能生命消耗的 榮耀",
+      "被輔助技能增加 50 % 效果範圍",
+      "被輔助的技能造成 50 % 更多傷害"
+    ],
+    "qualityMod": [],
+    "newItemPopup": "澤佛伊的惡名\n輔助\n族裔\n,\n戰吼\n,\n範圍效果\n類別\n:\n澤佛伊的遺產\n需求:\n等級 65\n輔助需求\n：\n+5 力量\n輔助自身使用的\n攻擊\n和\n戰吼\n。被輔助的技能獲得\n榮耀\n消耗需求，且在你消耗生命施放技能時累積\n榮耀\n。被輔助的技能造成更多傷害，且顯著\n的提升範圍效果。\n需求\n50\n榮耀\n以使用被輔助的技能\n被輔助的技能獲得等同\n5\n%\n其他技能生命消耗的\n榮耀\n被輔助技能增加\n50\n% 效果範圍\n被輔助的技能造成\n50\n% 更多傷害\n讓他與他人有所區別的，並不是罪行的數量，\n而是那份駭人至極的品質——\n所有加諸於受害者身上的折磨，\n無一不是在對方仍清醒、仍活著時進行的。\n或許……這正是關鍵所在。\n將此寶石放入技能面板中的輔助寶石插槽，以將其效果套用至該技能。你無法在一個技能中同時插入多個同一類別的輔助寶石。\nZerphi's Infamy",
+    "requirements": "需求: 等級 65 | 輔助需求 ： +5 力量"
+  }
+]
