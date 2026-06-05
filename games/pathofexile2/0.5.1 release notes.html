@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0.5.1 补丁更新深度解析 - 流放之路2</title>
+    <style>
+        :root {
+            --bg-color: #0f0f13;
+            --card-bg: #1a1a24;
+            --sidebar-bg: #15151e;
+            --primary-color: #d4af37; /* PoE 金色 */
+            --secondary-color: #8a8a9c;
+            --text-color: #e6e6e6;
+            --text-muted: #9e9eab;
+            --border-color: #2a2a35;
+            --highlight-bg: #2d2415;
+            --success-color: #4caf50;
+            --danger-color: #f44336;
+            --info-color: #2196f3;
+        }
+
+        {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* 侧边栏目录 */
+        .sidebar {
+            width: 260px;
+            background-color: var(--sidebar-bg);
+            border-right: 1px solid var(--border-color);
+            padding: 24px 0;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            z-index: 10;
+        }
+
+        .sidebar-header {
+            padding: 0 24px 24px;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 20px;
+        }
+
+        .sidebar-header h2 {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            margin-bottom: 8px;
+        }
+
+        .sidebar-header p {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .nav-list {
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-bottom: 4px;
+        }
+
+        .nav-list a {
+            display: flex;
+            align-items: center;
+            padding: 10px 24px;
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: all 0.2s;
+            border-left: 3px solid transparent;
+        }
+
+        .nav-list a:hover, .nav-list a.active {
+            background-color: rgba(212, 175, 55, 0.1);
+            color: var(--primary-color);
+            border-left-color: var(--primary-color);
+        }
+
+        .nav-icon {
+            margin-right: 10px;
+            font-size: 1.1rem;
+        }
+
+        /* 主内容区 */
+        .main-content {
+            margin-left: 260px;
+            flex: 1;
+            padding: 40px;
+            max-width: 1000px;
+        }
+
+        .breadcrumb {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 24px;
+        }
+
+        .breadcrumb a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .page-header {
+            margin-bottom: 40px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 24px;
+        }
+
+        .page-header h1 {
+            font-size: 2.2rem;
+            color: #fff;
+            margin-bottom: 12px;
+            font-weight: 700;
+        }
+
+        .page-header .meta {
+            display: flex;
+            gap: 20px;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* 卡片样式 */
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            padding: 28px;
+            margin-bottom: 32px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .card-icon {
+            font-size: 1.8rem;
+            margin-right: 16px;
+            background: rgba(212, 175, 55, 0.15);
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            color: #fff;
+            font-weight: 600;
+        }
+
+        .card-subtitle {
+            font-size: 0.85rem;
+            color: var(--primary-color);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 4px;
+        }
+
+        /* 内容排版 */
+        h3 {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            margin: 24px 0 16px;
+            padding-left: 12px;
+            border-left: 3px solid var(--primary-color);
+        }
+
+        h4 {
+            font-size: 1.05rem;
+            color: #fff;
+            margin: 20px 0 12px;
+        }
+
+        p {
+            margin-bottom: 16px;
+            color: var(--text-color);
+        }
+
+        ul, ol {
+            margin-bottom: 16px;
+            padding-left: 24px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            color: var(--text-color);
+        }
+
+        li::marker {
+            color: var(--primary-color);
+        }
+
+        strong {
+            color: #fff;
+            font-weight: 600;
+        }
+
+        .highlight {
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        .tag {
+            display: inline-block;
+            background: rgba(212, 175, 55, 0.15);
+            color: var(--primary-color);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin: 0 4px;
+        }
+
+        .buff {
+            color: var(--success-color);
+            font-weight: 600;
+        }
+
+        .nerf {
+            color: var(--danger-color);
+            font-weight: 600;
+        }
+
+        .note {
+            background: rgba(33, 150, 243, 0.1);
+            border-left: 4px solid var(--info-color);
+            padding: 16px;
+            margin: 20px 0;
+            border-radius: 0 4px 4px 0;
+            font-size: 0.95rem;
+        }
+
+        .note strong {
+            color: var(--info-color);
+        }
+
+        /* 表格样式 */
+        .table-wrapper {
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background: #121218;
+            color: var(--primary-color);
+            text-align: left;
+            padding: 12px 16px;
+            border-bottom: 2px solid var(--border-color);
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-color);
+            color: var(--text-color);
+        }
+
+        tr:hover td {
+            background: rgba(255,255,255,0.03);
+        }
+
+        /* 点评区块 */
+        .review-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .review-item {
+            background: #121218;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 20px;
+        }
+
+        .review-item h4 {
+            margin-top: 0;
+            color: var(--primary-color);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* 响应式 */
+        @media (max-width: 768px) {
+            .sidebar {
+                display: none;
+            }
+            .main-content {
+                margin-left: 0;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 侧边栏目录 -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <h2>补丁解析目录</h2>
+            <p>PoE2 v0.5.1 Patch Notes</p>
+        </div>
+        <ul class="nav-list">
+            <li><a href="#endgame" class="active"><span class="nav-icon">🌍</span>终局系统改动</a></li>
+            <li><a href="#player"><span class="nav-icon">💎</span>职业与Build构筑</a></li>
+            <li><a href="#combat"><span class="nav-icon">⚔️</span>战斗与阿尔杜符文</a></li>
+            <li><a href="#general"><span class="nav-icon">🛠️</span>通用体验与UI</a></li>
+            <li><a href="#bugfix"><span class="nav-icon">🐛</span>重点Bug修复</a></li>
+            <li><a href="#review"><span class="nav-icon">💡</span>资深玩家点评</a></li>
+        </ul>
+    </aside>
+
+    <!-- 主内容区 -->
+    <main class="main-content">
+        <div class="breadcrumb">
+            <a href="#">流放之路2</a> &gt; <a href="#">补丁说明</a> &gt; 0.5.1 深度解析
+        </div>
+
+        <header class="page-header">
+            <h1>0.5.1 补丁更新深度解析</h1>
+            <div class="meta">
+                <div class="meta-item">📅 版本: v0.5.1</div>
+                <div class="meta-item">🎯 核心: 终局优化 / 元素法系加强</div>
+                <div class="meta-item">📊 来源: 官方 Patch Notes</div>
+                <div class="meta-item" style="color: var(--primary-color); font-weight: 600;">✍️ 翻譯：看雲起雲落</div>
+            </div>
+        </header>
+
+        <!-- 终局系统 -->
+        <section id="endgame" class="card">
+            <div class="card-header">
+                <div class="card-icon">🌍</div>
+                <div>
+                    <div class="card-title">终局系统（Endgame）重大改动</div>
+                    <div class="card-subtitle">Endgame Changes</div>
+                </div>
+            </div>
+            
+            <p>这部分直接优化了我们的异界策略（Atlas Strategy）和刷图流畅度，是本次更新的核心。</p>
+
+            <h3>异界天赋树（Atlas Passive Tree）扩充</h3>
+            <ul>
+                <li>顶层新增了 <span class="highlight">24个异界天赋技能</span>，主要强化特定<strong>生物群落（Biomes）</strong>。</li>
+                <li><strong>补发机制：</strong><strong>堡垒塔楼</strong>、<strong>通道</strong>、<strong>奥秘密室</strong>和<strong>大厅</strong>现在奖励更多<strong>异界天赋点</strong>。已完成的玩家上线即自动补发，无需重打。</li>
+                <li><em>“撕裂裂隙（Tear Open the Rift）”</em> 异界天赋改为多选节点，可自由开关效果，并修复了无法分配的Bug。</li>
+            </ul>
+
+            <h3>裂隙（Breach）与迷惘（Delirium）机制</h3>
+            <ul>
+                <li><strong>迷惘迷雾限制：</strong><span class="tag">Delirium Fog</span> 不再扩散到奖励异界天赋点的地图中。<div class="note"><strong>💡 提示：</strong>这意味着你可以安心刷关键功能图，不用担心迷雾导致地图失效或干扰。</div></li>
+                <li><strong>不稳定裂隙：</strong>稳定后生成的稀有怪物<strong>必定生成</strong>，无论首领<strong>弗鲁恩（Vruun）</strong>是否出现。弗鲁恩改为在所有稀有怪被击杀后才生成。</li>
+                <li><strong>裂隙怪物密度：</strong>现在正确增加怪物数量，且与<strong>怪物群规模（Pack Size）</strong>加法叠加。</li>
+            </ul>
+
+            <h3>召唤法阵（Summoning Circles）体验改善</h3>
+            <ul>
+                <li>描述更清晰，明确包含1个法阵和多个<strong>重启符文（Reactivation Runes）</strong>。</li>
+                <li><strong>新增检查点（Checkpoint）：</strong>法阵旁及远处的重启符文激活后都会创建检查点，方便跑图回溯。</li>
+            </ul>
+        </section>
+
+        <!-- 职业与构筑 -->
+        <section id="player" class="card">
+            <div class="card-header">
+                <div class="card-icon">💎</div>
+                <div>
+                    <div class="card-title">职业与Build构筑（Player Changes）</div>
+                    <div class="card-subtitle">Player Changes</div>
+                </div>
+            </div>
+
+            <p>本次更新大幅提升了<strong>元素系</strong>和<strong>辅助宝石</strong>的通用性，解放了许多流派限制。</p>
+
+            <h3>新增内容与天赋</h3>
+            <ul>
+                <li><strong>新血脉辅助宝石（Lineage Support Gem）：</strong><span class="tag">阿兹里的圣餐 (Atziri's Communion)</span></li>
+                <li><strong>新元素天赋：</strong>在<strong>珠宝插槽</strong>附近新增 <span class="highlight">40个元素天赋技能</span>，主要分布在<strong>女术士/女巫</strong>和<strong>德鲁伊</strong>区域。</li>
+            </ul>
+
+            <h3>元素灌注（Elemental Infusion）体系增强</h3>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>天赋/节点</th>
+                            <th>原数值</th>
+                            <th>新数值</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>赋能灌注（Empowering Infusion）</td>
+                            <td>法术伤害提高 30%</td>
+                            <td class="buff">法术伤害提高 35%</td>
+                        </tr>
+                        <tr>
+                            <td>主导灌注（Principal Infusion）</td>
+                            <td>持续时间延长 20%</td>
+                            <td class="buff">持续时间延长 30%</td>
+                        </tr>
+                        <tr>
+                            <td>小点天赋</td>
+                            <td>法术伤害提高 12%</td>
+                            <td class="buff">法术伤害提高 15%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>辅助宝石去“攻击限定”化（史诗级Buff）</h3>
+            <div class="note">
+                <strong>⚠️ 核心改动：</strong>以下辅助宝石不再仅限攻击技能，法系Build迎来春天！
+            </div>
+            <ul>
+                <li><strong>冰霜/闪电/火焰调谐（Attunement）：</strong>改为“获得25%伤害转化为额外冰霜/闪电/火焰伤害”。</li>
+                <li><strong>冰噬 I / II（Ice Bite）：</strong>冰冻敌人后获得25%/30%额外冰霜伤害，持续5/6秒。</li>
+                <li><strong>激励（Innervate）：</strong>击杀感电（Shocked）敌人后获得25%额外闪电伤害，持续5秒。</li>
+            </ul>
+
+            <h3>升华与专属机制修复</h3>
+            <ul>
+                <li><strong>查尤拉信徒：</strong><span class="tag">查尤拉执政官</span> 技能开启时<span class="buff">不再禁止</span>造成元素伤害。（修复恶性Bug）</li>
+                <li><strong>巫妖：</strong><span class="tag">永恒生命</span> 天赋不再阻止<strong>生命保留</strong>。</li>
+                <li><strong>宝石军团：</strong>修复了<strong>幻影射手</strong>和<strong>火炮弩炮</strong>的<strong>品质</strong>不生效问题；<strong>践踏</strong>特殊效果改为 20% 更多效果区域。</li>
+                <li><strong>符文学者：</strong><span class="tag">尊崇法衣</span> 改为“<strong>能量护盾回复速率</strong>提高10-15%”。</li>
+            </ul>
+        </section>
+
+        <!-- 战斗与符文 -->
+        <section id="combat" class="card">
+            <div class="card-header">
+                <div class="card-icon">⚔️</div>
+                <div>
+                    <div class="card-title">战斗平衡与阿尔杜符文</div>
+                    <div class="card-subtitle">Runes of Aldur & Combat</div>
+                </div>
+            </div>
+
+            <h3>阿尔杜符文体验优化</h3>
+            <ul>
+                <li><strong>潮汐符文（Tidal Rune）：</strong>在残片遭遇中创造的波浪<span class="buff">不再击退玩家</span>！极大改善手感。</li>
+                <li><strong>法罗（Farrow）：</strong>战役中会指引并揭示符文位置；新增关于4本典籍的闲聊选项。</li>
+            </ul>
+
+            <h3>怪物削弱（Nerf）</h3>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>怪物/首领</th>
+                            <th>削弱内容</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>精英深渊怪物</td>
+                            <td>伤害、掉落、经验降低，<span class="nerf">生命值大幅削减</span></td>
+                        </tr>
+                        <tr>
+                            <td>深渊牧羊人（Lightning Tendrils）</td>
+                            <td>伤害降低 <span class="nerf">70% 更少</span></td>
+                        </tr>
+                        <tr>
+                            <td>哈罗诺，血肉雕刻者</td>
+                            <td>伤害降低28%，生命降低20%，重击总伤降低50%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- 通用体验 -->
+        <section id="general" class="card">
+            <div class="card-header">
+                <div class="card-icon">🛠️</div>
+                <div>
+                    <div class="card-title">通用体验与UI改进</div>
+                    <div class="card-subtitle">General Changes</div>
+                </div>
+            </div>
+            <ul>
+                <li><strong>神力（Divinity）：</strong>不足的技能正确变灰。</li>
+                <li><strong>怪物词缀：</strong>超过8个时折叠显示为“...及其他X个词缀”。</li>
+                <li><strong>宝箱标签：</strong>世界标签的关键词需按住<strong>高级描述（默认Alt）</strong>才可交互。</li>
+                <li><strong>手柄玩家：</strong>市场面板新增打开交易网站按钮；搜索结果支持<strong>伪属性</strong>摘要与排序。</li>
+                <li><strong>任务引导：</strong>旅途终点击败哈特林船长后生成回弗蕾亚的传送门。</li>
+            </ul>
+        </section>
+
+        <!-- Bug修复 -->
+        <section id="bugfix" class="card">
+            <div class="card-header">
+                <div class="card-icon">🐛</div>
+                <div>
+                    <div class="card-title">重点Bug修复摘要</div>
+                    <div class="card-subtitle">Bug Fixes</div>
+                </div>
+            </div>
+            <ul>
+                <li><strong>奥尔罗斯的决心（药剂）：</strong>效果改为“持续期间每秒再生2.5-5%最大<strong>符文结界</strong>；效果结束时获得等于当前符文结界的<strong>护体</strong>，持续10秒”。</li>
+                <li><strong>石拳（手套）：</strong>修复“攻击伤害转为额外物理伤”词缀必须同时有“转闪电伤”才生效的Bug。</li>
+                <li><strong>法术图腾：</strong>修复“每个耐力球消耗提供更多图腾生命”词缀双倍生效的问题。</li>
+                <li><strong>幻影射手：</strong>修复使用持续吟唱弓技能（如狙击、爆炸箭矢）时的索敌Bug。</li>
+                <li><strong>交易货币：</strong>暗影呼唤残片和起源残片现已加入<strong>通货交易所</strong>。</li>
+            </ul>
+        </section>
+
+        <!-- 资深点评 -->
+        <section id="review" class="card">
+            <div class="card-header">
+                <div class="card-icon">💡</div>
+                <div>
+                    <div class="card-title">资深玩家点评与建议</div>
+                    <div class="card-subtitle">Pro Player Insights</div>
+                </div>
+            </div>
+
+            <div class="review-grid">
+                <div class="review-item">
+                    <h4>🔥 法系元素流崛起</h4>
+                    <p>冰霜/闪电/火焰调谐以及冰噬/激励解除攻击限制，是本次补丁最大的红利。配合新增的40个元素天赋和元素灌注体系增强，女术士和女巫的纯法术流派将迎来一波强势期。</p>
+                </div>
+                <div class="review-item">
+                    <h4>⚡ 终局节奏加快</h4>
+                    <p>裂隙稀有怪必出+弗鲁恩后置，意味着你可以更高效地清理裂隙收益；深渊精英怪血量大砍，刷深渊图将不再“坐牢”。</p>
+                </div>
+                <div class="review-item">
+                    <h4>🛠️ QoL（生活质量）质变</h4>
+                    <p>潮汐符文不击退、召唤法阵加检查点、迷惘迷雾不进功能图，这些改动虽不加数值，但能显著减少每日刷图的烦躁感。</p>
+                </div>
+                <div class="review-item">
+                    <h4>⚠️ 注意洗点与检查</h4>
+                    <p>由于异界天赋树新增24点且旧图补发，加上查尤拉信徒升华的重大修复，建议上线后第一时间检查异界天赋分配和升华状态，可能需要重置以适配新版本。</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        // 简单的滚动高亮逻辑
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('.nav-list a');
+
+        window.addEventListener('scroll', () => {
+            let current = '';
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                if (pageYOffset >= sectionTop - 100) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href').substring(1) === current) {
+                    link.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
